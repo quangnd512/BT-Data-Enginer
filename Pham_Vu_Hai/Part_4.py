@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import jsonlines
+import html2text
 
 url = 'https://tuyensinhso.vn/dai-hoc-hoc-vien-theo-khoi.html'
 
@@ -32,11 +33,36 @@ with jsonlines.open(output_file, mode='w') as writer:
         content_element = soup.find("div", class_="detail-content")
         if title_element and content_element:
             title = title_element.text
-            content = content_element.text.replace('\n', '')
-            writer.write({'title': title, 
-                          'content': content, 
-                          'url': link})
-
+            content = content_element.encode_contents().decode()  # Get HTML content as string
+            converter = html2text.HTML2Text()
+            converter.body_width = 0  # Preserve line breaks
+            markdown_content = converter.handle(content)
+            writer.write({'title': title,
+                            'content': markdown_content,
+                            'url': link})
+            
 print("Data saved to", output_file)
+print("----------------------------------------------------------------")
+            
+# Load the JSON lines file and convert content to readable markdown format
+markdown_data = []
+with jsonlines.open(output_file) as file:
+    for line in file.iter():
+        title = line['title']
+        content = line['content']
+        url = line['url']
+        markdown = f"## {title}\n\n{content}\n\n[Source]({url})\n"
+        markdown_data.append(markdown)
+
+# Join all markdown data into a single string
+markdown_output = "\n".join(markdown_data)
+
+# Save the markdown output to a new file
+output_markdown_file = 'output_4.md'
+with open(output_markdown_file, 'w', encoding='utf-8') as file:
+    file.write(markdown_output)
+
+print("Data saved to", output_markdown_file)
+print("-----------------------------------------")
 
 
