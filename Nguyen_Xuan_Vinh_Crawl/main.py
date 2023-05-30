@@ -2,6 +2,24 @@ import requests
 from bs4 import BeautifulSoup
 import jsonlines
 
+# hello = requests.get('https://oto.com.vn/mua-ban-xe-cu-da-qua-su-dung')
+# soup = BeautifulSoup(hello.content, "html.parser")
+# links = soup.select('.box-list-car > .item-car > .photo > a')
+# for link in links:
+#     print(link['href'])
+
+# hello = 'https://tuyensinhso.vn/khu-vuc/khu-vuc-da-nang-c'
+# carLinks = []
+
+# for i in range(11798,11800,2):
+#     bonjour = requests.get(hello + str(i))
+#     soup = BeautifulSoup(bonjour.content, "html.parser")
+#     links = soup.select('.tabledata > tbody > tr > td > a')
+
+#     for link in links:
+#         carLinks.append(link['href'])
+
+# print(carLinks)
 url = 'https://tuyensinhso.vn/dai-hoc-hoc-vien.html'
 
 def get_link(url):

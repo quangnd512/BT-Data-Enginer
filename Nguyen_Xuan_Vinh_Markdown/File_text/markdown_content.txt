@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" property="fb:pages"/>
+<meta content="enable=true ad_density=default" property="fb:use_automatic_ad_placement">
+<meta content="max-snippet:20, max-image-preview:large" name="robots"/>
+<meta content="YhsHP9Klx-YCfc9erCVstX5MRiAF_GhXatpzBE0doLw" name="google-site-verification"/>
+<meta content="OGhzOTNqS2k3Skw0YVlyVnJLcGRyQT090" name="dmca-site-verification"/>
+<meta content="Thông Tin Tuyển Sinh 2023" name="keywords"/>
+<meta content="Cung cấp thông tin tuyển sinh, tra cứu điểm thi, điểm chuẩn năm 2023 và các năm trước của các đại học cao đẳng trên toàn quốc." name="description">
+<title>Tuyển Sinh Số | Thông Tin Tuyển Sinh 2023</title>
+<link href="https://tuyensinhso.vn/images/favicons/favicon-site-34-1540545259.png?v=1.0" rel="shortcut icon" type="image/x-icon"/>
+<meta content="511065459445284" property="fb:app_id">
+<meta content="index, follow" name="robots">
+<meta content="Tuyển Sinh Số | Thông Tin Tuyển Sinh 2023" property="og:title"/>
+<meta content="Cung cấp thông tin tuyển sinh, tra cứu điểm thi, điểm chuẩn năm 2023 và các năm trước của các đại học cao đẳng trên toàn quốc." property="og:description"/>
+<meta content="https://tuyensinhso.vn/" property="og:url"/>
+<meta content="index" property="og:type"/>
+<meta content="https://tuyensinhso.vn/images/logos/logo-site-34-1540545259.png" itemprop="thumbnailUrl" property="og:image"/>
+<meta content="600" property="og:image:width"/>
+<meta content="400" property="og:image:height"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" value="summary"/>
+<meta content="https://tuyensinhso.vn/" name="twitter:url"/>
+<meta content="Tuyển Sinh Số | Thông Tin Tuyển Sinh 2023" name="twitter:title"/>
+<meta content="Cung cấp thông tin tuyển sinh, tra cứu điểm thi, điểm chuẩn năm 2023 và các năm trước của các đại học cao đẳng trên toàn quốc." name="twitter:description"/>
+<meta content="@tuyensinhso.vn" name="twitter:site"/>
+<meta content="@Tuyển Sinh Số - Thông Tin Tuyển Sinh 2023" name="twitter:creator"/>
+<meta content="https://tuyensinhso.vn/images/logos/logo-site-34-1540545259.png" name="twitter:image"/>
+<!-- End Twitter Card -->
+<link href="https://tuyensinhso.vn/" rel="canonical"/>
+<link href="https://tuyensinhso.vn/" hreflang="vi-vn" rel="alternate"/>
+<link href="https://tuyensinhso.vn/" media="handheld" rel="alternate"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet"/>
+<link href="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/css/style.css?version=3.47" rel="stylesheet" type="text/css"/>
+<link href="https://tuyensinhso.vn/templates/font-awesome-4.7.0/css/font-awesome.min.css?v=1.0" rel="stylesheet" type="text/css">
+<link crossorigin="anonymous" href="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/css/all.css?v=1.0" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" rel="stylesheet"/>
+<script src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/js/jquery-1.10.2.js?v=1.0" type="text/javascript"></script>
+<script src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/js/jquery.bxslider.min.js?v=1.0" type="text/javascript"></script>
+<script src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/js/script.js?version=1.0" type="text/javascript"></script>
+<meta content="vxqssl704g7nfyhbq8i666miz001rs" name="facebook-domain-verification"/>
+<script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
+<script type="text/javascript">
+        var url_root = 'https://tuyensinhso.vn/';
+        var page = 'index';
+        var nameCompay = 'Tuyển Sinh Số - Thông Tin Tuyển Sinh 2023';
+        var nameDomain = 'tuyensinhso.vn';
+        var gaId = 'UA-131740288-1';
+        var googletagmanagerId = 'GTM-T74HL7G';
+        var settingDomainAllow = ["caodangyduochcm.vn","tailieuso.com.vn","diemthi.tuyensinhso.vn","tuyensinhso.com","kyucthoidai.com","caodangyduochochiminh.vn","caodangyduocsaigon.com","caodangykhoaphamngocthach.com","caodangquoctesaigon.vn","tuyensinhso.vn"];
+        var settingSite = {"setting_id":"67","setting_email":"tuyensinhso.com@gmail.com","setting_master_email":"ngockv@gmail.com","site_phone":"0978686055","setting_ios_app_id":"","setting_google_play_app_id":"","setting_url_app_ios":"","setting_url_app_android":"","logo":"https:\/\/tuyensinhso.vn\/images\/logos\/logo-site-34-1540545259.png","logo_w":296,"logo_h":78,"setting_slogan":"C\u1ed4NG TH\u00d4NG TIN TUY\u1ec2N SINH \u0110\u1ea0I H\u1eccC, CAO \u0110\u1eb2NG L\u1edaN NH\u1ea4T VI\u1ec6T NAM","favicon":"https:\/\/tuyensinhso.vn\/images\/favicons\/favicon-site-34-1540545259.png","thumbnail":"https:\/\/tuyensinhso.vn\/images\/logos\/logo-site-34-1540545259.png","thumbnail_w":296,"thumbnail_h":78,"site_register_date":"2023-03-15 00:00:00","setting_support_name":"Ki\u1ec1u V\u0103n Ng\u1ecdc","setting_support_skype":"kieu.van.ngoc","setting_support_yahoo":"kieuvanngoc105","setting_support_phone":"0988.094.374","setting_support_email":"info.zamashop@gmail.com","setting_support_name2":null,"setting_support_skype2":null,"setting_support_yahoo2":null,"setting_support_phone2":null,"setting_support_email2":null,"setting_support_name3":null,"setting_support_skype3":null,"setting_support_yahoo3":null,"setting_support_phone3":null,"setting_support_email3":null,"setting_support_name4":null,"setting_support_skype4":null,"setting_support_yahoo4":null,"setting_support_phone4":null,"setting_support_email4":null,"setting_support_name5":null,"setting_support_skype5":null,"setting_support_yahoo5":null,"setting_support_phone5":null,"setting_support_email5":null,"setting_show_logo_to_image":0,"setting_hotline":"0889964368","setting_domain":"tuyensinhso.vn","setting_author":"Tr\u1ea7n L\u00e2m","setting_tag_limit":"7","setting_box_limit":"7","setting_list_limit":"50","setting_ga_id":"UA-131740288-1","setting_ga_profile_id":"","setting_google_site_verification":"YhsHP9Klx-YCfc9erCVstX5MRiAF_GhXatpzBE0doLw","setting_dmca_site_verification":"OGhzOTNqS2k3Skw0YVlyVnJLcGRyQT090","setting_google_tag_manager":"GTM-T74HL7G","setting_google_search_cse":"","setting_google_key_api":"AIzaSyApuxjsEB2rsppXPwN2vEdgslmftmLPagk","setting_map_api":"","setting_map_lat":"21.01797","setting_map_long":"105.7880944","setting_yandex_metrica_id":"","setting_showroom_partner_basic":"1","setting_multi_country":0,"setting_show_facebook":"1","setting_facebook":"https:\/\/www.facebook.com\/tuyensinhso","setting_facebook_name":"M%E1%BA%A1ng-gi%C3%A1o-d%E1%BB%A5c-tr%E1%BB%B1c-tuy%E1%BA%BFn-Enetviet-1746970022200783","setting_twitter":"https:\/\/twitter.com\/tuyensinhso","setting_youtube":"https:\/\/www.youtube.com\/@tuyensinhso5612","setting_google_plus":"https:\/\/www.facebook.com\/Tailieuso\/","setting_url_social":false,"setting_face_app_id":"511065459445284","facebook_likebox_width":null,"facebook_likebox_height":null,"facebook_comment_width":"600","facebook_comment_numberrow":"20","facebook_chat_page_id":null,"facebook_chat_color":null,"facebook_chat_message":null,"setting_show_zalo":0,"setting_zalo_id":"","setting_title_web":"Tuy\u1ec3n Sinh S\u1ed1","setting_only_title_web":"Cao \u0111\u1eb3ng y d\u01b0\u1ee3c HCM - Tuy\u1ec3n sinh tr\u1ef1c tuy\u1ebfn 2018","setting_show_domain_replace_title":0,"setting_title_first":"1","setting_metatitle_web":"Tuy\u1ec3n Sinh S\u1ed1 | Th\u00f4ng Tin Tuy\u1ec3n Sinh 2023","setting_keyword_web":"Th\u00f4ng Tin Tuy\u1ec3n Sinh 2023","setting_description_web":"Cung c\u1ea5p th\u00f4ng tin tuy\u1ec3n sinh, tra c\u1ee9u \u0111i\u1ec3m thi, \u0111i\u1ec3m chu\u1ea9n n\u0103m 2023 v\u00e0 c\u00e1c n\u0103m tr\u01b0\u1edbc c\u1ee7a c\u00e1c \u0111\u1ea1i h\u1ecdc cao \u0111\u1eb3ng tr\u00ean to\u00e0n qu\u1ed1c.","setting_domain_exclude":["caodangyduochcm.vn","tailieuso.com.vn","diemthi.tuyensinhso.vn","tuyensinhso.com","kyucthoidai.com","caodangyduochochiminh.vn","caodangyduocsaigon.com","caodangykhoaphamngocthach.com","caodangquoctesaigon.vn","tuyensinhso.vn"],"setting_domain_exclude_json":"[\"caodangyduochcm.vn\",\"tailieuso.com.vn\",\"diemthi.tuyensinhso.vn\",\"tuyensinhso.com\",\"kyucthoidai.com\",\"caodangyduochochiminh.vn\",\"caodangyduocsaigon.com\",\"caodangykhoaphamngocthach.com\",\"caodangquoctesaigon.vn\",\"tuyensinhso.vn\"]","setting_robot_index":"1","setting_sitemap_update":"2023-04-26 14:42:40","setting_save_log":false,"setting_page_user":0,"setting_auto_submit_dmca":"1","setting_url_compact_seo":false,"setting_auto_submit_seo":false,"setting_auto_keyword_born":false,"setting_mobile_amp":false,"setting_facebook_instant_article":false,"setting_facebook_pages":"","setting_facebook_placement":"","setting_sitemap_saveDB":false,"setting_sitemap_share":"1","setting_company":"Tuy\u1ec3n Sinh S\u1ed1 - Th\u00f4ng Tin Tuy\u1ec3n Sinh 2023","setting_company_address":"","setting_company_address_locality":"","setting_company_address_country":"","setting_company_address_region":"","setting_company_address_postalCode":"","setting_company_description":"","setting_company_googlemap":"","setting_mobile_crm":"","setting_company_latitude":"","setting_company_longitude":"","setting_company_urlTempalte":"","setting_url_redirect":false,"setting_url_replace":false,"setting_seo_name":"","setting_seo_job_title":"","setting_seo_avatar":"","setting_seo_url_sameas":"","setting_seo_alumni_of":"","setting_seo_address_locality":"","setting_seo_address_region":"","setting_ads_facebook_code":"<!\u2014 Facebook Pixel Code \u2014>\r\n<script>\r\n  !function(f,b,e,v,n,t,s)\r\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\r\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\r\n  n.queue=[];t=b.createElement(e);t.async=!0;\r\n  t.src=v;s=b.getElementsByTagName(e)[0];\r\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\r\n  'https:\/\/connect.facebook.net\/en_US\/fbevents.js');\r\n  fbq('init', '2367968933233766');\r\n  fbq('track', 'PageView');\r\n<\/script>\r\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\r\n  src=\"https:\/\/www.facebook.com\/tr?id=2367968933233766&ev=PageView&noscript=1\"\r\n\/><\/noscript>\r\n<!\u2014 End Facebook Pixel Code \u2014>","setting_ads_google_code":"<!-- Google Code d\u00e0nh cho Th\u1ebb ti\u1ebfp th\u1ecb l\u1ea1i -->\r\n<!--------------------------------------------------\r\nKh\u00f4ng th\u1ec3 li\u00ean k\u1ebft th\u1ebb ti\u1ebfp th\u1ecb l\u1ea1i v\u1edbi th\u00f4ng tin nh\u1eadn d\u1ea1ng c\u00e1 nh\u00e2n hay \u0111\u1eb7t th\u1ebb ti\u1ebfp th\u1ecb l\u1ea1i tr\u00ean c\u00e1c trang c\u00f3 li\u00ean quan \u0111\u1ebfn danh m\u1ee5c nh\u1ea1y c\u1ea3m. Xem th\u00eam th\u00f4ng tin v\u00e0 h\u01b0\u1edbng d\u1eabn v\u1ec1 c\u00e1ch thi\u1ebft l\u1eadp th\u1ebb tr\u00ean: http:\/\/google.com\/ads\/remarketingsetup\r\n--------------------------------------------------->\r\n<script type=\"text\/javascript\">\r\n\/* <![CDATA[ *\/\r\nvar google_conversion_id = 893061551;\r\nvar google_custom_params = window.google_tag_params;\r\nvar google_remarketing_only = true;\r\n\/* ]]> *\/\r\n<\/script>\r\n<script type=\"text\/javascript\" src=\"\/\/www.googleadservices.com\/pagead\/conversion.js\">\r\n<\/script>\r\n<noscript>\r\n<div style=\"display:inline;\">\r\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/893061551\/?guid=ON&amp;script=0\"\/>\r\n<\/div>\r\n<\/noscript>","setting_product_color":0,"setting_product_size":0,"setting_product_size_number":0,"setting_image_in_content":"","setting_show_introtext":0,"setting_show_image_detail":0,"setting_process_fulltext":0,"setting_set_font_default":0,"setting_comment":0,"setting_tag_position":"","setting_include_wordpress":0,"setting_include_wordpress_team":0,"use_resize_image":"1","use_resize_image_product":0,"resize_image_tiny":60,"resize_image_tiny_height":0,"resize_image_min":150,"resize_image_min_height":0,"resize_image_normal":230,"resize_image_normal_height":0,"resize_image_max":690,"resize_image_max_height":0,"resize_news_image_tiny":"180","resize_news_image_tiny_height":"120","resize_news_image_thumbnail":"300","resize_news_image_thumbnail_height":"200","resize_news_image_normal":"420","resize_news_image_normal_height":"280","resize_news_image_large":"600","resize_news_image_large_height":"400","resize_mobile_image_width":380,"resize_mobile_image_height":380,"resize_mobile_news_image_width":380,"resize_mobile_news_image_height":380,"setting_signature_on":"1","setting_signature_text":"","mail_type":"smtp","mail_smtpport":25,"mail_smtphost":"mail.evara.vn","mail_smtpuser":"noreply@evara.vn","mail_smtppass":"123$%^qwe","gmail_smtpuser":"info.zamashop@gmail.com","gmail_smtppass":"zamalovely!@#","site_group":"1","site_template_color":false,"setting_update_newdate":"1","setting_data_schema":"1","setting_schema_customize":"","setting_admin_edit_fast":false,"setting_use_location":false,"setting_tab_data":false,"setting_show_admin_created":false,"setting_cache_on":"1","setting_cache_time":"60","site_access":["2","6"],"setting_global_modules":{"2":["content_new.php"]},"setting_module_access":{"tuyensinhso":{"module_code":"tuyensinhso","module_title":"Tuy\u1ec3n sinh s\u1ed1","module_description":"Tra c\u1ee9u th\u00f4ng tin c\u00e1c tr\u01b0\u1eddng tuy\u1ec3n sinh to\u00e0n qu\u1ed1c"}},"setting_design_page":{"index":[{"page_name":"index","module_name":"content_box_style_tab_categories","extension":"php","directory":"contents"},{"page_name":"index","module_name":"content_category_sub_level","extension":"php","directory":"contents"}]},"site_group_student_show":"0","setting_include_file":{"2":"news.php"}};
+    </script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-131740288-1"></script>
+<script>
+        if ( gaId ) {
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+            gtag('config', gaId);
+        }
+    </script>
+<script>
+        if ( googletagmanagerId ) {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', googletagmanagerId);
+        }
+    </script>
+<script type="application/ld+json">
+        {"@context":"http:\/\/schema.org","@type":"Professionalservice","@id":"https:\/\/tuyensinhso.vn\/","url":"https:\/\/tuyensinhso.vn\/","logo":"https:\/\/tuyensinhso.vn\/images\/logos\/logo-site-34-1540545259.png","image":"https:\/\/tuyensinhso.vn\/images\/logos\/logo-site-34-1540545259.png","priceRange":"25$-35$","hasMap":"","email":"mailto:tuyensinhso.com@gmail.com","founder":"Tr\u1ea7n L\u00e2m","address":{"@type":"PostalAddress","addressLocality":"","addressCountry":"","addressRegion":"","postalCode":"","streetAddress":""},"description":"","name":"Tuy\u1ec3n Sinh S\u1ed1 - Th\u00f4ng Tin Tuy\u1ec3n Sinh 2023","telephone":"0889964368","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"06:30","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Saturday"],"opens":"8:30","closes":"17:30"}],"geo":{"@type":"GeoCoordinates","latitude":"","longitude":""},"potentialAction":{"@type":"ReserveAction","target":{"@type":"EntryPoint","urlTemplate":"","inLanguage":"vn","actionPlatform":["http:\/\/schema.org\/DesktopWebPlatform","http:\/\/schema.org\/IOSPlatform","http:\/\/schema.org\/AndroidPlatform"]},"result":{"@type":"Reservation","name":"\u0110\u0103ng k\u00fd"}},"sameAs":""}
+    </script>
+<script type="application/ld+json">
+        {"@context":"http:\/\/schema.org","@type":"Person","name":"","jobTitle":"","image":"","worksFor":"Tuy\u1ec3n Sinh S\u1ed1 - Th\u00f4ng Tin Tuy\u1ec3n Sinh 2023","url":"https:\/\/tuyensinhso.vn\/","sameAs":"","AlumniOf":"","address":{"@type":"PostalAddress","addressLocality":"","addressRegion":""}}
+    </script>
+<!--— Facebook Pixel Code —-->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2367968933233766');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=2367968933233766&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!--— End Facebook Pixel Code —-->
+<!-- Bắt đầu Dable Script / Xin liên hệ http://dable.io -->
+<!-- Kết thúc Dable Script / Xin liên hệ http://dable.io -->
+<script src="//www.googleadservices.com/pagead/conversion.js?v=1.0" type="text/javascript"></script>
+<script src="https://tuyensinhso.vn/templates/js/seo_follow.js?v=1.15" type="text/javascript"></script><script src="https://tuyensinhso.vn/templates/js/check_image.js?v=1.12" type="text/javascript"></script>
+</link></meta></meta></meta></meta></head>
+<body>
+<div id="fb-root"></div>
+<script>
+		var appFaceId = 511065459445284;
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8&appId=" + appFaceId;
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-T74HL7G');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T74HL7G" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Code dành cho Thẻ tiếp thị lại -->
+<!--------------------------------------------------
+Không thể liên kết thẻ tiếp thị lại với thông tin nhận dạng cá nhân hay đặt thẻ tiếp thị lại trên các trang có liên quan đến danh mục nhạy cảm. Xem thêm thông tin và hướng dẫn về cách thiết lập thẻ trên: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 893061551;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/893061551/?guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<link href="https://tuyensinhso.vn/templates/css/popup.css?1.11" rel="stylesheet" type="text/css"/>
+<link href="https://tuyensinhso.vn/templates/commons/infusion2019/css/style_form_tyensinhso.css?version=1.0" rel="stylesheet" type="text/css"/>
+<script src="https://tuyensinhso.vn/templates/js/popup.users.js" type="text/javascript"></script>
+<script src="https://tuyensinhso.vn/templates/commons/infusion2019/js/nk.popup.infusion.js?v=2.10" type="text/javascript"></script><div class="container">
+<!--Header-->
+<div class="container-header">
+<div class="header">
+<a href="https://tuyensinhso.vn/">
+<img class="float_left logo-pc" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/logo.png?v=1.0"/>
+<img class="float_left logo-m" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/logo-white.png?v=1.0"/>
+</a>
+<div class="hotline_info">
+<b>CỔNG THÔNG TIN TUYỂN SINH ĐẠI HỌC, CAO ĐẲNG LỚN NHẤT VIỆT NAM</b>
+</div>
+</div>
+<div class="menu">
+<div class="button_menu">
+<div id="menu1"></div>
+<div id="menu2"></div>
+<div id="menu3"></div>
+</div>
+<ul class="list_menu">
+<li class="">
+<a href="https://tuyensinhso.vn/">Home</a>
+</li>
+<li class="">
+<a href="https://tuyensinhso.vn/dai-hoc-hoc-vien.html">Đại Học</a>
+</li>
+<li class="">
+<a href="https://tuyensinhso.vn/cao-dang.html">Cao Đẳng</a>
+</li>
+<li class="">
+<a href="https://tuyensinhso.vn/nhom-nganh-dao-tao.html">Ngành Nghề</a>
+</li>
+<li class="sub_menu">
+<a href="https://tuyensinhso.vn/khoi-thi-dai-hoc.html">Khối thi Đại Học <i class="fas fa-caret-right"></i></a>
+<ul class="child_menu">
+<li>
+<a href="https://tuyensinhso.vn/dai-hoc-hoc-vien-theo-khoi.html" title="Đh - Hv theo khối"><i class="fas fa-circle"></i> Đh - Hv theo khối</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://tuyensinhso.vn/diem-chuan.html">Điểm Chuẩn</a>
+</li>
+<li class="">
+<a href="https://tuyensinhso.vn/c2832/de-thi-dap-an.html">Đề thi -  Đáp án</a>
+</li>
+<li class="sub_menu">
+<a href="https://tuyensinhso.vn/ban-tin.html">Bản tin <i class="fas fa-caret-right"></i></a>
+<ul class="child_menu">
+<li>
+<a href="https://tuyensinhso.vn/bi-kip-on-thi.html" title="Bí Kíp Ôn Thi"><i class="fas fa-circle"></i> Bí Kíp Ôn Thi</a>
+</li>
+<li>
+<a href="https://tuyensinhso.vn/tuyen-sinh-247.html" title="Tin Tuyển Sinh"><i class="fas fa-circle"></i> Tin Tuyển Sinh</a>
+</li>
+<li>
+<a href="https://tuyensinhso.vn/huong-nghiep.html" title="Hướng Nghiệp"><i class="fas fa-circle"></i> Hướng Nghiệp</a>
+</li>
+<li>
+<a href="https://tuyensinhso.vn/goc-sinh-vien.html" title="Góc Sinh Viên"><i class="fas fa-circle"></i> Góc Sinh Viên</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!--End Header--> <div class="box_slide box_search">
+<h2>Tìm trường học mơ ước của bạn</h2>
+<form action="https://tuyensinhso.vn/tim-kiem.html" method="post">
+<input name="keyword" placeholder="Nhập tên trường mà bạn muốn học..." type="text"/>
+<button name="submit" type="submit">Tìm kiếm</button>
+<input name="task" type="hidden" value="search_school"/>
+</form>
+</div><div class="container-content">
+<!--Left-->
+<div class="detail-left">
+<div class="left_box">
+<div class="left_box_title">
+<i class="fas fa-file-invoice"></i>
+<a href="https://tuyensinhso.vn/tuyen-sinh-247.html">Tin tuyển sinh 2023</a>
+</div>
+<ul class="menu-nganh">
+<li class="active" data-id="content-tab3067" href="javascript:void(0)">
+<a href="javascript:void(0)">Tin Mới</a>
+</li>
+<li data-id="content-tab3063" href="javascript:void(0)">
+<a href="javascript:void(0)">Góc Sinh Viên</a>
+</li>
+</ul>
+<div class="list-news list-news-tab active" id="content-tab3067">
+<a href="https://tuyensinhso.vn/tin-moi/chuyen-gia-luu-y-thi-sinh-chon-nganh-hot-dai-hoc-ngoai-thuong-2023-c63477.html">
+<img alt="Chuyên gia lưu ý thí sinh chọn ngành hot Đại học Ngoại thương 2023" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-chuyen-gia-luu-y-thi-sinh-chon-nganh-hot-dai-hoc-ngoai-thuong-2023-1685331987.jpg&amp;h=200&amp;w=300"/>
+<b>Chuyên gia lưu ý thí sinh chọn ngành hot Đại học Ngoại thương 2023</b>
+<span><i class="far fa-clock"></i> <i>10:46 29/05/2023</i></span>
+<span class="no-display-mobile">PGS.TS Vũ Thị Hiền - Trưởng phòng Đào tạo trường Đại học Ngoại thương đã chia sẻ về những điểm mới trong công tác tuyển sinh năm 2023 cũng như đưa ra một vài lời khuyên cho các thí sinh khi muốn...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/loi-khuyen-tu-ba-me-co-con-tuyen-thang-vao-dh-ngoai-thuong-neu-muon-con-do-dh-top-dau-c60930.html">
+<img alt="Lời khuyên từ bà mẹ có con tuyển thẳng vào ĐH Ngoại thương, nếu muốn con đỗ ĐH top đầu" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-loi-khuyen-tu-ba-me-co-con-tuyen-thang-vao-dh-ngoai-thuong-neu-muon-con-do-dh-top-dau-1642484307.jpg&amp;h=200&amp;w=300"/>
+<b>Lời khuyên từ bà mẹ có con tuyển thẳng vào ĐH Ngoại thương, nếu muốn con đỗ ĐH top đầu</b>
+<span><i class="far fa-clock"></i> <i>12:38 18/01/2022</i></span>
+<span class="no-display-mobile">Phụ huynh có con khóa 2K5, 2K6 cần rút kinh nghiệm để đồng hành, tư vấn cùng con trong việc đặt nguyện vọng, chọn ngành, chọn trường.</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/bo-90-de-thi-thu-tot-nghiep-thpt-2023-mon-hoa-hoc-cua-cac-truong-tren-ca-nuoc-co-dap-an-c63412.html">
+<img alt="Bộ 90+ đề thi thử tốt nghiệp THPT 2023 môn Hóa học của các trường trên cả nước (có đáp án)" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-bo-90-de-thi-thu-tot-nghiep-thpt-2023-mon-hoa-hoc-cua-cac-truong-tren-ca-nuoc-co-dap-an-1683706117.jpg&amp;h=200&amp;w=300"/>
+<b>Bộ 90+ đề thi thử tốt nghiệp THPT 2023 môn Hóa học của các trường trên cả nước (có đáp án)</b>
+<span><i class="far fa-clock"></i> <i>15:08 10/05/2023</i></span>
+<span class="no-display-mobile">Tuyển sinh số xin gửi tới các thí sinh tuyển tập đề thi thử tốt nghiệp THPT 2023 môn Hóa học của các trường THPT trên cả nước dưới đây để luyện tập chuẩn bị cho kỳ thi...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/dap-an-mon-dia-ly-ky-thi-tot-nghiep-thpt-nam-2022-day-du-24-ma-de-tham-khao-c61795.html">
+<img alt="Đáp án môn Địa Lý kỳ thi Tốt nghiệp THPT năm 2022 đầy đủ 24 mã đề (Tham khảo)" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-dap-an-mon-dia-ly-ky-thi-tot-nghiep-thpt-nam-2022-day-du-24-ma-de-tham-khao-1657248293.jpg&amp;h=200&amp;w=300"/>
+<b>Đáp án môn Địa Lý kỳ thi Tốt nghiệp THPT năm 2022 đầy đủ 24 mã đề (Tham khảo)</b>
+<span><i class="far fa-clock"></i> <i>09:44 08/07/2022</i></span>
+<span class="no-display-mobile">Tuyển Sinh Số cập nhật đáp án môn Địa Lý kỳ thi Tốt nghiệp THPT năm 2022 tham khảo đầy dủ 24 mã đề liên tục và sớm nhất</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/dap-an-mon-tieng-anh-ky-thi-tot-nghiep-thpt-nam-2022-day-du-24-ma-de-tham-khao-c61797.html">
+<img alt="Đáp án môn Tiếng Anh kỳ thi Tốt nghiệp THPT năm 2022 đầy đủ 24 mã đề (Tham khảo)" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-dap-an-mon-tieng-anh-ky-thi-tot-nghiep-thpt-nam-2022-day-du-24-ma-de-tham-khao-1657259288.jpg&amp;h=200&amp;w=300"/>
+<b>Đáp án môn Tiếng Anh kỳ thi Tốt nghiệp THPT năm 2022 đầy đủ 24 mã đề (Tham khảo)</b>
+<span><i class="far fa-clock"></i> <i>12:48 08/07/2022</i></span>
+<span class="no-display-mobile">Tuyển Sinh Số cập nhật Đáp án môn tiếng Anh kỳ thi THPT 2022 tham khảo đầy đủ 24 mã đề gửi đến các em và phụ huynh cùng tham khảo</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/1000-cau-trac-nghiem-tieng-anh-cuc-kho-muc-tieu-9-on-thi-tot-nghiep-thpt-co-dap-an-c60974.html">
+<img alt="1000 câu trắc nghiệm Tiếng Anh siêu khó, mục tiêu 9+ ôn thi tốt nghiệp THPT (có đáp án)" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-1000-cau-trac-nghiem-tieng-anh-cuc-kho-muc-tieu-9-on-thi-tot-nghiep-thpt-co-dap-an-1643342100.jpg&amp;h=200&amp;w=300"/>
+<b>1000 câu trắc nghiệm Tiếng Anh siêu khó, mục tiêu 9+ ôn thi tốt nghiệp THPT (có đáp án)</b>
+<span><i class="far fa-clock"></i> <i>10:55 28/01/2022</i></span>
+<span class="no-display-mobile">Tuyển sinh số xin gửi tới các thí sinh tài liệu ôn thi Tiếng Anh nhằm mục tiêu 9+ dưới đây để tham khảo, chuẩn bị cho kỳ thi tốt nghiệp THPT 2023 sắp...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/5-luu-y-truoc-khi-dang-ky-du-thi-tot-nghiep-thpt-2023-truc-tuyen-c63376.html">
+<img alt="5 lưu ý trước khi đăng ký dự thi tốt nghiệp THPT 2023 trực tuyến" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-5-luu-y-truoc-khi-dang-ky-du-thi-tot-nghiep-thpt-2023-truc-tuyen-1683085446.jpg&amp;h=200&amp;w=300"/>
+<b>5 lưu ý trước khi đăng ký dự thi tốt nghiệp THPT 2023 trực tuyến</b>
+<span><i class="far fa-clock"></i> <i>10:32 03/05/2023</i></span>
+<span class="no-display-mobile">Từ ngày 4/5, thí sinh trên cả nước bao gồm thí sinh lớp 12 và cả thí sinh tự do thi lại sẽ tiến hành đăng ký dự thi tốt nghiệp THPT 2023.&nbsp;</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab3063">
+<a href="https://tuyensinhso.vn/tin-moi/dh-quoc-gia-ha-noi-cho-phep-sinh-vien-chuyen-nganh-hoc-sau-nam-nhat-c62466.html">
+<img alt="ĐH Quốc gia Hà Nội cho phép sinh viên chuyển ngành học sau năm nhất" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-dh-quoc-gia-ha-noi-cho-phep-sinh-vien-chuyen-nganh-hoc-sau-nam-nhat-1670898789.jpg&amp;h=200&amp;w=300"/>
+<b>ĐH Quốc gia Hà Nội cho phép sinh viên chuyển ngành học sau năm nhất</b>
+<span><i class="far fa-clock"></i> <i>09:33 13/12/2022</i></span>
+<span class="no-display-mobile">Quy chế về đào tạo bậc đại học tại ĐH Quốc gia Hà Nội (ĐH Quốc gia HN) vừa ban hành có nhiều điểm mới đáng chú ý.&nbsp;</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/6-ngoi-truong-thpt-chuyen-noi-danh-o-viet-nam-c62421.html">
+<img alt="6 ngôi trường THPT chuyên nổi danh ở Việt Nam" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-6-ngoi-truong-thpt-chuyen-noi-danh-o-viet-nam-1669974381.jpg&amp;h=200&amp;w=300"/>
+<b>6 ngôi trường THPT chuyên nổi danh ở Việt Nam</b>
+<span><i class="far fa-clock"></i> <i>16:46 02/12/2022</i></span>
+<span class="no-display-mobile">Ở Việt Nam có nhiều trường THPT chuyên nổi tiếng bởi bề dày lịch sử cũng như thành tích học tập. Cùng Tuyển sinh số tìm hiểu nào!</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/thu-khoa-dh-bach-khoa-tphcm-chuong-trinh-hoc-vua-suc-khong-qua-nhieu-ap-luc-c62361.html">
+<img alt="Thủ khoa đầu ra ĐH Bách khoa TP.HCM: Chương trình học vừa sức, không quá nhiều áp lực" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-thu-khoa-dh-bach-khoa-tphcm-chuong-trinh-hoc-vua-suc-khong-qua-nhieu-ap-luc-1669009659.jpg&amp;h=200&amp;w=300"/>
+<b>Thủ khoa đầu ra ĐH Bách khoa TP.HCM: Chương trình học vừa sức, không quá nhiều áp lực</b>
+<span><i class="far fa-clock"></i> <i>12:47 21/11/2022</i></span>
+<span class="no-display-mobile">Lê Khắc Minh Đăng là sinh viên khoa Khoa học và kỹ thuật máy tính, vừa xuất sắc trở thành thủ khoa đầu ra của Trường ĐH Bách khoa (ĐH Quốc gia TP.HCM) trong đợt xét tốt nghiệp tháng 11/2022, với...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/-c62139.html">
+<img alt="" src="https://tuyensinhso.vn/images/no_image.png"/>
+<b></b>
+<span><i class="far fa-clock"></i> <i>11:38 15/10/2022</i></span>
+<span class="no-display-mobile">Hiện nay, đa phần các trường ĐH đều yêu chuẩn Tiếng Anh đầu ra.&nbsp;Ngoài môn chuyên ngành, không ít sinh viên trong những năm cuối đại học lo ngại không thể có được chứng chỉ tiếng Anh quốc tế đủ...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/nhung-ly-do-khien-sinh-vien-dai-hoc-ra-truong-that-nghiep-c62106.html">
+<img alt="Những lý do khiến sinh viên Đại học ra trường có thể thất nghiệp" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-nhung-ly-do-khien-sinh-vien-dai-hoc-ra-truong-that-nghiep-1665552044.jpg&amp;h=200&amp;w=300"/>
+<b>Những lý do khiến sinh viên Đại học ra trường có thể thất nghiệp</b>
+<span><i class="far fa-clock"></i> <i>12:20 12/10/2022</i></span>
+<span class="no-display-mobile">Không phải cứ cầm tấm bằng trên tay, sinh viên có thể kiếm được việc làm tốt. Thống kê cho thấy rằng, nhiều sinh viên ra trường phải ngỡ ngàng khi không xin được công việc đúng ngành hoặc như ý...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/1001-cu-soc-bi-hai-voi-sinh-vien-nam-nhat-c62073.html">
+<img alt="1001 cú sốc bi hài với sinh viên năm nhất" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-1001-cu-soc-bi-hai-voi-sinh-vien-nam-nhat-1665223688.jpg&amp;h=200&amp;w=300"/>
+<b>1001 cú sốc bi hài với sinh viên năm nhất</b>
+<span><i class="far fa-clock"></i> <i>17:08 08/10/2022</i></span>
+<span class="no-display-mobile">Sinh viên năm nhất chân ướt chân ráo vào ĐH phải làm quen với nhiều điều mới. Không ít bạn trẻ ngỡ ngàng đến bật ngửa khi thấy hiện thực ĐH khác xa so với tưởng...</span>
+</a>
+<a href="https://tuyensinhso.vn/tin-moi/thi-tot-nghiep-thpt-2022-kinh-nghiem-nen-su-dung-loai-but-nao-de-viet-va-to-trac-nghiem-c61753.html">
+<img alt="Thi tốt nghiệp THPT 2022: Kinh nghiệm nên sử dụng loại bút nào để viết và tô trắc nghiệm?" src="https://tuyensinhso.vn/timthumb.php?src=https://tuyensinhso.vn/images/contents/thumbnail-thi-tot-nghiep-thpt-2022-kinh-nghiem-nen-su-dung-loai-but-nao-de-viet-va-to-trac-nghiem-1656649727.jpg&amp;h=200&amp;w=300"/>
+<b>Thi tốt nghiệp THPT 2022: Kinh nghiệm nên sử dụng loại bút nào để viết và tô trắc nghiệm?</b>
+<span><i class="far fa-clock"></i> <i>11:28 01/07/2022</i></span>
+<span class="no-display-mobile">Bút viết và bút chì là hai vật dụng quan trọng, nhất định phải có của thí sinh tham dự kỳ thi tốt nghiệp THPT 2022 sắp tới. Tuyển sinh số xin giới thiệu một số loại bút tới sĩ tử để tham khảo sử...</span>
+</a>
+</div>
+</div>
+<div class="left_box">
+</div>
+<div class="left_box">
+<div class="left_box_title left_box_title_1">
+<span>Khối thi Đại Học</span>
+</div>
+<ul class="menu-nganh menu-nganh-style-link">
+</ul>
+</div>
+<div class="left_box">
+<div class="left_box_title left_box_title_1">
+<span>Đại học - Học viện</span>
+</div>
+<ul class="menu-nganh menu-nganh-style-link">
+<li class="active" data-id="content-tab2212" href="javascript:void(0)">
+<a href="javascript:void(0)">Khu vực</a>
+</li>
+<li data-id="content-tab2214" href="javascript:void(0)">
+<a href="javascript:void(0)">Công lập</a>
+</li>
+<li data-id="content-tab2216" href="javascript:void(0)">
+<a href="javascript:void(0)">Dân lập</a>
+</li>
+<li data-id="content-tab2218" href="javascript:void(0)">
+<a href="javascript:void(0)">Xét học bạ THPT</a>
+</li>
+</ul>
+<div class="list-news list-news-tab active" id="content-tab2212">
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc/khu-vuc-mien-bac-c11798.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc/khu-vuc-mien-trung-c11800.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc/dh-hv-khu-vuc-tphcm-c11806.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khu vực TP.HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc/khu-vuc-da-nang-c11808.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc/khu-vuc-ha-noi-c11804.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc/khu-vuc-mien-nam-c11802.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khu vực Miền Nam</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2214">
+<a class="link-file" href="https://tuyensinhso.vn/cong-lap/cong-lap-khu-vuc-ha-noi-c13954.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Công lập khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cong-lap/cong-lap-khu-vuc-mien-bac-c13948.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Công lập khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cong-lap/cong-lap-khu-vuc-da-nang-c13956.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Công lập khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cong-lap/cong-lap-khu-vuc-mien-nam-c13952.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Công lập khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cong-lap/cong-lap-khu-vuc-mien-trung-c13950.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Công lập khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cong-lap/cong-lap-khu-vuc-tp-hcm-c14110.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Công lập khu vực TP. HCM</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2216">
+<a class="link-file" href="https://tuyensinhso.vn/dan-lap/dan-lap-khu-vuc-mien-bac-c13958.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Dân lập khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/dan-lap/dan-lap-khu-vuc-ha-noi-c13964.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Dân lập khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/dan-lap/dan-lap-khu-vuc-mien-nam-c13962.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Dân lập khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/dan-lap/dan-lap-khu-vuc-tp-hcm-c13966.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Dân lập khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/dan-lap/dan-lap-khu-vuc-mien-trung-c13960.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Dân lập khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/dan-lap/dan-lap-khu-vuc-da-nang-c13968.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Dân lập khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2218">
+<a class="link-file" href="https://tuyensinhso.vn/xet-tot-nghiep/xet-diem-tn-khu-vuc-da-nang-c13980.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Xét học bạ khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/xet-tot-nghiep/xet-diem-tn-khu-vuc-ha-noi-c13976.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Xét học bạ khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/xet-tot-nghiep/xet-diem-tn-khu-vuc-mien-bac-c13970.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Xét học bạ khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/xet-tot-nghiep/xet-diem-tn-khu-vuc-mien-nam-c13974.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Xét học bạ khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/xet-tot-nghiep/xet-diem-tn-khu-vuc-tp-hcm-c13978.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Xét học bạ khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/xet-tot-nghiep/xet-diem-tn-khu-vuc-mien-trung-c13972.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Xét học bạ khu vực Miền Trung</span>
+</a>
+</div>
+</div>
+<div class="left_box">
+<div class="left_box_title left_box_title_1">
+<span>Đại học - Học viện theo khối</span>
+</div>
+<ul class="menu-nganh menu-nganh-style-link">
+<li class="active" data-id="content-tab2220" href="javascript:void(0)">
+<a href="javascript:void(0)">Khối A</a>
+</li>
+<li data-id="content-tab2222" href="javascript:void(0)">
+<a href="javascript:void(0)">Khối B</a>
+</li>
+<li data-id="content-tab2224" href="javascript:void(0)">
+<a href="javascript:void(0)">Khối C</a>
+</li>
+<li data-id="content-tab2226" href="javascript:void(0)">
+<a href="javascript:void(0)">Khối D</a>
+</li>
+<li data-id="content-tab2228" href="javascript:void(0)">
+<a href="javascript:void(0)">Khối năng khiếu</a>
+</li>
+</ul>
+<div class="list-news list-news-tab active" id="content-tab2220">
+<a class="link-file" href="https://tuyensinhso.vn/khoi-a/khoi-a-khu-vuc-da-nang-c13910.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối A khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-a/khoi-a-khu-vuc-mien-bac-c13900.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối A khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-a/khoi-a-khu-vuc-mien-nam-c13904.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối A khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-a/khoi-a-khu-vuc-tp-hcm-c13908.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối A khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-a/khoi-a-khu-vuc-mien-trung-c13902.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối A khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-a/khoi-a-khu-vuc-ha-noi-c13906.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối A khu vực Hà Nội</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2222">
+<a class="link-file" href="https://tuyensinhso.vn/khoi-b/khoi-b-khu-vuc-da-nang-c13922.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối B khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-b/khoi-b-khu-vuc-ha-noi-c13918.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối B khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-b/khoi-b-khu-vuc-mien-bac-c13912.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối B khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-b/khoi-b-khu-vuc-mien-trung-c13914.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối B khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-b/khoi-b-khu-vuc-mien-nam-c13916.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối B khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-b/khoi-b-khu-vuc-tp-hcm-c13920.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối B khu vực TP. HCM</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2224">
+<a class="link-file" href="https://tuyensinhso.vn/khoi-c/khoi-c-khu-vuc-mien-bac-c13924.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối C khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-c/khoi-c-khu-vuc-tp-hcm-c13932.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối C khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-c/khoi-c-khu-vuc-ha-noi-c13930.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối C khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-c/khoi-c-khu-vuc-mien-trung-c13926.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối C khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-c/khoi-c-khu-vuc-mien-nam-c13928.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối C khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-c/khoi-c-khu-vuc-da-nang-c13934.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối C khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2226">
+<a class="link-file" href="https://tuyensinhso.vn/khoi-d/khoi-d-khu-vuc-mien-nam-c13898.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối D khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-d/khoi-d-khu-vuc-mien-bac-c13894.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối D khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-d/cac-truong-dai-hoc-khoi-d-khu-vuc-ha-noi-c13152.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối D khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-d/khoi-d-khu-vuc-tp-hcm-c13890.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối D khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-d/khoi-d-khu-vuc-da-nang-c13892.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối D khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-d/khoi-d-khu-vuc-mien-trung-c13896.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối D khu vực Miền Trung</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2228">
+<a class="link-file" href="https://tuyensinhso.vn/khoi-nang-khieu/khoi-nang-khieu-khu-vuc-mien-bac-c13936.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối Năng Khiếu khu vực Miền Bắc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-nang-khieu/khoi-nang-khieu-khu-vuc-mien-nam-c13940.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối Năng Khiếu khu vực Miền Nam</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-nang-khieu/khoi-nang-khieu-khu-vuc-mien-trung-c13938.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối Năng Khiếu khu vực Miền Trung</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-nang-khieu/khoi-nang-khieu-khu-vuc-ha-noi-c13942.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối Năng Khiếu khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-nang-khieu/khoi-nang-khieu-khu-vuc-tp-hcm-c13944.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối Năng Khiếu khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khoi-nang-khieu/khoi-nang-khieu-khu-vuc-da-nang-c13946.html">
+<i class="fas fa-file"></i>
+<span>ĐH - HV Khối Năng Khiếu khu vực Đà Nẵng</span>
+</a>
+</div>
+</div>
+<div class="left_box">
+<div class="left_box_title left_box_title_1">
+<span>Đại học đào tạo ngành HOT</span>
+</div>
+<ul class="menu-nganh menu-nganh-style-link">
+<li class="active" data-id="content-tab2230" href="javascript:void(0)">
+<a href="javascript:void(0)">Toàn quốc</a>
+</li>
+<li data-id="content-tab2232" href="javascript:void(0)">
+<a href="javascript:void(0)">Hà Nội</a>
+</li>
+<li data-id="content-tab2234" href="javascript:void(0)">
+<a href="javascript:void(0)">Hồ Chí Minh</a>
+</li>
+<li data-id="content-tab2236" href="javascript:void(0)">
+<a href="javascript:void(0)">Đà Nẵng</a>
+</li>
+</ul>
+<div class="list-news list-news-tab active" id="content-tab2230">
+<a class="link-file" href="https://tuyensinhso.vn/toan-quoc/cong-nghe-thong-tin-c13998.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Công nghệ thông tin toàn quốc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/toan-quoc/kinh-te-c14000.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Kinh Tế toàn quốc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/toan-quoc/quan-tri-kinh-doanh-c14002.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Quản trị kinh doanh toàn quốc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/toan-quoc/marketing-c14004.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Marketing toàn quốc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/toan-quoc/du-lich-c14006.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Du lịch toàn quốc</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/toan-quoc/tai-chinh-ngan-hang-c14008.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Tài chính ngân hàng toàn quốc</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2232">
+<a class="link-file" href="https://tuyensinhso.vn/ha-noi/quan-tri-kinh-doanh-ha-noi-c14044.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Quản trị kinh doanh Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ha-noi/y-te-y-duoc-ha-noi-c14038.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Y tế - Y dược Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ha-noi/kinh-te-ha-noi-c14022.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Kinh Tế Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ha-noi/cong-nghe-thong-tin-ha-noi-c14016.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Công nghệ thông tin Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ha-noi/marketing-ha-noi-c14028.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Marketing Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ha-noi/du-lich-ha-noi-c14030.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Du lịch Hà Nội</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2234">
+<a class="link-file" href="https://tuyensinhso.vn/ho-chi-minh/marketing-tp-hcm-c14056.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Marketing TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ho-chi-minh/quan-tri-kinh-doanh-tp-hcm-c14026.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Quản trị kinh doanh TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ho-chi-minh/tai-chinh-ngan-hang-tp-hcm-c14032.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Tài chính ngân hàng TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ho-chi-minh/quan-doi-cong-an-tp-hcm-c14034.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Quân đội - Công an TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ho-chi-minh/su-pham-tp-hcm-c14050.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Sư phạm TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/ho-chi-minh/y-te-y-duoc-tp-hcm-c14052.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Y tế - Y dược TP. HCM</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2236">
+<a class="link-file" href="https://tuyensinhso.vn/da-nang/quan-doi-cong-an-da-nang-c14062.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Quân đội - Công an Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/da-nang/quan-tri-kinh-doanh-da-nang-c14066.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Quản trị kinh doanh Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/da-nang/tai-chinh-ngan-hang-da-nang-c14068.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Tài chính ngân hàng Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/da-nang/su-pham-da-nang-c14070.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Sư phạm Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/da-nang/y-te-y-duoc-da-nang-c14072.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Y tế - Y dược Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/da-nang/du-lich-da-nang-c14074.html">
+<i class="fas fa-file"></i>
+<span>ĐH có ngành Du lịch Đà Nẵng</span>
+</a>
+</div>
+</div>
+<div class="left_box">
+<div class="left_box_title left_box_title_1">
+<span>Cao đẳng</span>
+</div>
+<ul class="menu-nganh menu-nganh-style-link">
+<li class="active" data-id="content-tab2486" href="javascript:void(0)">
+<a href="javascript:void(0)">CĐ - Dân Lập</a>
+</li>
+<li data-id="content-tab2484" href="javascript:void(0)">
+<a href="javascript:void(0)">CĐ - Công lập</a>
+</li>
+<li data-id="content-tab2482" href="javascript:void(0)">
+<a href="javascript:void(0)">Sư Phạm</a>
+</li>
+<li data-id="content-tab2480" href="javascript:void(0)">
+<a href="javascript:void(0)">Marketing</a>
+</li>
+<li data-id="content-tab2238" href="javascript:void(0)">
+<a href="javascript:void(0)">Khu vực</a>
+</li>
+<li data-id="content-tab2240" href="javascript:void(0)">
+<a href="javascript:void(0)">Trường HOT</a>
+</li>
+<li data-id="content-tab2244" href="javascript:void(0)">
+<a href="javascript:void(0)">Quân đội - Công an</a>
+</li>
+<li data-id="content-tab2246" href="javascript:void(0)">
+<a href="javascript:void(0)">Y dược</a>
+</li>
+</ul>
+<div class="list-news list-news-tab active" id="content-tab2486">
+<a class="link-file" href="https://tuyensinhso.vn/cd-dan-lap/cd-dan-lap-khu-vuc-tphcm-c16740.html">
+<i class="fas fa-file"></i>
+<span>CĐ Dân lập khu vực TP.HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cd-dan-lap/cd-dan-lap-khu-vuc-ha-noi-c16742.html">
+<i class="fas fa-file"></i>
+<span>CĐ Dân lập khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cd-dan-lap/cd-dan-lap-khu-vuc-da-nang-c16744.html">
+<i class="fas fa-file"></i>
+<span>CĐ Dân lập khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2484">
+<a class="link-file" href="https://tuyensinhso.vn/cd-cong-lap/cd-cong-lap-khu-vuc-da-nang-c16734.html">
+<i class="fas fa-file"></i>
+<span>CĐ Công lập khu vực Đà Nẵng</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cd-cong-lap/cd-cong-lap-khu-vuc-ha-noi-c16736.html">
+<i class="fas fa-file"></i>
+<span>CĐ Công lập khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/cd-cong-lap/cd-cong-lap-khu-vuc-tphcm-c16738.html">
+<i class="fas fa-file"></i>
+<span>CĐ Công lập khu vực TP.HCM</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2482">
+<a class="link-file" href="https://tuyensinhso.vn/su-pham/cd-nganh-su-pham-khu-vuc-ha-noi-c16722.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Sư phạm Khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/su-pham/cd-nganh-su-pham-khu-vuc-tphcm-c16724.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Sư phạm Khu vực TP.HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/su-pham/cd-nganh-su-pham-khu-vuc-da-nang-c16726.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Sư phạm Khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2480">
+<a class="link-file" href="https://tuyensinhso.vn/marketing/cd-nganh-marketing-khu-vuc-ha-noi-c16728.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Marketing Khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/marketing/cd-nganh-marketing-khu-vuc-tphcm-c16730.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Marketing Khu vực TP.HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/marketing/cd-nganh-marketing-khu-vuc-da-nang-c16732.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Marketing Khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2238">
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc-he-cao-dang/cd-khu-vuc-ha-noi-c13982.html">
+<i class="fas fa-file"></i>
+<span>CĐ khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc-he-cao-dang/khu-vuc-tp-hcm-c13984.html">
+<i class="fas fa-file"></i>
+<span>CĐ khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/khu-vuc-he-cao-dang/cd-khu-vuc-da-nang-c13986.html">
+<i class="fas fa-file"></i>
+<span>CĐ khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2240">
+<a class="link-file" href="https://tuyensinhso.vn/truong-hot/truong-hot-khu-vuc-ha-noi-c13988.html">
+<i class="fas fa-file"></i>
+<span>Trường CĐ HOT Khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/truong-hot/truong-hot-khu-vuc-tp-hcm-c13990.html">
+<i class="fas fa-file"></i>
+<span>Trường CĐ HOT Khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/truong-hot/truong-hot-khu-vuc-da-nang-c13992.html">
+<i class="fas fa-file"></i>
+<span>Trường CĐ HOT Khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2244">
+<a class="link-file" href="https://tuyensinhso.vn/quan-doi-cong-an/khu-vuc-ha-noi-cd-nganh-qd-ca-c14082.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành QĐ - CA Khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/quan-doi-cong-an/khu-vuc-tp-hcm-cd-nganh-qd-ca-c14084.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành QĐ - CA Khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/quan-doi-cong-an/khu-vuc-da-nang-cd-nganh-qd-ca-c14086.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành QĐ - CA Khu vực Đà Nẵng</span>
+</a>
+</div>
+<div class="list-news list-news-tab" id="content-tab2246">
+<a class="link-file" href="https://tuyensinhso.vn/y-duoc/khu-vuc-ha-noi-cd-nganh-y-duoc-c14088.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Y dược Khu vực Hà Nội</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/y-duoc/khu-vuc-tp-hcm-cd-nganh-y-duoc-c14092.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Y dược Khu vực TP. HCM</span>
+</a>
+<a class="link-file" href="https://tuyensinhso.vn/y-duoc/khu-vuc-da-nang-cd-nganh-y-duoc-c14094.html">
+<i class="fas fa-file"></i>
+<span>CĐ ngành Y dược Khu vực Đà Nẵng</span>
+</a>
+</div>
+</div>
+<div class="left_box">
+<div class="left_box_title left_box_title_1">
+<span></span>
+</div>
+<ul class="menu-nganh menu-nganh-style-link">
+<li class="active" data-id="content-tab3258" href="javascript:void(0)">
+<a href="javascript:void(0)">Khối thi Đại Học</a>
+</li>
+<li data-id="content-tab2202" href="javascript:void(0)">
+<a href="javascript:void(0)">Đại học - Học viện</a>
+</li>
+<li data-id="content-tab2204" href="javascript:void(0)">
+<a href="javascript:void(0)">Đại học - Học viện theo khối</a>
+</li>
+<li data-id="content-tab2208" href="javascript:void(0)">
+<a href="javascript:void(0)">Cao đẳng</a>
+</li>
+</ul>
+</div>
+</div>
+<!--End Left-->
+<div class="detail-right">
+<div class="right_box">
+<div class="left_box_title">
+<i class="fas fa-comments"></i> <span>Thông tin cần biết </span>
+</div>
+<ul class="right_list_1">
+<li><a href="https://tuyensinhso.vn/school/cao-dang-quoc-te-sai-gon.html">Cao Đẳng Quốc Tế Sài Gòn giảm 50% Học Phí 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/school/cao-dang-y-duoc-sai-gon.html">Cao Đẳng Y Dược Sài Gòn giảm 100% Học phí 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/school/cao-dang-y-khoa-pham-ngoc-thach.html">Cao Đẳng Y Khoa Phạm Ngọc Thạch miễn 100% học phí 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/tin-moi/cap-nhat-thong-tin-ve-doi-tuong-uu-tien-diem-uu-tien-khu-vuc-tuyen-sinh-dai-hoc-tu-nam-2023-c62898.html">Đối tượng ưu tiên, điểm ưu tiên khu vực năm 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/tin-moi/3-diem-moi-dang-chu-y-trong-tuyen-sinh-dai-hoc-2023-c62872.html">3 điểm mới đáng chú ý trong tuyển sinh ĐH 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/tin-moi/chinh-thuc-cac-moc-thoi-gian-quan-trong-can-ghi-nho-trong-ky-thi-tot-nghiep-va-tuyen-sinh-dh-2023-c63250.html">Mốc thời gian QUAN TRỌNG trong kỳ thi THPT và tuyển sinh ĐH 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/tin-moi/lich-thi-tot-nghiep-thpt-2023-chinh-thuc-tu-bo-gddt-c63234.html">Lịch thi tốt nghiệp THPT 2023 CHÍNH THỨC từ Bộ GD&amp;ĐT  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/tin-moi/cap-nhat-thong-tin-ve-doi-tuong-uu-tien-diem-uu-tien-khu-vuc-tuyen-sinh-dai-hoc-tu-nam-2023-c62898.html">Đối tượng ưu tiên, điểm ưu tiên khu vực tuyển sinh Đại học từ năm 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/tin-moi/danh-sach-cac-truong-dh-xet-hoc-ba-2023-c62687.html">Danh sách các trường ĐH xét học bạ 2023  <img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/hot.gif"/></a> </li>
+<li><a href="https://tuyensinhso.vn/ban-tin-sau-biet-diem/doi-tuong-uu-tien-tuyen-sinh-dai-hoc-c21786.html">Đối tượng, điểm ưu tiên tuyển sinh ĐH </a> </li>
+</ul>
+</div>
+<div class="right_box">
+<div class="left_box_title">
+<i class="fas fa-volume-up"></i> <span>Điểm chuẩn đại học</span>
+</div>
+<ul class="right_list_1">
+<li>
+<a href="https://tuyensinhso.vn/diem-chuan/diem-chuan-cac-truong-dai-hoc-hoc-vien-khu-vuc-mien-bac-c47979.html">
+                            Điểm chuẩn Đại Học Học Viện miền Bắc
+                        </a>
+</li>
+<li>
+<a href="https://tuyensinhso.vn/diem-chuan/diem-chuan-cac-truong-dai-hoc-hoc-vien-khu-vuc-mien-trung-c48009.html">
+                            Điểm chuẩn Đại Học Học Viện miền Trung
+                        </a>
+</li>
+<li>
+<a href="https://tuyensinhso.vn/diem-chuan/diem-chuan-cac-truong-dai-hoc-hoc-vien-khu-vuc-mien-nam-c47986.html">
+                            Điểm chuẩn Đại Học Học Viện miền Nam
+                        </a>
+</li>
+</ul>
+</div>
+<div class="right_box right_box_qc">
+<a href="https://caodangquoctesaigon.vn/lien-he.html?utm_source=tss&amp;utm_medium=banner&amp;utm_campaign=tss#form_lam_thu_tuc_truc_tuyen" target="_blank" title="Đăng ký tuyển sinh">
+<img alt="Đăng ký tuyển sinh" src="https://tuyensinhso.vn/images/banners/dang-ky-tuyen-sinh-1679461501.gif"/>
+</a>
+</div>
+<div class="right_box right_box_qc">
+<a href="http://aptechbmt.edu.vn/" target="_blank" title="Aptech tuyển sinh lập trình viên">
+<img alt="Aptech tuyển sinh lập trình viên" src="https://tuyensinhso.vn/images/banners/aptech-tuyen-sinh-lap-trinh-vien-1560422038.gif"/>
+</a>
+</div>
+</div>
+<div class="left_box">
+</div>
+</div>
+<div class="banner_fix banner_fix_left" style="top: 512px">
+<a href="https://caodangyduochochiminh.vn/lien-he.html?utm_source=tss&amp;utm_medium=banner&amp;utm_campaign=tss#form_lam_thu_tuc_truc_tuyen" target="_blank" title="Đăng ký tuyển sinh">
+<img alt="Đăng ký tuyển sinh" src="https://tuyensinhso.vn/images/banners/dang-ky-tuyen-sinh-1678849623.gif"/>
+</a>
+</div>
+<div class="banner_fix banner_fix_right" style="top: 512px">
+<a href="https://caodangyduochcm.vn/dang-ky-xet-tuyen.html?utm_source=tss&amp;utm_medium=banner&amp;utm_campaign=tss#scroll_register" target="_blank" title="Đăng ký tuyển sinh">
+<img alt="Đăng ký tuyển sinh" src="https://tuyensinhso.vn/images/banners/dang-ky-tuyen-sinh-1678849643.gif"/>
+</a>
+</div>
+<script type="text/javascript">
+        $(function(){
+            var top = $('.container-content').offset().top;
+            $(window).scroll(function(){
+                if($(this).scrollTop()>=top){
+                    $('.banner_fix').css('top','5px')
+                }
+                else
+                {
+                    $('.banner_fix').css('top',top - $(this).scrollTop() +'px')
+                }
+            });
+        })
+    </script>
+<!-------------Footer----------->
+<div class="contact">
+<div class="contact_text">
+<a href="https://tuyensinhso.vn/">
+<img src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/logo.png?v=1.0" width="180"/>
+</a>
+<div class="line-footer">
+<div></div>
+</div>
+<p><strong>Chuyên trang thông tin Tuyển Sinh Số cung cấp thông tin tuyển sinh từ Bộ GD &amp; ĐT và các trường ĐH - CĐ trên cả nước.&nbsp; </strong></p>
+<p>Nội dung thông tin tuyển sinh của các trường được chúng tôi tập hợp từ các nguồn:<br/>- Thông tin từ các website, tài liệu của Bộ GD&amp;ĐT và Tổng Cục Giáo Dục Nghề Nghiệp;<br/>- Thông tin từ website của các trường;<br/>- Thông tin do các trường cung cấp.</p>
+<p><em><strong>Giấy phép số 698/GP - TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 25/02/2019.</strong></em></p>
+<div>&nbsp;</div>
+</div>
+<div class="contact_social">
+<div class="title_social">Hợp tác truyền thông</div>
+<ul>
+<li><i class="fas fa-phone-volume"></i> 0889964368<br/></li>
+<li><i class="far fa-envelope"></i> <a class="__cf_email__" data-cfemail="6c18191509021f0502041f03420f03012c0b010d0500420f0301" href="/cdn-cgi/l/email-protection">[email&nbsp;protected]</a><br/></li>
+</ul>
+<div class="clearfix"></div>
+<div style="width: 100%;text-align: center;">
+<a class="dmca-badge" href="//www.dmca.com/Protection/Status.aspx?ID=ce1978ef-37a2-40a2-929f-b7cdd2502759" title="DMCA.com Protection Status">
+<img alt="DMCA.com Protection Status" src="https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=ce1978ef-37a2-40a2-929f-b7cdd2502759"/>
+</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script> </div>
+</div>
+<div class="mail-subscribe">
+<div class="fb-page" data-adapt-container-width="true" data-hide-cover="false" data-href="https://www.facebook.com/tuyensinhso/" data-show-facepile="false" data-small-header="false"><blockquote cite="https://www.facebook.com/tuyensinhso/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/tuyensinhso/">Tuyển Sinh Số - Thông tin tuyển sinh 2019</a></blockquote></div>
+</div>
+</div>
+<div class="end-page-info">
+<a href="https://tuyensinhso.vn/gioi-thieu-s410.html">Giới thiệu</a>
+             |                    <a href="https://tuyensinhso.vn/ban-quyen-thong-tin-s414.html">Bản quyền thông tin</a>
+             |                    <a href="https://tuyensinhso.vn/chinh-sach-bao-mat-s412.html">Chính sách bảo mật</a>
+</div>
+<!-------------End Footer----------->
+</div>
+<div class="position-fixed d-sm-block adsballon mobile catfishmobile">
+<div class="show-ads-banner">
+<a class="" href="https://caodangyduochochiminh.vn/lien-he.html?utm_source=tss&amp;utm_medium=banner&amp;utm_campaign=tss#form_lam_thu_tuc_truc_tuyen" rel="dofollow" target="_blank" title="">
+<img alt="" src="https://tuyensinhso.vn/templates/themes/tuyen-sinh-so/images/475x75_update_2023pnt.gif" style="height: 75px; width: 100%;"/>
+</a>
+</div>
+</div>
+</body>
+</html>
