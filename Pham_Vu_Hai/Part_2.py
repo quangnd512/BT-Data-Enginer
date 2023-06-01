@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import jsonlines
+import html2text
 
 url = 'https://tuyensinhso.vn/cao-dang.html'
 
@@ -38,10 +39,36 @@ with jsonlines.open(output_file, mode='w') as writer:
         content_element = soup.find("div", class_="detail-content")
         if title_element and content_element:
             title = title_element.text
-            content = content_element.text.replace('\n', '')
+            content = content_element.encode_contents().decode()
+            converter = html2text.HTML2Text()
+            converter.body_width = 0
+            markdown_content = converter.handle(content)
             writer.write({'title': title, 
-                          'content': content, 
+                          'content': markdown_content, 
                           'url': link})
+
+print("Data saved to", output_file)
+print("----------------------------------------------------------------")
+            
+markdown_data = []
+with jsonlines.open(output_file) as file:
+    for line in file.iter():
+        title = line['title']
+        content = line['content']
+        url = line['url']
+        markdown = f"## {title}\n\n{content}\n\n[Source]({url})\n"
+        markdown_data.append(markdown)
+
+markdown_output = "\n".join(markdown_data)
+
+output_markdown_file = 'output_2.md'
+with open(output_markdown_file, 'w', encoding='utf-8') as file:
+    file.write(markdown_output)
+
+print("Data saved to", output_markdown_file)
+print("-----------------------------------")
+
+
 
 print("Data saved to", output_file)
 
