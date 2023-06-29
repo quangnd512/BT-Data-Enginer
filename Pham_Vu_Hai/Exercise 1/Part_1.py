@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import jsonlines
-import html2text
 import json
 
 url = 'https://tuyensinhso.vn/dai-hoc-hoc-vien.html'
@@ -11,12 +10,8 @@ def get_dai_hoc_links(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
     links = soup.find_all('a')
-    keywords = ["khu-vuc",
-                "cong-lap",
-                "dan-lap"]
-    excluded_keywords = ["ban-tin",
-                        "tin-moi",
-                        "diem-chuan"]
+    keywords = ["khu-vuc", "cong-lap", "dan-lap"]
+    excluded_keywords = ["ban-tin", "tin-moi", "diem-chuan"]
     for link in links:
         href = link.get('href')
         if href and any(keyword in href for keyword in keywords) and not any(ex_keyword in href for ex_keyword in excluded_keywords):
@@ -37,12 +32,9 @@ with open(output_file, 'w', encoding='utf-8') as file:
             content_element = soup.find("div", class_="detail-content")
             if title_element and content_element:
                 title = title_element.text
-                content = content_element.encode_contents().decode()  # Get HTML content as string
-                converter = html2text.HTML2Text()
-                converter.body_width = 0  # Preserve line breaks
-                markdown_content = converter.handle(content)
+                content = content_element.get_text(separator='\n')
                 writer.write({'title': title,
-                              'content': markdown_content,
+                              'content': content,
                               'url': link})
                 
 print("Data saved to", output_file)
