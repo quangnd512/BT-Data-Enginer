@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/di-truyen-lien-ket-gioi-tinh/74490/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nhiễm sắc thể giới tính là loại NST",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không mang gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mang gen quy định giới tính và có thể mang cả gen quy định tính trạng thường",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chỉ mang gen quy định giới tính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Luôn tồn tại thành cặp trong tế bào của cơ thể đa bào",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNhiễm sắc thể giới tính là loại NST mang gen quy định giới tính và có thể mang cả gen quy định tính trạng thường.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Khi nói về nhiễm sắc thể giới tính ở động vật có vú, phát biểu nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nhiễm sắc thể giới tính chỉ có ở tế bào sinh dục mà không có ở tế bào xôma",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhiễm sắc thể giới tính chỉ mang các gen quy định giới tính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các gen nằm ở vùng không tương đồng trên nhiễm sắc thể giới tính Y được di truyền 100% cho giới XY",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Các gen nằm trên nhiễm sắc thể giới tính X chỉ truyền cho giới XX",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nA- sai, vì ở một cơ thể thì tất cả các tế  bào có chung một kiểu gen và NST giới tính có ở cả nhóm tế bào sinh dục và nhóm tế bào xô ma ( sinh dưỡng)B- sai, NST giới tính có chứa các gen quy định giới tính và các gen quy định các tính trạng thường → hiện tượng các tính trạng thường liên kết với giới tínhC- Đúng, vì giới XX không có Y.D- sai, vì động vật có vú thì con đực có bộ NST XY ; cái là XX nên các gen nằm trên NST X sẽ được truyền cho cả XX và XYĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Khi nói về gen trên cặp nhiễm sắc thể giới tính, phát biểu nào sau đây không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trên nhiễm sắc thể giới tính chỉ chứa gen qui định giới tính, không có gen qui định các tính trạng thường",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Có những gen chỉ có trên nhiễm sắc thể giới tính X mà không có alen tương ứng trên nhiễm sắc thể giới tính Y.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có những gen chỉ có trên nhiễm sắc thể giới tính Y mà không có alen tương ứng trên nhiễm sắc thể giới tính X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Có những gen nằm trên nhiễm sắc thể giới tính X và có cả alen tương ứng trên nhiễm sắc thể giới tính Y.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nA- sai vì trên NST giới tính X còn các tính trạng quy định tính trạng thường nên mới có hiện tượng các tính trạng thường liên kết với giới tính.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nhiễm sắc thể giới tính không có đặc điểm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có gen quy định tính trạng thuộc giới tính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có gen quy định tính trạng không thuộc giới tính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Luôn tồn tại thành từng cặp tương đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có đoạn tương đồng và đoạn không tương đồng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nÝ C sai vì một số loài có NST giới tính đặc biệt như châu chấu XO là con đựcỞ người XY là con trai NST X và Y không tương đồng về cấu trúc.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Có bao nhiêu đặc điểm là của bệnh do gen trội trên NST X gây ra?(1) Bệnh thường biểu hiện ở nam nhiều hơn nữ.(2) Bố mắc bệnh thì tất cả các con gái đều mắc bệnh.(3) Bố mẹ không mắc bệnh có thể sinh ra con mắc bệnh.(4) Mẹ mắc bệnh thì tất cả các con trai đều mắc bệnh.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nBệnh do gen trội trên X- Bố mắc bệnh thì tất cả các con gái đều mắc bệnh → (2).- (4) sai vì nếu mẹ dị hợp thì chỉ có các con trai nhận gen trội mới bị bệnh.  - Bệnh do đột biến trội nên biểu hiện ở nam và nữ với tỉ lệ bằng nhauĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Các bệnh mù màu, máu khó đông ở người di truyền theo quy luật nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Di truyền ngoài nhân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tương tác gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Theo dòng mẹ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Liên kết với giới tính",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác bệnh mù màu, máu khó đông là do các gen lặn, nằm trên NST giới tính X qui định→ cơ chế di truyền là di truyền liên kết với giới tínhĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Ở nguời, bệnh máu khó đông do gen lặn h nằm trên NST X quy định, gen trội H quy định tình trạng máu đông bình thường. Một gia đình có bố và con trai đều mắc bệnh máu khó đông, mẹ bình thường, nhận định nào dưới đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Con trai đã nhận gen bệnh từ bố",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mẹ bình thường có kiểu gen XHXH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mẹ mang gen bệnh ở trạng thái dị hợp XHXh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Con gái của cặp vợ chồng này chắc chắn cũng bị bệnh máu khó đông",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong quy luật di truyền liên kết với giới tính, phép lai thuận nghịch cho kết quả?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tỉ lệ phân li kiểu hình khác nhau ở hai giới",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Con lai luôn có kiểu hình giống mẹ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Con lai F1 đồng tính và chỉ biểu hiện tính trạng một bên bố hoặc mẹ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tỉ lệ phân li kiểu hình ở hai giới giống nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Sự di truyền của các tính trạng chỉ do gen nằm trên nhiễm sắc thể Y quy định có đặc điểm gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ di truyền ở giới dị giao tử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chỉ di truyền ở giới đực.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chỉ di truyền ở giới cái.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ di truyền ở giới đồng giao tử.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Màu lông của mèo được qui định bởi gen nằm trên NST X. XAlà alen trội qui định lông màu da cam trội hoàn toàn so với Xalà alen qui định màu lông đen. Điều nào dưới đây là đúng về màu lông ở đời con của phép lai giữa mèo cái XAXavà mèo đực XAY?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bất kể giới tính như thế nào, một nửa số mèo con có lông da cam còn một nửa có lông đốm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tất cả mèo có lông đốm đều là mèo đực.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tất cả mèo cái đều có lông màu da cam còn một nửa số mèo đực có lông màu da cam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tất cả đời con đều có lông màu da cam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Nhà khoa học nào sau đây phát hiện ra hiện tượng di truyền liên kết với giới tính ở ruồi giấm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. J. Mônô.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. G. J. Menđen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T. H. Moocgan.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. K. Coren.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Ở ruồi giấm, gen quy định màu mắt có 2 alen nằm trên vùng không tương đồng của NST X, trong đó alen A quy định mắt đỏ trội hoàn toàn so với a quy định mắt trắng. Ruồi cái mắt đỏ thuần chủng có kiểu gen là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. XAXA.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. XAXa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. XaXa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. XAY.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

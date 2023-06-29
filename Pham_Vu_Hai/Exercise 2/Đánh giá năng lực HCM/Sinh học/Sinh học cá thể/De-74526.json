@@ -1,0 +1,603 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tieu-hoa-o-dong-vat/74526/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tiêu hoá là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quá trình tạo ra các chất dinh dưỡng từ thức ăn cho cơ thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quá trình tạo ra các chất dinh dưỡng và năng lượng cho cơ thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quá trình tạo ra các chất chất dinh dưỡng cho cơ thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quá trình biến đổi các chất dinh dưỡng có trong thức ăn thành các chất đơn giản mà cơ thể có thể hấp thu được.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nQuá trình biến đổi các chất dinh dưỡng có trong thức ăn thành các chất đơn giản mà cơ thể có thể hấp thu được.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ở động vật chưa có cơ quan tiêu hoá, thức ăn được tiêu hoá như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiêu hóa ngoại bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tiêu hoá nội bào.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tiêu hóa ngoại bào và tiêu hoá nội bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một số tiêu hoá nội bào, còn lại tiêu hoá ngoại bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐộng vật chưa có cơ quan tiêu hoá → tiêu hoá nội bào.       Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Quá trình tiêu hoá ở động vật chưa có cơ quan tiêu hoá chủ yếu diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các enzim từ ribôxôm vào không bào tiêu hoá, thuỷ phân các chất hữu cơ có trong thức ăn thành những chất đơn giản mà cơ thể hấp thụ được.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các enzim từ lizôxôm vào không bào tiêu hoá, thuỷ phân các chất hữu cơ có trong thức ăn thành những chất đơn giản mà cơ thể hấp thụ được",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các enzim từ perôxixôm vào không bào tiêu hoá, thuỷ phân các chất hữu cơ có trong thức ăn thành những chất đơn giản mà cơ thể hấp thụ được.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các enzim từ bộ máy gôn gi vào không bào tiêu hoá, thuỷ phân các chất hữu cơ có trong thức ăn thành những chất đơn giản mà cơ thể hấp thụ được.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác enzim từ lizôxôm vào không bào tiêu hoá, thuỷ phân các chất hữu cơ có trong thức ăn thành những chất đơn giản mà cơ thể hấp thụ đượcĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Quá trình tiêu hoá ở động vật có túi tiêu hoá chủ yếu diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thức ăn được tiêu hoá nội bào nhờ enzim thuỷ phân chất dinh dưỡng phức tạp thành những chất đơn giản mà cơ thể hấp thụ được.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thức ăn được tiêu hoá ngoại bào nhờ sự co bóp của khoang túi mà chất dinh dưỡng phức tạp thành những chất đơn giản.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thức ăn được tiêu hoá ngoại bào (nhờ enzim thuỷ phân chất dinh dưỡng phức tạp trong khoang túi) và nội bào.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thức ăn được tiêu hoá ngoại bào nhờ enzim thuỷ phân chất dinh dưỡng phức tạp trong khoang túi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThức ăn được tiêu hoá ngoại bào (nhờ enzim thuỷ phân chất dinh dưỡng phức tạp trong khoang túi) và nội bào.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Động vật nào sau đây chỉ có hình thức tiêu hoá nội bào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ruột khoang",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trùng giày",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ruột khoang , cá và trùng giày",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrùng giày chỉ có tiêu hóa nội bào do chúng chưa có cơ quan tiêu hóaĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Động vật nào sau đây có hình thức tiêu hoá ngoại bào đến nội bào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ruột khoang",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trùng giày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ruột khoang, cá và trùng giày",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nRuột khoang có hình thức tiêu hoá ngoại bào đến nội bào do chúng có túi tiêu hóaĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tiêu hóa trong túi tiêu hóa ưu việt hơn tiêu hóa nội bào vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có thể lấy thức ăn có kích thước lớn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Sự biến đổi thức ăn nhanh hơn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thức ăn bị biến đổi nhờ enzyme do các tế bào của túi tiêu hóa tiết ra",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Enzyme tiêu hóa không bị hòa loãng với nước",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Sự bắt và tiêu hóa côn trùng ở cây nắp ấm giống với quá trình",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tiêu hóa ở trùng đế giày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tiêu hóa của thuỷ tức",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. tiêu hóa ở động vật ăn thực vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tiêu hóa ở động vật ăn thịt",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206\nTrong hệ tiêu hóa của người, dưới tác động của enzim tiêu hóa, tinh bột được biến đổi thành chất nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Glixêrol.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Glucôzơ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Axit béo.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Axit amin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ở động vật có ống tiêu hoá, thức ăn được tiêu hoá như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiêu hóa ngoại bào.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tiêu hoá nội bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tiêu hóa ngoại bào tiêu hoá nội bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một số tiêu hoá nội bào, còn lại tiêu hoá ngoại bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Quá trình tiêu hoá ở động vật có ống tiêu hoá diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thức ăn đi qua ống tiêu hoá được biến đổi cơ học trở thành chất đơn giản và được hấp thụ vào máu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thức ăn đi qua ống tiêu hoá được biến đổi cơ học và hoá học trở thành chất đơn giản và được hấp thụ vào máu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thức ăn đi qua ống tiêu hoá được biến đổi hoá học trở thành chất đơn giản và được hấp thụ vào máu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thức ăn đi qua ống tiêu hoá được biến đổi cơ học trở thành chất đơn giản và được hấp thụ vào mọi tế bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Diều ở các động vật được hình thành từ bộ phận nào của ống tiêu hoá?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Diều được hình thành từ tuyến nước bọt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Diều được hình thành từ khoang miệng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Diều được hình thành từ dạ dày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Diều được hình thành từ thực quản",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Động vật nào sau đây có dạ dày đơn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bò.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trâu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ngựa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cừu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Dạ dày ở những động vật ăn thực vật nào có 4 ngăn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ngựa, thỏ, chuột, trâu, bò.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngựa, thỏ, chuột.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ngựa, thỏ, chuột, cừu, dê.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trâu, bò, cừu, dê.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Sự tiêu hoá thức ăn ở dạ dày cỏ diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hấp thụ bớt nước trong thức ăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thức ăn được trộn với nước bọt và được vi sinh vật phá vỡ thành tế bào và tiết ra enzim tiêu hoá xellulôzơ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tiết pepsin và HCl để tiêu hoá prôtêin có ở vi sinh vật và cỏ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thức ăn được ợ lên miệng để nhai lại.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Dạ dày ngăn nào của động vật nhai lại có chức năng hấp thụ bớt nước sau khi thức ăn được đưa lên khoang miệng nhai lại",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dạ tổ ong",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dạ lá sách",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Múi khế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dạ cỏ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Dạ tổ ong tiêu hoá thức ăn như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thức ăn được ợ lên miệng để nhai lại.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tiết pepsin và HCl để tiêu hoá prôtêin có ở vi sinh vật và cỏ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hấp thụ bớt nước trong thức ăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thức ăn được trộn với nước bọt và được vi sinh vật phá vỡ thành tế bào và tiết ra enzim tiêu hoá xellulôzơ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Sự tiêu hoá ở dạ dày múi khế diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiết pepsin và HCl để tiêu hoá prôtêin có ở vi sinh vật và cỏ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hấp thụ bớt nước trong thức ăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thức ăn được trộn với nước bọt và được vi sinh vật phá vỡ thành tế bào và tiết ra enzim tiêu hoá xellulôzơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thức ăn được ợ lên miệng để nhai lại.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Manh tràng phát triển ở dạ dày đơn có ý nghĩa:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiêu hóa protein",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có hệ vi sinh vật để tiêu hóa xenlulozo",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tiêu hóa thức ăn giàu Lipit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hấp thụ chủ yếu chất dinh dưỡng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Sự tiêu hoá thức ăn ở thú ăn cỏ như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiêu hoá hoá và cơ học.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tiêu hoá hoá, cơ học và nhờ vi sinh vật cộng sinh.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chỉ tiêu hoá cơ học.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ tiêu hoá hoá học.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Sự tiêu hoá thức ăn ở thú ăn thịt như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiêu hoá hoá học",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chỉ tiêu hoá cơ học.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tiêu hoá hoá học và cơ học.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tiêu hoá hoá học và nhờ vi sinh vật cộng sinh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Đặc điểm tiêu hoá ở thú ăn thịt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vừa nhai vừa xé nhỏ thức ăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dùng răng xé nhỏ thức ăn rồi nuốt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Nhai thức ăn trước khi nuốt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ nuốt thức ăn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Thứ tự các bộ phận trong ống tiêu hóa của người",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Miệng, ruột non, thực quản, dạ dày, ruột già, hậu môn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Miệng, thực quản, dạ dày, ruột non, ruột già, hậu môn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Miệng, ruột non, dạ dày, hầu, ruột già, hậu môn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Miệng, dạ dày, ruột non, thực quản, ruột già, hậu môn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Các nếp gấp của niêm mạc ruột non, trên đó có các lông tuột và các lông cực nhỏ có tác dụng gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Làm tăng nhu động ruột.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Làm tăng bề mặt hấp thụ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tạo điều kiện thuận lợi cho tiêu hoá hoá học.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tạo điều kiện cho tiêu hoá cơ học.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Sự tiến hoá của các hình thức tiêu hoá diễn ra theo hướng nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tiêu hoá nội bào → Tiêu hoá nội bào kết hợp với ngoại bào → Tiêu hoá ngoại bào.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tiêu hoá ngoại bào → Tiêu hoá nội bào kết hợp với ngoại bào → Tiêu hoá nội  bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tiêu hoá nội bào → Tiêu hoá ngoại bào → Tiêu hoá nội bào kết hợp với ngoại bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tiêu hoá nội bào kết hợp với ngoại bào → Tiêu hoá nội bào → Tiêu hoá ngoại bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Tại sao ruột của thú ăn thịt ngắn hơn ruột của thú ăn thực vật ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì thức ăn của thú ăn thịt giàu các chất dinh dưỡng và khó tiêu hóa hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vì thức ăn của thú ăn thịt nghèo các chất dinh dưỡng và khó tiêu hóa hơn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì thức ăn của thú ăn thịt giàu các chất dinh dưỡng và dễ tiêu hóa hơn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Vì thức ăn của thú ăn thịt nghèo các chất dinh dưỡng và dễ tiêu hóa hơn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

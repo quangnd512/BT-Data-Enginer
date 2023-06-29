@@ -1,0 +1,373 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/xac-dinh-nguyen-to-hoa-hoc/76104/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Oxit cao nhất của một nguyên tố R ứng với công thức  RO2. Nguyên tố R  đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Magie",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cacbon",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Nitơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Photpho",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong RO2, R có hóa trị IV =>R thuộc nhóm IVA =>CacbonĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một nguyên tố R tạo hợp chất khí với hiđro có công thức RH3. Nguyên tố này chiếm 25,93% về khối lượng trong oxit bậc cao nhất. Nguyên tố R là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ni",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. P",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Si",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:+) Hợp chất với hiđro là RH3 =>Chất cao nhất với oxi có công thức là: R2O5 +) Ta có : \\[\\frac{{2.R}}{{16.5}} = \\frac{{25,93}}{{74,07}}\\]=>  R= 14 =>R là nguyên tố Nitơ Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Oxit cao nhất của nguyên tố R thuộc nhóm VIA có 60% oxi về khối lượng. Công thức oxit cao nhất của R là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. SO3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P2O3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:+) Nhóm VIA nên hợp chất oxit bậc cao là RO3 +) Ta có: \\[\\frac{R}{{16.3}} = \\frac{{40}}{{60}} \\Rightarrow R = 32\\] (Lưu huỳnh) =>Công thức Oxit cao nhất là : SO3 Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Hợp chất khí với hiđro của nguyên tố R thuộc nhóm IVA có chứa 25% hiđro về khối lượng. Công thức oxit cao nhất của R là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.NO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CO2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. SO3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:R có hóa trị IV, công thức hợp chất khí với hiđro là RH4\\[\\frac{{\\% R}}{{\\% H}} = \\frac{{{M_R}}}{{4{M_H}}}\\]\\[ \\to {M_R} = \\frac{{\\% R.4{M_H}}}{{\\% H}} = \\frac{{75.4}}{{25}} = 12\\]=>CacbonCông thức oxit cao nhất là: CO2Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Oxit cao nhất của một nguyên tố R chứa 38,8% nguyên tố đó, còn trong hợp chất khí với hiđro chứa 2,74% hiđro. Nguyên tố R là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Si",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cl",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Gọi hợp chất với hiđro có công thức là : RHx , hợp chất với oxi có công thức là R2O8-x Ta có: (1) Oxit R2O8-x chứa 38,8% nguyên tố R =>chứa 61,2% oxi \\[ \\Rightarrow \\frac{{2.R}}{{16\\left( {8 - x} \\right)}} = \\frac{{38,8}}{{61,2}}\\](2) trong RHx, chứa 2,74% hiđro =>chứa 97,26% R \\[ \\Rightarrow \\frac{R}{x} = \\frac{{97,26}}{{2,74}} = 35,5\\]=>R = 35,5x thay vào pt (1) ta có : x = 1 và =>R= 35,5 (Clo) Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Oxit cao nhất của một nguyên tố chứa 72,73% oxi, còn trong hợp chất khí với hiđro chứa 75% nguyên tố đó. Công thức oxit cao nhất và hợp chất khí với hiđro là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CO2 và CH4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. SO2 và H2S",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.SO3 và H2S",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P2O5 và PH3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Gọi hợp chất với hiđro có công thức là : RHx , hợp chất với oxi có công thức là R2O8-x Ta có: (1) Oxit R2O8-x chứa 72,73% oxi =>R chiếm 27,27% \\[ \\Rightarrow \\frac{{2.R}}{{16\\left( {8 - x} \\right)}} = \\frac{{27,27}}{{72,73}}\\] (2) trong RHx, R chiếm 75% =>H chiếm 25% về khối lượng \\[ \\Rightarrow \\frac{R}{x} = \\frac{{75}}{{25}} = 3\\]=>R= 3x thay vào pt (1) ta có đáp án : x= 4 và =>R = 12 Vậy R là cacbon =>CO2 và CH4 Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong một hợp chất oxit cao nhất của một nguyên tố nhóm A, oxi chiếm 60% về khối lượng. Hãy cho biết nguyên tố đó ở nhóm nào ? (biết số hạt nơtron bằng số hạt proton)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. IIA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. IVA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. VA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. VIA.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Nguyên tố R có hóa trị cao nhất trong oxit gấp 3 lần hóa trị trong hợp chất với hiđro. Trong hợp chất của R với hiđro có tỉ lệ khối lượng:  \\[\\frac{{m{}_R}}{{{m_H}}} = \\frac{{16}}{1}\\]. Không dùng bảng tuần hoàn, cho biết kí hiệu của nguyên tử R.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{}_{15}^{32}R\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{}_{16}^{32}R\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[{}_{13}^{32}R\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{}_{14}^{32}R\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "A và B là hai nguyên tố ở cùng một nhóm và thuộc hai chu kì liên tiếp trong bảng tuần hoàn. Tổng số proton trong hai hạt nhân nguyên tử của A và B bằng 32. Cấu hình electron A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p63s2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1s22s22p63s23p64s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1s22s22p3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1s22s22p63s23p63d54s2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Hai nguyên tố A và B ở hai nhóm A liên tiếp trong bảng tuần hoàn, B thuộc nhóm VA. Ở trạng thái đơn chất A, B không phản ứng với nhau. Tổng số proton trong hạt nhân nguyên tử của A và B là 23. Hai nguyên tố A và B là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S và N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. O và S.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. O và P.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C và S",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho 6,4 gam hỗn hợp hai kim loại nhóm IIA, thuộc hai chu kì liên tiếp, tác dụng hết với dung dịch HCl dư thu được 4,48 lít khí hiđro (đktc). Các kim loại đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Be và Mg.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mg và Ca.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ca và Sr.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sr và Ba.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hòa tan hoàn toàn 0,3 gam hỗn hợp hai kim loại X và Y ở hai chu kì liên tiếp của nhóm IA vào nước thì thu được 0,224 lít khí hiđro (đktc). X và Y là những nguyên tố hóa học nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na và K.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Li và Na.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. K và Rb.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Rb và Cs.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho 1,44 gam hỗn hợp gồm kim loại M và oxit MO (oxit có hóa trị lớn nhất của M) có số mol bằng nhau, tác dụng hết với H2SO4 đặc, đun nóng. Thể tích khí SO2 (đktc) thu được là 0,224 lít. Vị trí của M trong bảng tuần hoàn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ô 30, chu kì 4, nhóm IIB.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ô 56, chu kì 4, nhóm VIIIB.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ô 12, chu kì 3, nhóm IIA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ô 29, chu kì 4, nhóm IB,",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Có 5,56 gam hỗn hợp A gồm Fe và kim loại M (hóa trị n). Chia A làm hai phần bằng nhau:Phần 1: Hòa tan hết trong dung dịch HCl được 1,568 lít khí H2.Phần 2: Hòa tan hết trong dung dịch H2SO4 đặc nóng thu được 2,016 lít khí SO2.  Các khí đo ở đktc. Tên kim loại M là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Zn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Al",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Mg",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho 3,9g một kim loại kiềm, tác dụng hết với dung dịch HCl dư thu được 1,12 lit khí hiđro (ở đktc). Kim loại đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Na",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. K",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Li",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Phần trăm khối lượng của nguyên tố R trong hợp chất khí với hiđro (R có số oxi hóa thấp nhất) và trong oxit cao nhất tương ứng là a% và b%, với a : b = 11 : 4. Phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nguyên tử R (ở trạng thái cơ bản) có 6 electron s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Oxit cao nhất của R ở điều kiện thường là chất rắn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trong bảng tuần hoàn các nguyên tố hóa học, R thuộc chu kì 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phân tử oxit cao nhất của R không có cực.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/quang-hop-o-thuc-vat/74510/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Pha sáng của quang hợp là pha chuyển hóa năng lượng của ánh sáng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đã được diệp lục hấp thụ thành năng lượng trong các liên kết hóa học trong ATP.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đã được diệp lục hấp thụ thành năng lượng trong các liên kết hóa học trong ATP và NADPH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Đã được diệp lục hấp thụ thành năng lượng trong các liên kết hóa học trong NADPH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thành năng lượng trong các liên kết hóa học trong ATP.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPha sáng là pha chuyển hóa năng lượng ánh sáng đã được diệp lục hấp thụ thành năng lượng của các liên kết hóa học trong ATP và NADPH.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Sản phẩm của pha sáng gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ATP, NADPH VÀ O2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ATP, NADPH VÀ CO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ATP, NADP+ VÀ O2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ATP, NADPH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSản phẩm của pha sáng gồm: ATP, NADPH VÀ O2Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong lục lạp, pha tối diễn ra ở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Màng ngoài",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Màng trong.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chất nền (strôma).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tilacôit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPha tối ở thực vật C3 diễn ra trong chất nền của lục lạpĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Những hợp chất mang năng lượng ánh sáng vào pha tối để đồng hóa CO2thành cacbonhidrat là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ATP và NADPH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. NADPH, O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2O; ATP",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ATP và ADP, ánh sáng mặt trời",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNăng lượng ánh sáng được chuyển hóa thành hóa năng trong các liên kết hóa học trong ATP và NADPH được đưa vào pha tối để đồng hóa CO2thành cacbonhidratĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trật tự đúng các giai đoạn trong chu trình Canvin là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khử APG thành AlPG→ cố định CO2→ tái sinh RiDP (ribulôzơ - 1,5 - điP).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cố định CO2→ tái sinh RiDP (ribulôzơ - 1,5 - điP)→ khử APG thành AlPG.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khử APG thành AlPG → tái sinh RiDP (ribulôzơ - 1,5 - điP)→ cố định CO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cố định CO2→ khử APG thành AlPG → tái sinh RiDP (ribulôzơ - 1,5 - điP)→ cố định CO2.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrật tự đúng các giai đoạn trong chu trình Canvin là: Cố định CO2→ khử APG thành AlPG → tái sinh RiDP (ribulôzơ - 1,5 - điP)→ cố định CO2\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Sản phẩm quang hợp đầu tiên của chu trình Canvin là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. RiDP (ribulôzơ - 1,5 - điP).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AlPG (alđêhit photphoglixêric).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AM (axit malic).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. APG (axit photphoglixêric).",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSản phẩm đầu tiên là hợp chất 3C (Axit photphoglyxeric - APG)Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Nhóm thực vật C3 được phân bố",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hầu khắp mọi nơi trên Trái Đất.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ở vùng ôn đới và á nhiệt đới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ở vùng nhiệt đới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ở vùng sa mạc.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Những cây thuộc nhóm thực vật C3 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Rau dền, kê, các loại rau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mía, ngô, cỏ lồng vực, cỏ gấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dứa, xương rồng, thuốc bỏng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Lúa, khoai, sắn, đậu.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Thực vật C4 được phân bố",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Rộng rãi trên Trái Đất, chủ yếu ở vùng ôn đới và á nhiệt đới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ở vùng ôn đới và á nhiệt đới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ở vùng nhiệt đới và cận nhiệt đới.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ở vùng sa mạc.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ở thực vật C4, giai đoạn đầu cố định CO2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Và giai đoạn tái cố định CO2theo chu trình Canvin, diễn ra ở lục lạp trong tế bào bao bó mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Và giai đoạn cố định CO2theo chu trình Canvin, diễn ra ở lục lạp trong tế bào mô giậu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Diễn ra ở lục lạp trong tế bào bó mạch; còn giai đoạn tái cố định CO2theo chu trình Canvin, diễn ra ở lục lạp trong tế bào mô giậu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Diễn ra ở lục lạp trong tế bào mô giậu; còn giai đoạn tái cố định CO2theo chu trình Canvin, diễn ra ở lục lạp trong tế bào bó mạch.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Thực vật C4 ưu việt hơn thực vật C3 ở những điểm nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cường độ quang hợp cao hơn, điểm bão hòa ánh sáng thấp hơn, điểm bù CO2 thấp hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cường độ quang hợp cao hơn, điểm bão hòa ánh sáng cao hơn, điểm bù CO2 thấp hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhu cầu nước thấp hơn, thoát hơi nước thấp hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả B và C.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Sản phẩm quang hợp đầu tiên của con đường C4 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. APG (axit photphoglixêric).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AlPG (alđêhit photphoglixêric).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AM (axit malic).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một chất hữu cơ có 4 cacbon trong phân tử (axit ôxalôaxêtic - AOA).",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Những cây thuộc nhóm thực vật CAM là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lúa, khoai, sắn, đậu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngô, mía, cỏ lồng vực, cỏ gấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dứa, xương rồng, thuốc bỏng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Lúa, khoai, sắn, đậu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Ở thực vật CAM, khí khổng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đóng vào ban ngày và mở vào ban đêm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chỉ mở ra khi hoàng hôn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chỉ đóng vào giữa trưa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đóng vào ban đêm và mở vào ban ngày.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Do nguyên nhân nào nhóm thực vật CAM phải cố định CO2 vào ban đêm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì ban đêm mới đủ lượng nước cung cấp cho quá trình đồng hóa CO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vì ban đêm khí trời mát mẻ, nhiệt độ hạ thấp thuận lợi cho hoạt động của nhóm thực vật này",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì mọi thực vật đều thực hiện pha tối vào ban đêm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì ban đêm, khí khổng mới mở ra, ban ngày khí khổng đóng để tiết kiệm nước.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Oxi thải ra trong quá trình quang hợp có nguồn gốc từ đâu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trong giai đoạn cố định CO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tham gia truyền electron cho các chất khác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trong quá trình quang phân ly nước",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Trong quá trình thủy phân nước.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong pha sáng của quá trình quang hợp, ATP và NADPH được trực tiếp tạo ra từ hoạt động nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hấp thụ năng lượng của nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hoạt động của chuỗi truyền điện tử trong quang hợp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Quang phân li nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Diệp lục hấp thu ánh sáng trở thành trạng thái kích động",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong pha tối của thực vật C3, chất nhận CO2đầu tiên là chất nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. PEP",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. APG",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AOA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ribulozo – 1,5diP",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Ở thực vật C3, sản phẩm đầu tiên được tạo ra sau khi cố định CO2là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. glucôzơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AlPG.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. APG.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. RiDP.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Đề thi thử THPT QG - 2021, Sở GD&ĐT Hải Phòng\nTrong quá trình quang hợp, chất nhận CO2đầu tiên ở pha tối của thực vật C3là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. RiDP.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. PEP.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. APG.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AOA.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

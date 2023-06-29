@@ -1,0 +1,373 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dot-bien-gen1/74289/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đột biến gen là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tạo ra những alen mới;",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự biến đổi của một hay một số cặp nuclêôtit trong gen;",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sự biến đổi của 1 nuclêôtit trong gen;",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tạo nên những kiểu hình mới;",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐột biến gen là sự biến đổi của một hay một số cặp nuclêôtit trong genĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Các loại đột biến gen bao gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thêm một hoặc vài cặp bazơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thay thế một hoặc vài cặp bazơ;",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bớt một hoặc vài cặp bazơ;",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B, C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác loại đột biến gen bao gồm: Thêm một hoặc vài cặp bazơ; Bớt một hoặc vài cặp bazơ; Thay thế một hoặc vài cặp bazơ;Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Căn cứ vào trình tự của các nuclêôtit trước và sau đột biến của đoạn gen sau, hãy cho biết dạng đột biến:\n\nTrước đột biến:   A T T G X X T X X A A G A X T\n                            T A A X G G A G G T T X T G A\nSau đột biến    :   A T T G X X T A X A A G A X T\n                           T A A X G G A T G T T X T G A",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mất một cặp nuclêôtít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thêm một cặp nuclêôtít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thay một cặp nuclêôtít",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đảo vị trí một cặp nuclêôtít",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThay thế thay thế cặp G-X thành A-T\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Dạng đột biến điểm nào sau đây xảy ra trên gen không làm thay đổi số lượng nuclêôtit còn số liên kết hidro của gen thì giảm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thay một cặp nuclêôtit G-X bằng cặp A-T.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thêm một cặp nuclêôtit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thay cặp nuclêôtit A-T bằng cặp G-X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thay cặp nuclêôtit A-T bằng cặp T-A.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKhi thay thế 1 cặp G-X bằng 1 cặp A-T thì số lượng nucleotit không thay đổi và số lượng liên kết hidro giảm đi 1.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dạng đột biến nào sau đây là đột biến đồng nghĩa?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến thay thế 1 cặp nuclêôtit không làm thay đổi axit amin ở chuỗi pôlipeptit.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đột biến thay thế 1 cặp nuclêôtit làm thay đổi 1 axit amin ở chuỗi polipeptit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến gen làm xuất hiện mã kết thúc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến mất hoặc thêm 1 cặp nuclêôtit làm thay đổi nhiều axit amin ở chuỗi polipeptit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐột biến thay thế 1 cặp nuclêôtit không làm thay đổi axit amin ở chuỗi pôlipeptit là đột biến đồng nghĩa.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Những đột biến nào là đột biến dịch khung",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mất và thêm nuclêôtit",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thêm và thay thế nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mất và đảo nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chuyển đổi vị trí 1 cặp nuclêôtit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMất và thêm nuclêôtit là đột biến dịch khungĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong những dạng biến đổi vật chất di truyền dưới đây, có bao nhiêu dạng là đột biến gen?1. Chuyển đoạn tương hỗ NST2. Mất cặp nuclêôtit.3. Thay cặp nucleotít,4. Đảo đoạn NST.5. Lặp đoạn NST.6. Chuyển đoạn không tương hỗ NST.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Khi nói về nguyên nhân gây ra đột biến gen, có bao nhiêu tác nhân sau đây là đúng?(1). Tia phóng xạ.(2). Virut viêm gan B.(3). 5 – Brôm Uraxin.(4). Sốc nhiệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong những dạng đột biến sau, những dạng nào không thuộc đột biến điểm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thêm một cặp nuclêôtit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thay thế cặp nuclêôtit này bằng cặp nuclêôtit khác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mất 1 đoạn làm giảm số gen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Mất một cặp nuclêôtit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Các tác nhân đột biến có thể gây ra đột biến gen qua cách nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kết cặp không đúng với các bazơ nitơ dạng hiếm trong tái bản ADN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kết cặp nhầm với 5- brôm uraxin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Acridin chèn vào mạch mới đang tổng hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B và C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đột biến tiền phôi là loại đột biến :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Xảy ra trong quá trình thụ tinh tạo hợp tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Xảy ra trong quá trình phát sinh giao tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Xảy ra trong các lần nguyên phân đầu tiên của hợp tử (giai đoạn 2-8 tế bào).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cả A, B và C đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Những loại đột biến gen nào sau đây ít gây hậu quả nghiêm trọng hơn cho sinh vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thay thế và mất 1 cặp nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chuyển đổi vị trí và mất 1 cặp nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thay thế và chuyển đổi vị trí của 1 cặp nuclêôtit",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thay thế và thêm 1 cặp nuclêôtit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Loại đột biến gen nào sau đây không được di truyền bằng con đường sinh sản hữu tính?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến giao tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đột biến tiền phôi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến ở hợp tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến xôma",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho một đoạn mạch gốc ADN có trình tự các bộ ba tương ứng với thứ tự từ 6 đến 11 như sau:3’ ……………AGG-TAX-GXX-AGX-GXA-XXX………..5’Một đột biến xảy ra ở bộ ba thứ 9 trên gen trên làm mất cặp nuclêôtit AT sẽ làm cho trình tự của các nuclêôtit trên mARN như sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3’...UXX-AUG-XGG-XGX-GUG-GG…5’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5’…AGG-TAX-GXX-GXG-XAX-XX…3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5’...UXX-AUG-XGG-XXG-XGU-GGG…3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5’... UXX-AUG-XGG-XGX-GUG-GG …3’",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong quá trình nhân đôi ADN, guanin dạng hiếm gặp bắt đôi với nuclêôtit bình thường nào dưới đây có thể tạo nên đột biến gen?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Adenin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5-BU",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Timin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Xitôzin",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Khi sử dụng chất 5BU (chất đồng đẳng của Timin) có thể gây đột biến theo hướng chủ yếu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. thay thế cặp G-X bằng cặp A-T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thay thế cặp G-X bằng cặp X-G",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. thay thế cặp A-T bằng cặp G-X",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. thay thế cặp A-T bằng cặp T-A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

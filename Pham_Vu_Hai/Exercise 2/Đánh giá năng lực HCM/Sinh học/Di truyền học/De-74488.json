@@ -1,0 +1,212 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/quy-luat-hoan-vi-genn/74488/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nhận định nào dưới đây về tần số hoán vị gen không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Được sử dụng để lập bản đồ gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thể hiện lực liên kết giữa các gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tỉ lệ nghịch với khoảng cách giữa các gen",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không vượt quá 50%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHoán vị gen tỉ lệ thuận với khoảng cách giữa các gen. Các gen càng xa nhau thì lực liên kết giữa các gen càng yếu, dễ dàng xảy ra sự hoán vị genĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nhận định nào sau đây là chính xác khi nói về quy luật di truyền liên kết không hoàn toàn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các gen càng gần nhau càng dễ xảy ra trao đổi dẫn tới hiện tượng hoán vị gen và ngược lại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tùy loài mà hoán vị gen chỉ xảy ra ở giới đực, hay giới cái hoặc cả hai giới",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Quá trình tiếp hợp trao đổi chéo xảy ra giữa hai cromatit chị em của nhiễm sắc thể kép",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quá trình tiếp hợp trao đổi chéo xảy ra ở kỳ giữa của giảm phân I.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác gen càng gần thì càng khó xảy ra trao đổi chéo. Quá trình tiếp hợp xảy ra giữa 2 cromatit của 2 NST khác nguồn trong cặp tương đồng, ở kì đầu giảm phân IĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Để xác định tần số hoán vị gen, người ta thường làm như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tích di truyền giống lai",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tiến hành tự thụ phấn hoặc giao phối cận huyết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lai phân tích",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Lai thuận nghịch",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTiến hành tự thụ phấn hoặc giao phối cận huyết khi muốn tạo dòng thuần.Lai phân tích để xác định có thể có kiểu gen đồng hợp hay dị hợp, xác định tần số hoán vị gen (khi cá thể có hiện tuợng hoán vị gen).Lai thuận nghịch để xác định vị trí gen trong tế bào (gen nằm trên NST thường hoặc trên NST giới tính, gen nằm trong nhân hay ngoài tế bào chất)Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Hiện tượng di truyền liên kết gen hoàn toàn không có ý nghĩa:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hạn chế sự xuất hiện biến dị tổ hợp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lập bản đồ di truyền",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Đảm bảo sự di truyền bền vững của từng nhóm tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giúp duy trì sự di truyền ổn định của các nhóm tính trạng tốt do các gen di truyền liên kết hoàn toàn quy định",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHoán vị gen mới có ý nghĩa trong lập bản đồ di truyền.Liên kết hoàn toàn giúp bảo đảm sự di truyền bền vững, duy trì tính ổn định và hạn chế sự xuất hiện của biến dị tổ hợpĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hoán vị gen xảy ra trong giảm phân là do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự trao đổi chéo giữa hai cromatit trong cùng một nhiễm sắc thể kép.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự phân li độc lập và tổ hợp tự do của các NST khác nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự trao đổi chéo giữa hai cromatit khác nguồn trong cặp NST kép tương đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Sự trao đổi đoạn giữa hai cromatit thuộc các NST không tương đồng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHoán vị gen là hiện tượng xảy ra sự trao đổi chéo giữa hai cromatit khác nguồn trong cặp NST kép tương đồngĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Quá trình giảm phân ở cơ thể có kiểu gen xảy ra hoán vị với tần số 25%. Tỉ lệ phần trăm các loại giao tử hoán vị được tạo ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ABD = Abd = aBD = abd = 6,25%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ABD = abD = Abd = aBd = 6,25%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ABD = aBD = Abd = abd = 12,5%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ABD = ABd = aBD = Abd = 12,5%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCặp Aa cho 2 loại giao tử với tỷ lệ 0,52 cặp Bb, Dd cùng nằm trên 1 NST có hoán vị gen với tần số 25% giảm phân tạo 4 loại giao tử với tỷ lệ:Bd= bD= 0,375 ; BD= bd= 0,125Cơ thể có kiểu gen giảm phân xảy ra hoán vị với tần số 25% tạo các loại giao tử hoán vị với tỷ lệ:ABD= Abd= aBD= abd= 6,25%.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Khoảng cách của 2 gen trên nhiễm sắc thể là 102 cM thì tần số hoán vị gen giữa hai gen này là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 102%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 50%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 100%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 51%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Theo lí thuyết, cơ thể có kiểu gen giảm phân bình thường tạo giao tử AB chiếm tỉ lệ bao nhiêu? Biết rằng đã xảy ra hoán vị gen với tần số 20%.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 20%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 40%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 10%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 30%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Quá trình giảm phân ở cơ thể có kiểu gen đã xảy ra hoán vị gen. Theo lí thuyết, trong tổng số giao tử được tạo ra, tần số hoán vị gen được tính bằng tổng tỉ lệ % của 2 loại giao tử nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ABvà ab.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Abvà aB.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Abvà ab.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ABvà aB.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

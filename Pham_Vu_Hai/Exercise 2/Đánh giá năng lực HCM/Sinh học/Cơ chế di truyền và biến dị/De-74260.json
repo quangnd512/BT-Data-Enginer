@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/qua-trinh-nhan-doi-dnaa/74260/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Các mạch đơn mới được tổng hợp trong quá trình nhân đôi của phân tử ADN hình thành:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cùng chiều tháo xoắn của ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cùng chiều với mạch khuôn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Theo chiều 3’ đến 5’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Theo chiều 5’ đến 3’",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nCác mạch đơn mới được tổng hợp trong quá trình nhân đôi của phân tử ADN hình thành theo chiều 5’ đến 3’\nĐáp án cần chọn là D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong tế bào động vật, sự nhân đôi của ADN xảy ra ở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lục lạp, nhân, trung thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ti thể, nhân, lục lạp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhân, trung thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhân, ti thể.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTrong tế bào động vật, sự nhân đôi của ADN xảy ra ở nhân và ti thể.\n\nĐáp án cần chọn là D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Quá trình nhân đôi ADN được thực hiện theo nguyên tắc gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai mạch được tổng hợp theo nguyên tắc bổ sung song song liên tục.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nguyên tắc bổ sung và nguyên tắc bán bảo toàn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mạch liên tục hướng vào, mạch gián đoạn hướng ra chạc ba tái bản.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một mạch được tổng hợp gián đoạn, một mạch được tổng hợp liên tục.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nQuá trình nhân đôi ADN được thực hiện theo nguyên tắc bổ sung và nguyên tắc bán bảo toàn.\n\nĐáp án cần chọn là B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong quá trình nhân đôi ADN, một trong những vai trò của enzim ADN pôlimeraza là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bẻ gãy các liên kết hiđrô giữa hai mạch của phân tử ADN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nối các đoạn Okazaki để tạo thành mạch liên tục.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tổng hợp mạch mới theo nguyên tắc bổ sung với mạch khuôn của ADN.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tháo xoắn và làm tách hai mạch của phân tử ADN.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nEnzim ADN pôlimeraza có vai trò tổng hợp mạch mới cho ADN\n\nĐáp án cần chọn là C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khi ADN tự nhân đôi, đoạn Okazaki là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các đoạn êxôn của gen không phân mảnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các đoạn intrôn của gen phân mảnh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đoạn pôlinuclêôtit sinh từ mạch 5’—>3’ của gen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đoạn pôlinuclêôtit sinh từ mạch 3’—>5’ của gen.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nKhi ADN tự nhân đôi, đoạn Okazaki là Đoạn pôlinuclêôtit sinh từ mạch 5’—>3’ của gen.\n\nĐáp án cần chọn là C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Quá trình nhân đôi ADN không có thành phần nào sau đây tham gia?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các nuclêôtit tự do",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Enzyme ligaza",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Axit amin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ADN polimeraza",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTrong quá trình nhan đôi ADN không có sự tham gia của axit amin\n\nĐáp án cần chọn là C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Quá trình nhân đôi AND là quy trình tạo ra hai phân tử AND có đặc điểm gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giống một nửa cấu trúc phân tử AND mẹ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giống hệt cấu trúc phân tử AND mẹ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Giống một phần cấu trúc phân tử AND mẹ, tuỳ enzyme tham gia vào quá trình",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khác hoàn toàn cấu trúc phân tử AND mẹ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Đây là quá trình gì??",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phiên mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dịch mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhân đôi DNA",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Điều hòa gen",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Di truyền học hiện đại đã chứng minh ADN tái bản theo nguyên tắc:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bảo toàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bán bảo toàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nửa gián đoạn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả B và C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong quá trình nhân đôi DNA: một mạch được tổng hợp liên tục, còn mạch kia bị tổng hợp từng đoạn một sau đó các đoạn mới được nối vào nhau. Đây là phát biểu của nguyên tắc:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bổ sung",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bảo toàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nửa gián đoạn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Gián đoạn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Nối nội dung tương ứng ở cột A với cột B",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1-c, 2-g, 3-e, 4-a, 5-d",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1-g, 2-c, 3-e, 4-a, 5-d",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1-g, 2-b, 3-c, 4-a, 5-d",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1-g, 2-c, 3-e, 4-f, 5-d",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đâu là ý nghĩa của quá trình nhân đôi DNA",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giúp tính trạng được biểu hiện ra bên ngoài rõ ràng hơn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giúp cho thông tin di truyền từ thế hệ này sang thế hệ khác được truyền đạt nguyên vẹn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Giúp đa dạng thông tin di truyền",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giúp thế hệ sau có nhiều biến dị tốt hơn thế hệ trước",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Nối nội dung tương ứng ở cột A với cột B",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1-b; 2-e; 3-a; 4-d; 5-c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1-e; 2-a; 3-b; 4-d; 5-c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1-e; 2-b; 3-a; 4-d; 5-c",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1-e; 2-b; 3-d; 4-a; 5-c",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho 4 phân tử ADN “mẹ” tự sao k lần liên tiếp thì số phân tử ADN được tạo ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2k",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2k/4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4.2k",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. k.24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Có một số phân tử ADN thực hiện tái bản 5 lần. nếu môi trường nội bào cung cấp nguyên liệu để tổng hợp 62 mạch polinucleotit mới thì số phân tử ADN đã tham gia quá trình tái bản nói trên là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "ADN dài 5100 Å tự sao 5 lần liền cần số nuclêôtit tự do là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 51000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 93000",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 46500",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 96000",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một mạch đơn của gen gồm 60 A, 30 T, 120 G, 80 X tự sao một lần sẽ cần:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A=T=180;G=X=120.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A=T=120; G=X=180",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A=T=90; G=x=200.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. A=T=200; G=x=90",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Gen dài 510 nm và có tỉ lệ A=1/3 số nuclêôtit của gen, khi tự nhân đôi hai lần liên tiếp sẽ có tổng số liên kết hydro được hình thành là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 14000.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 21000.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 105000.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 24000.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Gen dài 510 nm và có tỉ lệ A/G=2, khi tự nhân đôi hai lần liên tiếp sẽ có số liên kết hydro bị hủy là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10500.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 51000.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 15000.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 50100.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Số liên kết cộng hóa trị giữa các nuclêôtit bị phá vỡ sau 1 lần nhân đôi của một gen có N nuclêôtit là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N-2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (N-2) ×( 2k- 1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Một phân tử ADN của vi khuẩn thực hiện nhân đôi, người ta đếm được tổng số 50 phân đoạn Okazaki. Số đoạn mồi cần được tổng hợp là bao nhiêu ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 50",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 51",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 52",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không xác định",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

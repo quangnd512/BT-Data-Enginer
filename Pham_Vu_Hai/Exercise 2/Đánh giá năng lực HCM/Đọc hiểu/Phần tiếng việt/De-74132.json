@@ -1,0 +1,97 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cum-tu/74132/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dòng nào dưới đây chỉ toàn là các cụm danh từ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những chiếc mũ to tướng, đôi mắt đen vời vợi, nắng vàng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Một chiếc mũ to tướng, thấm vào da thịt, luồn trong áo, cao lênh khênh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cao lênh khênh, che nắng, không để mưa hắt vào cổ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả 3 đáp án trên",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nDòng chỉ gồm các cụm danh từ đó là:\nNhững chiếc mũ to tướng, đôi mắt đen vời vợi, nắng vàng.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phần gạch chân trong câu “Tôi đội một chiếc mũ to tướng cao lêu đêu chẳng ra hình thù gì làm bằng da một con dê” là cụm từ gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cụm tính từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cụm danh từ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cụm động từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cụm chủ vị",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nCụm “một chiếc mũ to tướng cao lêu đêu” là cụm danh từ.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Câu văn sau có bao nhiêu cụm động từ: “Còn về diện mạo tôi, nó không đến nỗi đen cháy như các bạn có thể nghĩ về một kẻ chẳng quan tâm gì đến da dẻ mình lại sống ở vào khoảng chín hoặc mười độ vĩ tuyến miền xích đạo”?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ba",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bốn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Năm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCác cụm động từ được tìm thấy trong câu là: có thể nghĩ, chẳng quan tâm\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho các câu sau đây:\na) Nhưng những điều kì lạ là tất cả những ảnh hưởng quốc tế đó đó nhào nặn với cỏi gốc văn hoá dân tộc không gì lay chuyển được ở Người.\n(Lê Anh Trà, Phong cách Hồ Chí Minh).\nb) Với lòng mong nhớ của anh, chắc anh nghĩ rằng, con anh sẽ chạy xô vào lòng anh, sẽ ôm chặt lấy cổ anh.\n(Nguyễn Quang Sáng, Chiếc lược ngà)\nc) Không lời gửi của một Nguyễn Du, một Tôn - xtôi cho nhân loại phức tạp hơn, cũng phong phú và sâu sắc hơn.\nCụm từ in đậm nào là cụm danh từ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tất cả những ảnh hưởng quốc tế đó",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. sẽ chạy xô vào lòng anh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sẽ ôm chặt lấy cổ anh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. phức tạp hơn,cũng phong phú và sâu sắc hơn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Cụm danh từ: Tất cả những ảnh hưởng quốc tế đó.\n- Cụm động từ: sẽ chạy xô vào lòng anh, sẽ ôm chặt lấy cổ anh\n- Cụm tính từ: phức tạp hơn, cũng phong phú và sâu sắc hơn.\nĐáp án cần chọn là: A"
+        }
+    ]
+}

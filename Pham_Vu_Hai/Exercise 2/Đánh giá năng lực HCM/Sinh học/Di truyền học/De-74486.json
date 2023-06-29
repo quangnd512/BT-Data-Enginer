@@ -1,0 +1,212 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/quy-luat-lien-ket-gen1/74486/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đối tượng trong nghiên cứu di truyền của Morgan là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đậu Hà Lan",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ruồi giấm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chuột bạch",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐối tượng trong nghiên cứu di truyền của Morgan là ruồi giấmĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Thế nào là nhóm gen liên kết?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các gen alen cùng nằm trên một NST phân li cùng nhau trong quá trình phân bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các gen không alen cùng nằm trên một NST phân li cùng nhau trong quá trình phân bào",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các gen không alen nằm trong bộ NST phân li cùng nhau trong quá trình phân  bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các gen alen nằm trong bộ NST phân li cùng nhau trong quá trình phân bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác gen không alen cùng nằm trên một NST phân li cùng nhau trong quá trình phân bào làm 1 nhóm gen liên kếtĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trường hợp nào sẽ dẫn tới sự di truyền liên kết?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các cặp gen qui định các cặp tính trạng nằm trên các cặp nhiễm sắc thể khác nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các cặp gen qui định các cặp tính trạng xét tới cùng nằm trên 1 cặp nhiễm sắc thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các tính trạng khi phân ly làm thành một nhóm tính trạng liên kết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các gen nằm trên cùng một nhiễm sắc thể phải luôn di truyền cùng nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác gen cùng nằm trên một NST phân ly và tổ hợp cùng nhau trong quá trình giảm phân và thụ tinh dẫn đến sự di truyền liên kết.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Với 2 cặp gen không alen cùng nằm trên 1 cặp nhiễm sắc thể tương đồng, thì cách viết kiểu gen nào dưới đây là khôngđúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nA, B, D đều là cách viết đúngC viết sai, A và a là một cặp alen của một gen nên phải nằm về hai phía đối nhau.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Ở ruồi giấm, bộ nhiễm sắc thể lưỡng bội 2n= 8. Số nhóm gen liên kết của loài này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố nhóm gen liên kết bằng số NST bộ đơn bội và bằng 4. Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cơ sở tế bào học của trao đổi đoạn nhiễm sắc thể là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự tiếp hợp các NST tương đồng ở kì trước của giảm phân I.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự trao đổi đoạn giữa 2 crômatit cùng nguồn gốc ở kì trước của giảm phân II.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự trao đổi đoạn giữa các crômatit khác nguồn gốc ở kì trước giảm phân I.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Sự phân li và tổ hợp tự do của nhiễm sắc thể trong giảm phân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCơ sở tế bào học của trao đổi đoạn nhiễm sắc thể là sự trao đổi đoạn giữa các crômatit khác nguồn gốc ở kì trước giảm phân I.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cá thể có kiểu gen tạo ra mấy loại giao tử:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 16",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho phép lai P: . Biết các gen liên kết hoàn toàn. Tính theo lí thuyết, số kiểu gen ở F1sẽ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cơ thể nào sau đây có kiểu gen dị hợp tử về 2 cặp gen?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/can-bang-hoa-hoc-a/76114/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho cân bằng hóa học: H2 (k) + I2 (k) ⇆ 2HI (k) (∆H >0)\nCân bằng không bị chuyển dịch khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. giảm nồng độ HI.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tăng nồng độ H2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tăng nhiệt độ của hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. giảm áp suất chung của hệ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n- Giảm nồng độ HI: làm cân bằng chuyển dịch sang chiều tăng nồng độ của HI (chiều thuận).\n- Tăng nồng độ H2: làm cân bằng chuyển dịch theo chiều giảm nồng độ của H2 (chiều thuận).\n- Tăng nhiệt độ của hệ: cân bằng chuyển dịch theo chiều giảm nhiệt độ của hệ (chiều thuận – chiều phản ứng thu nhiệt).\n- Giảm áp suất chung của hệ: cân bằng phản ứng không bị chuyển dịch vì tổng số mol khí hai vế bằng nhau.\n=>Cân bằng không bị chuyển dịch khi giảm áp suất chung của hệ.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hệ cân bằng sau được thực hiện trong bình kín:\n2SO2 (k) + O2 (k) ⇆⇆ 2SO3 (k) (∆H < 0)\nYếu tố nào sau đây không làm nồng độ các chất trong hệ cân bằng biến đổi?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biến đổi nhiệt độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Biến đổi áp suất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Sự có mặt chất xúc tác.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Biến đổi thể tích của phản ứng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nCác yếu tố làm nồng độ các chất trong hệ cân bằng biến đổi (làm cân bằng chuyển dịch) :\n- Nhiệt độ : vì phản ứng có ∆H < 0 (phản ứng tỏa nhiệt) =>cân bằng chuyển dịch theo chiều thuận khi giảm nhiệt độ và ngược lại\n- Áp suất : tổng số mol khí sau phản ứng giảm =>cân bằng chuyển dịch theo chiều thuận khi tăng áp suất chung của hệ và ngược lại.\n- Biến đổi thể tích của phản ứng (thay đổi nồng độ của các chất trong phản ứng).\n→ Chất xúc tác không ảnh hưởng đến chuyển dịch cân bằng.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Sự phá vỡ cân bằng cũ để chuyển sang một cân bằng mới do các yếu tố bên ngoài tác động được gọi là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sự biến đổi chất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sự chuyển dịch cân bằng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. sự biến đổi vận tốc phản ứng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sự biến đổi hằng số cân bằng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sự phá vỡ cân bằng cũ để chuyển sang một cân bằng mới do các yếu tố bên ngoài tác động được gọi là sự chuyển dịch cân bằng.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Yếu tố nào sau đây không gây ra sự chuyển dịch cân bằng của phản ứng thuận nghịch nói chung ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Áp suất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nồng độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhiệt độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chất xúc tác.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nCác yếu tố gây ra sự chuyển dịch cân bằng của phản ứng thuận nghịch nói chung là: nhiệt độ, áp suất và nồng độ.\nYếu tố xúc tác không làm cân bằng chuyển dịch.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho phản ứng ở trạng thái cân bằng : H2(k) +  I2(k) ⇄ 2HI(k); ∆H < 0.Cân bằng sẽ chuyển dịch theo chiều thuận khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.giảm nồng độ H2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tăng nồng độ HI.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. giảm nhiệt độ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. tăng áp suất.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:- Xét A: Khi giảm nồng độ H2 cân bằng chuyển dịch theo chiều chống lại sự giảm đó, tức là theo chiều nghịch.- Xét B: Khi tăng nồng độ HI, cân bằng chuyển dịch theo chiều chống lại sự tăng đó, tức là chiều nghịch.- Xét C: Vì ∆H < 0 nên phản ứng thuận là phản ứng tỏa nhiệt. Khi giảm nhiệt độ, cân bằng chuyển dịch theo chiều phản ứng tỏa nhiệt, tức là phản ứng thuận.- Xét D: Do số phân tử khí ở 2 vế bằng nhau nên áp suất không ảnh hưởng đến sự chuyển dịch cân bằng hóa học.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho phản ứng: Fe2O3(r) + 3CO(k) ⇄  2Fe(r) + 3CO2 (k). Khi tăng áp suất của phản ứng này thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cân bằng chuyển dịch theo chiều thuận.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.cân bằng không bị chuyển dịch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. cân bằng chuyển dịch theo chiều nghịch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. phản ứng dừng lại.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cân bằng có tổng số mol khí hai bên bằng nhau nên sự thay đổi của áp suất không ảnh hưởng đến sự chuyển dịch cân bằngĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Khi tăng áp suất chung của hệ thì cân bằng nào sau đây chuyển dịch theo chiều nghịch (giữ nguyên các yếu tố khác)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CO2(k) + H2(k) ⇄ CO(k) + H2O(k)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N2O4(k) ⇄ 2NO2(k)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2SO2(k) + O2(k) ⇄ 2SO3(k)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. N2(k) + 3H2(k) ⇄ 2NH3(k)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Xét các cân bằng hóa học sau:\n\\[I.F{e_3}{O_{4\\left( r \\right)}} + 4C{O_{\\left( k \\right)}} \\mathbin{\\lower.3ex\\hbox{$\\buildrel\\textstyle\\rightarrow\\over{\\smash{\\leftarrow}\\vphantom{_{\\vbox to.5ex{\\vss}}}}$}} 3F{e_{\\left( r \\right)}} + 4C{O_{2\\left( k \\right)}}\\]\n\\[II.Ba{O_{\\left( r \\right)}} + C{O_2}_{\\left( k \\right)} \\mathbin{\\lower.3ex\\hbox{$\\buildrel\\textstyle\\rightarrow\\over{\\smash{\\leftarrow}\\vphantom{_{\\vbox to.5ex{\\vss}}}}$}} BaC{O_{3\\left( r \\right)}}\\]\n\\[III.{H_{2\\left( k \\right)}} + B{r_2}_{\\left( k \\right)} \\mathbin{\\lower.3ex\\hbox{$\\buildrel\\textstyle\\rightarrow\\over{\\smash{\\leftarrow}\\vphantom{_{\\vbox to.5ex{\\vss}}}}$}} 2HB{r_{\\left( k \\right)}}\\]\n\\[IV.2NaHC{O_3}\\left( r \\right) \\mathbin{\\lower.3ex\\hbox{$\\buildrel\\textstyle\\rightarrow\\over{\\smash{\\leftarrow}\\vphantom{_{\\vbox to.5ex{\\vss}}}}$}} N{a_2}C{O_3}\\left( r \\right) + C{O_2}\\left( k \\right) + {H_2}O\\left( k \\right)\\]\nKhi tăng áp suất, các cân bằng hóa học không bị dịch chuyển là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I, III.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I, IV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. II, IV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. II, III.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Hằng số cân bằng hóa học phụ thuộc vào yếu tố nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Áp suất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhiệt độ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Xúc tác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nồng độ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho cân bằng 2SO2 (k) + O2 (k) ↔ 2SO3(k). Khi tăng nhiệt độ thì tỉ khối của hỗn hợp khí so với H2 giảm đi. Phát biểu đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phản ứng thuận tỏa nhiệt, cân bằng chuyển dịch theo chiều nghịch khi tăng nhiệt độ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Phản ứng nghịch thu nhiệt, cân bằng chuyển dịch theo chiều thuận khi tăng nhiệt độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phản ứng nghịch tỏa nhiệt, cân bằng chuyển dịch theo chiều thuận khi tăng nhiệt độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phản ứng thuận thu nhiệt, cân bằng chuyển dịch theo chiều nghịch khi tăng nhiệt độ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho phản ứng: N2(k) + 3H2(k)  ⇆ 2NH3  (k); ∆H = –92 kJ. Hai biện pháp đều làm cân bằng chuyển dịch theo chiều thuận là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. giảm nhiệt độ và giảm áp suất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tăng nhiệt độ và tăng áp suất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. giảm nhiệt độ và tăng áp suất.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. tăng nhiệt độ và giảm áp suất.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong công ngiệp, sản xuất NH3, phản ứng xảy ra tạo thành một cân bằng hóa học. Cân bằng hóa học này phải thực hiện ở áp suất cao, nhiệt độ thấp nhưng không quá thấp (khoảng 4500C). Từ đó suy ra đặc điểm của phản ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phản ứng thuận tỏa nhiệt, áp suất tăng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phản ứng thuận thu nhiệt , giảm áp suất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phản ứng thuận tỏa nhiệt giảm áp suất",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Phản ứng thuận thu nhiệt , áp suất tăng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Dưới tác dụng của nhiệt, PCl5 bị phân tách thành PCl3 và Cl2  theo phản ứng cân bằng PCl5(k) ⇄ PCl3(k) + Cl2(k). Ở 2730C và dưới áp suất 1atm, hỗn hợp lúc cân bằng có khối lượng riêng là 2,48 gam/lít. Lúc cân bằng nồng độ mol của PCl5 có giá trị gần nhất với ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,75.10-3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,39.10-3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,45.10-3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1,98.10-3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho cân bằng hóa học : nX (k) + mY (k) ⇄ pZ (k) + qT (k). Ở 50oC, số mol chất Z là x; Ở 100oC số mol chất Z là y. Biết x >y và (n+m) >(p+q), kết luận nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phản ứng thuận thu nhiệt, làm tăng áp suất của hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phản ứng thuận tỏa nhiệt, làm tăng áp suất của hệ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Phản ứng thuận thu nhiệt, làm giảm áp suất của hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phản ứng thuận tỏa nhiệt, làm giảm áp suất của hệ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong một bình kín dung tích V lít không đổi có chứa 1,3a mol O2 và 2,5a mol SO2 ở 100oC, 2 atm (có mặt xúc tác V2O5), nung nóng bình một thời gian sau đó làm nguội tới 100oC, áp suất trong bình lúc đó là p; hiệu suất phản ứng tương ứng là h. Mối liên hệ giữa p và h được biểu thị bằng biểu thức",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[p = 2.\\left( {1 - \\frac{{1,25h}}{{3,8}}} \\right)\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[p = 2.\\left( {1 - \\frac{{2,5h}}{{3,8}}} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[p = 2.\\left( {1 - \\frac{{0,65h}}{{3,8}}} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[p = 2.\\left( {1 - \\frac{{1,3h}}{{3,8}}} \\right)\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho các cân bằng sau trong các bình riêng biệt:      (1) H2 (k, không màu)  +  I2 (k, tím)   ⇄    2HI (k, không màu) (2) 2NO2 (k, nâu đỏ)   ⇄   N2O4 (k, không màu)   Nếu làm giảm thể tích bình chứa của cả 2 hệ trên, so với ban đầu thì màu của",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hệ (1) hệ (2) đều đậm lên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hệ (1) không thay đổi; hệ (2) nhạt đi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. hệ (1) và hệ (2) đều nhạt đi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hệ (1) đậm lên; hệ (2) nhạt đi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong một bình kín chứa 10 lít nitơ và 10 lít hiđro ở nhiệt độ 00C và 10 atm. Sau phản ứng tổng hợp NH3, lại đưa bình về 0oC Biết rằng có 60% hiđro tham gia phản ứng, áp suất trong bình sau phản ứng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10 atm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8 atm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 9 atm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8,5 atm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một hợp chất có công thức là MAx, trong đó M chiếm 46,67% về khối lượng. M là kim loại, A là phi kim ở chu kì 3. Trong hạt nhân của M có n – p= 4, trong hạt nhân của A có n’= p’. Tổng số proton trong MAx là 58. Xác định nguyên tố, số hạt proton trong nguyên tử M, A và công thức của MAx?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. M là Fe, nguyên tử có 26 proton; A là S, nguyên tử có 16 proton, công thức phân tử FeS",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. M là Fe, nguyên tử có 26 proton; A là S, nguyên tử có 16 proton, công thức phân tử FeS2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. M là Mg, nguyên tử có 12 proton; A là S, nguyên tử có 16 proton, công thức phân tử MgS",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. M là Na, nguyên tử có 11 proton; A là S, nguyên tử có 16 proton, công thức phân tử NaS",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Quá trình tổng hợp NH3 từ H2 và N2 (với xúc tác Al2O3) có thể được biểu diễn bằng cân bằng hóa học sau:N2 + 3H2 ⇄ 2NH3 ; ΔH < 0Người ta thử các cách sau:(1) tăng áp suất của khí N2 khi cho vào hệ.(2) tăng áp suất chung của hệ.(3) giảm nhiệt độ của hệ.(4) không dùng chất xúc tác nữa.(5) hóa lỏng NH3 và đưa ra khỏi hệ.Số cách làm có thể làm cân bằng chuyển dịch theo chiều thuận là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các phát biểu sau về cân bằng hóa học:(1) Cân bằng hóa học là trạng thái của phản ứng thuận nghịch khi tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch.(2) Ở trạng thái cân bằng hóa học, phản ứng dừng lại.(3) Trong hệ đạt trạng thái cân bằng hóa học, luôn có mặt của các chất sản phầm, các chất phản ứng có thể không có.(4) Ở trạng thái cân bằng hóa học, nồng độ các chất phản ứng giảm đi bao nhiêu theo phản ứng thuận lại được tạo ra bấy nhiêu theo phản ứng nghịch.(5) Trong tất cả các cân bằng hóa học trong pha khí, khi thay đổi áp suất của hệ, cân bằng bị chuyển dịch.Số phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

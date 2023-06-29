@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/nhiem-sac-the-va-dot-bien-cau-truc-nhiem-sac-the/74291/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đột biến gen thường gây hại cho cơ thể mang đột biến vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. làm ngừng trệ quá trình phiên mã, không tổng hợp được prôtêin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. làm biến đổi cấu trúc gen dẫn tới cơ thể sinh vật không kiểm soát được quá trình tái bản của gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. làm gen bị biến đổi dẫn tới không kế tục vật chất di truyền qua các thế hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. làm sai lệch thông tin di truyền dẫn tới làm rối loạn quá trình sinh tổng hợp prôtêin.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐột biến gen thường gây hại cho cơ thể mang đột biến vì làm sai lệch thông tin di truyền dẫn tới làm rối loạn quá trình sinh tổng hợp prôtêinĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Các tác nhân đột biến có thể gây ra đột biến gen qua cách nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kết cặp không đúng với các bazơ nitơ dạng hiếm trong tái bản ADN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kết cặp nhầm với 5- brôm uraxin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Acridin chèn vào mạch mới đang tổng hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B và C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác tác nhân đột biến có thể gây ra đột biến gen bằng cả ba cách A, B, C.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đột biến tiền phôi là loại đột biến :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Xảy ra trong quá trình thụ tinh tạo hợp tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Xảy ra trong quá trình phát sinh giao tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Xảy ra trong các lần nguyên phân đầu tiên của hợp tử (giai đoạn 2-8 tế bào).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cả A, B và C đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐột biến tiền phôi xảy ra trong các lần nguyên phân đầu tiên của hợp tử (giai đoạn 2-8 tế bào).Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Đột biến gen có thể làm xuất hiện",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các alen mới",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Các tế bào mới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các NST mới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các tính trạng mới",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐột biến gen làm xuất hiện các alen mới. Chỉ có đột biến mới có thể làm xuất hiện alen mới, chưa từng có trong quần thểĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Những loại đột biến gen nào sau đây ít gây hậu quả nghiêm trọng hơn cho sinh vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thay thế và mất 1 cặp nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chuyển đổi vị trí và mất 1 cặp nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thay thế và chuyển đổi vị trí của 1 cặp nuclêôtit",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thay thế và thêm 1 cặp nuclêôtit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMất và thêm một cặp nuclêôtit thường gây hậu quả nghiêm trọng hơn so với thay thế và chuyển đổi một cặp nuclêôtit. Vì mất và thêm 1 cặp nuclêôtit gây đột biến dịch khung, còn thay thế và chuyển đổi 1 cặp nuclêôtit chỉ gây biến đổi 1 vài axit amin hoặc không gây biến đổi nếu đó là đột biến đồng nghĩaĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Loại đột biến gen nào sau đây không được di truyền bằng con đường sinh sản hữu tính?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến giao tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đột biến tiền phôi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến ở hợp tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến xôma",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐột biến xôma – đột biến ở cơ quan sinh dưỡng, không di truyền bằng sinh sản hữu tính.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong điều kiện gen trội lặn hoàn toàn, phát biểu nào sau đây đúng về sự biểu hiện kiểu hình của đột biến gen trong đời cá thể?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến gen trội chỉ biểu hiện khi ở thể đồng hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đột biến gen trội biểu hiện khi ở thể đồng hợp và ở thể dị hợp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Đột biến gen lặn chỉ biểu hiện ở thể dị hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến gen lặn không biểu hiện được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Sau đột biến, số liên kết hyđrô của gen giảm đi 2 liên kết, gen đã xảy ra đột biến nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mất một cặp A-T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mất một cặp G – X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thay thế hai cặp G-X bằng hai cặp A-T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A và C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Biến đổi trong dãy nuclêôtit của gen cấu trúc dẫn tới sự biến đổi nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gen đột biến → mARN đột biến → Prôtêin đột biến",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. mARN đột biến → Gen đột biến → Prôtêin đột biến",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Prôtêin đột biến → Gen đột biến → mARN đột biến.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Gen đột biến → Prôtêin đột biến → mARN đột biến",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho một đoạn mạch gốc ADN có trình tự các bộ ba tương ứng với thứ tự từ 6 đến 11 như sau:3’ ……………AGG-TAX-GXX-AGX-GXA-XXX………..5’Một đột biến xảy ra ở bộ ba thứ 9 trên gen trên làm mất cặp nuclêôtit AT sẽ làm cho trình tự của các nuclêôtit trên mARN như sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3’...UXX-AUG-XGG-XGX-GUG-GG…5’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5’…AGG-TAX-GXX-GXG-XAX-XX…3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5’...UXX-AUG-XGG-XXG-XGU-GGG…3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5’... UXX-AUG-XGG-XGX-GUG-GG …3’",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một gen bị đột biến dẫn đến ở đoạn giữa của mạch gốc gen mất đi 1 bộ ba. Như vậy chiều dài của gen sau đột biến sẽ như thế nào so với trước đột biến ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tăng 10,2 Å",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giảm 10,2 Å",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tăng 20,4 Å",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giảm 20,4 Å",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho một đoạn mạch gốc ADN có trình tự các bộ ba tương ứng với thứ tự từ 6 đến 11 như sau:3’ ………AAG-TAT- GXX-AGX- AXA-XXX………..5’Một đột biến đảo cặp nuclêôtit XG của bộ ba thứ 6 với cặp TA ở bộ ba thứ 7 của gen trên làm cho sẽ dẫn đến kết quả:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Làm 2 axit amin tương ứng với vị trí mã thứ 6 và thứ 7 bị thay đổi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Làm trình tự của các nuclêôtit bị thay đổi từ vị trớ mã thứ 6 trở về sau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Làm trình tự của các nuclêôtit bị thay đổi từ vị trớ mã thứ 7 trở về sau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không làm thay đổi axit amin nào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Có bao nhiêu trường hợp sau đây, gen đột biến có thể được biểu hiện thành kiểu hình? (Cho rằng đột biến không ảnh hưởng đến sức đống của cơ thể sinh vật)?(1). Đột biến lặn phát sinh trong nguyên phân(2). Đột biến ti thể phát sinh trong quá trình hình thành trứng(3). Đột biến trội phát sinh trong quá trình hình thành giao tử(4). Đột biến trội phát sinh trong quá trình nguyên phân của hợp tử(5). Đột biến lặn trên nhiễm sắc thể X có ở giới dị giao tử",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong đột biến điểm thì đột biến thay thế là dạng phổ biến nhất. Có bao nhiêu phát biểu sau giải thích cho đặc điểm trên?(I). Đột biến thay thế có thể xảy ra khi không có tác nhân gây đột biến.(II). Là dạng đột biến thường ít ảnh hưởng đến sức sống của sinh vật hơn so với các dạng còn lại.(III). Dạng đột biến này chỉ xảy ra trên một mạch của phân tử ADN.(IV). Là dạng đột biến thường xảy ra ở nhóm động vật bậc thấp.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong quá trình nhân đôi ADN, guanin dạng hiếm gặp bắt đôi với nuclêôtit bình thường nào dưới đây có thể tạo nên đột biến gen?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Adenin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5-BU",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Timin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Xitôzin",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Khi sử dụng chất 5BU (chất đồng đẳng của Timin) có thể gây đột biến theo hướng chủ yếu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. thay thế cặp G-X bằng cặp A-T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thay thế cặp G-X bằng cặp X-G",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. thay thế cặp A-T bằng cặp G-X",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. thay thế cặp A-T bằng cặp T-A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Để một đột biến gen lặn có điều kiện biểu hiện thành kiểu hình trong một quần thể giao phối cần:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gen lặn đó bị đột biến trở lại thành alen trội và biểu hiện ngay thành kiểu hình",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Alen tương ứng bị đột biến thành alen lặn, làm xuất hiện kiểu gen đồng hợp lặn và biểu hiện thành kiểu hình",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Qua giao phối để tăng số lượng cá thể dị hợp và tạo điều kiện cho các gen tổ hợp với nhau làm xuất hiện kiểu gen đồng hợp lặn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả đều đúng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

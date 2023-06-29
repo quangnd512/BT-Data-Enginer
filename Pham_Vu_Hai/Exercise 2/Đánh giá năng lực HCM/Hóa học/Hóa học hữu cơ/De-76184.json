@@ -1,0 +1,557 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tinh-luong-tinh-cua-amino-acid/76184/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dung dịch nào sau đây làm quỳ tím đổi thành màu xanh?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3-CH(NH2)COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2N-CH2-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N-[CH2]4-CH(NH2)-COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (CH3)2CH-CH(NH2)-COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Xét amino axit có dạng: (NH2)xR(COOH)yA, B, D. x = y =>quỳ không đổi màuC. x >y =>quỳ hóa xanhĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Dung dịch của chất nào trong các chất dưới đây không làm đổi màu quỳ tím?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NH2CH2COOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. HOOCCH2CH2CH(NH2)COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Xét hợp chất có dạng: (NH2)xR(COOH)yA. x >y → amin làm quỳ xanhB. x = y → không đổi màu quỳC. x < y → quỳ chuyển đỏD. x < y → quỳ chuyển đỏĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho dãy các chất: C6H5NH2 (anilin), H2NCH2COOH, CH3CH2COOH, CH3CH2CH2NH2, C6H5OH (phenol). Số chất trong dãy tác dụng được với dung dịch HCl là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các chất tác dụng với dung dịch HCl là C6H5NH2 (anilin), H2NCH2COOH, CH3CH2CH2NH2Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Axit aminoaxetic (H2NCH2COOH) tác dụng được với dung dịch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Na2SO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:NaNO3, NaCl, Na2SO4 là những muối của axit mạnh và bazơ mạnh→ không tác dụng với H2NCH2COOHH2NCH2COOH tác dụng được với dung dịch NaOHH2NCH2COOH + NaOH → H2NCH2COONa + H2OĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Glyxin không tác dụng với",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.H2SO4 loãng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CaCO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H5OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. KCl.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Glyxin có nhóm NH2→ tác dụng được với H2SO4 loãngGlyxin có nhóm COOH → tác dụng được với CaCO3 và C2H5OHGlyxin không tác dụng được với KClĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Nhúng quỳ tím vào dung dịch nào sau đây, dung dịch nào làm quỳ chuyển màu hồng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ClH3N-CH2-CH2-COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. H2N-CH2-COONa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N-CH2-CH(NH2)-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3-CH(NH2)-COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:+ Đối với hợp chất dạng: R(NH3Cl)x(COOH)y(NH2)z(COONa)tA. x + y >z + t môi trường axit =>quì sang đỏB. x + y = z + t môi trường trung tính =>không đổi màu quìC. x + y < z + t môi trường bazo =>quì sang xanhD. x + y = z + t môi trường trung tính =>không đổi màu quìĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Có các dung dịch riêng biệt sau:C6H5-NH3Cl (phenylamoni clorua), H2N-CH2-CH2-CH(NH2)-COOH, ClH3N-CH2COOH, H2N-CH2-COONa,HOOC-CH2-CH2-CH(NH2)-COOH.Số lượng các dung dịch có pH < 7 là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho 35,6 gam alanin tác dụng với lượng dư dung dịch HCl thu được m gam muối khan. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 50,30.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 50,20.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 45,62.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 37,65.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "X là một α-aminoaxit no, mạch hở, chỉ chứa 1 nhóm –NH2 và 1 nhóm –COOH. Cho X tác dụng vừa đủ với 150ml dung dịch HCl 1M, thu được 16,725 gam muối. CTCT của X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2N-CH2-COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CH3-CH(NH2)-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H5-CH(NH2)-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2N- CH2-CH2-COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Amino axit X trong phân tử có một nhóm –NH2 và một nhóm –COOH. Cho 26,7 gam X phản ứng với lượng dư dung dịch HCl, thu được dung dịch chứa 37,65 gam muối. Công thức của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2N-[CH2]4-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2N-[CH2]2-COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. H2N-[CH2]3-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2N-CH2-COOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trung hoà 1 mol αα-amino axit X cần dùng 1 mol HCl tạo ra muối Y có hàm lượng clo là 28,29% về khối lượng. CTCT của X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2N-CH2-CH(NH2)-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.H2N-CH2-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3-CH(NH2)-COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H2N-CH2-CH2-COOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho 0,02 mol amino axit A tác dụng vừa đủ với 80 ml dd HCl 0,25M. Cô cạn dung dịch sau phản ứng thu được 3,67 gam muối. Phân tử khối của A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 134",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 146.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 147.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 157.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho m gam H2NCH2COOH phản ứng hết với dung dịch KOH, thu được dung dịch chứa 28,25 gam muối. Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 28,25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 18,75",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 21,75",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 37,50",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho 100 ml dung dịch amino axit X nồng độ 0,2M tác dụng vừa đủ với 80 ml dung dịch NaOH 0,25M, đun nóng. Sau phản ứng cô cạn dung dịch thì thu được 2,22 gam muối khan. Công thức của amino axit là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2N-C2H4-COOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. H2N-C3H6-COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.H2N-CH2-COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2N-C3H4-COOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Aminoaxit X trong phân tử chỉ chứa hai loại nhóm chức. Cho 0,1 mol X tác dụng vừa đủ với 0,2 mol NaOH, thu được 17,7 gam muối. Số nguyên tử hiđro trong phân tử X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hỗn hợp X gồm glyxin, alanin và axit glutamic (trong đó nguyên tố oxi chiếm 41,2% về khối lượng). Cho m gam X tác dụngvới dung dịch NaOH dư, thu được 20,532 gam muối. Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13,8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12,0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13,1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 16,0.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Amino axit X có tỉ lệ khối lượng C, H, O, N là 9 : 1,75 : 8 : 3,5 tác dụng với dd NaOH và dung dịch HCl đều theo tỉ lệ mol 1: 1 và mỗi trường hợp chỉ tạo một muối duy nhất. Vậy công thức của X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2N-C2H4-COOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. H2N-CH2-COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N-C3H6-COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2N-C4H8-COOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho 0,15 mol H2NC3H5(COOH)2 (axit glutamic) vào 175 ml dung dịch HCl 2M, thu được dung dịch X. Cho NaOH dư vào dung dịch X. Sau khi các phản ứng xảy ra hoàn toàn, số mol NaOH đã phản ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,50.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,65.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,55.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,70.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho 45 gamH2N-CH2-COOH vào dung dịch NaOH vừa đủ, thu được dung dịch A. Cho A tác dụng hoàn toàn với dung dịch HCl dư, thu được m gam muối. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 111,5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 84,5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.102,0.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 103,5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Aminoaxit có khả năng phản ứng với cả dd NaOH và dd HCl vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Aminoaxit có tính bazơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Aminoaxit có tính lưỡng tính",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Aminoaxit có tính axit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Aminoaxit có tính khử",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho 200 ml dung dịch α-aminoaxit X nồng độ 0,2M chia làm 2 phần bằng nhau:- Phần 1: Tác dụng vừa đủ với 200 ml dung dịch HCl 0,1M- Phần 2: Tác dụng vừa đủ với 80 ml dung dịch NaOH 0,25M. Sau phản ứng cô cạn dung dịch thì thu được 2,22 gam muối khan.Vậy công thức của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2NCH(CH3)COOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. H2NCH2CH2COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (H2N)2CHCOOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3CH2CH(NH2)COOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Amino axit X có công thức H2NCxHy(COOH)2. Cho 0,1 mol X vào 0,2 lít dung dịch H2SO4 0,5M thu được dung dịch Y. Dung dịch Y phản ứng vừa đủ với dung dịch gồm NaOH 1M và KOH 3M thu được dung dịch chứa 36,7 gam muối. Phần trăm về khối lượng của nitơ trong X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 11,966%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10,687%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9,524%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 10,526%.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho m gam axit glutamic vào dung dịch chứa NaOH 0,5M và KOH 0,8M, thu được dung dịch X chứa 14,43 gam chất tan. Cho dung dịch X phản ứng vừa đủ với dung dịch Y chứa H2SO4 0,6M và HCl 0,8M, thu được dung dịch Z chứa 23,23 gam muối.  Biết các phản  ứng xảy ra  hoàn  toàn. Tính giá trị của m?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 11,76.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10,29.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8,82.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7,35",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho 7,3 gam lysin và 15 gam glyxin vào dung dịch chứa 0,3 mol KOH, thu được dung dịch Y. Cho Y tác dụng hoàn toàn với dung dịch HCl dư, thu được m gam muối. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 55,60.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 53,75.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 61,00.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 32,25.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

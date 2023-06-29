@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/de-luyen-thi-ngon-ngu-dhqg-hcm-co-dap-an/76821/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trường hợp nào sau đây không mắc lỗi ngữ pháp?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nó không chỉ học xuất sắc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vì hỏng xe, Nam đã đến lớp muộn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Vì xe của Nam hôm nay giữa đường bị hỏng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nếu cần phải đi tận mũi Cà Mau hoặc ra tận đảo Trường Sa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nA. Nó không chỉ học xuất sắc. => câu ghép chỉ quan hệ tăng tiến thiếu một vế.C. Vì xe của Nam hôm nay giữa đường bị hỏng. => câu ghép chỉ quan hệ nguyên nhân, kết quả thiếu vế chỉ kết quả.D. Nếu cần phải đi tận mũi Cà Mau hoặc ra tận đảo Trường Sa. => câu ghép chỉ quan hệ giả thiết, kết quả thiếu vế kết quả.Chọn B."
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trường hợp nào sau đây mắc lỗi ngữ pháp?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nhờ tác phẩm này mà ông ta rất nổi tiếng từ thời trước Cách mạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhờ tác phẩm rất nổi tiếng này mà ông ta sống mãi trong lòng bạn đọc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhờ tác phẩm rất nổi tiếng của ông từ thời trước Cách mạng tháng Tám.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Nhờ Cách mạng tháng Tám mà ông có được tác phẩm nổi tiếng này.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n- Nhờ tác phẩm rất nổi tiếng của ông từ thời trước Cách mạng tháng Tám => Câu thiếu chủ vị=> sửa lại: Nhờ tác phẩm rất nổi tiếng của ông từ thời trước Cách mạng tháng Tám, tên tuổi của ông đã được nhiều người biết đến.Chọn C."
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Câu văn Qua tác phẩm Lão Hạc đã cho ta thấy nỗi khổ cực của người nông dân trong xã hội cũ đã mắc lỗi gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thiếu chủ ngữ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thiếu vị ngữ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thiếu quan hệ từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không mắc lỗi",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n- Qua tác phẩm Lão Hạc đã cho ta thấy nỗi khổ cực của người nông dân trong xã hội cũ => câu thiếu chủ ngữ=> sửa lại: Qua tác phẩm Lão Hạc, Nam Cao đã cho ta thấy nỗi khổ cực của người nông dân trong xã hội cũ.Chọn A."
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Câu văn Hình ảnh người dũng sĩ mặc áo giáp sắt, đội mũ sắt, cưỡi ngựa sắt, vung gậy sắt, xông thẳng vào quân thù. mắc lỗi sai gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thiếu chủ ngữ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thiếu vị ngữ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thiếu quan hệ từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không mắc lỗi",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n- Hình ảnh người dũng sĩ mặc áo giáp sắt, đội mũ sắt, cưỡi ngựa sắt, vung gậy sắt, xông thẳng vào quân thù. => câu thiếu vị ngữ=> sửa lại: Hình ảnh người dũng sĩ mặc áo giáp sắt, đội mũ sắt, cưỡi ngựa sắt, vung gậy sắt, xông thẳng vào quân thù đã để lại cho em ấn tượng sâu sắc.Chọn B."
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Phát hiện lỗi sai trong câu: Không nên chỉ đánh giá con người bằng hình thức bên ngoài mà nên đánh giá con người bằng những hành động, cử chỉ, cách đối xử của họ.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thiếu chủ ngữ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thiếu vị ngữ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dùng sai quan hệ từ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không mắc lỗi",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n- Không nên chỉ đánh giá con người bằng hình thức bên ngoài mà nên đánh giá con người bằng những hành động, cử chỉ, cách đối xử của họ => dùng sai quan hệ từ=> sửa lại: Không nên chỉ đánh giá con người qua hình thức bên ngoài mà nên đánh giá con người qua những hành động, cử chỉ, cách đối xử của họ.Chọn C."
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Câu văn Bạn muốn trở thành một nhà giáo hay một người lao động trí óc? mắc lỗi gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sai logic",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Sai cấu trúc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sai hệ quy chiếu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không mắc lỗi",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n- Bạn muốn trở thành một nhà giáo hay một người lao động trí óc? => câu sai logic.=> sửa lại: Bạn muốn trở thành một người lao động chân tay hay một người lao động trí óc?Chọn A."
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Câu văn nào dưới đây mắc lỗi sai quy chiếu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sau khi được tăng lương, giám đốc trao bằng khen cho tôi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Sau khi tan học, Nam đi thẳng một mạch về nhà.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ông lão ngồi trên chõng, tay vân vê một mẩu thuốc đã tàn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vào mùa hè, lũ trẻ trong xóm hay tụ tập ở bờ đê để chơi thả diều.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Câu văn Qua sách vở và cái logic thông thường của lịch sử thì ta biết rằng dân tộc nào, đất nước nào chẳng phải vượt qua một chặng đường nghèo rớt mồng tơi như thế. mắc lỗi sai gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cấu trúc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Logic",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quy chiếu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phong cách",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Xác định chủ ngữ trong câu văn sau: “Cây tre mang những đức tính của người hiền là tượng trưng cao quý của dân tộc Việt Nam” – theo Thép Mới.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cây tre",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cây tre mang những đức tính của người hiền",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cây tre mang những đức tính của người hiền là tượng trưng cao quý",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dân tộc Việt Nam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "“Chưa nghe hết câu, tôi đã hếch răng lên, xì một hơi rõ dài” (Theo Tô Hoài) đây là câu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Câu đơn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Câu đơn mở rộng thành phần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Câu ghép",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Câu rút gọn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "“Chú mày hôi như cú mèo thế này, ta nào chịu được” (Theo Tô Hoài) câu trần thuật đơn trên dùng để làm gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giới thiệu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tả",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nêu ý kiến",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "“Ấy là vào đầu mùa hè một năm kia. Buổi sáng, tôi đang đứng ngoài cửa gặm mấy nhánh cỏ non ăn điểm tâm. Bỗng đằng cuối bãi, tiến lại hai cậu bé con […]. Thấy bóng người, tôi vội lẩn xuống cỏ, chui nhanh về hang”. Xác định câu tồn tại trong đoạn văn trên.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ấy là vào đầu mùa hè một năm kia.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Buổi sáng, tôi đang đứng ngoài cửa gặm mấy nhánh cỏ non ăn điểm tâm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bỗng đằng cuối bãi, tiến lại hai cậu bé con.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thấy bóng người, tôi vội lẩn xuống cỏ, chui nhanh về hang.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong các câu sau:I. Năm 1929, Lý Tự Trọng về nước, được giao nhiệm vụ làm liên lạc và nhận thư từ, tài liệu.II. Giá những cổ tục đã đầy đọa mẹ tôi là một vật như hòn đá hay cục thủy tinh, đầu mẩu gỗ, tôi quyết vồ ngay lấy mà cắn, mà nhai, mà nghiến cho kì nát vụn mới thôi.III. Chúng ta có thể nói rằng trời sinh lá sen để bao bọc cốm, cũng như trời sinh cốm nằm ủ trong lá sen.IV. Cô tôi chưa dứt câu, cổ họng tôi đã nghẹn ứ khóc không ra tiếng.Câu nào là câu ghép:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I, II",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I, III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. II, IV",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I, IV",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Xác định quan hệ ý nghĩa trong câu ghép sau: “Nếu trong pho lịch sử loài người xóa các thi nhân, văn nhân và đồng thời trong tâm linh loài người xóa hết những dấu vết họ còn lưu lại thì cái ảnh tượng nghèo nàn sẽ đến bực nào” (Theo Hoài Thanh)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nguyên nhân – kết quả",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giả thiết – kết quả",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Đồng thời",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giải thích",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "“Tôi lại im lặng cúi đầu xuống đất: lòng tôi càng thắt lại, khóe mắt tôi đã cay cay” (Theo Nguyên Hồng). Các vế trong câu ghép trên nối với nhau bằng cách nào",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dùng quan hệ từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dùng cặp qua hệ từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dùng cặp phó từ để nối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không dùng từ nối",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Xác định câu rút gọn trong đoạn sau: “Sáng chủ nhật, trường em tổ chức cắm trại. Sân trường thật đông vui. Chạy loăng quăng. Nhảy dây. Chơi kéo co”.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sân trường thật đông vui.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chạy loăng quăng. Nhảy dây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhảy dây. Chơi kéo co",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chạy loăng quăng. Nhảy dây. Chơi kéo co",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "“An gào lên:- Sơn! Em Sơn! Sơn ơi!- Chị An ơi!Sơn đã nhìn thấy chị. (Theo Nguyễn Đình Thi)Phần in đậm là kiểu câu gì và có tác dụng gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Câu rút gọn, giúp thông tin nhanh, tránh lặp từ ngữ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Câu rút gọn, giúp cho câu gọn hơn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Câu đặc biệt, dùng để gọi đáp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Câu đặc biệt, dùng để bộc lộ cảm xúc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "“Cái mạnh của con người Việt Nam không chỉ chúng ta nhận biết mà cả thế giới đều thừa nhận là sự thông minh, nhạy bén với cái mới. Bản chất trời phú ấy rất có ích trong xã hội ngày mai mà sựsáng tạo là một yêu cầu hàng đầu” (Theo Vũ Khoan). Từ in đậm trong đoạn văn trên thay thế cho từ ngữ nàoở câu trước?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cái mạnh của con người Việt Nam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự thông minh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhạy bén với cái mới D. Sự thông minh, nhạy bén với cái mới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự thông minh, nhạy bén với cái mới",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "“Chim chóc cũng đua nhau đến bên hồ làm tổ. Những con sít lông tím, mỏ hồng kêu vang như tiếng kèn đồng. Những con bói cá mỏ dài lông sặc sỡ. Những con cuốc đen trùi trũi len lủi giữa các bụi ven bờ” đoạn trên được liên kết với nhau bằng phép liên kết nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phép lặp từ ngữ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Phép thế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phép liên tưởng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phép nối",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Đoạn sau sử dụng những phép liên kết nào: Từ phòng bên kia một cô bé rất xinh mặc chiếc áo may ô con trai và vẫn còn cầm thu thu một đoạn dây sau lưng chạy sang. Cô bé bên nhà hàng xóm đã quen với công việc này. Nó lễ phép hỏi Nhĩ: “Bác cần nằm xuống phải không ạ?” (Theo Nguyễn Minh Châu).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phép lặp, phép nối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phép lặp, phép thế",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Phép thế, phép nối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phép lặp, phép thế, phép nối",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

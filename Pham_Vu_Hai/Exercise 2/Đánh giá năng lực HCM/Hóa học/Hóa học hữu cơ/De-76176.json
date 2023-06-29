@@ -1,0 +1,511 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ly-thuyet-chung-ve-amine/76176/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dãy gồm tất cả các amin là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NH2, CH3COOH, C2H5OH, C6H12O6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5OH, CH3NH2, C2H6O2, HCOOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H5NH2, (CH3)3N, CH3CHO, C6H12O6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H5NH2, (CH3)3N, CH3NH2, C6H5NH2.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi thay thế một hay nhiều nguyên tử hiđro trong phân tử NH3 bằng một hay nhiều gốc hiđrocacbon ta được amin→ amin là những hợp chất chứa NĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Công thức tổng quát của amin mạch hở có dạng là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CnH2n+3N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CnH2n+2+kNk.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CnH2n+2-2a+kNk.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CnH2n+1N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Công thức tổng quát của amin mạch hở có dạng là CnH2n+2-2a+kNk với a là độ không no và k là số nhóm chức.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Amin no, mạch hở có công thức tổng quát là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CnH2n+3N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CnH2n+2+kNk.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CnH2n+2-2a+kNk.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CnH2n+1N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Amin no, mạch hở có độ không no a = 0 → CTTQ là CnH2n+2+kNkĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Công thức phân tử tổng quát của amin thơm (có 1 vòng benzen), đơn chức (các liên kết C-C ngoài vòng đều no) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CnH2n+3N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CnH2n-5N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CnH2n-1N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CnH2n-7N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Amin thơm có 1 vòng benzen → a = π + v = 3 + 1 = 4Đơn chức : k = 1→ CTTQ của amin là CnH2n -5NĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Chất có công thức tổng quát CnH2n+3N có thể là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Amin no, đơn chức, mạch hở.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ancol no, đơn chức.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Amin không no (trong phân tử có 1 liên kết pi), đơn chức, mạch hở.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Amin no, đơn chức, mạch vòng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A đúng vì amin no, đơn chức, mạch hở có a = 0 và k = 1→ CTTQ là CnH2n+3NB sai vì ancol phải chứa nhóm OHC sai vì amin có a = 1, k = 1 có CTTQ là CnH2n+1ND sai vì amin no có mạch vòng, đơn chức (k = 0) có CTTQ là CnH2n+3-2aNĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Chất nào sau đây thuộc loại amin bậc I ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NHCH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (CH3)3N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3NH2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3CH2NHCH3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Amin bậc I là amin chỉ có 1 nhóm hiđrocacbon thay thế cho 1 H trong phân tử NH3Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong các chất dưới đây, chất nào là amin béo ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NHCH2=CH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH2=C(CH3)NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N(CH2)6NH2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C6H5NH2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Chất nào sau đây không phải amin bậc II ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5N(CH3)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CH3NHCH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C6H5NHCH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H5NHC2H3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho các amin sau : CH3NH2, (C2H5)2NH, C3H7NH2, C2H5NH2, (C6H5)3N, (CH3)2NH, C6H5NH2. Số amin bậc I là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ancol và amin nào sau đây cùng bậc ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (CH3)3COH và (CH3)2NH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3CH(NH2)CH3 và CH3CH(OH)CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (CH3)2NH và CH3OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (CH3)2CHOH và (CH3)2CHNHCH3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Dãy gồm tất cả các amin bậc 2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NH2, C2H5NH2, C6H5CH2NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3NHCH3, C2H5NHCH3, C6H5NHCH3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C6H5NH2, C6H5NHCH3, C6H5CH2NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (CH3)2CHNH2, C2H5NH2, C2H5NHCH3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tên gọi của hợp chất CH3-CH2-NH-CH3 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Etylmetylamin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Metyletanamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. N-metyletylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Metyletylamin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Dãy chất không có amin bậc 1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NHCH3, (CH3)2NCH2CH3, CH3CH(NH2)CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3CH2NHCH3, CH3NHCH3, (CH3)2NCH2CH3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CH3NH2, CH3NHCH3, CH3CH(NH2)CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3NHCH3, CH3CH2NH2, (CH3)3N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Anilin có công thức là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C6H5OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C6H5NH2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3OH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hợp chất CH3-CH2-NH2 có tên thay thế là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. etanamin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. etylamin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. metylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. đimetylamin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Công thức phân tử của đimetylamin là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H8N2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H7N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C4H11N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H6N2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Tên gọi  amin nào sau đây là không đúng với công thức cấu tạo tương ứng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C6H5NH2 alanin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CH3-CH2-CH2NH2 propylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3CH(CH3)-NH2 isopropylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3-NH-CH3 đimetylamin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Sắp xếp các amin theo thứ tự bậc amin tăng dần : etylmetylamin (1); etylđimetylamin (2); isopropylamin (3).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (2), (3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (2), (3),(1).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (3), (1), (2).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (3), (2), (1).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trong các amin sau : (A) CH3CH(CH3)NH2; (B) H2NCH2CH2NH2; (D) CH3CH2CH2NHCH3Các amin bậc 1 và tên gọi tương ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có A : propylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A và B; A : isopropylamin; B : etan-1,2-điamin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chỉ có D : metylpropylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có B : 1,2- điaminopropan",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các amin sau : etylamin ; anilin ; đimetylamin ; trimetylamin. Số amin bậc II là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Metylamin có thể được coi là dẫn xuất của :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Metan.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Amoniac.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Benzen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nitơ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Amin nào sau đây thuộc loại amin bậc hai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phenylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đimetylamin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Metylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trimetylamin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,534 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/hoat-dong-tim-va-he-mach/74532/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tính tự động của tim",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Là khả năng co dãn tự động theo chu kì.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Là khả năng hoạt động của hệ dẫn truyền tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Là khả năng hoạt động của hệ thần kinh tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Là khả năng tự cung cấp đầy đủ ôxi, chất dinh dưỡng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTính tự động của tim là khả năng co giãn tự động theo chu kì của tim.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tính tự động của tim là do khả năng điều khiển tự động của:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cơ tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Van tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hệ dẫn truyền tim.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Điều khiển của não bộ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTim có khả năng co giãn tự động là do hoạt động tự động của hệ dẫn truyền tim.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Hệ dẫn truyền tim gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nút xoang nhĩ, nút nhĩ thất, bó His và mạng Puốc kin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tim, nút xoang nhĩ, nút nhĩ thất, bó His và mạng Puốc kin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tâm thất, nút nhĩ thất, bó His và mạng Puốc kin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tâm nhĩ, nút xoang nhĩ, nút nhĩ thất, bó His .",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ dẫn truyền tim gồm: nút xoang nhĩ, nút nhĩ thất, bó His và mạng Puốc kin.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nhịp tim trung bình khoảng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 50-80 nhịp/ phút ở người trưởng thành, 100 → 120 nhịp/phút ở trẻ sơ sinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 40-60 nhịp/ phút ở người trưởng thành, 120 → 140 nhịp/phút ở trẻ sơ sinh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60-100 nhịp/ phút ở người trưởng thành, 100 → 120 nhịp/phút ở trẻ sơ sinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 60-100 nhịp/ phút ở người trưởng thành, 120 →160 nhịp/phút ở trẻ sơ sinh.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNhịp tim trung bình là: 60-100 nhịp/ phút ở người trưởng thành, 120 →160 nhịp/phút ở trẻ sơ sinh.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Nhịp tim sẽ tăng lên trong trường hợp nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khi bị khuyết tật tim (hẹp hoặc hở van tim, xơ phổi, mạch máu xơ cứng…)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khi sử dụng các chất kích thích như thuốc lá, rượu, hêrôin,…",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khi cơ thể trải qua cú sốc nào đó: sốt cao, mất máu, mất nước hoặc lo lắng, sợ hãi kéo dài",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các phương án còn lại",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTất cả các trường hợp ở A, B, C đều có thể làm nhịp tim tăng lênĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Ở người trưởng thành, mỗi chu kỳ tim kéo dài khoảng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,8 giây",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,6 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,7 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,9 giây",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMỗi chu kỳ tim ở người  dài 0,8s trong đó tâm nhĩ co: 0,1s; tâm thất co : 0,3s; pha giãn chung: 0,4sĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Ở người, mỗi chu kỳ hoạt động của tim bao gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tâm nhĩ co 0,2 giây, tâm thất co 0,3 giây, thời gian dãn chung là 0,5 giây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tâm nhĩ co 0,1 giây, tâm thất co 0,3 giây, thời gian dãn chung là 0,4 giây",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tâm nhĩ co 0,2 giây, tâm thất co 0,4 giây, thời gian dãn chung là 0,6 giây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tâm nhĩ co 0,1 giây, tâm thất co 0,2 giây, thời gian dãn chung là 0,6 giây.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tim tách rời khỏi cơ thể vẫn có khả năng co dãn nhịp nhàng là do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tim co dãn nhịp nhàng theo chu kì.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tim có hệ thống nút có khả năng tự phát xung điện.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tim có hệ điều khiển riêng, không liên quan gì đến cơ thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Được cung cấp đủ chất dinh dưỡng, oxy và nhiệt độ thích hợp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Hệ mạch máu của người gồm:I. Động mạch;    II. Tĩnh mạch;    III. Mao mạch.Máu chảy trong hệ mạch theo chiều:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I → III → II.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I → II → III.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. II → III → I.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. III → I → II.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Động mạch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những mạch máu xuất phát từ tim có chức năng đưa máu từ tim đến các cơ quan và không tham gia điều hoà lượng máu đến các cơ quan.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Những mạch máu xuất phát từ tim có chức năng đưa máu từ tim đến các cơ quan và tham gia điều hoà lượng máu đến các cơ quan.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Những mạch máu chảy về tim có chức năng đưa máu từ tim đến các cơ quan và không tham gia điều hoà lượng máu đến các cơ quan.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Những mạch máu xuất phát từ tim có chức năng đưa máu từ tim đến các cơ quan và thu hồi sản phẩm bài tiết của các cơ quan",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Mao mạch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những mạch máu rất nhỏ nối liền động mạch và tĩnh mạch, đồng thời là nơi thu hồi sản phẩm trao đổi chất giữa máu và tế bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Những mạch máu rất nhỏ nối liền động mạch và tĩnh mạch, đồng thời là nơi tiến hành trao đổi chất giữa máu và tế bào.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Những mạch máu nối liền động mạch và tĩnh mạch, đồng thời là nơi tiến hành trao đổi chất giữa máu và tế bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Những điểm ranh giới phân biệt động mạch và tĩnh mạch, đồng thời là nơi tiến hành trao đổi chất giữa máu với tế bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tĩnh mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những mạch máu từ mao mạch về tim và có chức năng thu máu từ động mạch và đưa máu về tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Những mạch máu từ động mạch về tim và có chức năng thu chất dinh dưỡng từ mao mạch đưa về tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Những mạch máu từ mao mạch về tim và có chức năng thu chất dinh dưỡng từ mao mạch đưa về tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Những mạch máu từ mao mạch về tim và có chức năng thu máu từ mao mạch đưa về tim.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong hệ mạch máu ở người, loại mạch nào sau đây có tổng tiêt diện lớn nhât?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Động mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mạch bạch huyết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tĩnh mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mao mạch.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Mao mạch có điểm gì đặc biệt để tăng hiệu quả trao đổi chất với tế bào ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vận tốc dòng máu chảy rất chậm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thành mạch chỉ được cấu tạo bởi một lớp biểu bì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phân nhánh dày đặc đến từng tế bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các phương án còn lại",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Máu vận chuyển trong hệ mạch nhờ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dòng máu chảy liên tục",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự va đẩy của các tế bào máu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Co bóp của mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Năng lượng co tim.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Huyết áp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lực co bóp của tâm thất tống máu vào mạch tạo nên huyết áp của mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lực co bóp của tâm nhĩ tống máu vào mạch tạo nên huyết áp của mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lực co bóp của tim tống máu vào mạch tạo nên huyết áp của mạch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Lực co bóp của tim tống nhận máu từ tĩnh mạch tạo nên huyết áp của mạch.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Chứng huyết áp cao biểu hiện khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Huyết áp cực đại lớn quá 150mmHg và kéo dài.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Huyết áp cực đại lớn quá 170mmHg và kéo dài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Huyết áp cực đại lớn quá 110mmHg và kéo dài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Huyết áp cực đại lớn quá 120mmHg và kéo dài.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Chứng huyết áp thấp biểu hiện khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Huyết áp cực đại thường xuống dưới 120mmHg.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Huyết áp cực đại thường xuống dưới 60mmHg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Huyết áp cực đại thường xuống dưới 110mmHg.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Huyết áp cực đại thường xuống dưới 90mmHg.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Vì sao khi ở người già, khi huyết áp cao dễ bị xuất huyết não?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì mạch bị xơ cứng, tính đàn hồi kém, đặc biệt các mạch ở não, khi huyết áp cao dễ làm vỡ mạch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vì mạch bị xơ cứng, máu bị ứ đọng, đặc biệt các mạch ở não, khi huyết áp dễ làm vỡ mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì mạch bị xơ cứng nên không co bóp được, đặc biệt các mạch ở não, khi hyết áp cao dễ làm vỡ mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì thành mạch bị dày lên, tính đàn hồi kém, đặc biệt các mạch ở não, khi huyết cao dễ làm vỡ mạch.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tốc độ máu chảy trong một giây là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Huyết áp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vận tốc máu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Nhịp tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Bệnh xơ vữa động mạch có mối liên hệ mật thiết với loại lipit nào dưới đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phôtpholipit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ơstrôgen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Côlesterôn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Testosterôn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Để phòng ngừa các bệnh tim mạch, chúng ta cần lưu ý điều gì ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thường xuyên vận động và nâng cao dần sức chịu đựng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nói không với rượu, bia, thuốc lá, mỡ, nội tạng động vật và thực phẩm chế biến sẵn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ăn nhiều rau quả tươi, thực phẩm giàu Omega – 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các phương án còn lại",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Hệ dẫn truyền tim hoạt động theo trật tự nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nút xoang nhĩ ->Hai tâm nhĩ ->Tâm nhĩ co ->Nút nhĩ thất ->Bó his ->Mạng Puôc – kin ->Tâm thất ->Tâm thất co.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Nút nhĩ thất ->Hai tâm nhĩ và nút xoang nhĩ ->Bó his ->Mạng Puôc – kin ->Các tâm nhĩ, tâm thất co",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nút xoang nhĩ ->Hai tâm nhĩ và nút nhĩ thất ->Mạng Puôc – kin ->Bó his ->Các tâm nhĩ, tâm thất co.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nút xoang nhĩ ->Hai tâm nhĩ ->Nút nhĩ thất ->Mạng Puôc – kin ->Các tâm nhĩ, tâm thất co.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

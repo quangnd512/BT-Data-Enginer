@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/su-bien-doi-tuan-hoan-cau-hinh-electron-nguyen-tu-cua-cac-nguyen-to-hoa-hoc/76100/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Sự biến thiên tính chất của các nguyên tố thuộc chu kì sau được lặp lại tương tự như chu kì trước là do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự lặp lại tính chất kim loại của các nguyên tố ở chu kì sau so với chu kì trước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự lặp lại tính chất phi kim của các nguyên tố ở chu kì sau so với chu kì truớc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự lặp lại cấu hình electron lớp ngoài cùng của nguyên tử các nguyên tố ở chu kì sau so với chu kì trước (ở ba chu kì đầu).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Sự lặp lại tính chất hoá học của các nguyên tố ở chu kì sau so với chu kì trước.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sự biến thiên tính chất của các nguyên tố thuộc chu kì sau được lặp lại tương tự như chu kì trước là do: Sự lặp lại cấu hình electron lớp ngoài cùng của nguyên tử các nguyên tố ở chu kì sau so với chu kì trước (ở ba chu kì đầu).Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong một nhóm A, bán kính nguyên tử của các nguyên tố:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tăng theo chiều tăng của điện tích hạt nhân.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. giảm theo chiều tăng của điện tích hạt nhân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. không thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ban đầu tăng, sau đó giảm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong một nhóm A, bán kính nguyên tử của các nguyên tố: tăng theo chiều tăng của điện tích hạt nhân.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Độ âm điện đặc trưng cho khả năng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. nhường proton của nguyên tử này cho nguyên tử khác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tham gia phản ứng mạnh hay yếu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. nhường electron của nguyên tử này cho nguyên tử khác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hút electron của nguyên tử đó khi tạo thành liên kết hóa học.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Độ âm điện đặc trưng cho khả năng hút electron của nguyên tử đó khi tạo thành liên kết hóa học.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Các nguyên tố hóa học trong cùng một nhóm A có đặc điểm nào chung về cấu hình electron nguyên tử?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số electron hóa trị.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Số lớp electron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Số electron lớp K.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số phân lớp electron.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các nguyên tố hóa học trong cùng một nhóm A có đặc điểm chung là có số electron hóa trị.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Các nguyên tố hóa học trong nhóm VIIIA có đặc điểm chung nào về cấu tạo nguyên tử trong các liệt kê sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tử chỉ gồm 1 nguyên tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cấu hình electron lớp ngoài cùng là ns2np6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hầu như trơ, không tham gia các phản ứng hóa học ở nhiệt độ thường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Lớp electron ngoài cùng đã điền đủ electron, bền vững.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cấu tạo nguyên tử của các nguyên tố hóa học trong nhóm VIIIA có đặc điểm chung là : Lớp electron ngoài cùng đã điền đủ electron, bền vững.Loại B vì He có cấu hình e là 1s2Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Các nguyên tử của nhóm IA trong bảng tuần hoàn có đặc điểm chung nào về cấu hình electron mà quyết định tính chất của nhóm ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số nơtron trong hạt nhân nguyên tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Số electron lớp K bằng 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Số lớp electron như nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số electron lớp ngoài cùng bằng 1.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cấu hình electron chung của các nguyên tử nhóm IA là số electron lớp ngoài cùng bằng 1Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong bảng hệ thống tuần hoàn, khi đi từ trái sang phải trong 1 chu kì thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. độ âm điện tăng dần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. độ âm điện không thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. độ âm điện giảm dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. độ âm điện tăng lên xong giảm xuống.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong bảng hệ thống tuần hoàn, trong 1 phân nhóm chính (nhóm A) theo chiều tăng dần điện tích hạt nhân thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. độ âm điện tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. độ âm điện không thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. độ âm điện giảm dần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. độ âm điện tăng lên xong giảm xuống.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nguyên tố có độ âm điện lớn nhất trong bảng tuần hoàn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nitơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Oxi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Clo.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Flo.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong bảng HTTH, trong 1 chu kì, theo chiều tăng dần của điện tích hạt nhân thì bán kính nguyên tử",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. giảm dần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. không thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tăng, sau đó giảm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Dãy sắp xếp các nguyên tử theo chiều tăng dần bán kính nguyên tử là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Li, Na, O, F.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. F, O, Li, Na.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. F, Li, O, Na.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. F, Na, O, Li.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho các nguyên tố: X (Z = 12), Y (Z = 8), R (Z = 19), T (Z = 15). Dãy sắp xếp theo chiều bán kính nguyên tử tăng dần là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X, Y, R, T.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Y, X, T, R.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Y, T, X, R.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. R, T, X, Y.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

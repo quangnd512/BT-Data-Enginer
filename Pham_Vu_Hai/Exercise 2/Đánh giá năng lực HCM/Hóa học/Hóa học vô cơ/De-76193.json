@@ -1,0 +1,718 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-ve-su-dien-phan/76193/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Điện phân 200 ml dung dịch CuSO4 với I = 1,93 A tới khi catot bắt đầu có bọt khí thoát ra thì dừng lại, cần thời gian là 250 giây. Thể tích khí thu được ở anot (đktc) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 28 ml.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 14 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 56 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 42 ml.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:ne trao đổi = I.t / F = 0,005 molỞ catot: Cu2+ + 2e → CuỞ anot: 2H2O → 4H+ + O2 + 4eỞ catot bắt đầu có bọt khí thoát ra =>Cu2+ điện phân vừa hết=>nO2 thu được ở anot = 0,005 / 4 = 0,00125 mol=>V = 0,028 lít = 28 mlĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Điện phân l00 ml dung dịch CuSO4 0,2M với cường độ dòng điện I = 9,65A. Khối lượng Cu bám trên catot khi thời gian điện phân t1 = 200s và t2 = 500s (hiệu suất điện phân là 100%) lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,32 gam; 0,64 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,32 gam; 1,28 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,64 gam; 1,28 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,64 gam; 1,60 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:nCuSO4 = 0,02 mol =>ne Cu2+ nhận tối đa = 0,02.2 = 0,04 molKhi t1 = 200s =>ne trao đổi = I.t / F = 0,02 mol=>nCu tạo ra = ne trao đổi / 2 = 0,01 mol =>mCu (1) = 0,64 gamKhi t2 = 500s =>ne trao đổi = I.t / F = 0,05 >0,04=>nCu = nCuSO4 = 0,02 mol =>mCu (2) = 1,28 gamĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Điện phân một lượng dư dung dịch KCl với điện cực trơ, màng ngăn xốp thời gian 16,1 phút dòng điện I = 5A thu được 500 ml dung dịch X. pH của dung dịch X có giá trị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12,7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.13.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1,3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:ne trao đổi = I.t / F = 0,05 molỞ cực (-) điện phân H2O:  2H2O + 2e → H2 + 2OH- =>nOH- = ne = 0,05 mol =>[OH-] = 0,05 / 0,5 = 0,1 M=>pOH = 1 =>pH = 13Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Điện phân dung dịch X chứa 0,4 mol M(NO3)2 (với điện cực trơ) trong thời gian 48 phút 15 giây, thu được 11,52 gam kim loại M tại catot và 2,016 lít khí (đktc) tại anot. Kim loại M và cường độ dòng điện là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe và 24A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe và 12A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cu và 24A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cu và 12A",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Catot: M2+ + 2e → MAnot: 2H2O → O2 ↑ + 4H+ + 4e           0,18   → 0,09    →     0,36=>ne trao đổi = 4.nO2 = 0,36 molMà ne = I.t / F =>I = ne.F / t = 12AnM = ne trao đổi / 2 = 0,18 mol =>M = 11,52 / 0,18 = 64=>M là CuĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Điện phân 500 ml dung dịch AgNO3 với điện cực trơ cho đến khi catot bắt đầu có khí thoát ra thì ngừng điện phân. Để trung hòa dung dịch sau điện phân cần 800 ml dung dịch NaOH 1M. Biết I = 20 A, nồng độ mol AgNƠ3 và thời gian điện phân lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,8 M; 3860 s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,6 M; 3860 s.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1,6 M; 360 s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,4 M; 380s.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Đến khi catot bắt đầu có khí thoát ra =>Ag+ bị điện phân vừa hếtnNaOH = 0,8 mol =>nH+ = 0,8 molCatot: Ag+ + 1e → AgAnot: 2H2O → O2 ↑ + 4H+ + 4e=>ne trao đổi = nH+ = 0,8 mol=>nAg+ = 0,8 mol =>CM AgNO3 = 0,8 / 0,5 = 1,6Mn = I.t / F =>t = n.F / I = 3860sĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Điện phân dung dịch CuSO4 với điện cực trơ, cường độ dòng điện 10A. Khi ở anot có 4 gam khí oxi bay ra thì ngưng. Phát biểu nào sau đây là đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khối lượng đồng thu được ở catot là 16 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Thời gian điện phân là 9650 giây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.pH của dung dịch trong quá trình điện phân luôn giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không có khí thoát ra ở catot.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:nO2 = 0,125 molCatot: Cu2+ + 2e → CuAnot: 2H2O → O2 ↑ + 4H+ + 4e=>ne trao đổi = 4.nO2 = 0,5 mol=>nCu = 0,5 / 2 = 0,25 mol =>m = 16 gam =>A đúngt = n.F / I = 4825s =>B sai+) pH của dung dịch ban đầu giảm, khi hết Cu2+ thì nước điện phân ở catot tạo OH-, ở anot tạo ra H+ và nOH- = nH+ nên pH không đổi+) hết Cu2+, nước điện phân ở catot tạo khí H2Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Điện phân một dung dịch gồm a mol CuSO4 và b mol NaCl. Nếu b >2a mà ở catot chưa có khí thoát ra thì dung dịch sau điện phân chứa",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na+, SO42-, Cl-.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Na+, SO42-, Cu2+.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na+, Cl-.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Na+, SO42-, Cu2+, Cl-.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Điện phân dung dịch gồm a mol CuSO4 và 2a mol NaCl sau khi ở catot bắt đầu thoát khí thì dừng lại. Chất tan trong dung dịch thu được sau điện phân là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CuSO4;Na2SO4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CuSO4; NaCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na2SO4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H2SO4; Na2SO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Điện phân dung dịch hồn hợp chứa 0,04 mol AgNO3 và 0,05 mol Cu(NO3)2, điện cực trơ, dòng điện 5A, trong 32 phút 10 giây. Khối lượng kim loại bám vào catot là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6,24 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3,12 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6,5 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7,24 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Điện phân dung dịch X gồm 0,04 mol AgNO3 và 0,06 mol Fe(NO3)3 với I = 5,36A, điện cực trơ, sau t giây thấy catot tăng 5,44 gam. Giá trị của t là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2520,5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1440.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1800.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1440,5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Điện phân 500 ml dung dịch hỗn họp FeSO4 0,1M, Fe2(SO4)3 0,2M và CuSO4 0,1M với điện cực trơ. Điện phân cho đến khi khối lượng catot tăng 8,8 gam thì ngừng điện phân. Biết cường độ dòng điện đem điện phân là 10A. Thời gian điện phân là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4583,75 giây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3860 giây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4825 giây.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2653,75 giây.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Điện phân 400ml dd AgNO3 0,2M và Cu(NO3)2 0,1M với cường độ dòng điện I = 10A, anot bằng Pt. Sau thời gian t, ta ngắt dòng điện, thấy khối lượng catot tăng thêm m gam trong đó có 1,28 gam Cu. Thời gian điện phân t là (hiệu suất điện phân là 100%)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 116 s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1158 s.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 772 s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 193 s.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Dung dịch X chứa HCl, CuSO4, Fe2(SO4)3. Lấy 400 ml dung dịch X đem điện phân với điện cực trơ, I = 7,72A đến khi ở catot thu được 5,12 gam Cu thì dừng lại. Khi đó chỉ thu được 0,1 mol một chất khí duy nhất thoát ra ở anot. Thời gian điện phân và nồng độ [Fe2+] sau điện phân lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2300 s và 0,1M.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2500 s và 0,1 M.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2300 s và 0,15M.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2500 s và 0,15M.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:\n- Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.\n+ Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …).\nKhi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e\n+ Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O\n- Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.\n+ Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.\n+ Một số cation không bị điện phân như K+, Na+, Ca2+, Ba2+, Mg2+, Al3+…\nKhi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH-\nCho dãy điện hóa sau:\n\nThí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời CuSO4, Fe2(SO4)3, HNO3, Al(NO3)3 bằng hệ điện phân sử dụng các điện cực than chì cho đến khi bắt đầu thấy xuất hiện khí ở catot thì dừng điện phân.\nThí nghiệm 2: Sinh viên đó tiếp tục điện phân dung dịch hỗn hợp chứa 0,04 mol AgNO3 và 0,05 mol Cu(NO3)2 với điện cực trơ, cường độ dòng điện 5A, trong 32 phút 10 giây. Sau khi dừng điện phân, sinh viên đó nhấc catot và đem rửa sach, sấy khô và đem cân thấy khối lượng catot tăng m gam so với ban đầu. Biết hiệu suất điện phân đạt 100%. (Cho NTK: Cu = 64 đvC; Ag = 108 đvC).\nTrong Thí nghiệm 1, bán phản ứng nào xảy ra ở anot?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2SO42- → 2SO3 + O2 + 4e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2H2O → O2 + 4H+ + 4e.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2H2O + 2e → 2OH- + H2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4NO3- → 2N2O5 + O2 + 4e.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:- Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …).Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e+ Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O- Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Một số cation không bị điện phân như K+, Na+, Ca2+, Ba2+, Mg2+, Al3+…Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH-Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời CuSO4, Fe2(SO4)3, HNO3, Al(NO3)3 bằng hệ điện phân sử dụng các điện cực than chì cho đến khi bắt đầu thấy xuất hiện khí ở catot thì dừng điện phân.Thí nghiệm 2: Sinh viên đó tiếp tục điện phân dung dịch hỗn hợp chứa 0,04 mol AgNO3 và 0,05 mol Cu(NO3)2 với điện cực trơ, cường độ dòng điện 5A, trong 32 phút 10 giây. Sau khi dừng điện phân, sinh viên đó nhấc catot và đem rửa sach, sấy khô và đem cân thấy khối lượng catot tăng m gam so với ban đầu. Biết hiệu suất điện phân đạt 100%. (Cho NTK: Cu = 64 đvC; Ag = 108 đvC).Trong Thí nghiệm 1, kim loại bám vào catot sau khi dừng điện phân là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu, Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu, Fe, Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Fe, Al.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:- Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …).Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e+ Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O- Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Một số cation không bị điện phân như K+, Na+, Ca2+, Ba2+, Mg2+, Al3+…Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH-Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời CuSO4, Fe2(SO4)3, HNO3, Al(NO3)3 bằng hệ điện phân sử dụng các điện cực than chì cho đến khi bắt đầu thấy xuất hiện khí ở catot thì dừng điện phân.Thí nghiệm 2: Sinh viên đó tiếp tục điện phân dung dịch hỗn hợp chứa 0,04 mol AgNO3 và 0,05 mol Cu(NO3)2 với điện cực trơ, cường độ dòng điện 5A, trong 32 phút 10 giây. Sau khi dừng điện phân, sinh viên đó nhấc catot và đem rửa sach, sấy khô và đem cân thấy khối lượng catot tăng m gam so với ban đầu. Biết hiệu suất điện phân đạt 100%. (Cho NTK: Cu = 64 đvC; Ag = 108 đvC).Trong Thí nghiệm 2, giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7,24 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3,12 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6,5 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,24 gam.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:- Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.     + Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …). Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e     + Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O- Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.     + Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.     + Một số cation không bị điện phân như K+,Na+, Ca2+, Ba2+, Mg2+, Al3+… Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH-Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời AgNO3, Cu(NO3)2, Fe(NO3)3, Mg(NO3)2 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục điện phân dung dịch X gồm 0,04 mol AgNO3 và 0,06 mol Fe(NO3)3 với I = 5,36A, điện cực trơ. Sau thời gian t giây, sinh viên đó lấy catot rửa sạch và sấy khô thấy catot tăng 5,44 gam.(Cho NTK: Fe = 56 đvC; Ag = 108 đvC).Trong Thí nghiệm 1, bán phản ứng nào xảy ra ở anot?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ag+ + 1e → Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2H2O + 2e → 2OH- + H2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2H2O → O2 + 4H+ + 4e.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4NO3- → 2N2O5 + O2 + 4e.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:- Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.     + Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …). Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e     + Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O- Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.     + Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.     + Một số cation không bị điện phân như K+,Na+, Ca2+, Ba2+, Mg2+, Al3+… Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH-Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời AgNO3, Cu(NO3)2, Fe(NO3)3, Mg(NO3)2 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục điện phân dung dịch X gồm 0,04 mol AgNO3 và 0,06 mol Fe(NO3)3 với I = 5,36A, điện cực trơ. Sau thời gian t giây, sinh viên đó lấy catot rửa sạch và sấy khô thấy catot tăng 5,44 gam.(Cho NTK: Fe = 56 đvC; Ag = 108 đvC).Trong Thí nghiệm 1, thứ tự kim loại sinh ra tại catot là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ag, Fe, Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ag, Cu, Fe, Mg.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fe, Cu, Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ag, Cu, Fe.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:- Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.     + Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …). Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e     + Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O- Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.     + Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.     + Một số cation không bị điện phân như K+,Na+, Ca2+, Ba2+, Mg2+, Al3+… Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH-Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời AgNO3, Cu(NO3)2, Fe(NO3)3, Mg(NO3)2 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục điện phân dung dịch X gồm 0,04 mol AgNO3 và 0,06 mol Fe(NO3)3 với I = 5,36A, điện cực trơ. Sau thời gian t giây, sinh viên đó lấy catot rửa sạch và sấy khô thấy catot tăng 5,44 gam.(Cho NTK: Fe = 56 đvC; Ag = 108 đvC).Trong Thí nghiệm 2, giá trị của t là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2520,5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1440",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1800",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1440,5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:+ Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời Pb(NO3)2 và Al(NO3)3 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân theo sơ đồ như hình bên.Sau một thời gian, sinh viên quan sát thấy có 3,84 gam kim loại đồng bám lên điệc cực của bình 1. Biết trong hệ điện phân nối tiếp, số điện tử truyền dẫn trong các bình là như nhau. Nguyên tử khối của Ag, Cu và Al lần lượt là 108; 64 và 27 đvC. Trong thí nghiệm 1, bán phản ứng nào xảy ra ở catot?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Pb2+ + 2e → Pb.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Al3+ + 3e → Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. O2 + 4H+ + 4e → 2H2O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2O + 2e → H2 + 2OH-.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:+ Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời Pb(NO3)2 và Al(NO3)3 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân theo sơ đồ như hình bên.Sau một thời gian, sinh viên quan sát thấy có 3,84 gam kim loại đồng bám lên điệc cực của bình 1. Biết trong hệ điện phân nối tiếp, số điện tử truyền dẫn trong các bình là như nhau. Nguyên tử khối của Ag, Cu và Al lần lượt là 108; 64 và 27 đvC. Nếu trong thí nghiệm 1, người sinh viên đổi 2 điện cực than chì bằng 2 điện cực kim loại Pb, phản ứng nào xảy ra ở catot và anot?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Catot: Pb2+ + 2e → Pb; Anot: 2H2O → O2 + 4H+ + 4e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Catot: Al3+ + 3e → Al; Anot: Pb → Pb2++ 2e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Catot: 2H2O + 2e → H2 + 2OH-; Anot: Pb → Pb2+ + 2e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Catot: Pb2+ + 2e → Pb; Anot: Pb → Pb2+ + 2e.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:+ Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.Cho dãy điện hóa sau:Thí nghiệm 1:  Một sinh viên thực hiện quá trình điện phân dung dịch chứa đồng thời Pb(NO3)2 và Al(NO3)3 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân theo sơ đồ như hình bên.Sau một thời gian, sinh viên quan sát thấy có 3,84 gam kim loại đồng bám lên điệc cực của bình 1. Biết trong hệ điện phân nối tiếp, số điện tử truyền dẫn trong các bình là như nhau. Nguyên tử khối của Ag, Cu và Al lần lượt là 108; 64 và 27 đvC. Trong thí nghiệm 2, số gam kim loại Ag bám lên điện cực trong bình 2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3,24 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12,96 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6,48 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:*Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Nếu điện phân chứa các gốc axit có chứa oxi NO3-, SO42-, PO43-, CO32-, ClO4-, … thì nước sẽ tham gia điện phân theo phương trình: 2H2O → O2 + 4H+ + 4e.+ Thứ tự anion bị oxi hóa: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O.*Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu điện phân dung dịch có các cation K+, Na+, Ca2+, Ba2+, Mg2+, Al3+ thì nước sẽ tham gia điện phân theo phương trình: 2H2O + 2e → H2 + 2OH-.+ Nếu trong dung dịch có nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Nếu điện phân không dùng các anot trơ (graphit, platin) mà dùng các kim loại như Ni, Cu, Ag, … thì các kim loại này dễ bị oxi hóa hơn các anion (thế oxi hóa - khử của chúng thấp hơn) và do đó chúng tan vào dung dịch (anot tan).Thí nghiệm 1: Một sinh viên thực hiện quá trình điện phân dung dịch CuCl2 bằng hệ điện phân sử dụng điện cực Cu.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân dung dịch X bao gồm dung dịch Cu(NO3)2 và NaCl. Sau một thời gian, sinh viên quan sát thấy có 6,4 gam kim loại bám vào catot và anot chỉ thoát ra 1 khí duy nhất. Biết nguyên tử khối của Cu, N, O, Na và Cl lần lượt là 64, 14, 16, 23 và 35,5.Từ Thí nghiệm 1, cho biết bán phản ứng nào xảy ra ở anot?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu → Cu2+ + 2e.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2Cl- → Cl2 + 2e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2H2O → O2 + 4H+ + 4e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cu2+ + 2e → Cu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:*Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Nếu điện phân chứa các gốc axit có chứa oxi NO3-, SO42-, PO43-, CO32-, ClO4-, … thì nước sẽ tham gia điện phân theo phương trình: 2H2O → O2 + 4H+ + 4e.+ Thứ tự anion bị oxi hóa: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O.*Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu điện phân dung dịch có các cation K+, Na+, Ca2+, Ba2+, Mg2+, Al3+ thì nước sẽ tham gia điện phân theo phương trình: 2H2O + 2e → H2 + 2OH-.+ Nếu trong dung dịch có nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Nếu điện phân không dùng các anot trơ (graphit, platin) mà dùng các kim loại như Ni, Cu, Ag, … thì các kim loại này dễ bị oxi hóa hơn các anion (thế oxi hóa - khử của chúng thấp hơn) và do đó chúng tan vào dung dịch (anot tan).Thí nghiệm 1: Một sinh viên thực hiện quá trình điện phân dung dịch CuCl2 bằng hệ điện phân sử dụng điện cực Cu.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân dung dịch X bao gồm dung dịch Cu(NO3)2 và NaCl. Sau một thời gian, sinh viên quan sát thấy có 6,4 gam kim loại bám vào catot và anot chỉ thoát ra 1 khí duy nhất. Biết nguyên tử khối của Cu, N, O, Na và Cl lần lượt là 64, 14, 16, 23 và 35,5.Nếu trong Thí nghiệm 1, sinh viên đó thay điện cực Cu bằng điện cực than chì thì bán phản ứng xảy ra ở anot là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu → Cu2+ + 2e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2Cl- → Cl2 + 2e.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2H2O → O2 + 4H+ + 4e.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cu2+ + 2e → Cu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân:*Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Nếu điện phân chứa các gốc axit có chứa oxi NO3-, SO42-, PO43-, CO32-, ClO4-, … thì nước sẽ tham gia điện phân theo phương trình: 2H2O → O2 + 4H+ + 4e.+ Thứ tự anion bị oxi hóa: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O.*Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu điện phân dung dịch có các cation K+, Na+, Ca2+, Ba2+, Mg2+, Al3+ thì nước sẽ tham gia điện phân theo phương trình: 2H2O + 2e → H2 + 2OH-.+ Nếu trong dung dịch có nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Nếu điện phân không dùng các anot trơ (graphit, platin) mà dùng các kim loại như Ni, Cu, Ag, … thì các kim loại này dễ bị oxi hóa hơn các anion (thế oxi hóa - khử của chúng thấp hơn) và do đó chúng tan vào dung dịch (anot tan).Thí nghiệm 1: Một sinh viên thực hiện quá trình điện phân dung dịch CuCl2 bằng hệ điện phân sử dụng điện cực Cu.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân dung dịch X bao gồm dung dịch Cu(NO3)2 và NaCl. Sau một thời gian, sinh viên quan sát thấy có 6,4 gam kim loại bám vào catot và anot chỉ thoát ra 1 khí duy nhất. Biết nguyên tử khối của Cu, N, O, Na và Cl lần lượt là 64, 14, 16, 23 và 35,5.Từ Thí nghiệm 2, khối lượng dung dịch giảm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13,5 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6,4 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7,1 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,75 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân khi điện phân dung dịch:*Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …). Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e+ Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O*Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Một số cation không bị điện phân như K+,Na+, Ca2+, Ba2+, Mg2+, Al3+… Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH- Thí nghiệm 1: Một sinh viên thực hiện quá trình điện phân dung dịch X chứa đồng thời AgNO3, Fe(NO3)3, Cu(NO3)2, Fe(NO3)2 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân dung dịch CuCl2. Sau một thời gian sinh viên quan sát thấy có 6,4 gam kim loại bám vào catot. Biết nguyên tử khối của Cu và Cl lần lượt là 64 và 35,5.ận biếtTrong thí nghiệm 1, thứ tự điện phân các cation tại catot là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ag+, Cu2+, Fe3+, Fe2+.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ag+, Fe3+, Cu2+, Fe2+.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ag+, Fe2+, Cu2+, Fe3+.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe3+, Ag+, Cu2+, Fe2+.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân khi điện phân dung dịch:*Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …). Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e+ Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O*Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Một số cation không bị điện phân như K+,Na+, Ca2+, Ba2+, Mg2+, Al3+… Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH- Thí nghiệm 1: Một sinh viên thực hiện quá trình điện phân dung dịch X chứa đồng thời AgNO3, Fe(NO3)3, Cu(NO3)2, Fe(NO3)2 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân dung dịch CuCl2. Sau một thời gian sinh viên quan sát thấy có 6,4 gam kim loại bám vào catot. Biết nguyên tử khối của Cu và Cl lần lượt là 64 và 35,5.Trong thí nghiệm 1, giá trị pH của dung dịch thay đổi như thế nào ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. pH tăng do OH- sinh ra ở catot.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. pH giảm do H+ sinh ra ở anot.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. pH không đổi do không có H+ và OH- sinh ra.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. pH không đổi do lượng H+ sinh ra ở anot bằng với lượng OH- sinh ra ở catot.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Sự điện phân là quá trình oxi hóa - khử xảy ra trên bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li nhằm thúc đẩy một phản ứng hóa học mà nếu không có dòng điện, phản ứng sẽ không tự xảy ra. Trong thiết bị điện phân khi điện phân dung dịch:*Anot của thiết bị là nơi xảy ra bán phản ứng oxi hóa. Anot được nối với cực dương của nguồn điện một chiều.+ Gốc axit có chứa oxi không bị điện phân (ví dụ: NO3-, SO42-, PO43-, CO32-, ClO4-, …). Khi đó nước bị điện phân theo bán phản ứng: 2H2O → O2 + 4H+ + 4e+ Thứ tự anion bị điện phân: S2- >I- >Br- >Cl- >RCOO- >OH- >H2O*Catot của thiết bị là nơi xảy ra bán phản ứng khử. Catot được nối với cực âm của nguồn điện một chiều.+ Nếu dung dịch có chứa nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị điện phân trước.+ Một số cation không bị điện phân như K+,Na+, Ca2+, Ba2+, Mg2+, Al3+… Khi đó nước bị điện phân theo bán phản ứng: 2H2O + 2e → H2 + 2OH- Thí nghiệm 1: Một sinh viên thực hiện quá trình điện phân dung dịch X chứa đồng thời AgNO3, Fe(NO3)3, Cu(NO3)2, Fe(NO3)2 bằng hệ điện phân sử dụng các điện cực than chì.Thí nghiệm 2: Sinh viên đó tiếp tục thực hiện điện phân dung dịch CuCl2. Sau một thời gian sinh viên quan sát thấy có 6,4 gam kim loại bám vào catot. Biết nguyên tử khối của Cu và Cl lần lượt là 64 và 35,5.Trong thí nghiệm 2, thể tích khí thoát ra tại điện cực anot là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,224 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2,24 lít.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,448 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4,48 lít.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Điện phân dung dịch chứa hỗn hợp hai muối CuCl2 và Cu(NO3)2 một thời gian, ở anot của bình điện phân thoát ra 448 ml hồn hợp khí (đktc) có tỉ khối so với H2 bằng 25,75 và có m gam kim loại Cu bám trên catot (biết trên catot không có khí thoát ra). Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,64 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,28 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,92 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2,56 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Hòa tan hoàn toàn m gam hỗn hợp gồm CuSO4 và FeCl3 vào nước dư thu được dung dịch X. Điện phân dung dịch X với điện cực trơ đến khi ở anot thoát ra 0,2 mol hỗn hợp khí có tỉ khối hơi so với H2 bằng 30,625 thì dừng lại. Dung dịch thu được sau điện phân có chứa 2 muối có nồng độ mol bằng nhau. Giả sử hiệu suất của quá trình điện phân là 100%, khí sinh ra không tan trong dung dịch. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 48,25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 64,25",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 62,25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 56,25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Điện phân dung dịch X chứa hỗn hợp gồm CuSO4 và NaCl (tỉ lệ mol tương ứng 1:3) với điện cực trơ, màng ngăn xốp, cường độ dòng điện không đổi 2A. Sau thời gian điện phân t (giờ) thu được dung dịch Y (chứa 2 chất tan) có khối lượng giảm 12,45 gam so với dung dịch X. Dung dịch Y phản ứng vừa hết với 3,06 gam Al2O3. Bỏ qua sự hòa tan của khí trong nước và sự bay hơi của nước, hiệu suất điện phân 100%. Giá trị của t gần nhất với giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4,7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5,2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5,6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

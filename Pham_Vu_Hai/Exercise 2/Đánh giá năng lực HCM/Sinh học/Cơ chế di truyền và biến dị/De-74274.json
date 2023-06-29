@@ -1,0 +1,442 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/arn-va-phien-ma/74274/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Phân tử nào sau đây mang bộ ba đối mã (anticôdon)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. mARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tARN",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. rARN",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nPhân tử mang bộ ba đối mã là: tARN\n\nĐáp án cần chọn là C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Sau khi tổng hợp xong ARN thì mạch gốc của gen trên ADN có hiện tượng nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bị enzim xúc tác phân giải",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Xoắn lại với mạch bổ sung của nó trên ADN",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Liên kết với phân tử ARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Rời nhân để di chuyển ra tế bào chất",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nSau khi tổng hợp xong ARN thì mạch gốc của gen trên ADN nhanh chóng xoắn lại như cũ\n\nĐáp án cần chọn là B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đặc điểm nào dưới đây thuộc về cấu trúc của mARN?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. mARN có cấu trúc mạch kép, vòng, gồm 4 loại đơn phân A, T, G, X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. mARN có cấu trúc mạch kép, gồm 4 loại đơn phân A, T, G, X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. mARN có cấu trúc mạch đơn, gồm 4 loại đơn phân A, U, G, X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. mARN có cấu trúc mạch đơn, thẳng, gồm 4 loại đơn phân A, U, G, X",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nmARN có cấu trúc mạch đơn, thẳng, gồm 4 loại đơn phân A, U, G, X\nĐáp án cần chọn là D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Phiên mã là quá trình tổng hợp nên phân tử:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Prôtêin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ARN",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ADN và ARN",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nPhiên mã là quá trình tổng hợp lên các phân tử ARN\n\n Đáp án cần chọn là C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong phân tử mARN có bao nhiêu loại đơn phân?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTrong mARN có 4 đơn phân là A, U, G, X.\n\nĐáp án là B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong phân tử mARN có bao nhiêu loại đơn phân?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTrong mARN có 4 đơn phân là A, U, G, X.\n\nĐáp án là B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Gốc đường trong cấu tạo ARN là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đêôxiribôzơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ribôzơ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Phôtphat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Polyphotphat",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Quá trình phiên mã xảy ra ở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sinh vật nhân chuẩn, vi khuẩn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Sinh vật nhân chuẩn, virut",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sinh vật có ADN mạch kép",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Virut, vi khuẩn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho các thông tin sau:\n(1) A bắt cặp với T bằng hai liên kết hiđrô và ngược lại\n(2) A bắt cặp với U bằng hai liên  kết hiđrô; T bắt cặp với A bằng hai liên kết hiđrô\n(3) G bắt cặp với X bằng ba liên kết hiđrô và ngược lại\n(4) A bắt cặp với U bằng hai liên kết hiđrô và ngược lại\nCác thông tin đúng về nguyên tắc bổ sung giữa các nuclêôtit trong quá trình phiên mã là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (2), (3)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (2), (4)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (1), (3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (3), (4)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong quá trình phiên mã, ARN – polimeraza sẽ bám vào vùng nào để làm gen tháo xoắn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vùng vận hành.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vùng mã hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vùng khởi động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vùng điều hòa.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Phiên mã tổng hợp ARN không cần đoạn ARN mồi là do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ diễn ra trên 1 mạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Enzim ARN polimeraza di chuyển được cả 2 chiều",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ARN polimeraza tổng hợp nuclêôtit mới không cần đầu 3’ OH tự do",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có năng lượng ATP xúc tác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Sự giống nhau của hai quá trình nhân đôi và phiên mã ở sinh vật nhân thực là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đều có sự tiếp xúc của các enzim ADN pôlimeraza, enzim ligaza",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Việc lắp ghép các đơn phân được thực hiện trên cơ sở nguyên tắc bổ sung",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thực hiện trên toàn bộ phân tử ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả hai quá trình trong một chu kì tế bào có thể thực hiện nhiều lần",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Sao ngược là hiện tượng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Prôtêin tống hợp ra ADN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ARN tồng hợp ra ADN.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ADN tồng hợp ra ARN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Prôtêin tống hợp ra ARN.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một đoạn mạch mã gốc của gen có trình tự các nuclêôtit như sau:\n3’… AAATTGAGX…5’\nBiết quá trình phiên mã bình thường, trình tự các nuclêôtit của đoạn mARN tương ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5’…UUUAAXUXG…3’",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3’…GXUXAAUUU…5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5’…TTTAAXTGG…3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5’…TTTAAXTXG…3’",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Nếu một phân tử mARN có tỉ lệ các loại nucleotit là 15% A, 20% G, 30% U và 35% X. Thì tỉ lệ % các loại nucleotit trong phân tử ADN phiên mã nên mARN đó là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15% A, 20% X, 30% T, 35% G",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 22,5% T, 22,5% A, 27,5% G, 27,5% X.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 17,5 % G, 17,5% A, 32,5% T, 32,5% X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 35% G, 20% X, 30% A, 15% T.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một gen có chứa 1350 nuclêôtit và có 20% ađênin. Số liên kết hiđrô bị phá vỡ khi gen sao mã 3 lần bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1755",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5265",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12285",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8755",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một gen của vi khuẩn tiến hành phiên mã đã cần môi trường nội bào cung cấp 900U; 1200G; 1500A; 900X. Biết phân tử mARN này có tổng số 1500 nucleotit. Số phân tử mARN tạo ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trình tự phù hợp với trình tự các nucleotit của phân tử mARN được phiên mã từ 1 gen có đoạn mạch bổ sung  5’AGXTTAGXA 3’ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3’UXGAAUXGU5’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3’AGXUUAGXA5’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5’UXGAAUXGU3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5’AGXUUAGXA3’",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một gen dài 2040 Å. Khi gen sao mã 1 lần, đã có 200 rG và 150 rX lần lượt vào tiếp xúc với mạch gốc. Số lượng từng loại nuclêôtit của gen nói trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A = T =G = X = 300",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A = T = G = X = 600",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A = T = 250 và G = X = 350",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. A = T = 350 và G = X = 250",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cau-hinh-electron-nguyen-tu/76098/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nhận định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tất cả các nguyên tố mà nguyên tử có 4 electron ở lớp ngoài cùng đều là kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tất cả các nguyên tố mà nguyên tử có 4 electron ở lớp ngoài cùng đều là phi kim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tất cả các nguyên tố mà nguyên tử có 2 electron ở lớp ngoài cùng đều là kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các nguyên tố mà nguyên tử có 7 electron ở lớp ngoài cùng đều là phi kim",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Nhận định đúng là: Tất cả các nguyên tố mà nguyên tử có 7 electron ở lớp ngoài cùng đều là phi kim.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nguyên tử của nguyên tố R có lớp ngoài cùng là lớp M, trên lớp M có chứa 2 electron. Cấu hình electron của R và tính chất của R là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p63s2 ; R là kim loại.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1s22s22p63s23p2 ; R là phi kim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1s22s2 ; R là khí hiếm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1s22s22p63s2; R là phi kim.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Lớp M là lớp thứ 3 =>lớp thứ nhất và lớp thứ 2 đã đầy e=>cấu hình e của R là: 1s22s22p63s2R có 2e lớp ngoài cùng =>R là kim loạiĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tổng số hạt của nguyên tử nguyên tố X là 52. Cấu hình electron ở phân lớp ngoài cùng của X là 3p5. Số khối của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 35.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 36.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 37.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 38.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:+) Cấu hình e lớp ngoài cùng của X là 3p5 =>cấu hình e của X là 1s22s22p63s23p5  =>X có 17 e =>X có 17 p+) Tổng số hạt trong X: p + n + e = 52 =>n = 52 – 17.2 = 18+) số khối A = p + n = 17 + 18 = 35Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nguyên tử nguyên tố X có tổng số electron ở các phân lớp p là 10. Nguyên tố X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ne.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:X có tổng số electron ở các phân lớp p là 10Vì lớp thứ 2 chỉ có 6e ở phân lớp p =>X có 3 lớp e=>cấu hình e của X : 1s22s22p63s23p4  =>X có 16e, 16p =>X là SĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho Zn có số hiệu nguyên tử bằng 30. Cấu hình của ion Zn2+ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p63s23p63d10.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1s22s22p63s23p63d84s2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1s22s22p63s23p63d94s2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1s22s22p63s23p63d94s1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cấu hình e của Zn (Z = 30) là: 1s22s22p63s23p63d104s2Ion Zn2+ mất 2e =>cấu hình e của Zn2+ là: 1s22s22p63s23p63d10Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Nguyên tử của nguyên tố Y được cấu tạo bởi 36 hạt, trong hạt nhân số hạt mang điện bằng số hạt không mang điện. Cấu hình electron của Y là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1s22s22p63s2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1s22s22p62d2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1s22s22p63s23p1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong hạt nhân số p = số n =>p = n = e=>tổng số hạt trong Y = p + n + e = 3e = 36 =>e = 12=>cấu hình e của Y là: 1s22s22p63s2Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Nguyên tố có Z = 11 thuộc loại nguyên tố:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. p",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "M là nguyên tố p, nguyên tử nguyên tố M có 7 electron hóa trị. M là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cl (Z=17)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Mn (Z=25)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cr (Z=24)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe (Z=26)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nguyên tử của nguyên tố hóa học nào sau đây có cấu hình electron là 1s22s22p63s23p64s1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ca (Z = 20).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. K (Z = 19).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mg (Z = 12).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Na (Z = 11).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cấu hình electron nào sau đây viết không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s2 2s2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1s2 2s2 2p5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1s2 2s2 2p6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1s2 2s2 2p7",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Ion X có 18 electron và 16 proton, mang điện tích là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18+",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2-",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 18-",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2+",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cu2+ có cấu hình electron là (biết Cu có Z = 29)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p63s23p63d94s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1s22s22p63s23p63d104s1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1s22s22p63s23p63d9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1s22s22p63s23p63d8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Nguyên tử của nguyên tố X có điện tích hạt nhân là 13+, số khối 27 có số electron lớp ngoài cùng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Nguyên tử X có electron cuối cùng phân bố vào phân lớp 3d và làm cho phân lớp d có tất cả là 7 electron. Tổng số electron của nguyên tử X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 29.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 27.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 24.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho 3 ion : Na+, Mg2+, F– . Phát biểu nào sau đây sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3 ion trên có cấu hình electron giống nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3 ion trên có cấu hình electron của neon (Ne).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3 ion trên có số electron bằng nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3 ion trên có số proton bằng nhau.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Chọn cấu hình electrron của nguyên tố khí hiếm trong số các cấu hình electron của nguyên tử sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p63s23p1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1s22s22p63s23p3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1s22s22p63s23p6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1s22s22p63s23p4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Phân lớp nào sau đây bán bão hòa?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4p6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4d5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4f4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho biết nguyên tử Clo có Z = 17, cấu hình electron của ion Cl- là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1s22s22p63s23p5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1s22s22p63s23p4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1s22s22p63s23p6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1s22s22p63s23p64s1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho biết nguyên tử X và Y lần lượt có số hiệu nguyên tử là 15 và 19. Nhận xét nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X và Y đều là nguyên tử của nguyên tố kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. X và Y đều là nguyên tử của nguyên tố phi kim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. X và Y đều là nguyên tử của nguyên tố khí hiếm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. X là nguyên tử của nguyên tố phi kim còn Y là nguyên tử của nguyên tố kim loại.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cấu hình electron của X là 1s22s22p63s23p4. Nhận xét nào sau đây đúng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X là kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. X là phi kim.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. X là khí hiếm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. X vừa là một kim loại, vừa là một phi kim.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

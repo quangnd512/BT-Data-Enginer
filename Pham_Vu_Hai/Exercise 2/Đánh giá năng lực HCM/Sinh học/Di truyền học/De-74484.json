@@ -1,0 +1,143 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tuong-tac-gen/74484/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Ở các loài sinh vật nhân thực, hiện tượng các alen thuộc các lôcut gen khác nhau cùng quy định một tính trạng được gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tương tác gen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hoán vị gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tác động đa hiệu của gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Liên kết gen.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nỞ các loài sinh vật nhân thực, hiện tượng các alen thuộc các lôcut gen khác nhau cùng quy định một tính trạng được gọi là tương tác gen.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Thực chất của tương tác gen là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sản phẩm của các gen tác động qua lại với nhau trong sự hình thành tính trạng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Các gen tác động qua lại với môi trường trong sự hình thành một kiểu hình.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các tính trạng do gen quy định tác động qua lại với nhau trong một kiểu gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sản phẩm của gen này tác động lên sự biểu hiện của một gen khác trong một kiểu gen.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThực chất của tương tác gen là: Sản phẩm của các gen tác động qua lại với nhau trong sự hình thành tính trạng.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho lai hai cây bí quả tròn với nhau, đời con thu được 272 cây bí quả tròn, 183 cây bí quả bầu dục và 31 cây bí quả dài. Sự di truyền tính trạng hình dạng quả bí tuân theo quy luật:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân li độc lập",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Liên kết gen hoàn toàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tương tác bổ sung",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tương tác cộng gộp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nP: tròn × trònF1 9 tròn : 6 bầu : 1 dàiF1 có 16 tổ hợp lai = 4 × 4→ P mỗi bên cho 4 tổ hợp giao tử→ P: AaBb→ F1: 9A-B- : 3A-bb : 3aaB- : 1aabbVậy A-B- = trònA-bb = 3aaB- = bầuaabb = dàiVậy tính trạng di truyền theo quy luật tương tác bổ sung.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tỉ lệ phân li kiểu hình nào đặc trưng cho tương tác át chế?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15:1, 9:3:3:1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12:3:1, 9:3:4, 9:6:1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12:3:1, 9:6:1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12:3:1, 13:3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKiểu tương tác bổ sung (bổ trợ): 9:6:1, 9:7, 9:3:3:1.Kiểu tương tác át chế: 13:3, 12:3:1, 9:3:4.Kiểu tương tác cộng gộp: 15:1, 1:4:6:4:1.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Lai hai dòng bí thuần chủng quả tròn được F1toàn quả dẹt; F2gồm 271 quả dẹt : 179 quả tròn : 28 quả dài. Sự di truyền hình dạng quả tuân theo quy luật di truyền nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tương tác át chế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tương tác cộng gộp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trội không hoàn toàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tương tác bổ trợ",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nXét tỉ lệ KH đời con là: 271 quả dẹt : 179 quả tròn : 28 quả dài ≈≈ 9 quả dẹt : 6 quả tròn :1 quả dài→ Quy luật di truyền chi phối là: Tương tác bổ trợ   Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Một loài thực vật lưỡng bội, chiều cao cây do 2 cặp gen D, d và E, e phân li độc lập cùng quy định. Kiểu gen có cả alen trội D và alen trội E quy định thân cao, các kiểu gen còn lại quy định thân thấp. Phép lai P: Cây dị hợp 2 cặp gen × cây đồng hợp 2 cặp gen lặn, tạo ra F1. Theo lí thuyết, tỉ lệ kiểu hình ở F1là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5 cây thân cao : 3 cây thân thấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9 cây thân cao : 7 cây thân thấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1 cây thân cao : 3 cây thân thấp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1 cây thân cao : 1 cây thân thấp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nD-E-: thân cao; D-ee/ddE-/ddee: thân thấp.Tương tác bổ sungP: DdEe × ddee → 1DdEe: 1Ddee:1ddEd:1ddee → Kiểu hình:1 cây thân cao: 3 cây thân thấp.Đáp án cần chọn là: C"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/su-bien-doi-tinh-chat-cac-nguyen-to-hoa-hoc/76102/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Oxit cao nhất của một nguyên tố R ứng với công thức R2O7. R là nguyên tố nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nitơ (Z=7)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cacbon (Z=6)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Clo (Z=17)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Lưu huỳnh (Z=16)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Do Clo thuộc nhóm VIIA nên có công thức oxit cao nhất là Cl2O7.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong một chu kỳ, theo chiều tăng của điện tích hạt nhân nguyên tử, số oxi hóa cao nhất của các nguyên tố nhóm A trong oxit biến đổi như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giảm dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giảm dần sau đó tăng dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tăng dần sau đó giảm dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tăng dần",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các nguyên tố thuộc cùng 1 nhóm A có cùng số e lớp ngoài cùng (số e hóa trị) và:Số thứ tự của nhóm = số e lớp ngoài cùng = số e hóa trịVậy theo thứ tự nhóm A từ IA đến VIIA ứng với cấu hình electron lớp ngoài cùng là ns1 và ns2np5  thì số e hóa trị tăng từ 1 đến 7.=>Trong 1 chu kỳ, theo chiều tăng của điện tích hạt nhân nguyên tử, số oxi hóa cao nhất của các nguyên tố trong oxit tăng lần lượt từ 1 đến 7.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Các nguyên tố thuộc cùng một nhóm A có tính chất hoá học tương tự nhau, vì vỏ nguyên tử của các nguyên tố nhóm A có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số electron thuộc lớp ngoài cùng như nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Số electron như nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Số lớp electron như nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cùng số electron s hay p.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Những nguyên tố thuộc cùng 1 nhóm A có số e lớp ngoài cùng như nhau nên có tính chất tương tự nhau.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong một nhóm A, bán kính nguyên tử của các nguyên tố:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tăng theo chiều tăng của điện tích hạt nhân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. giảm theo chiều tăng của điện tích hạt nhân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tăng theo chiều tăng của tính kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A và C đều đúng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong một nhóm A, bán kính nguyên tử của các nguyên tố: tăng theo chiều tăng của điện tích hạt nhân hay tăng theo chiều tăng của tính kim loại.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Theo quy luật biến đổi tính chất của các nguyên tố trong bảng tuần hoàn thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. phi kim mạnh nhất là oxi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. phi kim mạnh nhất là flo.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. kim loại mạnh nhất là liti.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. kim loại yếu nhất là xesi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Theo quy luật biến đổi tính chất của các nguyên tố trong bảng tuần hoàn thì phi kim mạnh nhất là flo.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong một chu kỳ, khi điện tích hạt nhân tăng dần thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. bán kính nguyên tử tăng dần, tính phi kim giảm dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. bán kính nguyên tử tăng dần, tính phi kim tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. bán kính nguyên tử giảm dần, tính kim loại tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. bán kính nguyên tử giảm dần, tính phi kim tăng dần.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong một chu kỳ, khi điện tích hạt nhân tăng dần thì bán kính nguyên tử giảm dần, tính phi kim tăng dần.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong một nhóm A, khi đi từ trên xuống thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. độ âm điện tăng dần, tính kim loại tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. độ âm điện tăng dần, tính phi kim tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. độ âm điện giảm dần, tính phi kim tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. độ âm điện giảm dần, tính kim loại tăng dần.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Nguyên tố X có cấu hình electron là 1s22s22p3. Vậy vị trí X trong bảng tuần hoàn và công thức hợp chất khí với hiđro của X là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. chu kì 2, nhóm VA, HXO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.chu kì 2, nhóm VA, XH4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. chu kì 2, nhóm VA, XH3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. chu kì 2, nhóm VA, XH2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Công thức chung của các oxit kim loại nhóm IIA là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R2O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. RO2 .",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. RO.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. R2O3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Nguyên tố R thuộc nhóm VIA. Công thức oxit cao nhất của R và công thức hợp chất với hiđro là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R2O5 và RH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. RO2 và RH4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.R2O7 và RH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. RO3 và RH2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Nguyên tố X thuộc nhóm IA, nguyên tố Y thuộc nhóm VIIA. Hợp chất được tạo nên từ 2 nguyên tố X và Y có công thức phân tử ở dạng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X7Y.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. XY7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. XY2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. XY.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Kết luận nào sau đây không đúng?Trong một nhóm A theo chiều tăng của điện tích hạt nhân thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tính kim loại tăng dần, tính phi kim giảm dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. năng lượng ion hóa giảm dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. độ âm điện giảm dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tính bazơ của các oxit và hiđroxit tương ứng giảm dần, đồng thời tính axit tăng dần.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong bảng tuần hoàn các nguyên tố hoá học, nguyên tố có tính kim loại mạnh nhất (trừ các nguyên tố có tính phóng xạ) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fe",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cs",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Dãy nguyên tố được sắp xếp theo chiều tăng dần tính kim loại từ trái sang phải",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na < K < Mg < Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Al < Mg < Na < K.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mg < Al < Na < K.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. K < Na < Al < Mg.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Phát biểu nào sau đây không đúng ?Trong một chu kỳ, khi đi từ trái sang phải, qui luật biến thiên tuần hoàn như sau",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hoá trị cao nhất đối với oxy tăng dần từ 1 → 8.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hoá trị đối với hiđro của phi kim giảm dần từ 4 → 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tính kim loại giảm dần, tính phi kim tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Oxit và hidroxit có tính bazơ giảm dần, tính axit tăng dần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Thứ tự tăng dần tính phi kim của các nguyên tố trong nhóm VIIA là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Br, F, I, Cl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. F, Cl, Br, I.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I, Br, F, Cl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I, Br, Cl, F.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho 2 nguyên tố X (Z=12) và Y (Z=15). Nhận định nào sau đây là đúng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tính kim loại của X>Y",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tính kim loại của Y>X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tính phi kim của X>Y",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tính phi kim của X=Y",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong một chu kì khi đi từ trái sang phải, hóa trị cao nhất của nguyên tố đối với oxi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giảm dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tăng dần",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Không đổi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tăng giảm không theo quy luật",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Hiđroxit nào sau đây có tính axit mạnh nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H3PO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.H2SiO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.HClO4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H2SO4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Sắp xếp các chất sau theo trật tự tính bazơ tăng dần là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al(OH)3, Mg(OH)2, NaOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. NaOH, Mg(OH)2, Al(OH)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mg(OH)2, Al(OH)3, NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaOH, Al(OH)3, Mg(OH)2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

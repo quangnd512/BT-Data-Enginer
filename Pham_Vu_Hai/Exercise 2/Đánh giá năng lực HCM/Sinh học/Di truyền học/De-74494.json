@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/anh-huong-cua-moi-truong-den-su-bieu-hien-genn/74494/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Mối quan hệ giữa gen và tính trạng được biểu hiện qua sơ đồ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gen (ADN) → tARN → Pôlipeptit → Prôtêin → Tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gen (ADN) → mARN → tARN → Prôtêin → Tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Gen (ADN) → mARN → Pôlipeptit → Prôtêin → Tính trạng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Gen (ADN) → mARN → tARN → Pôlipeptit → Tính trạng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMối quan hệ giữa gen và tính trạng là Gen (ADN) → mARN → Pôlipeptit → Prôtêin → Tính trạngTheo trình tự truyền thông tin di truyền từ gen biểu hiện thành tính trạng.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phát biểu nào sau đây là sai khi nói về mối quan hệ giữa kiểu gen, môi trường sống và kiểu hình?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kiểu hình chỉ phụ thuộc vào kiểu gen mà không chịu ảnh hưởng của các yếu tố môi trường.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Kiểu gen quy định khả năng phản ứng của cơ thể trước môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bố mẹ không truyền cho con những tính trạng đã hình thành sẵn mà truyền một kiểu gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kiểu hình là kết quả tương tác giữa kiểu gen và môi trường.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKiểu hình được biểu hiện ra phụ thuộc vào sự tương tác giữa kiểu gen và môi trường.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Bệnh phêninkêtô niệu ở người do đột biến gen lặn nằm trên nhiễm sắc thể thường. Người mắc bệnh có thể biểu hiện ở nhiều mức độ năng nhẹ khác nhau phụ thuộc trực tiếp vào",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hàm lượng phêninalanin có trong máu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hàm lượng phêninalanin có trong khẩu phần ăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khả năng chuyển hoá phêninalanin thành tirôxin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khả năng thích ứng của tế bào thần kinh não.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNgười mắc bệnh có thể biểu hiện ở nhiều mức độ năng nhẹ khác nhau phụ thuộc trực tiếp vào hàm lượng phêninalanin có trong máu.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chọn câu đúng trong các phát biểu sau",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cùng một kiểu gen có khi kiểu hình khác nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Kiểu gen như nhau chắc chắn có kiểu hình như nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kiểu hình như nhau bao giờ cũng có cùng kiểu gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cùng một kiểu hình chỉ có một kiểu gen",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCùng một kiểu gen nhưng sống ở môi trường khác nhau thì sự tương tác giữa KG và môi trường có thể tạo ra kiểu hình khác nhau.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Thường biến là những biến đổi về",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cấu trúc di truyền.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kiểu hình của cùng một kiểu gen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Bộ nhiễm sắc thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một số tính trạng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThường biến là những biến đổi về kiểu hình của cùng một kiểu gen.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Mức phản ứng của một kiểu gen được xác định bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số cá thể có cùng một kiểu gen đó.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Số alen có thể có trong kiểu gen đó.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Số kiểu gen có thể biến đổi từ kiểu gen đó",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số kiểu hình có thể có của kiểu gen đó.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMức phản ứng của một kiểu gen được xác định bằng Số kiểu hình có thể có của kiểu gen đó.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Khi nói về mức phản ứng của kiểu gen, phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tập hợp các kiểu hình của cùng một kiểu gen tương ứng với các môi trường khác nhau được gọi là mức phản ứng của kiểu gen",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Có thể xác định mức phản ứng của một kiểu gen dị hợp ở một loài thực vật sinh sản hữu tính bằng cách gieo các hạt của cây này trong môi trường khác nhau rồi theo dõi các đặc điểm của chúng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các cá thể của một loài có kiểu gen khác nhau, khi sống trong cùng một môi trường thì có mức phản ứng giống nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mức phản ứng của một kiểu gen là tập hợp các phản ứng của một cơ thể khi điều kiện môi trường biến đổi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Những tính trạng có mức phản ứng rộng thường là những tính trạng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số lượng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chất lượng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trội lặn hoàn toàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trội lặn không hoàn toàn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Để xác định mức phản ứng của 1 kiểu gen ở cây trồng, người ta thường",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dùng phép lai phân tích.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo nhiều cây có kiểu gen giống nhau rồi đem trồng trong các điều kiện môi trường khác nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tạo nhiều cây có kiểu gen khác nhau rồi đem trồng trong các điều kiện môi trường khác nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tạo nhiều cây có kiểu gen khác nhau rồi đem trồng trong các điều kiện môi trường giống nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Yếu tố qui định mức phản ứng của cơ thể là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điều kiện môi trường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thời kì sinh trưởng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kiểu gen của cơ thể",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thời kì phát triển",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Hiện tượng 1 kiểu gen có thể thay đổi kiểu hình trước các điều kiện môi trường khác nhau được gọi là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự thích nghi kiểu gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự thích nghi của sinh vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự mềm dẻo kiểu hình.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Mức phản ứng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Sự mềm dẻo kiểu hình có ý nghĩa gì đối với bản thân sinh vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự mềm dẻo kiểu hình giúp quần thể sinh vật đa dạng về kiểu gen và kiểu hình.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự mềm dẻo kiểu hình giúp sinh vật có sự mềm dẽo về kiểu gen để thích ứng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự mềm dẻo kiểu hình giúp sinh vật thích nghi với những điều kiện môi trường khác nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Sự mềm dẻo kiểu hình giúp sinh vật có tuổi thọ được kéo dài khi môi trường thay đổi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cây cỏ thi (Achillea millefolium) mọc ở độ cao 30 m (so với mặt biển) thì cao 50 cm, ở mức 1400 m thì cao 35 cm, còn ở mức 3050 m thì cao 25 cm. Hiện tượng này biểu hiện:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thường biến.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mức phản ứng của kiểu gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự mềm dẻo kiểu hình.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A + B + C.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Nhận định nào dưới đây không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự biến đổi của kiểu gen do ảnh hưởng của môi trường là một thường biến",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Mức phản ứng của kiểu gen có thể rộng hay hẹp tùy thuộc vào từng loại tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự mềm dẻo kiểu hình giúp sinh vật thích nghi với sự thay đổi của môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mức phản ứng càng rộng thì sinh vật càng thích nghi cao",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho 1 số hiện tượng biến dị sau ở sinh vật thường gặp trong tự nhiên:1. Lúa lùn, cứng, có khả năng chịu được gió mạnh.2. Bàng và xoan rụng lá vào mùa đông.3. Cây ngô bị bạch tạng.4. Cây hoa anh thảo đỏ thuần chủng khi trồng ở 350C thì ra hoa màu trắng.Những biến dị thường biến là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1, 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1, 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2, 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2, 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong thực tiễn sản suất, vì sao các nhà khuyến nông khuyên “không nên trồng một giống lúa duy nhất trên diện rộng”?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì khi điều kiện thời tiết không thuận lợi có thể bị mất trắng, do giống có cùng một kiểu gen nên có mức phản ứng giống nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vì khi điều kiện thời tiết không thuận lợi giống có thể bị thoái hoá, nên không còn đồng nhất về kiểu gen làm năng suất bị giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì qua nhiều vụ canh tác giống có thể bị thoái hoá, nên không còn đồng nhất về kiểu gen làm năng suất bị sụt giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì qua nhiều vụ canh tác, đất không còn đủ chất dinh dưỡng cung cấp cho cây trồng, từ đó làm năng suất bị sụt giảm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thỏ Himalaya bình thường có lông trắng, riêng chòm tai, chóp đuôi, đầu bàn chân và mõm màu đen. Nếu cạo ít lông trắng ở lưng rồi chườm nước đá vào đó liên tục thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lông mọc lại ở đó có màu trắng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lông mọc lại ở đó có màu đen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Lông ở đó không mọc lại nữa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Lông mọc lại đổi màu khác.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

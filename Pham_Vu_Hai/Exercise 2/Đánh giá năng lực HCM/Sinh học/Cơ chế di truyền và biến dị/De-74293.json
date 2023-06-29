@@ -1,0 +1,373 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dot-bien-so-luong-nhiem-sac-the1/74293/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong tế bào của thể ba nhiễm có hiện tượng nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thừa 1 NST ở 2 cặp tương đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mối cặp NST đều trở thành có 3 chiếc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thừa 1 NST ở một cặp nào đó.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thiếu 1 NST ở tất cả các cặp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrong tế bào của thể ba nhiễm có hiện tượng thừa 1 NST ở 1 cặp nào đóĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Thể một nhiễm có bộ nhiễm sắc thể thuộc dạng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2n - 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. n + 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2n + 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n – 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThể một nhiễm: 2n-1Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đột biến lệch bội xảy ra do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một hoặc một số cặp nhiễm sắc thể không phân li trong phân bào.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Một số cặp nhiễm sắc thể không phân li trong giảm phân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một cặp nhiễm sắc thể không phân li trong nguyên phân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một cặp nhiễm sắc thể không phân li trong giảm phân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMột hay một số cặp NST không phân li trong phân bào dẫn tới thay đổi số lượng NST ở một hay một số cặp NST tương đồng.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một loài thực vật có bộ NST 2n = 24. Một tế bào sinh dục chín của thể ba nhiễm kép. Số NST trong tế bào là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 26",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa có: 2n = 24 → n = 12, thể ba nhiễm kép có 2n + 1 +1 = 26 NSTĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Giả sử 1 loài sinh vật có bộ NST 2n =- 8; các cặp NST được kí hiệu là A, a; B, b; D, d và E, e. Cá thể có bộ NST nào sau đây là thể một?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AAbbDdee.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AaBDdEe.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. aaBBDdEe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Aaabbddee.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nA: AAbbDdee: 2nB: AaBDdEe: 2n - 1C: aaBBDdEe: 2nD: Aaabbddee: 2n +1Vậy kiểu gen thể một là AaBDdEe.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đậu Hà lan có bộ nhiễm sắc thể lưỡng bội 2n = 14. Tế bào sinh dưỡng của đậu Hà lan chứa 15 nhiễm sắc thể, có thể tìm thấy ở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. thể một",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thể không",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. thể ba",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. thể bốn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTế bào sinh dưỡng có 15NST = 2n +1Đây là thể baĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đặc điểm của thể đa bội là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cơ quan sinh dưỡng bình thường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cơ quan sinh dưỡng to.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Dễ bị thoái hóa giống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tốc độ sinh trưởng phát triển chậm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Sự không phân li của toàn bộ bộ NST vào giai đoạn sớm của hợp tử trong lần nguyên phân đầu tiên sẽ tạo ra:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thể tứ bội",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thể tam bội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thể khảm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thể đa nhiễm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đặc điểm chỉ có ở thể dị đa bội mà không có ở thể tự đa bội là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không có khả năng sinh sản hữu tính (bị bất thụ)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tế bào sinh dưỡng mang bộ nhiễm sắc thể lưỡng bội của hai loài khác nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hàm lượng ADN ở trong tế bào sinh dưỡng tăng lên so với dạng lưỡng bội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bộ nhiễm sắc thể tồn tại theo từng cặp tương đồng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Loài cải củ có 2n = 18. Thể đơn bội của loài có số NST trong tế bào là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 36",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cơ thể mang kiểu gen Aaa giảm phân bình thường có thể tạo ra các loại giao tử nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AA, Aa, aa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AAa, Aa, a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A, Aa, aa, a.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. AA, A, Aa, a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho các phép lai sau:(1) 4n x 4n → 4n.              (2) 4n x 2n → 3n.        (3) 2n x 2n → 4n.      (4) 3n x 3n → 6n.Có bao nhiêu phép lai đời con có thể được hình thành do đa bội hóa?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Chất cônxixin thường được dùng để gây đột biến đa bội ở thực vật, do cônxixin có khả năng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. kích thích cơ quan sinh dưỡng phát triển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tăng cường sự trao đổi chất ở tế bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tăng cường quá trình sinh tổng hợp chất hữu cơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cản trở sự hình thành thoi phân bào làm cho nhiễm sắc thể không phân li",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Kí hiệu bộ nhiễm sắc thể nào sau đây là của thể ba?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3n.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4n.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2n+1.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2n-1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Phát biểu nào sau đây về đột biến nhiễm sắc thể là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến đa bội xảy ra phổ biến ở thực vật, ít gặp ở động vật.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đột biến cấu trúc nhiễm sắc thể chỉ xảy ra với nhiễm sắc thể giới tính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến lặp đoạn luôn làm tăng mức độ biểu hiện của gen cấu trúc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến nhiễm sắc thể gồm hai dạng đa bội lẻ và đa bội chẵn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Theo lí thuyết, bằng phương pháp gây đột biến tự đa bội, từ các tế bào có kiểu gen BB, Bb và bb không tạo ra được tế bào tứ bội có kiểu gen nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bbbb.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. bbbb.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. BBbb.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. BBBB.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

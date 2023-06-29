@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = "https://khoahoc.vietjack.com/thi-online/bo-15-de-thi-danh-gia-nang-luc-truong-dhqg-hcm-co-dap-an/79124/thi"
+url = "https://khoahoc.vietjack.com/thi-online/di-truyen-y-hoc/74496/thi"
 
 cookies = {
     "cross-site-cookie": "bar",
@@ -42,14 +42,14 @@ for question_item in question_items:
     data["questions"].append(question)
 
 # Save the data to a JSON file
-json_file_name = "De-13.json"
+json_file_name = f"De-{url.split('/')[-2]}.json"
 with open(json_file_name, "w", encoding="utf-8") as file:
     json.dump(data, file, indent=4, ensure_ascii=False)
 
 print("JSON data saved to:", json_file_name)
 
 # Save the data to a Markdown file
-md_file_name = "De-13.md"
+md_file_name = f"De-{url.split('/')[-2]}.md"
 with open(md_file_name, "w", encoding="utf-8") as file:
     file.write("# Questions\n\n")
     for question in data["questions"]:

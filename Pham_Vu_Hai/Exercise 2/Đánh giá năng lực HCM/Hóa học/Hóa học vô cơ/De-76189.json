@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/axit-sunfuric/76189/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Để pha loãng dung dịch H2SO4 đặc, người ta dùng cách nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đổ nhanh dung dịch H2SO4 đặc vào nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Rót từ từ nước vào dung dịch H2SO4 đặc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Rót từ từ dung dịch H2SO4 đặc vào nước, khuấy đều.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cả 3 đáp án đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Để pha loãng dung dịch H2SO4 đặc, người ta rót từ từ dung dịch H2SO4 đặc vào nước, khuấy đều.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Dãy kim loại phản ứng được với dung dịch H2SO4 loãng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu, Zn, Na.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.K, Mg, Fe, Zn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ag, Ba, Fe, Sn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Au, Pt, Al.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy kim loại phản ứng được với dung dịch H2SO4 loãng là K, Mg, Fe, Zn.Loại A vì Cu không phản ứngLoại C vì Ag không phản ứngLoại D vì Au và Pt không phản ứngĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Kim loại nào sau đây không tác dụng với dung dịch H2SO4 loãng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Fe",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cu",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dung dịch H2SO4 loãng tác dụng được với kim loại hoạt động (đứng trước H trong dãy điện hóa).Mg, Al, Fe đứng trước H trong dãy điện hóa → A, B, C saiCu đứng sau H trong dãy điện hóa → D đúngĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Dung dịch H2SO4 loãng phản ứng được với tất cả các chất trong dãy nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al2O3, Ba(OH)2, Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CuO, NaCl, CuS.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. FeCl3, MgO, Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. BaCl2, Na2CO3, FeS.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dung dịch H2SO4 loãng phản ứng được với BaCl2, Na2CO3, FeS.BaCl2 + Na2CO3 → BaCO3 + 2NaClNa2CO3 + H2SO4  → Na2SO4 + H2O + CO2FeS + H2SO4  → FeSO4 + H2SLoại A vì Ag không phản ứngLoại B vì NaCl không phản ứngLoại C vì Cu không phản ứngĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Chỉ dùng dung dịch H2SO4 có thể phân biệt được cặp kim loại nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe, Cu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Fe, Mg.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Mg, Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al, Fe.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời: FeCuH2SO4Fe + H2SO4 → FeSO4 + H2 ↑→ Kim loại tan dần và sủi bọt khí không màuKhông có hiện tượng gìĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Hòa tan m gam hỗn hợp Al và Fe vào dung dịch H2SO4 loãng dư. Sau khi các phản ứng xảy ra hoàn toàn thu được dung dịch X. Cho dung dịch Ba(OH)2 dư vào dung dịch X thu được kết tủa Y. Nung Y trong không khí đến khối lượng không đổi thu được chất rắn Z gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. BaSO4 và FeO.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Al2O3 và Fe2O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. BaSO4 và Fe2O3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Fe2O3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[\\left\\{ {\\begin{array}{*{20}{c}}{Al}\\\\{Fe}\\end{array}} \\right. + {H_2}S{O_4} \\to \\left\\{ {\\begin{array}{*{20}{c}}{A{l_2}{{\\left( {S{O_4}} \\right)}_3}}\\\\{FeS{O_4}}\\end{array}} \\right.\\]\\[\\mathop  \\to \\limits^{ + Ba{{\\left( {OH} \\right)}_2}\\,du}  \\downarrow Y:BaS{O_4},Fe{\\left( {OH} \\right)_2}\\]\\[\\mathop  \\to \\limits^{kk,t^\\circ } Z:BaS{O_4},F{e_2}{O_3}\\]Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho 2,81 gam hỗn hợp gồm 3 oxit Fe2O3, MgO, ZnO tan vừa đủ trong 300ml dung dịch H2SO4 0,1M thì khối lượng muối sunfat khan tạo thành là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5,33 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5,21 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3,52 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5,68 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Nhúng thanh sắt dư vào 200 ml dung dịch chứa HCl 0,2M và mol H2SO4 0,1M đến khi phản ứng hoàn toàn thu được V lít khí. Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,448.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,344.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,896.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1,792.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hỗn hợp A gồm BaCl2 và BaCO3 tác dụng vừa đủ với m gam dung dịch H2SO4 4,9% thu được 58,25 gam kết tủa. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.400.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.500.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.600.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 800.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cặp kim loại nào dưới đây thụ động trong H2SO4 đặc, nguội ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Zn, Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al, Fe.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Zn, Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cu, Fe.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hỗn hợp FeS và FeCO3 tác dụng với dung dịch H2SO4 đậm đặc và đun nóng, người ta thu được một hỗn hợp khí A. Hỗn hợp khí A gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2S và CO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2S và SO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. SO2 và CO2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CO và CO2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hòa tan 7,2 gam Mg vào dung dịch H2SO4 đặc nóng dư, thu được V lít khí H2S (đktc, sản phẩm khử duy nhất). Tính V và tính khối lượng H2SO4 phản ứng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,68 và 36,75",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1,68 và 37,65",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3,36 và 37,65",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3,36 và 36,75",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Hòa tan 50,4 gam hỗn hợp A gồm Fe, FeO, Fe3O4, Cu và CuO bằng dung dịch H2SO4 dư thu được 7,84 lít khí SO2 (đktc, sản phẩm khử duy nhất) và dung dịch B chứa 132 gam hai muối sunfat. Mặt khác khử hoàn toàn hỗn hợp A cần dùng V lít khí CO (đktc). Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13,44.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 7,84.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10,08.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,72",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Hòa tan hoàn toàn 19,2 gam hỗn hợp X gồm Fe, FeO, Fe3O4 và Fe2O3 trong 50 ml dung dịch H2SO4 18M (đặc, dư, đun nóng), thu được dung dịch Y và V lít khí SO2 (đktc và là sản phẩm khử duy nhất). Cho 450 ml dung dịch NaOH 2M vào dung dịch Y thu được 21,4 gam kết tủa. Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5,60 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4,48 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6,72 lít.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3,36 lít.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho m gam nhôm tác dụng với dung dịch  H2SO4 (đặc, nóng, dư) sau khi phản ứng kết thúc người ta thu 13,44 lit khí SO2  (đktc).  Giá trị m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,7 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10,8 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8,1 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5,4 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hòa tan hoàn toàn m gam hỗn hợp X gồm Fe và kim loại M (chỉ có hóa trị II) trong dung dịch H2SO4 đặc, nóng thu được 6,72 lít khí SO2 (đktc); 5,76 gam S (không có sản phẩm khử nào khác) và dung dịch X chứa 105,6 gam muối Fe2(SO4); MSO4. Mặt khác, nếu hòa tan hết m gam X ban đầu với dung dịch HCl dư thu được 16,128 lít khí H2(đktc). Kim loại M là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Zn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho m gam hỗn hợp X gồm Fe và FeO tác dụng với dung dịch HCl dư, thu được 0,3 mol khí H2. Nếu cho m gam hỗn hợp X trên tác dụng với axit H2SO4 đặc, dư, đun nóng, thu được 11,2 lít khí SO2 (đktc). Biết các phản ứng xảy ra hoàn toàn, SO2 là sản phẩm khử duy nhất của S+6. Giá trị của m và khối lượng axit H2SO4 đã phản ứng lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 54 và 58,8 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 24 và 107,8 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 24 và 58,8 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 54 và 107,8 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Chia hỗn hợp X gồm Fe, Fe3O4, Fe(OH)3 và FeCO3 thành hai phần bằng nhau. Hòa tan hết phần 1 trong dung dịch HCl dư, thu được 0,1 mol hỗn hợp 2 khí có tỉ khối so với He bằng 4,7 và dung dịch Y. Cho phần 2 tác dụng với lượng dư dung dịch H2SO4 đặc nóng, sau khi các phản ứng xảy ra hoàn toàn thu được dung dịch Z và 0,2075 mol hỗn hợp khí T gồm CO2 và SO2 (sản phẩm khử duy nhất của S+6).Khối lượng FeCl2 trong dung dịch Y là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25,307 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.27,305 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 23,705 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 25,075 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Hỗn hợp a gồm Cu và CuO Hòa tan hoàn toàn 20,8 gam hỗn hợp a vào 73,5 gam dung dịch H2SO4 80% chỉ thu được dung dịch x và khí SO2 là sản phẩm khử duy nhất cho x tác dụng hoàn toàn với 900 ml dung dịch NaOH 1M sau đó lọc bỏ kết tủa được dung dịch y cô cạn y thu được chất rắn z nặng 60,8 g nồng độ phần trăm của CuSO4 trong x.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 68,90%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 58,90%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 61,09%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 59,8%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Hòa tan hoàn toàn hỗn hợp X gồm Mg và Zn bằng một lượng vừa đủ dung dịch H2SO4 20% (loãng), thu được dung dịch Y. Nồng độ của MgSO4 trong dung dịch Y là 15,22%. Nồng độ phần trăm của ZnSO4 trong dung dịch Y gần nhất với giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10,21%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 15,16%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 18,32%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15,22%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

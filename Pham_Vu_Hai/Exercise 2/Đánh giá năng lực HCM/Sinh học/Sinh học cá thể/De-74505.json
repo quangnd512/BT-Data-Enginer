@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/su-hap-thu-va-van-chuyen-vat-chat-o-thuc-vat/74505/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Sự xâm nhập của nước vào tế bào lông hút theo cơ chế",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chủ động",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thẩm thấu",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cần tiêu tốn năng lượng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhờ các bơm ion",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSự xâm nhập của nước vào tế bào lông hút theo cơ chế thẩm thấu.Nước di chuyển từ môi trường nhược trương (ít ion khoáng, nhiều nước) sang môi trường ưu trương (nhiều ion khoáng, ít nước) nhờ sự chênh lệch áp suất thẩm thấu.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trước khi vào mạch gỗ của rễ, nước và chất khoáng hòa tan trong đất phải đi qua tế bào nào đầu tiên:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khí khổng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tế bào nội bì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tế bào lông hút",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tế bào biểu bì",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCon đường vận chuyển nước và chất khoáng hòa tan: Đất → tế bào biểu bì (lông hút) → vỏ → Nội bì → trung trụ (mạch gỗ).Nước và chất khoáng hòa tan trong đất phải đi qua tế bào lông hút trước.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Quá trình hấp thụ các ion khoáng ở rễ theo các hình thức cơ bàn nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hấp thụ khuyếch tán và thẩm thấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hấp thụ bị động và hấp thụ chủ động.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cùng chiều nồng độ và ngược chiều nồng độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điện li và hút bám trao đổi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKhoáng được hấp thụ bị động và chủ động.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Quá trình hấp thụ bị động ion khoáng có đặc điểm:1. Các ion khoáng đi từ môi trường đất có nồng độ cao, sang tế bào rễ có nồng độ thấp.2. Nhờ có năng lượng và enzim, các ion cần thiết bị động đi ngược chiều nồng độ vào tế bào rễ.3. Không cần tiêu tốn năng lượng.4. Các ion cần thiết đi ngược chiều nồng độ nhờ có chất hoạt tải.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nQuá trình hẩp thụ bị động ion khoáng theo hình thức khuếch tán, không cần tiêu tốn năng lượng.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Nồng độ Ca2+trong cây là 0,3%, trong đất là 0,1%. Cây sẽ nhận Ca2+bằng cách nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hấp thụ chủ động.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hấp thụ thụ động",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thẩm thấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khuếch tán",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCây cần vận chuyển ion ngược chiều gradient nồng độ → Hấp thụ chủ động.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Vòng đai Caspari có vai trò:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điều chỉnh dòng vận chuyển vào trung trụ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Điều chỉnh sự đóng mở của khí khổng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điều chỉnh quá trình quang hợp của cây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điều chỉnh hoạt động hô hấp của rễ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nVòng đai Caspari chặn cuối con đường gian bào giúp điều chỉnh, chọn lọc các chất vào tế bàoĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Sự xâm nhập chất khoáng chủ động phụ thuộc chủ yếu vào",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gradien nồng độ chất tan",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hiệu điện thế màng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trao đổi chất của tế bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cung cấp năng lượng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Nước được vận chuyển ở thân chủ yếu",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Qua mạch rây theo chiều từ trên xuống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Từ mạch gỗ sang mạch rây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Từ mạch rây sang mạch gỗ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Qua mạch gỗ",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tế bào mạch gỗ của cây gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quản bào và tế bào nội bì.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quản bào và tế bào lông hút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quản bào và mạch ống.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Quản bào và tế bào biểu bì.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Động lực của dịch mạch gỗ từ rễ đến lá",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lực đẩy (áp suẩt rễ)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lực hút do thoát hơi nước ở lá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lực liên kết giừa các phần tử nước với nhau và với thành tế bào mạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Do sự phối hợp của 3 lực: Lực đẩy, lực hút và lực liên kết.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Động lực của dịch mạch rây là sự chênh lệch áp suất thẩm thấu giữa",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lá và rễ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cành và thân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cành và lá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thân gỗ và lá",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Các tế bào ở mạch rây là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. các tế bào sống",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. các tế bào chết",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. các tế bào non",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. các tế bào già",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Thành phần chủ yếu của dịch mạch rây là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. saccarôzơ và axit amin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. hoocmon, các ion khoáng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. nước và các ion khoáng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. axit amin, ion khoáng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

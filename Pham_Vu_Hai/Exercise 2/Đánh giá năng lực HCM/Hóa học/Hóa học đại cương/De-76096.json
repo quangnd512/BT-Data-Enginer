@@ -1,0 +1,902 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dong-vi/76096/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đồng có 2 đồng vị \\[{}_{29}^{63}Cu\\] và \\[{}_{29}^{65}Cu\\]. Nguyên tử khối trung bình của đồng là 63,54. Thành phần phần trăm số nguyên tử của mỗi đồng vị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 73% \\[{}_{29}^{63}Cu\\]và 27% \\[{}_{29}^{65}Cu\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 67% \\[{}_{29}^{63}Cu\\] và 33% \\[{}_{29}^{65}Cu\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 27% \\[{}_{29}^{63}Cu\\] và 73% \\[{}_{29}^{65}Cu\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 65% \\[{}_{29}^{63}Cu\\]và 35% \\[{}_{29}^{65}Cu\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nGọi phần trăm đồng vị \\[{}_{29}^{63}Cu\\] là a%\n=>phần trăm đồng vị \\[{}_{29}^{65}Cu\\] là (100 – a)%\nTa có :\n\\[\\overline A = \\frac{{63a + 65.\\left( {100 - a} \\right)}}{{100}} = 63,54\\]\n=>a = 73\nVậy phần trăm mỗi đồng vị là:\n73% \\[{}_{29}^{63}Cu\\]và 27% \\[{}_{29}^{65}Cu\\]\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Agon tách ra từ không khí là hỗn hợp của 3 đồng vị: 99,6% 40Ar, 0,063% 38Ar, 0,337% 36Ar. Tính thể tích của 10 gam Ar ở điều kiện tiêu chuẩn.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5,60 lít",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5,89 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 11,20 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,22 lít",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Số khối:\\[{\\overline A _{{\\rm{Ar}}}} = \\frac{{99,6.40 + 0,063.38 + 0,337.36}}{{100}} = 39,985\\]\\[ \\Rightarrow {n_{Ar}} = \\frac{{10}}{{39,985}} = 0,25mol\\]=>V = 0,25.22,4 = 5,6LĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Khối lượng nguyên tử trung bình của bo (B) là 10,812. Số nguyên tử \\[{}_5^{11}B\\] khi có 94 nguyên tử \\[{}_5^{10}B\\] là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 308.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 408.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 406.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 506.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có:\n\\[\\overline M = \\frac{{{x_1}.{A_1} + {x_2}.{A_2}}}{{100}}\\]\n\\[ \\to \\overline M = \\frac{{{x_1}.10 + \\left( {100 - {x_1}} \\right).11}}{{100}} = 10,812\\]\n\\[ \\to {x_1} = 18,8\\% \\]\n=>phần trăm số lượng của \\[{}_5^{11}B\\] là:\n100% - 18,8% = 81,2%\n=>tỉ lệ số nguyên tử \\[\\frac{{{}_5^{11}B}}{{{}_5^{10}B}} = \\frac{{81,2}}{{18,8}}\\]\n=>số nguyên tử \\[{}_5^{11}B\\] khi có 94 nguyên tử \\[{}_5^{10}B\\] là:\n\\[94.\\frac{{81,2}}{{18,8}} = 406\\]\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Hai đồng vị có số khối trung bình 40,08 đvC. Hai đồng vị này có số nơtron hơn kém nhau là 2. Đồng vị có số khối nhỏ chiếm 96%. Số khối mỗi đồng vị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 40 và 42.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 41 và 42.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 38 và 40.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 42 và 38.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Số khối trung bình 2 đồng vị:A = 0,96.A1 + 0,04.A2 = 40,08 =>(Z + N).0,96 + (Z + N + 2).0,04 = 40,08=>Z + N = 40Vậy số khối 2 đồng vị lần lượt là 40 và 42 đvCĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hiđro có nguyên tử khối là 1,008. Hỏi có bao nhiêu nguyên tử của đồng vị \\[{}_1^2H\\] trong 1 ml nước (cho rằng trong nước chỉ có 2 đồng vị \\[{}_1^2H,{}_1^1H\\]), cho M = 18, khối lượng riêng của nước là 1 g/ml ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5,344.1020 nguyên tử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6,626.1022 nguyên tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5,344.1022 nguyên tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,626.1020 nguyên tử",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nÁp dụng công thức: m = D.V\n\\[ \\Rightarrow {m_{{H_2}O}} = 1gam\\]\n\\[ \\Rightarrow {n_{{H_2}O}} = \\frac{1}{{18}}mol\\]\n=>số phân tử \\[{H_2}O = \\frac{{6,{{02.10}^{23}}}}{{18}} = 3,{34.10^{22}}\\]\n=>Tổng số nguyên tử H = 2 . số phân tử H2O\nĐặt x và y lần lượt là số nguyên tử \\[{}_1^2H,{}_1^1H\\]\n=>x + y = 6,68.1022\n+) Nguyên tử khối trung bình của H là 1,008\nMà trong 6,68.1022 nguyên tử H gồm \\[{}_1^2H,{}_1^1H\\]\n=>Khối lượng của 6,68.1022 nguyên tử H là:\n2x + y = 1,008.6,68.1022\n=>x = 5,344.1020 và y = 6,626.1022 nguyên tử\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Nguyên tử khối của B là 10,81. B gồm 2 đồng vị 10B và 11B. Phần trăm đồng vị 11B trong H3BO3 (biết MH = 1 và MO = 16) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,07%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 14,42%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8,91%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12,22%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[{\\overline A _B} = \\frac{{{x_1}.{A_1} + {x_2}.{A_2}}}{{100}}\\]\\[ \\to {\\overline A _B} = \\frac{{{x_1}.10 + \\left( {100 - {x_1}} \\right).11}}{{100}} = 10,81\\]\\[ \\to {x_1} = 19\\% \\]+) Lấy 1 mol H3BO3 (61,81 gam) trong đó có chứa 1 mol B =>có 0,19 mol 10B và 0,81 mol 11B=>khối lượng 11B = 0,81.11 = 8,91\\[ \\Rightarrow \\% {m_{{{11}_B}}} = \\frac{{{m_{{{11}_B}}}}}{{{m_{{H_3}P{O_3}}}}}.100\\% \\]\\[ \\Rightarrow \\% {m_{{{11}_B}}} = \\frac{{8,91}}{{61,81}}.100\\% \\]\\[ \\Rightarrow \\% {m_{{{11}_B}}} = 14,42\\% \\]Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một hỗn hợp gồm hai đồng vị có số khối trung bình 31,1 và có tỉ lệ phần trăm các đồng vị là 90% và 10%. Tổng số hạt trong hai đồng vị là 93 và tổng số hạt không mang điện bằng 0,55 lần tổng số hạt mang điện. Số nơtron của đồng vị có số khối lớn hơn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 16.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 17.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 18.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 19.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một nguyên tử M có 75 electron và 110 nơtron. Kí hiệu của nguyên tử M là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{}_{75}^{110}M\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{}_{110}^{75}M\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[{}_{75}^{185}M\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[{}_{185}^{75}M\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nguyên tử X không có nơtron trong hạt nhân nguyên tử. Nguyên tử X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{}_1^1H\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[{}_1^3H\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[{}_1^2H\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{}_2^4H\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Nguyên tố X có 3 đồng vị là X1 chiếm 92,23%, X2 chiếm 4,67% và X3 chiếm 3,1%. Tổng số khối của 3 đồng vị bằng 87. Số nơtron trong X2 nhiều hơn X1 1 hạt. Nguyên tử khối trung bình của X là 28,0855. Số khối của X3 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 28.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.29.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 30.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 31.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong tự nhiên, nguyên tố Clo có 2 đồng vị 35Cl và 37Cl có phần trăm số lượng tương ứng là 75% và 25%. Nguyên tố Cu có 2 đồng vị trong đó 63Cu chiếm 73% số lượng. Biết Cu và Cl tạo được hợp chất CuCl2 trong đó Cu chiếm 47,228% khối lượng. Đồng vị còn lại của Cu là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 62Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 64Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 65Cu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 66Cu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Nguyên tử nào trong các nguyên tử sau đây chứa đồng thời 20 nơtron, 19 proton và 19 electron:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{}_{19}^{39}K\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[{}_{17}^{37}K\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[{}_{18}^{40}{\\rm{Ar}}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{}_{19}^{40}K\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong tự nhiên cacbon có 2 đồng vị bền \\[{}_6^{12}C\\] và \\[{}_6^{13}C\\]. Nguyên tử khối trung bình của cacbon là 12,011. Phần trăm của hai đồng vị trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 98,9% và 1,1%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 49,5% và 51,5%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 99,8% và 0,2%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 75% và 25%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong tự nhiên Li có 2 đồng vị là 6Li và 7Li và có nguyên tử khối trung bình là 6,94. Phần trăm khối lượng  7Li trong LiNO3 là  (cho N = 14; O = 16)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10, 067%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9,362%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9,463%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9,545%.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong tự nhiên brom có hai đồng vị là \\[{}_{35}^{79}Br\\] và \\[{}_{35}^{81}Br\\], nguyên tử khối trung bình của brom là 79,986. Nếu nguyên tử khối mỗi đồng vị có giá trị bằng số khối thì tỉ lệ % số nguyên tử đồng vị \\[{}_{35}^{79}Br\\] là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 49,3%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.50,7%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 46%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 54%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Bo là nguyên tố dinh dưỡng thiết yếu đối với cây trồng. Ngày nay trên 70 quốc gia đã được phát hiện tình trạng thiếu Bo ở hầu hết các loại cây trên nhiều loại đất. Phân Bo cũng đã được sử dụng rộng rãi trên thế giới. Trong tự nhiên, Bo có 2 đồng vị . Biết \\[{}_5^{10}B\\] chiếm 18,8%.  Khối lượng nguyên tử  trung bình của bo là 10,812. Số khối của  đồng vi ̣thứ 2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 11",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Nguyên tố hoá học là những nguyên tử có cùng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. số  proton và nơtron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. số nơtron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. số khối.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. số proton.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Các đồng vị của cùng một nguyên tố hóa học được phân biệt bởi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số electron hóa trị.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Số proton.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Số lớp electron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số nơtron.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Nguyên tử khối trung bình của Cu là 63,546. Đồng tồn tại trong tự nhiên với 2 loại đồng vị là \\[{}_{29}^{65}Cu\\] và \\[{}_{29}^{63}Cu\\]. Thành phần phần trăm về nguyên tử của \\[{}_{29}^{63}Cu\\] là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 72,7%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 27,30%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 23,70%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 26,30%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Nguyên tử khối trung bình của nguyên tố R là 79,91. R có 2 đồng vị. Biết 79R chiếm 54,5%, Nguyên tử khối của đồng vị còn lại có giá trị nào ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 80",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 82",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 81",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 85",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cabon trong tự nhiên là hỗn hợp của hai đồng vị 12C và 13C, trong đó đồng vị 12C chiếm 98,89%. Biết rằng đồng vị cacbon 13C có nguyên tử khối bằng 12,991. Nguyên tử khối trung bình của cacbon là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12,512.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12,111.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12,011.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 12,150.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Trong tự nhiên, bạc có 2 đồng vị là 109Ag (chiếm 44%) và AAg. Biết khối lượng nguyên tử trung bình của Ag là 107,88. Số khối A của đồng vị thứ 2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 105",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 106",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 107",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 108",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Nguyên tố Mg có 3 loại đồng vị có số khối lần lượt là: 24, 25 và 26. Trong 5000 nguyên tử Mg thì có 3930 đồng vị 24, 505 đồng vị 25, còn lại là đồng vị 26. Hãy tính khối lượng nguyên tử trung bình của Mg.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 24,998",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 25,527",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.25,103",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 24,327",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Nguyên tố clo có 2 đồng vị bền 35Cl chiếm 75,77% và 37Cl chiếm 24,23%. Tính nguyên tử khối trung bình của Cl là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 35,48",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 35,05",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 36,00",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 36,52",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Nguyên tử khối trung bình của đồng là 63,546. Trong tự nhiên đồng có hai đồng vị 63Cu và 65Cu. Tính % số nguyên tử của đồng vị 65Cu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 27,3%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 26,7%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 26,7%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 23,7%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Trong tự nhiên clo có 2 đồng vị là 35Cl và 37Cl. Nguyên tử khối trung bình của Clo là 35,5. Tính thành phần % khối lượng của 37Cl trong KClO3 (cho K = 39; O=16)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7,24%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7,55%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 25,00%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 28,98%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Nitơ trong tự nhiên là hỗn hợp gồm 2 động vị là 14N (99,63%) và 15N (0,37%)Nguyên tử khối trung bình của nitơ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 14,7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 14,0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 14,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13,7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Hiđro có 3 đồng vị là 1H, 2H, 3H Oxi có 3 đồng vị là 16O, 17O, 18O. Trong tự nhiên, loại phân tử nước có phân tử khối lớn nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 39u",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 21u",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20u",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 24u",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Nguyên tố Bo có 2 đồng vị bền là  11B (x1 %) và 10B (x2 %), nguyên tử khối trung bình của Bo là 10,8. Giá trị của x1 % là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.80%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 20%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10,8%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 89,2%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Trong thiên nhiên Ag có 2 đồng vị, đồng vị 44Ag107(56%). Tính số khối của đồng vị thứ hai. Biết nguyên tử khối trung bình của Ag là 107,88.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 109",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.107",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 108",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 110",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Nguyên tử khối trung bình của rubiđi là 85,559. Trong tự nhiên rubidi có 2 đồng vị 85Rb và 87Rb. Xác định thành phần % số nguyên tử của đồng vị 85Rb?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 27,95%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 44,10%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 55,90%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 72,05%",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Trong tự nhiên brom có 2 đồng vị bền: 79Br chiếm 50,69% số nguyên tử và 81Br chiếm 49,31% số nguyên tử. Nguyên tử khối trung bình của brom bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 79,99.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 79,97.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 80,00.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 80,01.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Ba nguyên tử X, Y, Z có cùng số proton và số nơtron như sau:X: 20 proton và 20 nơtron.Y: 18 proton và 22 nơtron.Z: 20 proton và 22 nơtron.Những nguyên tử là các đồng vị của cùng một nguyên tố là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X, Y",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. X, Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Y, Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. X, Y, Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Nguyên tử của nguyên tố clo có 17 electron và 20 nơtron. Kí hiệu nguyên tử  nào sau đây là của nguyên tố clo?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{}_{17}^{20}Cl\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{}_{20}^{37}Cl\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[{}_{17}^{37}Cl\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[{}_{17}^{35}Cl\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Trong tự nhiên hiđro có 2 đồng vị bền là 1H, 2H; clo có hai đồng vị bền là 35Cl, 37Cl. Số loại phân tử HCl khác nhau có thể tạo thành từ các đồng vị trên là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Khối lượng Nguyên tử trung bình của Brom là 79,91. Brom có 2 đồng vị trong đó đồng vị 79Br chiểm 54,5%. Số khối của đồng vị thứ 2 sẽ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 77",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.78",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 80",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 81",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Nguyên tố Bo có 2 đồng vị 10B ( x1 %) và 11B ( x2 %) nguyên tử khối trung bình của B là 10,8. x1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 80%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 10,8%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 89,2%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Nguyên tử khối trung bình của Sb là 121,76. Sb có 2 đồng vị biết  121Sb chiếm 62% . Số khối của  đồng vị thứ 2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 121",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 123",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 122",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 124",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Nguyên tử khối trung bình của đồng là 63,546. Trong tự nhiên nguyên tố đồng có hai đồng vị 63Cu và 65Cu. Tính % số nguyên tử của đồng vị 65Cu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 27,3%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 26,7%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 26,3%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 23,7%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

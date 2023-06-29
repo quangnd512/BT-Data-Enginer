@@ -1,0 +1,534 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/gen-va-ma-di-truyen1/74256/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một đoạn của phân tử ADN mang thông tin mã hoá cho một chuỗi pôlipeptit hay một phân tử ARN được gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Anticodon.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mã di truyền.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Codon.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMột đoạn của phân tử ADN mang thông tin mã hoá cho một chuỗi pôlipeptit hay một phân tử ARN được gọi là gen.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một đoạn gen có trình tự nuclêôtit là 3’AGXTTAGXA5’. Trình tự các nuclêôtit trên mạch bổ sung của đoạn Gen trên là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3’TXGAATXGT5’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5’AGXTTAGXA3’",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5’TXGAATXGT3’",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5’UXGAAUXGU3’",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo nguyên tắc bổ sung, ta có:Mạch gốc:                          3’AGXTTAGXA5’Mạch bổ sung:                   5’TXGAATXGT3’Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Mạch thứ nhất của gen có trình tự nuclêôtít là 3’AAAXXAGGGTGX 5’. Tỉ lệ ở mạch thứ 2 của gen là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1/4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1/2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTỉ lệ ở đoạn mạch thứ nhất là: 8/4Do A liên kết với T và G liên kết với X → A1= T2, T1= A2, G1= X2, X1= G2→ Tỉ lệ ở đoạn mạch thứ 2 là 4/8 = 1/2Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Gen phân mảnh có đặc tính là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chia thành nhiều mảnh, mỗi mảnh một nơi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gồm các nuclêôtit không nối liên tục.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đoạn mã hóa xen lẫn các đoạn không mã hóa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Do các đoạn Okazaki gắn lại.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGen phân mảnh: gồm các đoạn mã hóa axit amin (exon) xen lẫn các đoạn không mã hóa axit amin (intron).Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Đoạn chứa thông tin mã hóa axit amin của gen ở tế bào nhân thực gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Exon",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Codon",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Intron",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNuclêôtit là đơn phân của gen (hay ADN).Exon là đoạn mã hóa axit amin.Codon là bộ ba mã hóa trên mARN.Intron là các đoạn không mã hóa axit amin. Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Gen của loài sinh vật nào sau đây có cấu trúc phân mảnh",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vi khuẩn lam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nấm men",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Xạ khuẩn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. E.Coli",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGen phân mảnh có ở sinh vật nhân thực, trong 4 loài sinh vật trên thì nấm men là sinh vật nhân thực, A, C, D đều là sinh vật nhân sơ.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Mã di truyền khôngcó đặc điểm nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mã di truyền có tính phổ biến.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mã di truyền là mã bộ 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mã di truyền có tính thoái hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mã di truyền đặc trưng cho từng loài",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Mã di truyền có tính đặc hiệu, có nghĩa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mã mở đầu là AUG, mã kết thúc là UAA, UAG, UGA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhiều bộ ba cùng xác định một axit amin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một bộ ba mã hoá chỉ mã hoá cho một loại axit amin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tất cả các loài đều dùng chung một bộ mã di truyền.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Vùng mã hóa gồm các bộ ba có các đặc điểm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mang thông tin mã hóa axit amin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Mang tín hiệu mở đầu quá trình dịch mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mang tín hiệu mở đầu quá trình phiên mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mang tín hiệu kết thức quá trình dịch mã",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong thành phần cấu trúc của một gen điển hình gồm có các phần:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vùng điều hòa, vùng mã hóa và vùng kết thúc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vùng cấu trúc, vùng mã hóa và vùng kết thúc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vùng khởi động, vùng vận hành và vùng cấu trúc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vùng khởi động, vùng mã hóa và vùng kết thúc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Vùng kết thúc của gen cấu trúc có chức năng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. quy định trình tự sắp xếp các axit amin trong phân tử prôtêin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. mang thông tin mã hoá các axit amin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. mang tín hiệu kết thúc quá trình phiên mã",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. mang tín hiệu khởi động và kiểm soát quá trình phiên mã",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Mã di truyền là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Toàn bộ các nuclêôtit và các axit amin ở tế bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thành phần các axit amin quy định tính trạng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trình tự các nuclêôtit ở các axit nuclêic mã hóa axit amin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Số lượng nuclêôtit ở các axit nuclêic mã hóa axit amin",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tính phổ biến của mã di truyền được hiểu là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tất cả các loài đều có chung một bộ mã di truyền, trừ một vài ngoại lệ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. nhiều bộ ba khác nhau cùng xác định một loại axit amin, trừ AUG và UGG.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. một bộ ba chỉ mã hóa cho một loại axit amin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. các bộ ba được đọc từ một điểm xác định theo từng bộ ba nuclêôtit mà không gối lên nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đơn phân nào sau đây cấu tạo nên phân tử ADN?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Axit amin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ribônuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nuclêôtit",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Phôtpholipit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Tất cả các sinh vật hiện nay đều có chung một bộ mã di truyền, trừ một vài ngoại lệ, điều này chứng tỏ mã di truyền có tính",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. phổ biến.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. thoái hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. liên tục.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. đặc hiệu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một gen có chiều dài 5100 Å có tổng số nuclêôtit là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3000",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3600",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2400",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4200",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Mạch thứ nhất của gen có 10%A, 20%T; mạch thứ hai có tổng số nuclêôtit G với X là 910. Chiều dài của gen (được tính bằng nanomet) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4420",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 884",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 442",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 8840",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một mạch của gen có khối lượng bằng 6,3.106đvC, số nuclêôtit của gen nói trên là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2100",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4200",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 21000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 42000",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trên một mạch của một gen có 20%T,  22%X, 28%A. Tỉ lệ mỗi loại nuclêôtit của gen là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A=T=24%, G=X=26%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. A=T=24%, G=X=76%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A=T=48%, G=X=52%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A=T=42%, G=X=58%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Một gen ở sinh vật nhân thực có số lượng các loại nuclêôtit là: A = T = 600 và G = X = 300. Tổng số liên kết hiđrô của gen này là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1500",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2100",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1200",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1800",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tổng số nuclêôtit của gen là 1500 thì số liên kết cộng hóa trị giữa các đơn phân trên gen là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 799",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1499",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1498",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2998",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Trình tự các nuclêôtit trên đoạn mạch gốc của gen là:3’ ATGAGTGAXXGTGGX 5’Đoạn gen này có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tỷ lệ A+G/T+X = 9/6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 39 liên kết Hidro",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 30 cặp nuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 14 liên kết cộng hóa trị.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Một ADN có A = 450, tỷ lệ A/G = 3/2. Số nucleotit từng loại của ADN là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A=T=450; G=X=600",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A=T=600; G=X=900",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A=T=450; G=X=300",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. A=T=300; G=X=450",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

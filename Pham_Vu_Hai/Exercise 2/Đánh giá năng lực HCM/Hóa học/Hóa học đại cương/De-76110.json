@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/phan-ung-oxi-hoa-khu/76110/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho amoniac NH3 tác dụng với oxi ở nhiệt độ cao có xúc tác thích hợp sinh ra nitơ oxit NO và nước. Phương trình hoá học: 4NH3 + 5O2 → 4NO + 6H2O. Trong phản ứng trên, NH3 đóng vai trò",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. là chất oxi hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. là chất khử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. là một bazơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. là một axit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[4\\mathop N\\limits^{ - 3} {H_3} + 5\\mathop {{O_2}}\\limits^0  \\to 4\\mathop N\\limits^{ + 2} \\mathop O\\limits^{ - 2}  + 6{H_2}O\\]Quá trình cho – nhận e của N:\\[\\mathop N\\limits^{ - 3} {H_3} \\to \\mathop N\\limits^{ + 2} O + 5e\\]=>NH3 đóng vai trò là chất khử.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho phương trình hóa học :  4Fe(OH)2 + O2 + 2H2O → 4Fe(OH)3. Kết luận nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe(OH)2 là chất khử, H2O là chất oxi hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe(OH)2 là chất khử, O2 là chất oxi hoá.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. O2 là chất khử, H2O là chất oxi hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe(OH)2 là chất khử, O2 và H2O là chất oxi hoá",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[4\\mathop {Fe}\\limits^{ + 2} {\\left( {OH} \\right)_2} + \\mathop {{O_2}}\\limits^0  + 2{H_2}O \\to 4\\mathop {Fe}\\limits^{ + 3} \\mathop {{{\\left( {OH} \\right)}_3}}\\limits^{ - 2} \\]Quá trình cho – nhận e:\\[\\mathop {Fe}\\limits^{ + 2}  \\to \\mathop {Fe}\\limits^{ + 3}  + 1e\\] =>Fe(OH)2 là chất khử\\[\\mathop {{O_2}}\\limits^0  + 4e \\to 2\\mathop O\\limits^{ - 2} \\] =>O2 là chất oxi hóaĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho ba phản ứng hóa học dưới đây\n1)  2Na  +  2H2O → 2NaOH  +  H2↑\n2)  CO2  +  Ca(OH)2 → CaCO3↓ +  H2O\n3) 2KClO3 \\[\\mathop \\to \\limits^{t^\\circ } \\] 2KCl  + 3O2\nCác phản ứng oxi hóa khử là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1 và 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1 và 3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nPhản ứng oxi hóa – khử làm thay đổi số oxi hóa của các chất\n=>có 2 phản ứng oxi hóa khử là\n1) \\[2\\mathop {Na}\\limits^0 + 2\\mathop {{H_2}O}\\limits^{ + 1} \\to 2\\mathop {NaOH + }\\limits^{ + 1} \\mathop {{H_2}}\\limits^0 \\]\n3) \\[2\\mathop {KCl}\\limits^{ + 5} \\mathop {{O_3}}\\limits^{ - 2} \\to 2\\mathop {KCl + }\\limits^1 \\mathop {3{O_2}}\\limits^0 \\]\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong các phản ứng dưới đây, phản ứng nào không phải là phản ứng oxi hoá - khử?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe + 2HCl → FeCl2 + H2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. FeS + 2HCl → FeCl2 + H2S",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2FeCl3 + Cu → 2FeCl2 + CuCl2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe + CuSO4 → FeSO4 + Cu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Phản ứng không phải là phản ứng oxi hoá - khử là phản ứng không làm thay đổi số oxi hóa các chấtFeS + 2HCl → FeCl2 + H2SĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Ở phản ứng nào sau đây, H2O không đóng vai trò chất oxi hoá hay chất khử?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaH + H2O → NaOH + H2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2Na + 2H2O → 2NaOH + H2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2F2 + 2H2O → 4HF + O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al4C3 + 12H2O → 4Al(OH)3 + 3CH4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:H2O không đóng vai trò chất oxi hoá hay chất khử =>H2O không thay đổi số oxi hóa\\[A{l_4}{C_3} + 12\\mathop {{H_2}}\\limits^{ + 1} \\mathop O\\limits^{ - 2}  \\to 4\\mathop {Al{{\\left( {O\\mathop H\\limits^{ + 1} } \\right)}_3} + }\\limits^{ - 2} 3C\\mathop {{H_4}}\\limits^{ + 1} \\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho quá trình sau:  \\[\\mathop {Fe}\\limits^{ + 3} + 1e \\to \\mathop {Fe}\\limits^{ + 2} \\]. Trong các kết luận sau, kết luận nào là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quá trình trên là quá trình oxi hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quá trình trên là quá trình khử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Trong quá trình trên \\[\\mathop {Fe}\\limits^{ + 3} \\]đóng vai trò là chất khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong quá trình trên \\[\\mathop {Fe}\\limits^{ + 2} \\] đóng vai trò là chất oxi hóa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nQuá trình nhận electron gọi là quá trình khử (sự khử)\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Phản ứng oxi hoá - khử nào sau đây chỉ có sự thay đổi số oxi hoá của một nguyên tố?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2KClO3 \\[\\mathop  \\to \\limits^{t^\\circ } \\] 2KCl + 3O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2KMnO4 \\[\\mathop  \\to \\limits^{t^\\circ } \\]K2MnO4 + MnO2 + O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2KNO3 \\[\\mathop  \\to \\limits^{t^\\circ } \\]2KNO2 + O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NH4NO3 \\[\\mathop  \\to \\limits^{t^\\circ } \\]N2O + 2H2O",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong các phản ứng sau, phản ứng nào HCl đóng vai trò là chất oxi hoá?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4HCl + MnO2 → MnCl2 + Cl2↑ + 2H2O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4HCl + 2Cu + O2 → 2CuCl2 + 2H2O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2HCl + Fe → FeCl2 + H2 ↑",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 16HCl + 2KMnO4 → 2MnCl2 + 5Cl2 + 8H2O + 2KCl",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong các phản ứng hóa học, SO2 có thể là chất oxi hoá hoặc chất khử vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lưu huỳnh trong SO2 đã đạt số oxi hóa cao nhất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. SO2 là oxit axit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lưu huỳnh trong SO2 có số oxi hóa trung gian.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. SO2 tan được trong nước.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho các chất và ion sau: Zn, S, FeO, ZnO, SO2, Fe2+, Cu2+, HCl. Tổng số phân tử và ion trong dãy vừa có tính oxi hóa, vừa có tính khử là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tỉ lệ số phân tử HNO3 đóng vai trò là chất oxi hoá và môi trường trong phản ứng : FeO + HNO3 → Fe(NO3)3 + NO + H2O là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1: 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1: 10.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1: 9.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1: 2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hệ số của HNO3 trong phản ứng: Zn + HNO3 → Zn(NO3)2 + N2O + N2 + H2O (biết tỉ lệ mol của N2O : N2 = 2 : 3) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 55.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 56.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 70.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 50.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Phản ứng nào sau đây thuộc loại phản ứng tự oxi hoá, tự khử (hay tự oxi hoá - khử)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2KClO3 \\[\\mathop  \\to \\limits^{t^\\circ } \\] 2KCl + 3O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S + 2H2SO4 → 3SO2 + 2H2O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4NO2 + O2 + 2H2O → 4HNO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cl2 + 2KOH → KClO + KCl + H2O",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho các phản ứng oxi hoá − khử sau:\n2H2O2 → 2H2O + O2                                                 (1)\n2HgO → 2Hg + O2                                                     (2)\nCl2 + 2KOH → KCl + KClO + H2O                          (3)\n2KClO3 → 2KCl + 3O2                                              (4)\n3NO2 + H2O → 2HNO3 + NO                                   (5)\n2KMnO4 → K2MnO4 + MnO2 + O2                           (6)\nTrong số các phản ứng trên, có bao nhiêu phản ứng oxi hoá − khử nội phân tử?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong các loại phản ứng dưới đây, loại phản ứng nào luôn là phản ứng oxi hoá − khử?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phản ứng hoá hợp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phản ứng phân huỷ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phản ứng thuỷ phân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phản ứng thế.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hòa tan hoàn toàn Fe3O4 trong dung dịch H2SO4 loãng dư thu được dung dịch X. Dung dịch  tác dụng được với chất nào sau đây không xảy ra phản ứng oxi hóa khử:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Cu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Cl2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. KMnO4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Dấu hiệu để nhận biết một phản ứng oxi hóa khử:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tạo ra chất kết tủa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo ra chất khí",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có sự thay đổi màu sắc của các chất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Có sự thay đổi số oxi hóa của một số nguyên tử",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Quá trình nào sau đây là đúng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\mathop {Al}\\limits^0  + 3e \\to \\mathop {Al}\\limits^{ + 3} \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[\\mathop {Mn}\\limits^{ + 7}  + 4e \\to \\mathop {Mn}\\limits^{ + 4} \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[\\mathop S\\limits^{ - 2}  \\to \\mathop S\\limits^0  + 2e\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[\\mathop {Mn}\\limits^{ + 4}  + 3e \\to \\mathop {Mn}\\limits^{ + 7} \\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho phản ứng: Mg + H2SO4 → MgSO4 + S + H2O. Tổng hệ số cân bằng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho sơ đồ phản ứng : Fe3O4 + HNO3 → Fe(NO3)3 + NO + H2OSau khi cân bằng, hệ số của phân tử các chất là phương án nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3, 14, 9, 1, 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3, 28, 9, 1, 14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3, 26, 9, 2, 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2, 28, 6, 1, 14",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

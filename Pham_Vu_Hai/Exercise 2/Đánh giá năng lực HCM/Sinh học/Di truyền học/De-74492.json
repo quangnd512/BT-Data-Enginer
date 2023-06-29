@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/di-truyen-ngoai-nhan-va-gen-da-hieu/74492/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Phép lai nào trong các phép lai sau đây đã giúp Coren phát hiện ra sự di truyền ngoài nhiễm sắc thể (di truyền ngoài nhân)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lai phân tích.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lai thuận nghịch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Lai tế bào.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Lai cận huyết.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhép lai giúp Coren phát hiện ra sự di truyền ngoài nhiễm sắc thể (di truyền ngoài nhân) là lai thuận nghịch, kiểu hình đời con luôn giống mẹ dù là lai thuận hay lai nghịchĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Gen ngoài nhân được tìm thấy ở:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ti thể, lục lạp và ADN vi khuẩn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ti thể, lục lạp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ti thể, trung thể và nhân tế bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ti thể, lục lạp và riboxom",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGen ngoài nhân được tìm thấy ở ti thể, lục lạp và ADN vi khuẩnĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Ở người, bệnh động kinh do đột biến điểm ở một gen nằm trong ti thể gây ra. Phát biểu nào sau đây là đúng khi nói về đặc điểm di truyền của bệnh này?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bệnh này chỉ gặp ở nữ giới mà không gặp ở nam giới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nếu mẹ bình thường, bố bị bệnh thì tất cả các con trai của họ đều bị bệnh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nếu mẹ bình thường, bố bị bệnh thì tất cả con gái của họ đều bị bệnh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nếu mẹ bị bệnh, bố không bị bệnh thì các con của họ đều bị bệnh.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGen trong ty thể di truyền theo dòng mẹ.→ Mẹ bị bệnh thì các con nhận gen bệnh của mẹ trong tế bào chất và đều bị bệnhĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một số đột biến ở ADN ti thể có thể gây bệnh ở người gọi là bệnh thần kinh thị giác di truyền Leber (LHON). Bệnh này đặc trưng bởi chứng mù đột phát ở người lớn. Phát biểu nào sau đây là không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cả nam và nữ đều có thể bị bệnh LHON.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một người sẽ bị bệnh LHON khi cả bố và mẹ đều phải bị bệnh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Một người sẽ bị bệnh LHON nếu người mẹ bị bệnh nhưng cha khỏe mạnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một cặp vợ chồng với người vợ khỏe mạnh còn người chồng bị bệnh hoàn toàn có khả năng sinh ra người con bị bênh LHON, tuy nhiên xác suất này là rất thấp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhát biểu không đúng là : BChỉ cần người mẹ bị bệnh LHON thì người con sẽ bị bệnh, không cần bắt buộc người bố cũng phải bị.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Gen chi phối đến sự hình thành nhiều tính trạng được gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gen tăng cường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gen điều hòa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Gen đa hiệu",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Gen trội.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGen chi phối đến sự biểu hiện của nhiều tính trạng được gọi là gen đa hiệu.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khi một gen đa hiệu bị đột biến sẽ dẫn tới sự biến đổi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ở một tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ở một loạt tính trạng do nó chi phối.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ở một trong số tính trạng mà nó chi phối.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ở toàn bộ kiểu hình của cơ thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nDo gen đa hiệu chi phối nhiều tính trạng, cho nên khi gen đó bị đột biến thì một loạt các tính trạng do nó chi phối cũng có sự biến đổi.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Nhận định đúng về gen đa hiệu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một gen mà sản phẩm của nó ảnh hưởng đến nhiều tính trạng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Một gen mang thông tin quy định tổng hợp nhiều loại Protein.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một tính trạng do nhiều gen tương tác nhau cùng quy định.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Gen có nhiều alen, mỗi alen có một chức năng khác nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho các phát biểu sau:(1) Gen đa hiệu là gen có thể chi phối sự biểu hiện của nhiều tính trạng.(2) Gen đa hiệu là gen có số allen nhiều hơn 2.(3) Gen đa hiệu là gen quy định nhiều mARN khác nhau để quy định cùng lúc nhiều tính trạng khác nhau.Có bao nhiêu phát biểu đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không có phát biểu nào đúng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Người ta cho rằng gen Hb là gen đa hiệu vì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 gen Hb nói chung mã hóa 4 chuỗi polipeptit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HbA chỉ có 1 hiệu quả, còn Hb có nhiều tác động",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nó tạo ra sản phẩm gây nên nhiều rối loạn bệnh lý",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1 gen Hb gây biến đổi ở 2 chuỗi polipeptit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Gen liên kết giống gen đa hiệu ở hiện tượng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nó đột biến sẽ kéo theo biến đối hàng loạt tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gen liên kết sẽ hoán vị tạo nhóm liên kết khác",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến ở 1 gen chưa chắc kéo theo biến đổi hàng loạt tính trạng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhiều tính trạng biểu hiện cùng nhau",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Năm 1909, Coren (Correns) đã tiến hành phép lai thuận nghịch trên cây hoa phấn (Mirabilis jalapa) và thu được kết quả như sau:Nếu cho các cây F1ở phép lai thuận giao phấn với nhau thì theo lí thuyết, đời F2có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 100% cây lá xanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 75% cây lá đốm: 25% cây lá xanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50% cây lá đốm: 50% cây lá xanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 100% cây lá đốm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Năm 1909, Coren (Correns) đã tiến hành phép lai thuận nghịch trên cây hoa phấn (Mirabilis jalapa) và thu được kết quả như sau:Nếu cho các cây F1ở phép lai thuận giao phấn với nhau thì theo lí thuyết, đời F2có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 100% cây lá xanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 75% cây lá đốm: 25% cây lá xanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50% cây lá đốm: 50% cây lá xanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 100% cây lá đốm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dieu-hoa-hoat-dong-gen/74287/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Điều hòa hoạt động gen chính là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điều hòa lượng sản phẩm do gen tạo ra",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Điều hòa lượng mARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điều hòa lượng tARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điều hòa lượng rARN",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐiều hòa hoạt động của gen chính là điều hòa lượng sản phẩm do gen tạo raĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Sự biểu hiện điều hòa hoạt động của gen ở sinh vật nhân sơ diễn ra chủ yếu ở cấp độ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phiên mã",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Sau phiên mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trước phiên mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dịch mã",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐiều hòa hoạt động của gen ở sinh vật nhân sơ chủ yếu diễn ra ở giai đoạn phiên mã.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Theo Jacôp và Mônô, các thành phần cấu tạo của opêron Lac gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gen điều hoà, nhóm gen cấu trúc, vùng khởi động (P).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vùng vận hành (O), nhóm gen cấu trúc, vùng khởi động (P).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Gen điều hoà, nhóm gen cấu trúc, vùng vận hành (O).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Gen điều hoà, nhóm gen cấu trúc, vùng vận hành (O), vùng khởi động (P).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nOperon Lac bao gồm: Nhóm gen cấu trúc, vùng vận hành (O), vùng khởi động (P)Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trên sơ đồ cấu tạo của opêron Lac ở E. coli, kí hiệu O (operator) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vùng khởi động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vùng kết thúc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vùng mã hoá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vùng vận hành.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKí hiệu O (operator) là vùng vận hành.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tín hiệu điều hòa hoạt động gen của opêron Lac ở vi khuẩn E.coli là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Prôtêin ức chế.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường lactozơ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Enzim ADN-polimeraza.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đường mantôzơ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTín hiệu điều hòa hoạt động gen của operon Lac ở vi khuẩn E.coli là đường lactose.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong cơ chế điều hoà hoạt động của opêron Lac, sự kiện nào sau đây diễn ra cả khi môi trường có lactôzơ và khi môi trường không có lactôzơ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các gen cấu trúc Z, Y, A phiên mã tạo ra các phân tử mARN tương ứng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gen điều hoà R tổng hợp prôtêin ức chế.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ARN pôlimeraza liên kết với vùng khởi động của opêron Lac và tiến hành phiên mã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một số phân tử lactôzơ liên kết với prôtêin ức chế.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCả khi môi trường có lactôzơ và không có lactôzơ, gen điều hòa R đều tổng hợp prôtêin ức chế.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Theo mô hình operon Lac, vì sao prôtêin ức chế bị mất tác dụng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì lactôzơ làm mất cấu hình không gian của nó.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vì prôtêin ức chế bị phân hủy khi có lactôzơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì lactôzơ làm gen điều hòa không hoạt động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì gen cấu trúc làm gen điều hoà bị bất hoạt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong cơ chế điều hòa hoạt động của opêron Lac ở E.coli, lactôzơ đóng vai trò của chất",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Xúc tác",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ức chế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cảm ứng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Trung gian.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Theo mô hình operon Lac, vì sao prôtêin ức chế bị mất tác dụng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì lactôzơ làm mất cấu hình không gian của nó.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vì prôtêin ức chế bị phân hủy khi có lactôzơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì lactôzơ làm gen điều hòa không hoạt động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì gen cấu trúc làm gen điều hoà bị bất hoạt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Khi nào thì prôtêin ức chế làm ngưng hoạt động của opêron Lac?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khi môi trường có nhiều lactôzơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khi có hoặc không có lactôzơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khi môi trường không có lactôzơ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Khi môi trường có lactôzơ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong cơ chế điều hòa hoạt động của gen ở sinh vật nhân sơ, vùng khởi động có chức năng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mang thông tin quy định protein enzym.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nơi liên kết với protein ức chế.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nơi tiếp xúc với enzym ARN polimeraza.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Mang thông tin quy định protein ức chế.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Theo F.Jacôp và J.Mônô, trong mô hình cấu trúc của opêron Lac, vùng vận hành (operator) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trình tự nuclêôtit đặc biệt, tại đó prôtêin ức chế có thể liên kết làm ngăn cản sự phiên mã.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vùng khi họat động sẽ tổng hợp nên prôtêin, prôtêin này tham gia vào quá trình trao đổi chất của tế bào hình thành nên tính trạng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vùng mang thông tin mã hóa cấu trúc prôtêin ức chế, prôtêin này có khả năng ức  chế quá trình phiên mã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nơi mà ARN pôlimeraza bám vào và khởi đầu phiên mã tổng hợp nên ARN thông tin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Vai trò của các gen cấu trúc Z, Y, A trong Operon Lac ở vi khuẩn E. coli là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tổng hợp prôtêin ức chế bám vào vùng khởi động để khởi đầu phiên mã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo ra các enzyme phân giải đường lactozơ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tổng hợp enzyme ARN polimerase bám vào vùng vận hành để ngăn cản quá trình phiên mã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tổng hợp các prôtêin ức chế bám vào vùng vận hành để ngăn cản quá trình phiên mã.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong cơ chế điều hòa hoạt động gen ở sinh vật nhân sơ, vai trò của gen điều hòa là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nơi tiếp xúc với enzym ARN polymerase.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mang thông tin quy định prôtêin điều hòa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mang thông tin quy định enzym ARN polymerase.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nơi liên kết với prôtêin điều hòa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Vai trò của Lactose trong cơ chế điều hòa hoạt động của operon Lac ở E.coli:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Liên kết đặc hiệu với prôtêin điều hòa, khiến nó mất khả năng bám vào trình tự vận hành, tạo điều kiện cho ARN polymerase hoạt động.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Gắn vào trình tự vận hành Operator để khởi đầu quá trình phiên mã của operon",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hoạt hóa trình tự khởi động promoter để thực hiện quá trình phiên mã ở gen điều hòa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ức chế gen điều hòa và cản trở quá trình phiên mã của gen này để tạo ra prôtêin điều hòa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong cơ chế điều hoà hoạt động của opêron Lac, sự kiện nào sau đây chỉ diễn ra khi môi trường có lactôzơ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các gen cấu trúc Z, Y, A phiên mã tạo ra các phân tử mARN tương ứng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một số phân tử lactôzơ liên kết với prôtêin ức chế.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ARN pôlimeraza liên kết với vùng khởi động của opêron Lac và tiến hành phiên mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả 3 sự kiện trên",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Ở sinh vật nhân thực, điều hòa hoạt động gen chủ yếu diễn ra ở giai đoạn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dịch mã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sau dịch mã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tất cả các giai đoạn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. phiên mã.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Điểm nào sau đây là chung cho sự điều hòa gen trong sinh vật nhân thực và nhân sơ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự tách bỏ các đoạn ARN không mã hóa trong quá trình xử lí ARN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phiên mã là thời điểm tại đó sự biểu hiện của gen được điều hòa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sự đóng gói ADN trong nhiễm sắc thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự nhân lên của các ADN nhằm tăng số lượng gen trong tế bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Quan sát hình và cho biết những phát biểu nào sau đây đúng?I. Khi không có lactôzơ, gen điều hòa vẫn được phiên mã.II. Liên kết giữa prôtêin ức chế với vùng O là liên kết đặc hiệu.III. Sự có mặt của lactôzơ làm cho enzim ARN polimeraza không bám được vào vùng P.IV. Các gen Z, Y, A được đóng, mở cùng lúc.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I, III, IV.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. II, III, IV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I, II, III.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I, II, IV.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

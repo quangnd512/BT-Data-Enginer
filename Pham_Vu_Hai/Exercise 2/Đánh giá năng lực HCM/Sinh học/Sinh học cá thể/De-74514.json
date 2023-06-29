@@ -1,0 +1,258 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ho-hap-o-thuc-vat/74514/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hô hấp là quá trình",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Oxi hóa các hợp chất hữu cơ thành CO2và H2O,đồng thời giải phóng năng lượng cần thiết cho các hoạt động sống của cơ thể",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Oxi hóa các hợp chất hữu cơ thành O2và H2O, đồng thời giải phóng năng lượng cần thiết cho các hoạt động sống của cơ thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Oxi hóa các hợp chất hữu cơ thành CO2và O2, đồng thời giải phóng năng lượng cần thiết cho các hoạt động sống của cơ thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khử các hợp chất hữu cơ thành CO2và H2O, đồng thời giải phóng năng lượng cần thiết cho các hoạt động sống của cơ thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHô hấp ở thực vật là quá trình oxi hóa sinh học của của tế bào sống, trong đó các phân tử hữu cơ bị oxi hóa đến CO2và H2O, đồng thời giải phóng năng lượng và một phần năng lượng đó được tích luỹ trong ATP.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nơi diễn ra sự hô hấp mạnh nhất ở thực vật là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Rễ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quả",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrong 4 bộ phận trên, rễ là cơ quan có hoạt động hô hấp mạnh nhấtĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Các giai đoạn của hô hấp tế bào diễn ra theo trật tự nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chu trình crep → Đường phân → Chuối truyền electron hô hấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường phân → Chuỗi truyền electron hô hấp→ Chu trình Crep.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đường phân → Chu trình Crep→ Chuỗi truyền electron hô hấp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Chuỗi truyền electron hô hấp → Chu trình Crep → Đường phân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác giai đoạn của hô hấp tế bào diễn ra theo trật tự: Đường phân → Chu trình Crep→ Chuỗi truyền electron hô hấp.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Giai đoạn đường phân diễn ra tại",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ti thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tế bào chất",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Lục lạp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGiai đoạn đường phân diễn ra tại tế bào chấtĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Kết thúc quá trình đường phân, từ 1 phân tử glucôzơ, tế bào thu được",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2 phân tử axit piruvic, 2 phân tử ATP và 2 phân tử NADH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1 phân tử axit piruvic, 2 phân tử ATP và 2 phân tử NADH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2 phân tử axit piruvic, 6 phân tử ATP và 2 phân tử NADH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2 phân tử axit piruvic, 2 phân tử ATP và 4 phân tử NADH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n* Đường phân:1 Glucozo → 2 Axit piruvic + 2ATP + 2NADHĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Chu trình Crep diễn ra trong",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chất nền của ti thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tế bào chất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lục lạp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nChu trình Crep diễn ra trong chất nền của ti thểĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Sự lên men có thể xảy ra ở cơ thể thực vật trên cạn trong trường hợp nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cây bị ngập úng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cây sống nơi ẩm ướt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cây sống bám kí sinh hoặc kí sinh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cây bị khô hạn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ý nào sau đây không phải là vai trò của hô hấp ở thực vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giải phóng năng lượng dạng nhiệt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giải phóng năng lượng ATP.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tạo các sản phẩm trung gian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tổng hợp các chất hữu cơ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206\nĐể tìm hiểu quá trình hô hấp ở thực vật, 1 nhóm học sinh đã bố trí thí nghiệm như hình bên. Nước vôi được sử dụng trong thí nghiệm này nhằm mục đích nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hấp thụ nhiệt do hô hấp tỏa ra,",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. chứng minh hô hấp ở thực vật thải CO2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Giúp hạt nảy mầm nhanh hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cung cấp canxi cho hạt nảy mầm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Phân tử nào trong các phân tử sau đây thường ít bị ôxi hóa nhất trong hô hấp hiếu khí :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tinh bột.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Prôtêin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Axit nucleic",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Lipit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong giai đoạn hoặc con đường hô hấp nào sau đây ở thực vật, từ một phân tử glucôzơ tạo ra được nhiều phân tử ATP nhất ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chuỗi truyền electron hô hấp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đường phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chu trình Crep",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phân giải kị khí",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

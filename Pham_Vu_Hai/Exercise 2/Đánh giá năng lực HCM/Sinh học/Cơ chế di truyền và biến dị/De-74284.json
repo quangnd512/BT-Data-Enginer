@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/protein-va-dich-ma/74284/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Quá trình tổng hợp prôtêin được gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sao mã",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tự sao",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Giải mã",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Khớp mã",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTự sao là quá trình nhân đôiSao mã là quá trình tổng hợp ARNGiải mã (dịch mã) là quá trình tổng hợp prôtêin Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong tổng hợp prôtêin, năng lượng ATP thực hiện chức năng nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tham gia hoạt hoá axit amin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Giúp hình thánh liên kết peptit giữa các axit amin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cả A và B đúng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B, C đều sai",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nATP tham gia hoạt hóa axit aminĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Liên kết giữa các axit amin là loại liên kết gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hiđrô",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hoá trị",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phôtphođieste",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Peptit",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nLiên kết giữa các axit amin là liên kết peptit.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Sản phẩm của quá trình hoạt hóa axit amin trong quá trình dịch mã là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. mARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chuỗi polipeptit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Axit amin tự do",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phức hợp aa-tARN",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSản phẩm của quá trình hoạt hóa axit amin trong quá trình dịch mã là phức hợp aa-tARNĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Ribôxôm chuyển dịch trên phân tử mARN theo từng nấc trong quá trình giải mã, mỗi nấc đó tương ứng với:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một bộ ba ribônuclêôtit",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hai bộ ba ribônuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ba bộ ba ribônuclêôtit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bốn bộ ba ribônuclêôtit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nRibôxôm chuyển dịch trên phân tử mARN theo từng codon, mỗi codon tương ứng với một bộ ba ribônuclêôtit.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Kết quả của giai đoạn dịch mã là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tạo ra phân tử mARN mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo ra phân tử tARN mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tạo ra phân tử rARN mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tạo ra chuỗi pôlipeptit mới.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKết thúc dịch mã tạo ra chuỗi polipeptit mới.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Các chuỗi polipeptit được tổng hợp trong tế bào nhân thực đều:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kết thúc bằng Met.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bắt đầu bằng axit amin Met.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Bắt đầu bằng foocmin-Met.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bắt đầu từ một phức hợp aa-tARN.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong quá trình dịch mã, mARN thường gắn với một nhóm ribôxôm gọi là poliribôxôm giúp:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tăng hiệu suất tổng hợp prôtêin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Điều hoà sự tổng hợp prôtêin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tổng hợp các prôtêin cùng loại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tổng hợp được nhiều loại prôtêin",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nguyên liệu của quá trình dịch mã là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. axít béo",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nuclêôtit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. glucôzơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. axit amin.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong quá trình dịch mã, trên một phân tử mARN đồng thời gắn một nhóm ribôxôm cùng tham gia gọi là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. pôlipeptit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. pôlinuclêôtit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. pôlinuclêôxôm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. pôliribôxôm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Ở tế bào nhân thực, quá trình nào sau đây chỉ diễn ra ở tế bào chất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phiên mã tổng hợp tARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dịch mã",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Nhân đôi ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phiên mã tổng hợp mARN",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Axit amin là nguyên liệu để tổng hợp nên phân tử nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. mARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ARN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Prôtêin",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Loại axit nuclêic tham gia vào thành phần cấu tạo nên ribôxôm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. rARN.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ADN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tARN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. mARN.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Giai đoạn hoạt hóa axit amin của quá trình dịch mã nhờ năng lượng từ sự phân giải",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lipit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ADP",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ATP",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. glucôzơ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Ở sinh vật nhân sơ, bộ ba AUG trên phân tử mARN quy định tổng hợp axit amin",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. foocmin mêtiônin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. mêtiônin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. triptôphan.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. valin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Ở tế bào nhân thực, bộ ba 5’AUG3’ có chức năng mã hóa cho axit amin nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Foocmin mêtiônin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phêninalanin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mêtiônin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tripôphan.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Nếu một chuỗi polypeptit được tổng hợp từ trình tự mARN dưới đây, thì số axit amin của nó sẽ là bao nhiêu ?5’ -XGAUGUGUUUXXAAGUGAUGXAUAAAGAGUAGX-3’",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Số axitamin trong chuỗi pôlipeptit được tổng hợp từ phân tử mARN có 1500 nuclêôtit là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1500",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 498",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 499",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 500",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một mARN sơ khai phiên mã từ một gen cấu trúc ở sinh vật nhân chuẩn có các vùng và số nucleotit tương ứng như sau:Exon 1Intron 1Exon 2Intron 2Exon 3Intron 3Exon 49063601201506663Số axit amin trong 1 phân tử protein hoàn chỉnh do mARN trên tổng hợp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 121",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 120",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 119",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 204",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Một gen (M) có chiều dài 0,51μm. Trong quá trình dịch mã đã tổng hợp nên một chuỗi pôlipeptít có 399 axitamin. (M) là gen của loại sinh vật nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thể ăn khuẩn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Virút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nấm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Vi khuẩn Ecôli.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

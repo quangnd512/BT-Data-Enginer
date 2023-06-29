@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tuan-hoan-mau/74529/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hệ tuần hoàn bao gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tim",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hệ thống mạch máu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dịch tuần hoàn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả ba ý trên",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ tuần hoàn bào gồm: Dịch tuần hoàn, Tim và hệ thống mạch máuĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hệ tuần hoàn có chức năng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vận chuyển các chất vào cơ thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vận chuyển các chất từ ra khỏi cơ thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vận chuyển các chất từ bộ phận này đến bộ phận khác để đáp ứng cho các hoạt động sống của cơ thể",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Dẫn máu từ tim đến các mao mạch",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ tuần hoàn có chức năng vận chuyển các chất từ bộ phận này đến bộ phận khác để đáp ứng cho các hoạt động sống của cơ thể.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Nhóm động vật nào chưa có hệ tuần hoàn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chim",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Động vật đa bào cơ thể nhỏ dẹp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Động vật đơn bào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả B và C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐộng vật đa bào có cơ thể nhỏ dẹp và động vật đơn bào không có hệ tuần hoàn và các chất được trao đổi qua bề mặt cơ thể.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Hệ tuần hoàn hở có đặc điểm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Máu chảy hoàn toàn trong hệ mạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tim có nhiều ngăn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Máu có một đoạn chảy ra khỏi hệ mạch đi vào xoang cơ thể",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có hai vòng tuần hoàn lớn và nhỏ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ tuần hoàn hở: Máu có một đoạn chảy ra khỏi hệ mạch đi vào xoang cơ thểĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hệ tuần hoàn kín là hệ tuần hoàn có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Máu lưu thông liên tục trong mạch kín (từ tim qua động mạch, mao mạch, tĩnh mạch, và về tim)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tốc độ máu chảy chậm, máu không đi được xa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Máu chảy trong động mạch với áp lực thấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Máu đến các cơ quan chậm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ tuần hoàn kín: Máu lưu thông liên tục trong mạch kín (từ tim qua động mạch, mao mạch, tĩnh mạch, và về tim)Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đường đi của hệ tuần hoàn hở diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tim → Động mạch → Khoang máu → trao đổi chất với tế bào → Hỗn hợp dịch mô – máu → Tĩnh mạch → Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tim → Động mạch → Trao đổi chất với tế bào → Hỗn hợp dịch mô – máu → Khoang máu → Tĩnh mạch → Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tim → Động mạch → Hỗn hợp dịch mô – máu → Khoang máu → Trao đổi chất với tế bào → Tĩnh mạch → Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tim → Động mạch → Khoang máu → Hỗn hợp dịch mô – máu → Tĩnh mạch →Tim.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ tuần hoàn hở: Tim → Động mạch → Khoang máu → Hỗn hợp dịch mô – máu → Tĩnh mạch → Tim.Trao đổi chất với tế bào thì không được xét là đường đi của máu.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Diễn biến của hệ tuần hoàn kín diễn ra như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tim ->Động Mạch ->Tĩnh mạch ->Mao mạch ->Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tim ->Động Mạch ->Mao mạch ->Tĩnh mạch ->Tim.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tim ->Mao mạch ->Động Mạch ->Tĩnh mạch ->Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tim ->Tĩnh mạch ->Mao mạch ->Động Mạch ->Tim.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Máu chảy trong hệ tuần hoàn hở như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Máu chảy trong động mạch dưới áp lực lớn, tốc độ máu chảy cao",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Máu chảy trong động mạch dưới áp lực thấp, tốc độ máu chảy chậm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Máu chảy trong động mạch dưới áp lực thấp, tốc độ máu chảy nhanh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Máu chảy trong động mạch dưới áp lực cao, tốc độ máu chảy chậm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Máu chảy trong hệ tuần hoàn kín như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Máu chảy trong động mạch dưới áp lực cao, tốc độ máu chảy chậm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Máu chảy trong động mạch dưới áp lực thấp, tốc độ máu chảy chậm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Máu chảy trong động mạch dưới áp lực thấp, tốc độ máu chảy nhanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Máu chảy trong động mạch dưới áp lực cao hoặc trung bình, tốc độ máu chảy nhanh.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Hệ tuần hoàn hở có ở động vật nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đa số động vật thân mềm và chân khớp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Các loài cá sụn và cá xương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Động vật đa bào cơ thể nhỏ và dẹp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Động vật đơn bào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Ở sâu bọ, hệ tuần hoàn hở chỉ thực hiện chức năng nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vận chuyển dinh dưỡng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vận chuyển các sản phẩm bài tiết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tham gia quá trình vận chuyển khí trong hô hấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vận chuyển dinh dưỡng và sản phẩm bài tiết.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hệ tuần hoàn kín có ở động vật nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có ở động vật có xương sống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mực ống, bạch tuộc, giun đốt, chân đầu và động vật có xương sống.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chỉ có ở đa số động vật thân mềm và chân khớp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có ở mực ống, bạch tuộc, giun đốt, chân đầu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Ý nào không phải là ưu điểm của tuần hoàn kín so với tuần hoàn hở?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tim hoạt động ít tiêu tốn năng lượng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Máu chảy trong động mạch với áp lực cao hoặc trung bình.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Máu đến các cơ quan nhanh nên Đáp ứng được nhu cầu trao đổi khí và trao đổi chất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tốc độ máu chảy nhanh, máu đi được xa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Vì sao ở lưỡng cư và bò sát (trừ cá sấu) có sự pha máu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì chúng là động vật biến nhiệt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vì không có vách ngăn giữa tâm nhĩ và tâm thất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì tim chỉ có 2 ngăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì tim chỉ có 3 ngăn hay 4 ngăn nhưng vách ngăn ở tâm thất không hoàn toàn.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hệ tuần hoàn kép có ở động vật nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có ở cá, lưỡng cư và bò sát.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chỉ có ở lưỡng cư, bò sát, chim và thú.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chỉ có ở mục ống, bạch tuột, giun đốt và chân đầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có ở mục ống, bạch tuột, giun đốt và chân đầu và cá.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hệ tuần hoàn kín đơn có ở những động vật nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có ở mực ống, bạch tuột, giun đốt, chân đầu và cá.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chỉ có ở cá, lưỡng cư và bò sát.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chỉ có ở cá, lưỡng cư.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có ở mục ống, bạch tuột, giun đốt và chân đầu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Diễn biến của vòng tuần hoàn nhỏ diễn ra theo thứ tự nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tim ->Tĩnh mạch giàu CO2->Mao mạch ->Động mạch giàu O2->Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tim ->Động mạch giàu CO2->Mao mạch ->Tĩnh mạch giàu O2->Tim.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tim ->Tĩnh mạch ít O2->Mao mạch ->Động mạch giàu CO2->Tim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tim ->Động mạch giàu O2->Mao mạch ->Tĩnh mạch có ít  CO2->Tim",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Mao mạch không xuất hiện ở :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hệ tuần hoàn hở",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hệ tuần hoàn kép",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hệ tuần hoàn đơn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hệ tuần hoàn kín",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Động vật nào sau đây có hệ tuần hoàn kín?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cá rô.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dế mèn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Gián.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ốc sên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Ý nào không phải là ưu điểm của tuần hoàn kép so với tuần hoàn đơn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Máu đến các cơ quan nhanh nên dáp ứng được nhu cầu trao đổi khí và trao đổi chất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tim hoạt động ít tiêu tốn năng lượng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Máu giàu O2 được tim bơm đi tạo áp lực đẩy máu đi rất lớn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tốc độ máu chảy nhanh, máu đi được xa hơn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

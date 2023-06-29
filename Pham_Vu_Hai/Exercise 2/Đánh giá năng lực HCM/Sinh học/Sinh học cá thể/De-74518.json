@@ -1,0 +1,718 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/sinh-san-o-thuc-vat/74518/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Các hình thức sinh sản ở thực vật gồm có",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sinh sản sinh dưỡng và sinh sản bào tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sinh sản bằng hạt và sinh sản bằng chồi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sinh sản bằng rễ và bằng thân và bằng lá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sinh sản vô tính và sinh sản hữu tính",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác hình thức sinh sản ở thực vật là sinh sản vô tính (bằng bào tử, sinh sản sinh dưỡng) và sinh sản hữu tính.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Sinh sản vô tính của thực vật trong tự nhiên gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nguyên phân và giảm phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sinh sản bằng bào tử và sinh sản sinh dưỡng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sinh sản bằng rễ và bằng thân và bằng lá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sinh sản tự nhiên và sinh sản nhân tạo",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSinh sản vô tính của thực vật trong tự nhiên gồm: Sinh sản bằng bào tử và sinh sản sinh dưỡngĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Sinh sản vô tính dựa trên cơ sở của quá trình",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. giảm phân và thụ tinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. giảm phân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. nguyên phân.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. thụ tinh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSinh sản vô tính dựa trên cơ sở của quá trình nguyên phânĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Thực vật có thể sinh sản vô tính bằng các bộ phận sau, ngoại trừ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Rễ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hoa",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThực vật thường không thể sinh sản vô tính bằng hoa.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Sinh sản bào tử là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tạo ra thế hệ mới từ bào tử được phát sinh ở những thực vật có xen kẽ thế hệ thể bào tử và giao tử thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tạo ra thế hệ mới từ bào tử được phát sinh do nguyên phân ở những thực vật có xen kẽ thế hệ thể bào tử và giao tử thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tạo ra thế hệ mới từ bào tử được phát sinh do giảm phân ở pha giao tử thể của những thực vật có xen kẽ thế hệ thể bào tử và thể giao tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tạo ra thế hệ mới từ hợp tử được phát sinh ở những thực vật có xen kẽ thế hệ thể bào tử và giao tử thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTạo ra thế hệ mới từ bào tử được phát sinh ở những thực vật có xen kẽ thế hệ thể bào tử và giao tử thể.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong kỹ thuật giâm cành để có kết quả tốt người ta thường dùng hormone sinh trưởng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Auxin và GA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Auxin và xitokinin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Auxin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. GA và xitokinin",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKỹ thuật giâm cành: giâm 1 đoạn cành xuống đất ẩm, sau đó cành sẽ mọc rễ và phát triển thành cây mới.Để kích thích cành giâm ra rễ người ta dùng auxin.Sử dụng ở nồng độ cao 1000 – 2000 ppm hoặc nồng độ thấp 500ppm.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đặc điểm nào sau đây không phải là lợi thế của giâm cành hoặc chiết cành",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giữ nguyên tính trạng tốt mà con người mong muốn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có tính chống chịu cao",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thời gian thu hoạch ngắn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tiết kiệm công chăm bón",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ý nào không đúng với ưu điểm của phương pháp nuôi cấy mô?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phục chế giống cây quý, hạ giá thành cây con nhờ giảm mặt bằng sản xuất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhân nhanh với số lượng lớn cây giống và sạch bệnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Duy trì những tính trạng mong muốn về mặt di truyền.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dễ tạo ra nhiều biến dị di truyền cung cấp cho chọn giống.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong công nghệ nuôi cấy tế bào, môi trường dinh dưỡng thường được bổ sung tỷ lệ thích hợp của các hormone",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Auxin và xitokinin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. GA và auxin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. GA và AAB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Xitokinin và florigen",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cơ sở sinh lí của công nghệ nuôi cấy tế bào mô thực vật là tính",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. toàn năng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. phân hóa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. chuyên hóa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cảm ứng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Sinh sản hữu tính ở thực vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự kết hợp có chọn lọc của hai giao tử đực và giao tử cái tạo nên hợp tử phát triển thành cơ thể mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự kết hợp ngẫu nhiên giữa hai giao tử đực và giao tử cái tạo nên hợp tử phát triển thành cơ thể mới.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sự kết hợp có chọn lọc của giao tử cái và nhiều giao tử đực tạo nên hợp tử phát triển thành cơ thể mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự kết hợp của nhiều giao tử đực với một giao tử cái tạo nên hợp tử phát triển thành cơ thể mới.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tế bào được hình thành qua giảm phân (ở quá trình hình thành hạt phấn)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chính là giao tử đực",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Là thể giao tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tiếp tục nguyên phân mới hình thành giao tử đực",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tiếp tục giảm phân mới hình thành giao tử đực",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong quá trình hình thành túi phôi ở thực vật có hoa có mấy lần phân bào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 lần giảm phân, 1 lần nguyên phân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1 lần giảm phân, 2 lần nguyên phân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1 lần giảm phân, 3 lần nguyên phân.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1 lần giảm phân, 4 lần nguyên phân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Giao tử cái ở thực vật được gọi là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hợp tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phôi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hạt phấn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Noãn cầu",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Khác với động vật sự hình thành giao tử ở thực vật",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ thực hiện nhờ quá trình giảm phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chỉ thực hiện nhờ quá trình nguyên phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Diễn ra qua giảm phân và nguyên phân",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tạo số giao tử đực và cái bằng nhau từ một tế bào ban đầu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Thụ phấn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự kéo dài ống phấn trong vòi nhuỵ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự di chuyển của tinh tử trên ống phấn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự nảy mầm của hạt phấn trên núm nhuỵ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự rơi hạt phấn vào núm nhuỵ và nảy mầm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Tự thụ phấn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự thụ phấn của hạt phấn cây này với nhuỵ của cây khác cùng loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự thụ phấn của hạt phấn với nhuỵ của cùng một hoa hay khác hoa cùng một cây.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sự thụ phấn của hạt phấn cây này với cây khác loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự kết hợp của tinh tử của cây này với trứng của cây khác.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Thụ phấn chéo là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự thụ phấn của hạt phấn cây này với nhuỵ của cây khác loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự thụ phấn của hạt phấn với nhuỵ của cùng một hoa hay khác hoa của cùng một cây.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự thụ phấn của hạt phấn cây này với nhuỵ của cây khác cùng loài.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Sự kết hợp giữa tinh tử và trứng của cùng hoa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Hoa thụ phấn nhờ sâu bọ có đặc điểm nổi bật là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tràng lớn và có màu sắc rất sặc sỡ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vòi nhị rất dài",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thường không mọc thành cụm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không có hương thơm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Sau khi hạt phấn rơi vào đầu nhụy",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hạt phấn sẽ  xâm nhập vào đầu nhụy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hạt phấn sẽ hút nước và nảy mầm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hạt phấn sẽ khô đi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hạt phấn đợi chín hẳn sẽ tham gia thụ tinh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Thụ tinh ở thực vật có hoa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự kết hợp hai bộ nhiễm sắc thể đơn bội của hai giao tử, đực và cái (trứng) trong túi phôi tạo thành hợp tử có bộ nhiễm sắc thể lưỡng bội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự kết nhân của hai giao tử đực và cái (trứng) trong túi phôi tạo thành hợp tử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sự kết hai nhân giao tử đực với nhân của trứng và nhân cực trong túi phôi tạo thành hợp tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự kết hợp của hai tinh tử với trứng trong túi phôi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Thụ tinh kép ở thực vật có hoa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự kết hợp của nhân hai giao tử đực và cái (trứng) trong túi phôi tạo thành hợp tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sự kết hợp của hai nhân giao tử đực với nhân của trứng và nhân cực trong túi phôi tạo thành hợp tử và nhân nội nhũ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Sự kết hợp của hai bộ nhiễm sắc thể đơn bội của giao tử đực và cái (trứng) trong túi phôi tạo thành hợp tử có bộ nhiễm sắc thể lưỡng bội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự kết hợp của hai tinh tử với trứng ở trong túi phôi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Hiện tượng thụ tinh kép có ở nhóm thực vật nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thực vật hạt  trần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Rêu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thực vật hạt kín",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Dương xỉ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Sự kết hợp của tinh tử với nhân cực tạo nên",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phôi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nội nhũ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hạt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hợp tử",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Ý nghĩa về mặt di truyền của hiện tượng thụ tinh kép ở thực vật hạt kín là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tiết kiệm vật liệu di truyền (do sử dụng cả 2 tinh tử để thụ tinh).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. cung cấp chất dinh dưỡng cho sự phát triển của phôi và thời kì đầu của cá thể mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. hình thành nội nhũ cung cấp chất dinh dưỡng cho cây phát triển.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hình thành nội nhũ chứa các tế bào đột biến tam bội.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Hạt của cây có nguồn gốc từ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bầu nhụy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Noãn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hạt phấn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đầu nhụy",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Quả phát tán nhờ gió thường có đặc điểm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quả nhẹ và khô",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Quả thường mọng nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quả có vỏ mỏng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quả có màu sắc sặc sỡ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Xử lý auxin hoặc giberelin có thể tạo ra quả không hạt, cơ chế tác động của chúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ức chế sự nảy mầm của ống phấn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngăn cản sự thụ tinh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kìm hãm sự phát triển của hạt làm chúng bị thoái hóa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kích thích sự phát triển bầu nhụy tạo thành quả đơn tính",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Trong nông nghiệp để bảo quản quả được lâu người ta dùng cách:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nhiệt độ thấp kết hợp với CO2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tạo khí etilen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kết hợp auxin với GA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kết hợp nhiệt độ thấp với GA",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Khi quả chín, biến đổi sinh lý nào dưới đây là không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Pectat canxi bị phân hủy, thành xenlulose bị thủy phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Những biến đổi sinh hóa diễn ra mạnh mẽ khi quả đạt kích thước trung bình",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Diệp lục giảm đi,carotenoid được tổng hợp thêm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các chất ankaloid và axit hữu cơ giảm đi, etilen được hình thành, fructose , saccarozo tăng lên",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Đặc điểm nào không phải là ưu thế của sinh sản hữu tính so với sinh sản vô tính ở thực vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có khả năng thích nghi với những điều kiện môi trường biến đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo được nhiều biế dị làm nguyên liệu cho quá trình chọn giống và tiến hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Duy trì ổn định những tính trạng tốt về mặt di truyền.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Là hình thức sinh sản phổ biến.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}
