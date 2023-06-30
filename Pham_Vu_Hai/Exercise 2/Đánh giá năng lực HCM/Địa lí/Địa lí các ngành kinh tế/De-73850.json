@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/co-cau-nganh-cong-nghiep/73850/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cơ cấu công nghiệp được biểu hiện ở:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mối quan hệ giữa các ngành trong toàn bộ hệ thống các ngành công nghiệp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tỉ trọng giá trị sản xuất của từng ngành trong toàn bộ hệ thống các ngành.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thứ tự về giá trị sản xuất của mỗi ngành trong toàn bộ hệ thống các ngành.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các ngành công nghiệp trong toàn bộ hệ thống các ngành công nghiệp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCơ cấu công nghiệp theo ngành được thể hiện ở tỉ trọng giá trị sản xuất của từng ngành (nhóm ngành) trong toàn bộ hệ thống các ngành công nghiệp.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ngành công nghiệp trọng điểm của nước ta không phảilà ngành",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có thế mạnh lâu dài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. mang lại hiệu quả cao.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dựa hoàn toàn vào vốn đầu tư nước ngoài.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. tác động mạnh mẽ đến việc phát triển các ngành kinh tế khác.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCông nghiệp trọng điểm là:\n+ Các ngành có thế mạnh lâu dài,\n+ Đem lại hiệu quả kinh tế cao và\n+ Tác động mạnh mẽ đến các ngành kinh tế khác.\n=>Nhận xét: . dựa hoàn toàn vào vốn đầu tư nước ngoài không phảilà đặc điểm ngành CN trọng điểm.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đâu không phải là ngành công nghiệp trọng điểm của nước ta:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khai thác khoáng sản.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dệt may, hoá chất - phân bón - cao su.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vật liệu xây dựng, cơ khí - điện tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Năng lượng, chế biến lương thực – thực phẩm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n- Công nghiệp trọng điểm là những ngành có thế mạnh lâu dài, mang lại hiệu quả kinh tế cao và có tác động mạnh mẽ đến việc phát triển các ngành kinh tế khác.\n=>Công nghiệp khai thác khoáng sản nước ta phụ thuộc nhiều vào nguồn nguyên liệu từ khoáng sản _ là nguồn nguyên liệu đang có nguy cơ cạn kiệt và mất thời gian dài để khôi phục ->không có thế mạnh lâu dài. =>CN khai thác khoáng sản không phải là CN trọng điểm.\n- Mặt khác: một số ngành công nghiệp trọng điểm nước ta gồm:\nCông nghiệp năng lượng,\nCông nghiệp chế biến lương thực, thực phẩm,\nCông nghiệp dệt may, công nghiệp hóa chất - phân bón – cao su\nCông nghiệp vật liệu xây dựng\nCông nghiệp cơ khí - điện tử…\n=>Công nghiệp khai thác khoáng sản không thuộc nhóm ngành công nghiệp trọng điểm nước ta.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Khu vực có mức độ tập trung công nghiệp vào loại cao nhất trong cả nước là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồng bằng sông Hồng và vùng phụ cận.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dọc theo duyên hải miền Trung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nam Bộ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đồng bằng sông Cửu Long.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nỞ Bắc Bộ, Đồng bằng sông Hồng và vùng phụ cận có mức độ tập trung công nghiệp theo lãnh thổ cao nhất trong cả nước.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Ở Nam Bộ, nổi lên các trung tâm công nghiệp lớn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hà Nội, TP. Hồ Chí Minh, Cần Thơ, Cà Mau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. TP. Hồ Chí Minh, Vũng Tàu, Biên Hòa, Cần Thơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. TP. Hồ Chí Minh, Vũng Tàu, Biên Hòa, Thủ Dầu Một.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. TP. Hồ Chí Minh, Vũng Tàu, Biên Hòa, Cà Mau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nỞ Nam Bộ, hình thành một dải công nghiệp, trong đó nổi lên các trung tâm công nghiệp lớn như: TP. Hồ Chí Minh, Vũng Tàu, Biên Hòa, Thủ Dầu Một với hướng chuyên môn hóa đa dang.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Hướng chuyên môn hóa của cụm công nghiệp Đáp Cầu – Bắc Giang là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cơ khí, khai thác than.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. vật liệu xây dựng, phân bón hóa học.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. hóa chất, giấy.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cơ khí, luyện kim.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHướng chuyên môn hóa của cụm công nghiệp Đáp Cầu – Bắc Giang là vật liệu xây dựng, phân bón hóa học.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Theo cách phân loại hiện hành nước ta có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2 nhóm với 28 ngành.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3 nhóm với 29 ngành.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4 nhóm với 30 ngành.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5 nhóm với 31 ngành.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Đây là trung tâm công nghiệp có quy mô lớn nhất của Duyên hải miền Trung.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thanh Hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đà Nẵng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Nha Trang.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Ngành công nghiệp chuyên môn hóa theo hướng Hà Nội – Hải Phòng – Hạ Long - Cẩm Phả là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. khai thác than, vật liệu xây dựng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. khai thác than, hóa chất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. khai thác than, hàng tiêu dùng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cơ khí, khai thác than, vật liệu xây dựng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Căn cứ  vào Atlat Địa lí Việt Nam trang 21, hãy cho biết ý nào dưới đây không đúng với sự chuyển dịch cơ cấu ngành công nghiệp nước ta hiện nay?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giảm tỉ trọng công nghiệp chế biến.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tăng tỉ trọng công nghiệp chế biến.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Giảm tỉ trọng công nghiệp khai thác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giảm tỉ trọng công nghiệp sản xuất, phân phối điện, khí đốt, nước.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Căn cứ vào Atlat Địa lí Việt Nam trang 21, nhận xét nào sau đây đúngvề sự chuyển dịch cơ cấu công nghiệp theo thành phần kinh tế của nước ta giai đoạn năm 2000 – 2007:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tỉ trọng khu vực Nhà nước giảm mạnh. Tỉ trọng khu vực ngoài Nhà nước tăng nhanh. Tỉ trọng khu vực có vốn đầu tư nước ngoài giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tỉ trọng khu vực Nhà nước giảm mạnh. Tỉ trọng khu vực ngoài Nhà nước giảm nhanh. Tỉ trọng khu vực có vốn đầu tư nước ngoài tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tỉ trọng khu vực Nhà nước tăng mạnh. Tỉ trọng khu vực ngoài Nhà nước tăng nhanh. Tỉ trọng khu vực có vốn đầu tư nước ngoài tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tỉ trọng khu vực Nhà nước giảm mạnh. Tỉ trọng khu vực ngoài Nhà nước tăng nhanh. Tỉ trọng khu vực có vốn đầu tư nước ngoài tăng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một số vùng kinh tế của nước ta, công nghiệp kém phát triển do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tài nguyên khoáng sản nghèo nàn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thiếu nguồn lao động đặc biệt nguồn lao động có tay nghề.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kết cấu hạ tầng còn yếu kém và vị trí địa lí không thuận lợi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thiếu sự đồng bộ của các nhân tố tài nguyên, nguồn lao động, cơ sở hạ tầng, thị trường.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Đây là một trong những phương hướng nhằm hoàn thiện cơ cấu ngành công nghiệp nước ta:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ tập trung phát triển các ngành công nghiệp nặng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tăng nhanh tỉ trọng các ngành công nghiệp nhóm A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cân đối tỉ trọng giữa nhóm A và nhóm B.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Xây dựng một cơ cấu ngành tương đối linh hoạt.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đông Nam Bộ trở thành vùng dẫn đầu cả nước về hoạt động công nghiệp nhờ :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có mức độ tập trung công nghiệp cao nhất nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giàu có nhất nước về nguồn tài nguyên thiên nhiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khai thác một cách có hiệu quả các thế mạnh vốn có.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có dân số đông, lao động dồi dào và có trình độ tay nghề cao.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Khu vực khó khăn nhất trong phát triển công nghiệp ở nước ta là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ven biển.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. miền núi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. trung du.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. đồng bằng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho biểu đồ:Nhận xét nào sau đây đúng về quy mô và cơ cấu giá trị sản xuất công nghiệp phân theo vùng của nước ta giai đoạn 2010, 2014:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồng bằng sông Hồng có tỉ trọng giá trị công nghiệp đứng thứ 2 và có xu hướng giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đông Nam Bộ có tỉ trọng giá trị công nghiệp lớn nhất và có xu hướng giảm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Vùng có tỉ trọng giá trị công nghiệp tăng lên là Trung du và miền núi Bắc Bộ, Đồng bằng sông Cửu Long.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vùng có tỉ trọng giá trị công nghiệp giảm đi là Tây Nguyên, Duyên hải Nam Trung Bộ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Khó khăn lớn nhất đối với phát triển công nghiệp ở Duyên hải miền Trung là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. mạng lưới cơ sở hạ tầng còn yếu kém.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. trình độ lao động kém.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. vị trí địa lí cách xa hai đầu đất nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tài nguyên thiên nhiên hạn chế.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Nhân tố hạn chế nhất trong thu hút đầu tư nước ngoài vào lĩnh vực công nghiệp ở nước ta hiện nay là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. chính sách phát triển công nghiệp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thị trường tiêu thụ sản phẩm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dân cư, nguồn lao động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cơ sở vật chất kĩ thuật và hạ tầng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Các trung tâm công nghiệp ở Trung du và miền núi Bắc Bộ phát triển chủ yếu dựa trên cơ sở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lao động có kinh nghiệm trong sản xuất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. vị trí chiến lược tiếp giáp với miền Nam Trung Quốc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. giàu nguyên liệu, khoáng sản hoặc vị trí địa lí thuận lợi",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cơ sở hạ tầng được đầu tư phát triển tương đối hoàn thiện.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Biện pháp mang lại hiệu quả cao và bền vững nhất để hoàn thiện cơ cấu  ngành công nghiệp ở nước ta là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ưu tiên phát triển các ngành công nghiệp trọng điểm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. đầu tư theo chiều sâu, đổi mới trang thiết bị và công nghệ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. đa dạng hóa cơ cấu ngành công nghiệp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hạ giá thành sản phẩm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cau-uoc-v/74335/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "I wish we ______ an exam tomorrow.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. did not have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. do not have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. would not have",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. will not have",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nDấu hiệu: tomorrow =>sử dụng câu ước ở tương lai để diễn tả hành động không có thật ở tương laiCấu trúc: S + wish + S + would + V nguyen thể=>I wish we would not have an exam tomorrow.Tạm dịch: Tôi ước chúng ta sẽ không có kỳ thi vào ngày mai.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "I don't know the answer. I wish I ______ it.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. know",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. will know",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. knew",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. had known",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nDấu hiệu: I don't know the answer. Câu điều kiện loại 2 (mong ước điều không có thật ở hiện tại) S + wish + S + V-ed=>I don't know the answer. I wish I knew it.Tạm dịch: Tôi không biết câu trả lời. Tôi ước gì tôi biết điều đó.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Minh wishes he _______ English perfectly well.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. spoke",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. speaks",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. is speaking",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. has spoken",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCâu ước 2 (mong ước điều không có thật ở hiện tại)\nS + wish + S + V-ed\n=>Minh wishes he spoke English perfectly well\n(Minh ước anh ấy nói tiếng Anh hoàn hảo)\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "I don't understand this point of grammar. I wish I ______ it better.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. understood",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. would understand",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had understood",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. understands",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa thấy câu trước chia ở thì hiện tại đơn nên đây là câu ước loại 1 dùng cho điều ước không có thật ở hiện tại\nCấu trúc: S + wish + S + V quá khứ đơn\n=>I don't understand this point of grammar. I wish I understood it better.\nTạm dịch: Tôi không hiểu điểm này của ngữ pháp. Tôi ước tôi hiểu nó tốt hơn.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "It never stops raining here. I wish it ______ raining.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. stopped",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. would stop",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had stopped",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. will stop",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa thấy câu trước chia ở thì hiện tại đơn nên đây là câu ước loại 1 dùng cho điều ước không có thật ở hiện tại\nCấu trúc: S + wish + S + V quá khứ đơn\n=>It never stops raining here. I wish it stopped raining.\nTạm dịch: Ở đây trời không bao giờ ngừng mưa. Tôi ước gì trời tạnh mưa.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "This weather is terrible. I wish it ______ better tomorrow.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. was",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. would be",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. had been",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. were",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nDấu hiệu: tomorrow (ngày mai) nên ta phải dùng câu ước loại 3 diễn tả điều ước ở tương lai nhưng khó có thể xảy ra\nCấu trúc: S + wish(ed) + S + would + V nguyên thể\n=>This weather is terrible. I wish it would be better tomorrow.\nTạm dịch: Thời tiết này thật kinh khủng. Tôi ước nó sẽ tốt hơn vào ngày mai.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "I like this house. I wished I_________ enough money to buy it tomorrow.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. had",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had had",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. would have",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "My face is bright red. I wish I ______ in the sun so long yesterday.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. didn't sit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. wouldn't sit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. hadn't sat",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sat",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Choose the underlined word/ phrase which is INCORRECT.\nI havea lot of work todo. I wish I have more time",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a lot",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. to",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. have",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "It's cold and it's damp. I wish I ___________in Spain.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lived",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. would live",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had lived",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. lives",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "He missed an exciting football match on TV last night. He wishes that he _______ it.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. had watched",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. would watch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. watched",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. watches",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "I cannot sleep. The dog next door is making too much noise. I wish it ______ quiet.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. kept",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. would keep",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had kept",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. will keep",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "This train is very slow. The earlier train was much faster. I wish I ____ the earlier train.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. caught",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. would catch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had caught",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. catches",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "I don’t have much time. I wish I ______ this interesting book next week.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. read",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. would read",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. had read",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. reads",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "They are building a new airport in my area. I wish they______.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. were",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. will not be",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. weren’t",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. aren’t",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "I wish yesterday ________ a better day.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. is",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. were",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had been",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. would be",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "We broke up. I wish that someday I ___________ able to marry her.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. will be",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. am",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. would be",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. had been",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "I went out in the rain and now I have a bad cold. I wish I __________out.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. didn't go",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hadn't gone",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. wouldn't go",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. went",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "I should never have said that. I wish I ______ that.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. didn't say",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. wouldn't say",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. hadn't said",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. says",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "I was only in Miami for a week. I wish I ______ more time there but I had to go to New York.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. had",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. would have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had had",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. have",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

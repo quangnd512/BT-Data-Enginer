@@ -1,0 +1,672 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/van-de-phat-trien-o-mot-so-nganh-cong-nghiep/73852/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cơ sở nhiên liệu cho các nhà máy nhiệt điện ở miền Bắc là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. than đá.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dầu nhập nội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. khí tự nhiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. năng lượng mặt trời.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác nhà máy nhiệt điện phía bắc chủ yếu dựa vào than ở Quảng Ninh.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tiềm năng thuỷ điện nước ta tập trung chủ yếu ở:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hệ thống sông Hồng và sông Đồng Nai.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hệ thống sông Đồng Nai và sông Cửu Long.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hệ thống sông Thu Bồn và sông Cả.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hệ thống sông Hồng và sông Cả.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCông suất có khoảng 30 triệu KW, tập trung ở hệ thống sông Hồng (37%) và sông Đồng Nai.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Căn cứ vào Atlat Địa lí Việt Nam trang 22, hãy cho biết nhà máy nhiệt điện chạy bằng than có công suất trên 1000 MW của nước ta hiện nay là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Uông Bí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phả Lại.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ninh Bình.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Na Dương.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nB1. Xem chú giải=>kí hiệu ngôi sao màu đỏ lớn nhất  thể hiện công suất >1000 MW.B2. Xác định được nhà máy nhiệt điện có công suất trên 1000 MW là Phả Lại.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nhà máy nhiệt điện Phú Mỹ được cung cấp nguồn khí thiên nhiên từ bể trầm tích",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nam Côn Sơn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thổ Chu – Mã Lai.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cửu Long.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trung Bộ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nQuan sát Atlat, thấy được Nhà máy nhiệt điện Phú Mỹ được cung cấp nguồn khí thiên nhiên từ bể trầm tích Nam Côn Sơn (đưa khí từ mỏ Lan Tây, Lan Đỏ về).Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hai bể trầm tích có triển vọng lớn nhất về trữ lượng và triển vọng khai thác là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nam Côn Sơn và Cửu Long.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thổ Chu – Mã Lai và Nam Côn Sơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sông Hồng và Trung Bộ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cửu Long và Sông Hồng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHai bể trầm tích có triển vọng lớn nhất về trữ lượng và triển vọng khai thác là Nam Côn Sơn và Cửu Long.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Dựa vào Atlat Địa lí Việt Nam trang 22, hãy cho biết nhà máy thủy điện Bản Vẽ được xây dựng trên con sông nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sông Hồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sông Thu Bồn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sông Cả.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sông Đồng Nai.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nDựa vào Atlat trang 22,  xác định được vị trí nhà máy thủy điện Bản Vẽ, nằm trên con sông Cả (chảy qua lãnh thổ Nghệ An).Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đâu không phải là thế mạnh để phát triển công nghiệp điện lực của nước ta:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Than đá, than bùn, than nâu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dầu khí tập trung ở các bể trầm tích chứa dầu ngoài thềm lục địa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nguồn thuỷ năng, sức gió, sức nước, năng lượng mặt trời.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tài nguyên rừng giàu có.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ý nào dưới đây không phải là nguyên nhân làm cho sản lượng điện nước ta tăng nhanh?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nhiều nhà máy điện có quy mô lớn đi vào hoạt động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đáp ứng việc xuất khẩu điện sang các nước lân cận.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Nước ta có nhiều tiềm năng phát triển công nghiệp điện lực.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhu cầu về điện để phục vụ sản xuất và đời sống ngày càng nhiều.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Ở nước ta, ngành công nghiệp được xem là cơ sở hạ tầng đặc biệt quan trọng và phải “đi trước một bước” là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. công nghiệp khai thác dầu khí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. công nghiệp điện lực.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. công nghiệp cơ khí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. công nghiệp chế biến lương thực, thực phẩm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Nguyên nhân dẫn tới sự thiếu ổn định về sản lượng điện của các nhà máy thủy điện ở Việt Nam chủ yếu do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sông ngòi ngắn và dốc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sự phân mùa khí hậu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. trình độ khoa học – kĩ thuật thấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hàm lượng dòng chảy cát bùn lớn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho bảng số liệuSẢN LƯỢNG ĐIỆN VÀ THAN Ở NƯỚC TA GIAI ĐOẠN 1995 – 2014Nhận xét nào không đúng về tình hình sản xuất điện và than ở nước ta giai đoạn 1995-2014:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sản lượng điện và than đều tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sản lượng than tăng nhưng không ổn định.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tốc độ tăng trưởng của sản lượng than nhanh hơn điện.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Từ năm 1995-2014 sản lượng điện tăng gấp 9.53 lần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Các nhà máy nhiệt điện chạy bằng than không phát triển ở phía Nam chủ yếu là do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Việc xây dựng đòi hỏi vốn lớn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các nhà máy nhiệt điện chạy bằng than gây ô nhiễm môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vị trí xa các nguồn nguyên liệu than.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Nhu cầu về điện không cao như các tỉnh phía Bắc.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Sự phân bố các nhà máy nhiệt điện chạy bằng than hoặc khí thiên nhiên của nước ta có đặc điểm chung là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. gần các khu công nghiệp tập trung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nơi dân cư tập trung đông.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. gần hoặc thuận lợi để tiếp nhận các nguồn năng lượng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ở các cảng biển.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Công nghiệp dầu khí nhanh chóng trở thành ngành công nghiệp trọng điểm ở nước ta là do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cơ sở hạ tầng và cơ sở vật chất kĩ thuật hiện đại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. mang lại hiệu quả kinh tế cao.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. có thị trường tiêu thụ rộng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. thu hút nhiều vốn đầu tư nước ngoài.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hoạt động nào sau đây khôngthuộc công nghiệp chế biến lương thực thực phẩm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chế biến sản phẩm trồng trọt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chế biến gỗ và lâm sản.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chế biến sản phẩm chăn nuôi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chế biển thủy hải sản.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hoạt động nào sau đây không thuộc công nghiệp chế biến sản phẩm trồng trọt ở nước ta?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. xay xát.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. chế biến sữa, sản phẩm từ sữa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. sản xuất bia rượu, nước ngọt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sản xuất mía đường.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Hoạt động  nào không thuộc công nghiệp chế biến thủy hải sản nước ta?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chế biến nước mắm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chế biến cá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chế biến tôm .",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chế biến thịt và các sản phẩm từ thịt.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Căn cứ vào bản đồ công nghiệp chế biến lương thực thực phẩm Atlat Địa lí Việt Nam trang 22, cho biết trung tâm công nghiệp nào sau đây có quy mô lớn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hà Nội, Hải Phòng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hải Phòng, Biên Hòa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hà Nội, TP Hồ Chí Minh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Biên Hòa, Hà Nội.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Căn cứ vào bản đồ công nghiệp chế biến lương thực thực phẩm Atlat Địa lí Việt Nam trang 22, cho biết trung tâm công nghiệp nào sau đây không có công nghiệp chế biển sản phẩm chăn nuôi?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hải Phòng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cần Thơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thủ Dầu Một.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hạ Long.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Căn cứ vào bản đồ công nghiệp chế biến lương thực thực phẩm Atlat Địa lí Việt Nam trang 22, cho biết trung tâm công nghiệp nào sau đây không có chế biển thủy hải sản?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hải Phòng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cần Thơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thủ Dầu Một",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hạ Long.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Ngành công nghiệp chế biến lương thực thực phẩm gồm 3 nhóm ngành chủ yếu nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. chế biến sản phẩm trồng trọt,chế biến lâm nghiệp, chế biến sản phẩm chăn nuôi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chế biến sản phẩm chăn nuôi, điện, chế biến sản phẩm thủy hải sản.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chế biến lâm nghiệp, chế biến sản phẩm thủy hải sản, chế biến sản phẩm trồng trọt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chế biến sản phẩm chăn nuôi, chế biến sản phẩm thủy hải sản, chế biến sản phẩm trồng trọt.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Nhân tố tác động mạnh tới sự phân bố các cơ sở chế biến lương thực thực phẩm nước ta là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. thị trường và chính sách phát triển.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nguồn nguyên liệu và thị trường tiêu thụ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. nguồn nguyên liệu và lao động có trình độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. lao động và thị trường tiêu thụ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Công nghiệp chế biến rượu bia, nước ngọt thường tập trung ở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. miền núi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. đồng bằng ven biển.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. nông thôn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. thành phố, đô thị lớn.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Dựa vào bản đồ công nghiệp chế biến lương thực thực phẩm Atlat Địa lí Việt Nam trang 22, giá trị sản xuất công nghệp chế biến lương thực thực phẩm năm 2007 so với năm 2000, gấp",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,72 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2,74 lần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3, 7 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4,75 lần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Các đô thị lớn không phải là nơi tập trung chủ yếu công nghiệp",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tôm, cá đóng hộp, đông lạnh.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. rượu, bia, nước ngọt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sữa, các sản phẩm từ sữa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. thịt, sản phẩm từ thịt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Vai trò quan trọng của công nghiệp chế biến lương thực thực phẩm đối với nông nghiệp không phải là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. góp phần làm chuyển dịch cơ cấu kinh tế nông thôn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. đa dạng hóa cơ cấu sản phẩm nông nghiệp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. thúc đẩy sản xuất hàng hóa trong nông nghiệp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tăng chất lượng sản phẩm nông nghiệp, thủy sản.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Ngành công nghiệp chế biến lương thực thực phẩm tập trung chủ yếu ở Hà Nội và TP Hồ Chí Minh, không phải do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gần nguồn nguyên liệu phong phú.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thị trường tiêu thụ rộng lớn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lao động có trình độ tay nghề cao.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cơ sở vật chất đồng bộ, hiện đại.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Công nghiệp chế biến chè phân bố chủ yếu ở",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trung du và miền núi Bắc Bộ, Bắc Trung Bộ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bắc Trung Bộ, Tây Nguyên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tây Nguyên, Trung du và miền núi Bắc Bộ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đông Nam Bộ, Tây Nguyên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Ngành công nghiệp chế biến sản phẩm từ chăn nuôi nước ta chưa tăng mạnh do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vốn đầu tư hạn chế.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nguồn nguyên liệu chưa đảm bảo.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thiếu lao động có tay nghề.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Công nghệ sản xuất còn lạc hậu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

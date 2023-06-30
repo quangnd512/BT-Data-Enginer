@@ -1,0 +1,764 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/phuong-trinh-luong-giac-thuong-gap-1/95626/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Phương trình sin2x+3sin4x=0 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπ2x=±12arccos−16+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=kπ2x=±52arccos−16+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=kπ2x=±12arccos−13+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=kπ2x=±13arccos−16+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nsin2x+3sin4x=0\n⇔sin2x+6sin2xcos2x=0\n⇔sin2x1+6cos2x=0\n⇔sin2x=01+6cos2x=0\n⇔sin2x=0cos2x=−16\n⇔2x=kπ2x=±arccos−16+k2π\n⇔x=kπ2x=±12arccos−16+kπk∈Z\n \nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phương trình cos2x1−sin2x=0 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π4+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π4+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=3π4+2kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=3π4+kπk∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nBước 1:\nĐiều kiện:1−sin2x≠0\n⇔sin2x≠1\n⇔2x≠π2+k2π\n⇔x≠π4+kπk∈Z\nBước 2:\ncos2x1−sin2x=0\n⇔cos2x=0\n⇔cos22x=0\n⇔1−sin22x=0\n⇔sin22x=1\n⇔sin2x=−1  do  sin2x≠1\n⇔2x=−π2+k2π\n⇔x=−π4+kπ\nĐặt k = l + 1 ta được:\n−π4+kπ=−π4+lπ+π=3π4+lπl∈Z\nVậy x=3π4+lπl∈Zx=3π4+kπk∈Z\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Phương trình 3cot2x−4cotx+3=0 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π3+kπx=π6+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=π3+k2πx=π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−π3+kπx=−π6+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−π3+k2πx=π6+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐK: sinx≠0⇔x≠kπk∈Z\n3cot2x−4cotx+3=0\nĐặt cos x = t khi đó phương trình có dạng:\n3t2−4t+3=0\n⇔t=13t=3\n⇒cotx=13cotx=3\n⇔x=π3+kπx=π6+kπk∈Ztm\n \nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nghiệm của phương trình 4sin22x+8cos2x−9=0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=±π6+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=±π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=±π3+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π6+kπk∈Zx=π3+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nBước 1:\n4sin22x+8cos2x−9=0\n⇔41−cos22x+8.1+cos2x2−9=0\n⇔41−cos22x+4.1+cos2x−9=0\n⇔41−cos22x+4+4cos2x−9=0\n⇔4−4cos22x+4cos2x−5=0\n⇔−4cos22x+4cos2x−1=0\nBước 2:\nĐặt cos2x=t−1≤t≤1. Khi đó phương trình có dạng:\n−4t2+4t−1=0\n⇔−4t2−4t+1=0\n⇔−2t−12=0\n⇔t=12tm\n⇔cos2x=12\n⇔cos2x=cosπ3\n⇔2x=±π3+k2π\n⇔x=±π6+kπk∈Z\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Số vị trí biểu diễn các nghiệm của phương trình 4sin2 x − 4sinx – 3 = 0  trên đường tròn lượng giác là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n4sin2 x − 4sinx – 3 = 0  \nĐặt sinx = t (−1 ≤ t ≤ 1) khi đó phương trình có dạng:\n4t2−4t−3=0\n \n⇔t=32ktmt=−12tm\n\nt=−12⇔sinx=−12\n⇔x=−π6+k2πx=7π6+k2πk∈Z\n\n \n\nVây số vị trí biểu diễn các nghiệm của phương trình 4sin2 x − 4sinx – 3 = 0 trên đường tròn lượng giác là 2 điểm như hình trên.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Phương trình 3sin2x−cos2x+1=0 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπx=π3+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=kπx=2π3+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=k2πx=2π3+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=kπx=2π3+kπk∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n3sin2x−cos2x+1=0\n⇔32sin2x−12cos2x+12=0\n⇔sin2x.cosπ6−cos2x.sinπ6+12=−12\n⇔sin2x−π6−sin−π6\n⇔2x−π6=−π6+k2π2x−π6=7π6+k2π\n⇔2x=k2π2x=4π3+k2π\n⇔x=kπx=2π3+kπk∈Z\n \nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Phương trình sinx+3cosx=2 có hai họ nghiệm có dạng x=α+k2π,x=β+k2π,−π2<α<β<π2. Khi đó α, β là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −5π212",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −5π2144",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5π2144",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. π212",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Giải phương trình sin18xcos13x=sin9xcos4x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπ18;x=kπ22k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=kπ9;x=π44+kπ22k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=π3+kπ18;x=π22+kπ22k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=kπ3;x=π44+kπ44k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Để phương trình a21−tan2x=sin2x+a2−2cos2x có nghiệm, tham số a thỏa mãn điều kiện:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a≥1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a>1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a≠1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Giải hệ phương trình x−y=π3cosx−cosy=−1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π6+k2πy=−π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=2π3+k2πy=π3−k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=2π3+k2πy=π3+k2πk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=π2+k2πy=π6+k2πk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Phương trình sin23x+m2−3sin3x+m2−4=0 khi m = 1 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=−π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π6+k2π3k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−π6+k2π3k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=±π6+k2π3k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Khẳng định nào đúng về phương trình 22sinx+cosxcosx=3+cos2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có 1 họ nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có 2 họ nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vô nghiệm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có 1 nghiệm duy nhất",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Số vị trí biểu diễn nghiệm của phương trình sinx+3−2cosx=1 trên đường tròn lượng giác là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tổng các nghiệm thuộc đoạn 0;π2 của phương trình 23cos25x2+sin5x=1+3 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3π5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 29π30",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 23π30",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Phương trình sin3x+cos3x=sinx−cosx có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π2+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả đều đúng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Phương trình 6sin2x+73sin2x−8cos2x=6 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ⇔x=π2+kπx=π6+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=π4+kπx=π3+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π8+k2πx=π12+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π8+kπx=π12+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong khoảng 0;π2 phương trình sin24x+3sin4xcos4x−4cos24x=0 có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ba nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hai nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bốn nghiệm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Giải phương trình 3cos5x−2sin3xcos2x−sinx=0 ta được nghiệm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π9+k2π3;k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π18+kπ6;k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=±π6+kπ2;k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π18+kπ3;x=−π6+kπ2;k∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Giải phương trình cosxcosx2cos3x2−sinxsinx2sin3x2=12",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=−π4+kπ;x=π6+k2π;x=5π6+k2π;x=−π2+k2πk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=π4+k2π;x=−π6+k2π;x=5π6+kπ;x=−π2+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=±π6+k2π;x=5π6+k2π;x=−π2+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−π8+kπ;x=π6+kπ;x=−5π6+kπ6;x=−π2+kπ6k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Giải phương trình 8sinx=3cosx+1sinx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=−π6+kπ2;x=π12+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π12+kπ4k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=±π6+kπ;x=−π12+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π6+kπ;x=−π12+kπ2k∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Giải phương trình sin3x−23sin2x=2sinxcos2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=±π3+k2π;x=2π3+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π4+kπ;x=π6+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=kπ;x=π3+k2π;x=2π3+k2πk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=π2+kπ;x=π6+kπ3k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Giải phương trình sinx+3cosx.sin3x=2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π6+kπ,k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=−π12+kπ2,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=2π3+kπ,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=kπ12;x=2π3+kπ,k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Giải phương trình 1+sinx+cos3x=cosx+sin2x+cos2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπ;x=π6+kπ3,x=π12+kπ,x=5π7+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=k2π;x=π3+k2π3,x=−π6+k2π,x=7π6+k2π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=kπ;x=π3+k2π3,x=−π12+kπ,x=5π12+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=k2π;x=π6+k2π3,x=π12+kπ,x=7π12+kπ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Giải phương trình cosx+cos3x+2cos5x=0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π2+kπ,x=±15arccos1+178+kπ,x=±15arccos1−178+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=±π6+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=±12arccos1+157+kπ,x=±12arccos1−157+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π2+kπ,x=±12arccos1+178+kπ,x=±12arccos1−178+kπ",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Giải phương trình sin3x−sinx+sin2x=0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπ,x=π3+k2π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=±π3+k2π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π2+kπ,x=−π3+k2π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=2kπ,x=π2+kπ3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Có bao nhiêu giá trị m nguyên để phương trình:sin2x−msinxcosx−3cos2x=2m có nghiệm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Các giá trị nguyên dương nhỏ hơn 5 của m để phương trình tanx+cotx=m có nghiệm x∈0;π2 có tổng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Với giá trị nào của m thì phương trình 1−mtan2x−2cosx+1+3m=0 có nhiều hơn 1 nghiệm trên 0;π2?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≠12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13<m<1m≠12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 13<m<1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Giải phương trình cos2x+cos4x+cos6x=cosxcos2xcos3x+2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=2π3+2kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π3+2kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=kπ3k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Giải phương trình 4sinxsinx+π3sinx+2π3+cos3x=1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vô nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π6+k2π3k∈Z hoặc x=k2π3k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π6+kπ3k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Giải phương trình cos3xtan5x=sin7x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=nπ2;x=π20+kπ13k,n∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=nπ;x=π20+kπ10k,n∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=nπ;x=3π5+2kπ7k,n∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=nπ;x=3π5+7kπ13k,n∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Số nghiệm của phương trình sin5x+3cos5x=2sin7xtrên khoảng 0;π2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Gọi m, M lần lượt là GTNN và GTLN của hàm số y=sinx+3sinx+cosx+2. Khi đó giá trị của biểu thức m + M bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 245",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 285",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 258",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

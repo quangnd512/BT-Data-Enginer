@@ -1,0 +1,419 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/oxygen/75846/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Khi nói về khả năng phản ứng của oxi, nhận xét sai là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Oxi phản ứng trực tiếp với hầu hết các kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Oxi phản ứng trực tiếp với tất cả các phi kim.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Oxi tham gia vào các quá trình xảy ra sự chất, sự gỉ, sự hô hấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Những phản ứng mà oxi tham gia đều là phản ứng oxi hóa – khử.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Nhận xét sai là: Oxi phản ứng trực tiếp với tất cả các phi kim.Vì oxi không phản ứng trực tiếp với các halogenĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho các chất sau: Cl2, H2, Fe(OH)2, CO2, SO2, Ag, Fe, Na. Oxi không thể phản ứng được với",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cl2, CO2, Ag.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CO2, Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cl2, CO2, SO2, Ag.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Oxi không thể phản ứng được với Cl2, CO2, Ag.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Người ta điều chế oxi trong phòng thí nghiệm bằng cách phân hủy H2O2 (xt MnO2), khí oxi sinh ra thường bị lẫn hơi nước. Người ta có thể làm khô khí oxi bằng cách dẫn khí qua ống sứ chứa chất nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. bột CaO.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CuSO4.5H2O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Loại A vì O2 tác dụng được với NaLoại C vì không phải CuSO4 khan nên không hút nướcLoại D vì S không có khả năng hút nướcĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Đốt nóng hỗn hợp gồm Mg, Cu, Ag, Zn trong khí oxi dư, sau phản ứng thu được hỗn hợp chất rắn gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. MgO, ZnO, CuO, Ag2O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. MgO, ZnO, Cu, Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. MgO, ZnO, CuO, Ag.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. MgO, Zn, Cu, Ag.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sản phẩm thu được gồm MgO, CuO, Ag và ZnO. Ag không phản ứng với oxi.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hãy chọn phát biểu đúng về oxi và ozon:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. oxi và ozon đều có tính oxi hoá mạnh như nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. oxi và ozon đều có số proton và notron giống nhau trong phân tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.oxi và ozon là các dạng thù hình của nguyên tố oxi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cả oxi và ozon đều phản ứng được với các chất như Ag, KI, PbS ở nhiệt độ thường.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A sai do tính oxi hóa của ozon mạnh hơn nhiều so với oxiB sai do số p và n trong phân tử ozon và oxi là khác nhauD sai do chỉ có ozon mới có phản ứng với Ag, KI, PbS ở nhiệt độ thườngĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đốt 13 gam bột một kim loại hóa trị II trong oxi dư đến khối lượng không đổi thu được chất rắn X có khối lượng 16,2 gam (giả sử hiệu suất phản ứng là 100%). Kim loại đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Zn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ca.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Gọi kim loại là R có hóa trị là nBảo toàn khối lượng: \\[{m_R} + {m_{{O_2}}} = {m_X}\\]\\[ \\Rightarrow {m_{{O_2}}} = 16,2 - 13 = 3,2gam\\]\\[ \\Rightarrow {n_{{O_2}}} = 0,1mol\\]\\[{m_R} + {m_{{O_2}}} = {m_X} \\Rightarrow {m_{{O_2}}} = 16,2 - 13 = 3,2gam\\]=>nO2 = 0,1 mol4R    +   nO2  →  2R2On\\[\\frac{{0,4}}{n}\\]   ← 0,1\\[ \\Rightarrow {M_R} = \\frac{{13}}{{\\frac{{0,4}}{n}}} = 32,5n\\]Với n = 2 =>R = 65 =>R là kim loại ZnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 17,4 gam hỗn hợp gồm Mg và Al trong khí oxi dư thu được 30,2 gam hỗn hợp oxit. Thể tích khí oxi (đktc) đã phản ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8,96 lít.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4,48 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 17,92 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 11,20 lít.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Nung 0,2 mol KMnO4 ở nhiệt độ cao thu được chất rắn X và 1,68 lít khí O2 (đktc). Cho chất rắn X vào dung dịch HCl đặc, dư thu được V lít khí Cl2 (đktc). Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6,72.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7,84.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8,96.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 11,20.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho khí X đi qua dung dịch KI có pha thêm hồ tinh bột, dung dịch chuyển màu xanh. X là khí nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. N2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. O2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. O3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CO2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tiến hành nhiệt phân hoàn toàn 15,8 gam KMnO4, sau đó cho toàn bộ lượng khí O2 thu được tác dụng với hỗn hợp X gồm Cu, Fe thu được 13,6 gam hỗn hợp Y. Hòa tan hoàn toàn hỗn hợp Y trong dung dịch H2SO4 đặc, nóng dư thu được 3,36 lít SO2 (đktc). Phần trăm khối lượng Fe trong hỗn hợp X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 40,00%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 46,67%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 43,33%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 53,33%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 13 gam bột một kim loại hóa trị II trong oxi dư, thu được chất rắn X có khối lượng 16,2 gam. Kim loại đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Zn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ca.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mg.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 9,4 gam hỗn hợp ancol etylic C2H5OH và ancol metylic CH3OH (tỉ lệ số mol lần lượt là 2: 3) cần dùng bao nhiêu lít khí oxi ở đktc. Biết sản phẩm sau phản ứng thu được chỉ gồm CO2 và H2O?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8,96 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 16,80 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13,44 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 11,76 lít.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong phòng thí nghiệm điều chế oxi bằng phản ứng nhiệt phân KClO3. Nếu dùng 12,25 gam KClO3 thì sau phản ứng hoàn toàn, thể tích O2 thu được (đktc) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6,72 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3,36 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 672 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3,36 lít.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho 15,68 lít hỗn hợp khí X (đktc) gồm Cl2 và O2 phản ứng vừa đủ với 22,2 gam hỗn hợp Y gồm Mg và Al, thu được 60,2 gam hỗn hợp Z. Phần trăm khối lượng của Al trong Y là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 75,68%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 24,32%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 51,35%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 48,65%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Oxi hóa hoàn toàn 9,1 gam hỗn hợp X gồm Cu và Al có tỉ lệ mol 1:1 thu được m gam hỗn hợp Y gồm các oxit. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 11,3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8,7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13,1.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho m gam Fe tác dụng hết với O2 thu được 46,4 gam Fe3O4. Tìm giá trị của m",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 33,6 g",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 11,2 g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 22,4 g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5,6 g.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Chuyển hóa hoàn toàn 7,2 gam O3 thu được V lít O2 (đktc). Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,36",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5,04.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2,24.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,12.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Tính thể tích O2 ở đktc cần dùng để đốt cháy hết 1,2kg C.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,24 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 22,4 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 224 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2240 lít.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

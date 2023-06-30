@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tia-hong-ngoai-tia-tu-ngoai-tia-x/75942/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tia hồng ngoại có khả năng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giao thoa và nhiễu xạ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ion hóa không khí mạnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đâm xuyên mạnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kích thích một số chất phát",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Tia hồng ngoại có bản chất là sóng điện từ =>có khả năng giao thoa và nhiễu xạ. Không có khả năng: ion hóa không khí mạnh, đâm xuyên mạnh và kích thích một số chất phát quangĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Thân thể con người ở nhiệt độ 370C phát ra bức xạ nào trong các bức xạ sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bức xạ nhìn thấy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tia tử ngoại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tia X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tia hồng  ngoại.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:+ Mọi vật có nhiệt độ  cao hơn 0K đều phát ra tia hồng ngoại.+ Những vật có nhiệt độ cao (từ 2000 C trở lên) đều phát tia tử ngoại.+ Ống Cu-lít-giơ (hay  ống tia X): Chùm electron có năng luợng lớn đập vào kim loại nguyên tử lượng lớn → làm phát ra tia XĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong chân không, tia tử ngoại có bước sóng trong khoảng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Từ vài nanômét đến 380 nm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Từ 10 -12 m đến 10-9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Từ 380 nm đến 760 nm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Từ 760 nm đến vài milimét.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong chân không, tia tử ngoại có bước sóng trong khoảng từ vài nanômét đến 380 nm (ngắn hơn bước sóng của ánh sáng tím)Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tia X không có ứng dụng nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chữa bệnh ung thư.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tìm bọt khí bên trong các vật bằng kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chiếu điện, chụp điện.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sấy khô, sưởi ấm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ứng dụng của tia X: Chụp chiếu điện, chữa ung thư; dò tìm khuyết tật bên trong các vật bằng kim loại; nghiên cứu cấu trúc tinh thể; kiểm tra hành lí của hành khách.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hiện nay, bức xạ được sử dụng để kiểm tra hành lí của hành khách đi máy bay là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tia hồng ngoại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia tử ngoại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tia gamma",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tia Rơn-ghen.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Để kiểm tra hành lý tại sân bay người ta dùng tia Rơn – ghenĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khả năng đâm xuyên của bức xạ nào mạnh nhất trong các bức xạ sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tia hồng ngoại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia tử ngoại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ánh sáng nhìn thấy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tia X",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong các bức xạ trên, bức xạ có bước sóng ngắn nhất là tia X  =>Bức xạ có khả năng đâm xuyên mạnh nhất là: tia XĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong công nghiệp cơ khí, dựa vào tính chất nào sau đây của tia tử ngoại mà người ta sử dụng để tìm vết nứt trên bề mặt các vật kim loại:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Kích thích nhiều phản ứng hóa học",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kích thích phát quang nhiều chất",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tác dụng lên phim ảnh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Làm ion hóa không khí và nhiều chất khác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong y học, tia X được sử dụng để chụp phim, để chẩn đoán bệnh là dựa vào tính chất",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đâm xuyên và phát quang.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phát quang và làm đen kính ảnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đâm xuyên và làm đen kính ảnh.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Làm đen kính ảnh và tác dụng sinh lí.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nhóm tia nào sau đây có cùng bản chất sóng điện từ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tia tử ngoại, tia X, tia catôt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia tử ngoại, tia hồng ngoại, tia catôt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tia tử ngoại, tia hồng ngoại, tia gamma.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tia tử ngoại, tia gamma, tia bê ta.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong các máy lọc nước RO ở các hộ gia đình hiện nay, bức xạ được sử dụng để tiêu diệt hoặc làm biến dạng hoàn toàn vi khuẩn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tia hồng ngoại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sóng vô tuyến",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ánh sáng nhìn thấy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tia tử ngoại",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong các nhà hàng, khách sạn, rạp chiếu phim,… có lắp máy sấy tay cảm ứng trong nhà vệ sinh.  Khi người sử dụng đưa tay vào vùng cảm ứng, thiết bị sẽ tự động sấy để làm khô tay và ngắt khi người sử dụng đưa tay ra. Máy sấy tay này hoạt động dựa trên hiện tượng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cảm ứng tia tử ngoại phát ra từ bàn tay.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cảm ứng độ ẩm của bàn tay.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cảm ứng tia hồng ngoại phát ra từ bàn tay.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cảm ứng tia X phát ra từ bàn tay.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hình ảnh ở bên là hình chụp phổi của một bệnh nhân nhiễm vi rút Covid-19. Thiết bị để chụp hình ảnh ở trên đã sử dụng tia nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tia catôt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia X",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tia tử ngoại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tia γ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Bức xạ anpha, beta và gamma1. có khả năng đâm xuyên khác nhau qua vật chất.2. bị lệch khác nhau trong điện trường.3. bị lệch khác nhau trong từ trường.Dưới đây là các sơ đồ minh họa:Ba kí hiệu trên sơ đồ cho kết quả của cùng một loại bức xạ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. L, P, X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. L, P, Z.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. M, P, Z.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. N, Q, X.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một bức xạ truyền trong không khí với chu kỳ 8,25.10-16 s. Cho vận tốc ánh sáng trong chân không là 3.108 m/s. Xác định bước sóng của chùm bức xạ này và cho biết chùm bức xạ này thuộc vùng nào trong thang sóng điện từ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 24,75.10-6m; thuộc vùng hồng ngoại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 24,75.10-8m; thuộc vùng tử ngoại.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 36,36.10-10m; thuộc vùng tia X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,75.10-24m; thuộc vùng tia gamma.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một chùm electron, sau khi được tăng tốc từ trạng thái đứng yên bằng hiệu điện thế không đổi U, đến đập vào một kim loại làm phát ra tia X. Cho bước sóng nhỏ nhất của chùm tia X này là 6,8.10-11 m. Giá trị của U bằng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18,3 kV",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 36,5 kV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,8 kV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9,2 kV.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

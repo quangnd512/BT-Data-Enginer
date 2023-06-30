@@ -1,0 +1,695 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/mat-tru-khoi-tru/99338/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình chữ nhật ABCD có AB = 3, BC = 4. Gọi V1,V2 lần lượt là thể tích của các khối trụ sinh ra khi quay hình chữ nhật quanh trục AB và BC. Khi đó tỉ số V1V2 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 43",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 916",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 169",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCó V1=πBC2.AB;V2=π.AB2.BC⇒V1V2=BCAB=43\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Khi sản xuất vỏ lon sữa bò hình trụ, các nhà thiết kế luôn đặt mục tiêu sao cho chi phí nguyên liệu làm vỏ lon là ít nhất, tức là diện tích toàn phần của hình trụ là nhỏ nhất. Muốn thể tích khối trụ đó bằng V và diện tích toàn phần phần hình trụ nhỏ nhất thì bán kính đáy R bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=V2π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. R=Vπ3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=V2π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R=Vπ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHình trụ đó có chiều cao h=VπR2 và diện tích toàn phần\nStp=2πR2+2πRh=2πR2+2VR=2πR2+VR+VR≥32πR2.VR.VR3=32πV23\nDấu “=” xảy ra ⇔2πR2=VR⇔R3=V2π⇔R=V2π3\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Thể tích khối trụ có bán kính r = 4cm và chiều cao h = 5cm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 40πcm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 80πcm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 60πcm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 100πcm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: V=πr2h=π.42.5=80πcm3\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho một cái bể nước hình hộp chữ nhật có ba kích thước 2m,3m,2m lần lượt là chiều dài, chiều rộng, chiều cao của lòng trong đựng nước của bể. Hàng ngày nước ở trong bể được lấy ra bởi một cái gáo nước hình trụ có chiều cao là 5cm và bán kính đường tròn đáy là 4cm. Trung bình một ngày được múc ra 170 gáo nước để sử dụng (Biết mỗi lần múc là múc đầy gáo). Hỏi sau bao nhiêu ngày thì bể hết nước biết rằng ban đầu bể đầy nước?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.280 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.281 ngày",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.282 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.882 ngày",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nThể tích gáo V1=πR2.h=π.0,042.0,05=8π.10−5(m3)\nSố nước múc ra trong một ngày V2=170V1=170.8.π.10−5=0,0136πm3\nSố ngày dùng hết nước là 2.3.2V2=120,0136π≈281 (ngày)\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong không gian, cho hình chữ nhật ABCD có AB = 1 và AD = 2 . Gọi M,N lần lượt là trung điểm của AD và BC. Quay hình chữ nhật đó xung quanh trục MN, ta được một hình trụ. Tính diện tích toàn phần Stp của hình trụ đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Stp=4π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Stp=12π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Stp=6π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Stp=10π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHình trụ có bán kính đáy r = 1  chiều cao h = 1 nên có Stp=2πr2+2πrh=4π.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một đội xây dựng cần hoàn thiện một hệ thống cột tròn của một cửa hàng kinh doanh gồm 17 chiếc. Trước khi hoàn thiện mỗi chiếc cột là một khối bê tông cốt thép hình lăng trụ lục giác đều có cạnh 14cm; sau khi hoàn thiện (bằng cách trát thêm vữa tổng hợp vào xung quanh) mỗi cột là một khối trụ có đường kính đáy bằng 30cm. Biết chiều cao của mỗi cột trước và sau khi hoàn thiện là 390cm. Tỉnh lượng vữa hỗn hợp cần dùng (tính theo đơn vị m3, làm tròn đến 1 chữ số thập phân sau dấu phầy). Ta có kết quả:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,3m3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.2,0m3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,2m3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,9m3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Với cột bê tông hình lăng trụ:\nĐáy của mỗi cột là hình lục giác đều có diện tích bằng 6 tam giác đều cạnh 14cm, mỗi tam giác có diện tích là 14234cm2\n- Với cột bê tông đã trát vữa hình trụ:\nĐáy của mỗi cột là hình tròn bán kính 15cm nên có diện tích là 152πcm2\nSố lượng vữa cần trát thêm vào tất cả 17 cột, mỗi cột cao 390cm là:\n17.390152π−6.14234=1,31.106cm3=1,31m3\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình vuông ABCD có cạnh bằng aa. Gọi M,N lần lượt là trung điểm của AB và CD. Khi quay hình vuông ABCD quanh MN tạo thành một hình trụ. Gọi (S) là mặt cầu có diện tích bằng diện tích toàn phần của hình trụ, ta có bán kính của mặt cầu (S) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a63",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a62",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a64",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một cái cốc hình trụ cao 15cm đựng được 0,5 lít nước. Hỏi bán kính đường tròn đáy đáy của cốc xấp xỉ bằng bao nhiêu (làm tròn đến hàng thập phân thứ hai)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,26cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3,27cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3,25cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3,28cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Công thức tính diện tích toàn phần hình trụ có bán kính r và chiều cao h là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Stp=2πrh+2πr2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Stp=2πrh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Stp=2πr2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Stp=2πrh+πr2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Thiết diện qua trục của hình trụ là một hình chữ nhật có diện tích bằng 10. Diện tích xung quanh của hình trụ đó bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một cái nồi có dạng hình trụ có chiều cao 60cm và diện tích đáy là 900πcm2. Hỏi cần miếng kim loại hình chữ nhật có kích thước bao nhiêu để làm thân nồi?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chiều dài 30πcm, chiều rộng 60cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Chiều dài 60πcm, chiều rộng 60cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Chiều dài 65cm, chiều rộng 60cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Chiều dài 180cm, chiều rộng 60cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình thang ABCD vuông tại A và D, có AB=3, DC=AD=1. Thể tích của khối tròn xoay nhận được khi quay hình thang ABCD quang trục AB là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2π3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Từ một tấm tôn hình chữ nhật kích thước 50cm×240cm, người ta làm các thùng đựng nước hình trụ có chiều cao bằng 50cm, theo hai cách sau (xem hình minh họa dưới đây):\n- Cách 1: Gò tấm tôn ban đầu thành mặt xung quanh của thùng.\n- Cách 2: Cắt tấm tôn ban đầu thành hai tấm bằng nhau, rồi gò mỗi tấm đó thành mặt xung quanh của một thùng.\nKí hiệu V1 là thể tích của thùng gò được theo cách 1 và V2 là tổng thể tích của hai thùng gò được theo cách 2. Tính tỉ số V1V2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V1V2=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V1V2=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V1V2=2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V1V2=4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Xét hình trụ TT có thiết diện qua trục của hình trụ là hình vuông cạnh a. Tính diện tích toàn phần S của hình trụ.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=3πa22",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S=πa22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=4πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=5πa24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một sợi dây (không co giãn) được quấn đối xứng đúng 10 vòng quanh một ống trụ tròn đều có bán kính R=2πcm (như hình vẽ).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.80cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.100cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.60cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.120 cm2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho tứ diện đều ABCD có cạnh bằng 4. Hình trụ (T) có một đường tròn đáy là đường tròn nội tiếp tam giác BCD và chiều cao bằng chiều cao của tứ diện ABCD. Diện tích xung quanh của (T) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 162π3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 82π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 163π3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 83π.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thiết diện của hình trụ và mặt phẳng chứa trục của hình trụ là hình chữ nhật có chu vi bằng 12. Giá trị lớn nhất của thể tích khối trụ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 16π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 32π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8π.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 64π.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Hình dưới bao gồm hình chữ nhật ABCD và hình thang vuông CDMN. Các điểm B,C,N thẳng hàng, AB=CN=2dm;BC=4dm;MN=3dm. Quay hình bên xung quanh cạnh BN ta được khối tròn xoay có thể tích bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 54πdm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 86π3dm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 863dm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 54dm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một sợi dây được quấn đối xứng đúng 10 vòng quanh một ống trụ tròn đều có bán kính R=2πcm  (như hình bên dưới)\n\nBiết rằng sợi dây dài 50cm. Hãy tính diện tích xung quanh của ống trụ đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 80cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 100cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120cm2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hình trụ có đường kính đáy bằng 2a. Thiết diện qua trục của hình trụ là hình chữ nhật có đường chéo là 3a. Diện tích toàn phần của hình trụ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4+25πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 25πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2+25πa2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hình trụ có chiều cao bằng bán kính đáy và bằng 5cm. Mặt phẳng (α) song song với trục, cắt hình trụ theo một thiết diện có chu vi bằng 26cm. Khoảng cách từ đến trục của hình trụ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3 cm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hình trụ có O,O′  là tâm hai đáy. Xét hình chữ nhật ABCD có A,B cùng thuộc (O) và C,D  cùng thuộc (O′) sao cho AB=a3, BC=2a  đồng thời (ABCD) tạo với mặt phẳng đáy hình trụ góc 600. Thể tích khối trụ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. πa33",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. πa339",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. πa333",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2πa33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho khối trụ có hai đáy là (O) và (O′). AB,CD lần lượt là hai đường kính của (O) và (O′), góc giữa AB và CD bằng 300, AB = 6 và thể tích khối tứ diện ABCD bằng 30. Thể tích khối trụ đã cho bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 180π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 90π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 30π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 45π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Một hình trụ có diện tích xung quanh là 16π, thiết diện qua trục là hình vuông. Một mặt phẳng (α) song song với trục, cắt hình trụ theo thiết diện là  ABB′A′, biết một cạnh thiết diện là một dây của đường tròn đáy hình trụ và căng một cung 1200. Chu vi tứ giác ABB′A′ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4+23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 83",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16+83",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8+43",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hình trụ bán kính đường tròn đáy bằng 1. Hai điểm A và B lần lượt thuộc hai đường tròn đáy sao cho AB=6, khoảng cách giữa hai đường thẳng AB và trục của hình trụ bằng 12. Thể tích khối trụ được giới hạn bởi hình trụ đó bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Người ta xếp hai quả cầu có cùng bán kính r vào một chiếc hộp hình trụ sao cho các quả cầu đều tiếp xúc với hai đáy, đồng thời hai quả cầu tiếp xúc với nhau và mỗi quả cầu đều tiếp xúc với đường sinh của hình trụ (tham khảo hình vẽ). Biết thể tích khối trụ là 120cm3, thể tích của mỗi khối cầu bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.20cm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.30cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.40cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Một khối đồ chơi gồm hai khối trụ (H1),(H2) xếp chồng lên nhau, lần lượt có bán kính đáy và chiều cao tương ứng là r1,h1,r2,h2 thỏa mãn r2=12r1,h2=2h1 (tham khảo hình vẽ). Biết rằng thể tích của toàn bộ khối đồ chơi bằng 30cm3 . Tính thể tích khối trụ (H1) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.24cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.15cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.20cm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.10cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hình trụ có các đáy là hình tròn tâm O và tâm O′ , bán kính đáy bằng chiều cao và bằng 4cm. Trên đường tròn đáy tâm O lấy điểm A, trên đường tròn đáy tâm O′ lấy điểm B sao cho AB=43cm. Thể tích khối tứ diện AOO′B là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 323cm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 32cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 643cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 64cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho lăng trụ tam giác đều ABC.A’B’C’ có thể tích bằng 1. Gọi (T) là hình trụ nội tiếp lăng trụ và M là tâm của mặt bên BCC’B’. Mặt phẳng (P) chứa AM cắt hình trụ (T) như hình vẽ.\n\n\nThể tích khối hình còn lại (phần tô đậm) của khối trụ (T) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2π327",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 8π27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8π327",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4π29",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Bạn An có một cốc hình nón có đường kính đáy là 10cm và độ dài đường sinh là 8cm. Bạn dự định đựng một viên bi hình cầu sao cho toàn bộ viên bi nằm trong cốc (không phân nào của viên bị cao hơn miệng cốc). Hỏi bạn An có thể đựng được viên bị có đường kính lớn nhất bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3239cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6439cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 103913cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 53913cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ung-dung-tich-phan-vao-tinh-the-tich/101504/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình (H) giới hạn bởi đồ thị hàm số x = f(y) , trục tung và hai đường thẳng y = a, y = b. Thể tích khối tròn xoay tạo thành khi quay (H) quanh trục Oy là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=π∫abfydy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=∫abfxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=π2∫abf2xdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=π∫abf2ydy",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính thể tích khối tròn xoay tạo thành khi quay hình phẳng (H) giới hạn bởi đồ thị hàm số x=f(y) trục Oy và hai đường thẳngy=a, y=b(a<b) quanh trục Oy là:V=πabf2ydy \nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hình (H) giới hạn bởi đồ thị hàm số y = f(x) , trục hoành và hai đường thẳng x = a, x = b. Thể tích khối tròn xoay tạo thành khi quay (H) quanh trục Ox là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=π∫abfxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=∫abfxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=π∫abf2xdx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=π2∫abf2xdx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nThể tích khối tròn xoay tạo thành khi quay hình phẳng (H) giới hạn bởi đồ thị hàm số y=f(x) trục Ox và hai đường thẳng x=a, x=b (a<b) quanh trục Ox là: V=πabf2xdx\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hai hàm số y=f1x và y=f2(x) liên tục trên đoạn [a;b] và có đồ thị như hình vẽ bên. Gọi S là hình phẳng giới hạn bởi hai đồ thị trên và các đường thẳng x = a, x = b. Thể tích V của vật thể tròn xoay tạo thành khi quay S quanh trục Ox được tính bởi công thức nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=π∫abf12(x)−f22(x)dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. V=π∫abf1(x)−f2(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=∫abf12(x)−f22(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=π∫abf1(x)−f2(x)2dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tính thể tích V của phần vật thể giới hạn bởi hai mặt phẳng x = 1 và x=3, biết rằng khi cắt vật thể bởi mặt phẳng vuông góc với trục Ox tại điểm có hoành độ x (1≤x≤3) thì được thiết diện là một hình chữ nhật có độ dài hai cạnh là 3x và 3x2−2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=32+215",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=124π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=1243",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=(32+215)π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình phẳng giới hạn bởi D=y=tanx;  y=0;  x=0;  x=π3. Thể tích vật tròn xoay khi D quay quanh trục Ox là V=π(a−πb), với a,b∈R. Tính T=a2+2b..",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T = 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T = 9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. T = 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T = 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tính thể tích khi S=y=x2−4x+6;  y=− x2−2x+6 quay quanh trục Ox.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=π3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=3π.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình (H) giới hạn bởi đồ thị hàm số y=x3, trục hoành và hai đường thẳng x = 0,x = 1. Thể tích khối tròn xoay tạo thành khi quay (H) quanh trục Ox được tính bởi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=π2∫01x3dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=π∫01x3dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=π∫01x6dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=π∫01x5dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Kí hiệu (H)  là hình phẳng giới hạn bởi đồ thị hàm số y=2(x−1)ex, trục tung và trục hoành. Tính thể tích V của khối tròn xoay thu được khi quay hình (H)  xung quanh trục Ox .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=4−2e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=4−2eπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=e2−5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=e2−5π",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Thể tích khối tròn xoay thu được khi quay hình phẳng giới hạn bởi các đường y=2−x;y=x xung quanh trục Ox được tính theo công thức nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=π∫02(2−x)dx+π∫02x2dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=π∫02(2−x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=π∫01xdx+π∫122−xdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=π∫01x2dx+π∫12(2−x)dx",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho vật thể V được giới hạn bởi hai mặt phẳng x = 0 và x = −2, mặt phẳng vuông góc với trục Ox cắt V theo thiết diện S(x)=2x2. Thể tích của V được tính bởi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=∫−204x4dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=∫0−22x2dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=∫−202x2dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=π∫−204x4dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tính thể tích khối tròn xoay do hình phẳng giới hạn bởi đường E:x216+y29=1 quay quanh Oy?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=36π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=24π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=16π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=64π.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình phẳng (H) giới hạn bởi các đường y=−x2+2x và y = 0. Tính thể tích của khối tròn xoay tạo thành khi quay hình (H) quanh trục Oy là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=73π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=83π.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.V=103π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=163π.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Gọi (D1) là hình phẳng giới hạn bởi các đường y=2x,y=0  và x=2020, (D2) là hình phẳng giới hạn bởi các đường y=3x,y=0 và x=2020. Gọi V1,V2 lần lượt là thể tích khối tròn xoay tạo thành khi quay (D1)  và (D2) xung quanh trục Ox. Tỉ số V1V2 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 43",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 233",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 63",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Thể tích khối tròn xoay thu được khi quay hình phẳng giới hạn bởi các đường y=x2+1;x=0 và tiếp tuyến của đồ thị hàm số y=x2+1 tại điểm A(1;2) quanh trục Ox là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 815π",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hình phẳng (H) giới hạn bởi y=13x3−x2 và Ox.  Thể tích khối tròn xoay sinh ra khi quay (H)  quanh Ox bằng :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 81π35",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 53π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8135",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 21π5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Gọi V là thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi các đường y=x,y=0 và x=4 quanh trục Ox . Đường thẳng x=a(0<a<4) cắt đồ thị hàm số y=x tại M (hình vẽ bên).\n\nGọi V1  là thể tích khối tròn tạo thành khi quay quanh tam giác OMH quanh trục Ox. Biết rằng V=2V1 . Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a=22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a=52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a = 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thể tích khối tròn xoay do hình phẳng giới hạn bởi các đồ thị y=− 4−x2,  x2+3y=0 quay quanh trục Ox là V=aπ3b, với a,b > 0 và ab là phân số tối giản. Tính tổng T=a+b.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T = 33",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. T = 31",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T = 29",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T = 27",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình phẳng (H) giới hạn bởi các đường y=x, y=−x và x=4.. Thể tích của khối tròn xoay tạo thành khi quay hình (H) quanh trục hoành là V=aπb,, với a,b>0 và ab là phân số tối giản. Tính tổng T=a+b",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tính thể tích hình xuyến do quay hình tròn  có phương trình x2+y−22=1 khi quanh trục Ox.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=6π2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=4π2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. V=2π2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=8π2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

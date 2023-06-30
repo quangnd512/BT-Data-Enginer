@@ -1,0 +1,695 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/kim-loai-kiem-va-hop-chat/75876/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cation M+ có cấu hình electron ở lớp ngoài cùng là 2s22p6. M+ là cation nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ag+",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu+",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na+",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. K+",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cation M+ có cấu hình electron ở lớp ngoài cùng là 2s22p6  =>  cấu hình e của M là: 1s22s22p63s1=>M là NaĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Kết luận nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Từ Li đến Cs, bán kính nguyên tử tăng dần nên nhiệt độ nóng chảy và nhiệt độ sôi tăng dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các kim loại từ Li đến Cs đều có ánh kim",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Từ Li đến Cs, điện tích hạt nhân tăng dần, khả năng tách e hóa trị giảm dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kim loại kiềm có tính khử mạnh nên thế điện cực rất dương",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Kết luận đúng là : các kim loại từ Li đến Cs đều có ánh kim.A sai vì nhiệt độ nc và nhiệt độ sôi giảm dần từ Li đến Cs.C sai vì khả năng tách e hóa trị tăng dần do năng lượng ion hóa giảm dần.D sai vì thế điện cực của kim loại kiềm rất âmĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đặc điểm nào sau đây không là đặc điểm chung cho các kim loại nhóm IA?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. số electron lớp ngoài cùng của nguyên tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. số oxi hoá của các nguyên tố trong hợp chất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cấu tạo mạng tinh thể của các đơn chất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. bán kính nguyên tử",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Điểm khác nhau là bán kính nguyên tử. Từ Li đến Cs, bán kính nguyên tử tăng dầnĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nguyên tử của các nguyên tố nhóm IA có chung",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Số phân lớp electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Số lớp electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số electron lớp ngoài cùng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Nguyên tử của các nguyên tố nhóm IA có cấu hình e chung là [R]ns1 =>có chung số e lớp ngoài cùngĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khi nói về kim loại kiềm, phát biểu nào sau đây là sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kim loại kiềm có nhiệt độ nóng chảy và nhiệt độ sôi thấp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Trong tự nhiên, các kim loại kiềm chỉ tồn tại ở dạng hợp chất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Từ Li đến Cs, khả năng phản ứng với nước giảm dần",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Các kim loại kiềm có màu trắng bạc và có tính ánh kim",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Phát biểu sai là: Từ Li đến Cs, khả năng phản ứng với nước giảm dầnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong tự nhiên, kim loại kiềm không tồn tại ở dạng tự do vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thành phần của chúng trong tự nhiên rất nhỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đây là những kim loại hoạt động rất mạnh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Đây là các kim loại chỉ điều chế được bằng phương pháp điện phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đây là những kim loại dễ tan trong nước",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong tự nhiên, kim loại kiềm không tồn tại ở dạng tự do vì đây là những kim loại hoạt động rất mạnh. Để ra ngoài môi trường không khí, kim loại kiềm dễ dàng tác dụng với chất xung quanh tạo thành hợp chấtĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Để bảo quản các kim loại kiềm, ta cần phải",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ngâm chúng trong rượu nguyên chất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.ngâm chúng trong dầu hỏa",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ngâm chúng vào nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. giữ trong lọ có nắp đậy kín",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho miếng kim loại Na vào dung dịch CuSO4. Hiện tượng xảy ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. bề mặt kim loại có màu đỏ, dung dịch nhạt màu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. bề mặt kim loại có màu đỏ và có kết tủa xanh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sủi bọt khí không màu, có kết tủa màu xanh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sủi bọt khí không màu, có kết tủa màu đỏ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Không thể dùng KOH làm khô khí nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CO2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Đun nóng dung dịch NaHCO3 sau đó để nguội rồi nhúng quỳ tím vào dung dịch thu được. Hiện tượng xảy ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. quỳ tím chuyển đỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. quỳ tím không đổi màu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.quỳ tím chuyển xanh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. quỳ tím mất màu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trường hợp không xảy ra phản ứng khi cho NaHCO3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. vào dung dịch kiềm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.sục khí CO2 vào",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.đun nóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tác dụng với axit",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tính chất nào nêu dưới đây là sai khi nói về 2 muối NaHCO3 và Na2CO3 ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cả 2 đều dễ bị nhiệt phân",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cả 2 đều tác dụng với axit mạnh giải phóng khí CO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cả 2 đều bị thủy phân tạo môi trường kiềm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có muối NaHCO3 tác dụng với dung dịch NaOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Khi cho từ từ dung dịch HCl vào dung dịch Na2CO3 khuấy đều, hiện tượng xảy ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. xuất hiện chất khí bay ra ngay khi cho HCl vào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sau 1 thời gian thấy xuất hiện chất khí bay ra, dung dịch trong suốt",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. không có khí thoát ra",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. có khí thoát ra và xuất hiện kết tủa",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Khi cho từ từ dung dịch Na2CO3 vào dung dịch HCl khuấy đều, hiện tượng xảy ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. xuất hiện chất khí bay ra ngay khi cho Na2CO3 vào",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. sau 1 thời gian thấy xuất hiện chất khí bay ra, dung dịch trong suốt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. không có khí thoát ra",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. có khí thoát ra và xuất hiện kết tủa",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Dung dịch nào dưới đây khi phản ứng hoàn toàn với dung dịch NaOH dư, thu được kết tủa trắng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ca(HCO3)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. FeCl3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AlCl3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2SO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "M là kim loại nhóm IA, oxit của M có công thức là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. MO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. M2O3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. MO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. M2O",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thành phần chính của loại quặng nào sau đây chứa hợp chất của nguyên tố canxi, magie?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Manhetit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Boxit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Xinvinit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dolomit.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Dung dịch KHCO3 phản ứng với chất nào sau đây thu được kết tủa trắng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ba(OH)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. K2CO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. KCl.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho sơ đồ phản ứng sau:\n(a) Fe + X1 → FeSO4 + X2 + H2\n(b) X1 + X3 → X2 + H2O\nBiết rằng X1, X2, X3 là các hợp chất của natri. Chất X2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na2SO4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Na2SO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaHSO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các chất sau: Al, CO2, FeCl2, NaHCO3, CuSO4, MgCl2. Số chất phản ứng với dung dịch NaOH loãng nóng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Có các quá trình sau:1) Điện phân NaOH nóng chảy.2) Điên phân dung dịch NaCl có màng ngăn.3) Điện phân NaCl nóng chảy.4) Cho NaOH tác dụng với dung dịch HCl.Các quá trình mà ion Na+ bị khử thành Na là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (2), (4).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (1), (2).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (1), (3).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (3), (4).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho sơ đồ chuyển hoá sau:\n\\[X\\mathop \\to \\limits^{\\left( 1 \\right)} C{l_2}\\mathop \\to \\limits^{\\left( 2 \\right)} X\\mathop \\to \\limits^{\\left( 3 \\right)} Y\\mathop \\to \\limits^{\\left( 4 \\right)} Z\\mathop \\to \\limits^{\\left( 5 \\right)} X\\mathop \\to \\limits^{\\left( 6 \\right)} NaN{O_3}\\]\nBiết X, Y, Z đều là hợp chất của natri. Công thức hóa học của X, Y, Z lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaOH, NaCl, Na2CO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaCl, Na2CO3, NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na2CO3, NaCl, NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaCl, NaOH, Na2CO3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "NaCl có lẫn tạp chất NaHCO3. Cách nào sau đây có thể dùng để thu được NaCl tinh khiết ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cho hỗn hợp đó vào dung dịch HCl dư, sau đó cô cạn dung dịch",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Nung hỗn hợp ở nhiệt độ cao",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Cho hỗn hợp vào nước sau đó hạ nhiệt độ, lọc bỏ kết tủa sau đó cô cạn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A và B đều đúng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho 1,82 g một kim loại kiềm tác dụng hết với 48,44 gam nước, sau phản ứng thu được 2,912 lít khí H2 (đktc) và dung dịch X. Kim loại kiềm và nồng độ phần trăm dung dịch X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Li; 44%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Na; 31,65 %.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Li; 12,48 %.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Na; 44%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Hòa tan hoàn toàn hai chất rắn X, Y có số mol bằng nhau vào nước, thu được dung dịch Z. Tiến hành các thí nghiệm sau:\n- Thí nghiệm 1: Cho Z phản ứng với dung dịch CaCl2, thấy có n1 mol CaCl2 phản ứng.\n- Thí nghiệm 2: Cho Z phản ứng với dung dịch HCl, thấy có n2 mol HCl phản ứng.\n- Thí nghiệm 3: Cho Z phản ứng với dung dịch NaOH, thấy có n3 mol NaOH phản ứng. Biết các phản ứng xảy ra hoàn toàn và n1 < n2< n3. Hai chất X, Y lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NH4HCO3, Na2CO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NH4HCO3, (NH4)2CO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.NaHCO3, (NH4)2CO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaHCO3, Na2CO3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Hòa tan hoàn toàn hai chất rắn X, Y (có số mol bằng nhau) vào nước thu được dung dịch Z. Tiến hành các thí nghiệm sau:\n+ TN1: Cho dung dịch KOH dư vào V ml dung dịch Z, thu được m1 gam kết tủa.\n+ TN2: Cho dung dịch K2CO3 dư vào V ml dung dịch Z, thu được m2 gam kết tủa.\n+ TN3: Cho dung dịch AgNO3 dư vào V ml dung dịch Z, thu được m3 gam kết tủa. Biết các phản ứng xảy ra hoàn toàn và m1 < m3< m2. Hai chất X, Y lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ca(HCO3)2 và FeCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaNO3 và Fe(NO3)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. NaCl và FeCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. KCl và Ba(HCO3)2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Hỗn hợp X gồm Na2O, BaCl2 và NaHCO3 (có cùng số mol). Cho X vào nước, sau khi kết thúc các phản ứng thu được dung dịch Y. Các chất tan trong Y gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaOH, BaCl2, NaHCO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. BaCl2, Na2CO3, NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaCl, NaOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Na2CO3, NaOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Thực hiện các thí nghiệm sau:(I) Cho dung dịch NaCl vào dung dịch KOH.(II) Cho dung dịch Na2CO3 vào dung dịch Ca(OH)2.(III) Điện phân dung dịch NaCl với điện cực trơ, có màng ngăn.(IV) Cho Cu(OH)2 vào dung dịch NaNO3.(V) Sục khí NH3 vào dung dịch Na2CO3.(VI) Cho dung dịch Na2SO4 vào dung dịch Ba(OH)2.Các thí nghiệm đều điều chế được NaOH là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. II, V, VI.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I, II, III.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. II, III, VI.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I, IV, V.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Thực hiện các thí nghiệm sau:Cho miếng Na vào nước thu được khí XĐiện phân dung dịch NaCl có màng ngăn thu được khí YNhiệt phân KNO3 thu được khí ZTrộn X, Y, Z (X, Y, Z là các khí khác nhau) với tỉ lệ mol 3 : 1 : 1 vào bình kín, sau đó nâng nhiệt độ cho phản ứng xảy ra hoàn toàn, ngưng tụ hỗn hợp khí sau phản ứng thu được dung dịch T chỉ chứa một chất tan duy nhất. Nhận định nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dung dịch T có thể hòa tan hết hỗn hợp gồm Fe2O3 và Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chất tan trong T có trong dịch vị dạ dày người.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cho dung dịch phenyl amin vào dung dịch T rồi lắc đều thấy dung dịch phân lớp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cho từ từ dung dịch T vào dung dịch Na2CO3, một lúc sau mới có khí bay ra.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Một học sinh nghiên cứu một dung dịch X đựng trong một lo không dán nhãn và thu được kết quả sau:X có phản ứng với cả 3 dung dịch NaHSO4, Na2CO3 và AgNO3X không phản ứng với cả 3 dung dịch NaOH, Ba(NO3)2, HNO3Vậy dung dịch X là dung dịch nào sau đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. BaCl2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Mg(NO3)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. FeCl2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CuSO4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

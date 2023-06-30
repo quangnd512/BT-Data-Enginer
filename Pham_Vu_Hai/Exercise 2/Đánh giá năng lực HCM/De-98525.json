@@ -1,0 +1,373 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-dai-luong-dac-trung-cua-dao-dong-dieu-hoa/98525/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Vật dao động điều hòa với phương trình x=4cos(10πt+π/3)cm. Vào lúc t=0,5s thì vật có li độ và vận tốc là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=−2cm; v=−10π3cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x = 2cm;v=20π3cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=2cm; v=−20π3cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−2cm; v=20π3cm/s",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nx=4cos(10πt + π3)v=−40πsin(10πt+π3)\nTại t=0,5s thay vào phương trình trên →x=−2cm, v = 20π3 cm/sĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một chất điểm dao động điều hòa theo phương trình x=5cos(2πt+π) cm. Quãng đường vật đi được sau 2s là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.20 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.10cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.40 cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.80cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Chu kì dao động của vật:T=2πω=2π2π=1s\nΔt=2s=2T\n+ Trong 1 chu kì vật đi được quãng đường 4A\n=> Quãng đường vật đi được sau 2s là: 2.4A=40cm\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một vật dao động điều hòa có phương trình: x=5cos(2πt+π/6)cm,s. Lấy π=3,14 . Tốc độ của vật khi có li độ x=3cm là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.50,24(cm/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,512(cm/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.25,12(cm/s)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.12,56(cm/s)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTại li độ x=3cm, ta có:\nA2=x2+v2ω2↔52=32+v22π2→v=8π=25,12cm/s\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Vật có đồ thị dao động như hình vẽ. Vận tốc cực đại có giá trị",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.vmax=30πcm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. vmax=60πcm/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. vmax=60cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. vmax=30cm/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nA=6cm2T=0,4s→T=0,2s→ω = 2πT=10πrad/s\n→vmax=Aω=60πcm/s\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một chất điểm dao động điều hoà trên quỹ đạo MN=30cm, biên độ dao động của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A=60cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.A=30cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A=15cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.A=7,5cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nĐộ dài quỹ đạo của vật trong dao động điều hòa: \nL=2A⇒MN=2A=30cm\n=>A=15cm\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một vật dao động điều hoà theo phương trình x=−5cos(5πt−7π/6)cm. Biên độ dao động và pha ban đầu của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A = - 5 cm và φ=− 7π/6  rad.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.A = 5 cm và φ=− π/6 rad.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.A = 5 cm và φ= 7π/6 rad.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A = 5 cm và φ=−π/6 rad.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nx= −5cos(5πt −7π6)=5cos(5πt −7π6+π)=5cos(5πt −π6)cm\n=> Biên độ: A=5cm, pha ban đầu:φ=−π6\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một vật dao động điều hòa trong thời gian 20 giây vật thực hiện được 80 dao động toàn phần. Chu kỳ dao động của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,25s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2,5s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,4s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một con lắc lò xo dao động với phương trình x=6cos20πtcm. Xác định chu kỳ, tần số dao động của chất điểm.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.f=10Hz;T=0,1s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. f=1Hz;T=1s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. f=100Hz;T=0,01s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. f=5Hz;T=0,2s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Chất điểm dao động điều hòa với phương trình . Li độ của chất điểm khi pha dao động bằng 2π3 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=4cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.x=3cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.x=−3cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.x=−40cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Dao động điều hoà có vận tốc cực đại là vmax=8πcm/s và gia tốc cực đại amax=16π2cm/s2  thì tần số của dao động là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Dao động điều hoà có vận tốc cực đại là vmax=16πcm/s và gia tốc cực đại amax=64π2cm/s2  thì biên độ của dao động là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,25cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.16cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một chất điểm dao động điều hoà với phương trình dạng x=cos(2πt+π6)(cm,s).Lấy π2=10, biểu thức gia tốc tức thời của chất điểm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a=20sin(2πt+π/6) cm/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a=40sin(2πt+π/6) cm/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.a=−40cos(2πt + π/6) cm/s2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.a = 2πsin(2πt + π/6) cm/s2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một vật dao động điều hòa có đồ thị biểu diễn li độ x theo thời gian t như hình bên. Chu kì dao động của vật là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,06 s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,12 s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,1 s.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0,05 s.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một vật dao động điều hoà dọc theo trục Ox với phương trình: x = Acos(πt) cm. Nếu chọn gốc toạ độ O tại vị trí cân bằng của vật thì gốc thời gian t=0 là lúc vật:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Ở vị trí li độ cực đại thuộc phần dương của trục Ox",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Qua vị trí cân bằng O ngược chiều dương của trục Ox",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Ở vị trí li độ cực đại thuộc phần âm của trục Ox",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Qua vị trí cân bằng O theo chiều dương của trục Ox",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tại thời điểm t thì tích của li độ và vận tốc của vật dao động điều hòa âm (x.v < 0), khi đó",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vật đang chuyển động nhanh dần đều theo chiều dương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Vật đang chuyển động nhanh dần về vị trí cân bằng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Vật đang chuyển động chậm dần theo chiều âm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Vật đang chuyển động chậm dần về biên",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Vật dao động điều hòa có đồ thị vận tốc - thời gian như hình vẽ. Tần số góc và pha ban đầu của li độ của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.ω=25π3,φ =  - π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ω=25π3,φ = 7π6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ω=10π3,φ = π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ω=10π3,φ = π2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

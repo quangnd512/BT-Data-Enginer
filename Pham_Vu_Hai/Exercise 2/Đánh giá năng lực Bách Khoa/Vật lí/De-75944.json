@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/su-nhiem-dien-dien-tich-dinh-luat-culong/75944/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đưa một thanh kim loại trung hoà về điện đặt trên một giá cách điện lại gần một quả cầu tích điện dương. Sau khi đưa thanh kim loại ra thật xa quả cầu thì thanh kim loại",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có hai nữa tích điện trái dấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tích điện dương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tích điện âm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trung hoà về điện.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có, khi đưa thanh kim loại ra thật xa quả cầu thì thanh kim loại trở về trạng thái không nhiễm điện như lúc đầu tức là trung hòa về điệnĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hiện tượng nào sau đây liên quan đến sự nhiễm điện?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thanh nam châm hút một vật bằng sắt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trái đất hút các vật ở gần nó",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hiện tượng sấm, sét",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Giấy thấm hút mực",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Hiện tượng có liên quan đến sự nhiễm điện là hiện tượng sấm sétĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong các trường hợp nào sau đây, ta có thể coi các vật nhiễm điện là các điện tích điểm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai thanh nhựa đặt cạnh nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một thanh nhựa và một quả cầu đặt cạnh nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hai quả cầu nhỏ đặt xa nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hai quả cầu lớn đặt gần nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:  Điện tích điểm là một vật tích điện có kích thước rất nhỏ so với khoảng cách điểm mà ta đang xétĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Lực tương tác tĩnh điện Coulomb được áp dụng đối với trường hợp (Chọn câu đúng nhất)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai vật tích điện cách nhau một khoảng rất lớn hơn kích thước của chúng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hai vật tích điện cách nhau một khoảng rất nhỏ hơn kích thước của chúng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hai vật tích điện được coi là điện tích điểm và đứng yên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hai vật tích điện được coi là điện tích điểm có thể đứng yên hay chuyển động",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Định luật Cu-lông: Lực hút hay đẩy giữa hai điện tích điểm đặt trong chân không có phương trùng với đường thẳng nối hai điện tích điểm đó, có độ lớn tỉ lệ thuận với tích độ lớn của hai điện tích và tỉ lệ nghịch với bình phương khoảng cách giữa chúng.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hãy chọn phương án đúng: Dấu của các điện tích q1, q2 trên hình là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. q1 >0; q2 < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. q1 < 0; q2>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. q1 < 0; q2< 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Chưa biết chắc chắn vì chưa biết độ lớn của q1, q2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có: 2 lực F21 và F12 cùng phương, ngược chiều nhau\n=>q1, q2 cùng dấu hay tích q1.q2 >0\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Hai điện tích dương q1, q2 có cùng một độ lớn được đặt tại hai điểm A và B, đặt một điện tích q0 vào trung điểm của AB thì ta thấy hệ ba điện tích này nằm cân bằng trong chân không. Bỏ qua trọng lượng của ba điện tích. Chọn kết luận đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. q0 là điện tích dương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. q0 có thể là điện tích dương, có thể là điện tích âm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. q0 là điện tích âm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. q0 phải bằng 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Bỏ qua trọng lượng của 3 điện tích.Vì hai điện tích dương có cùng độ lớn được đặt tại hai điểm A, B và q0 đặt tại trung điểm của AB nên q0 luôn cân bằng do chịu tác dụng của hai lực cùng giá, ngược chiều từ hai điện tích q1, q2.Để điện tích q1 đặt tại A cân bằng thì lực tác dụng của q0 lên q1 phải cân bằng với lực tác dụng của q2 lên q1, tức ngược chiều lực tác dụng của q2 lên q1.=>Vậy q0 phải là điện tích âmĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho các yếu tố sau:I- Độ lớn của các điện tíchII- Dấu của các điện tíchIII- Bản chất của điện môiIV- Khoảng cách giữa hai điện tíchĐộ lớn của lực tương tác giữa hai điện tích điểm đứng yên trong môi trường điện môi đồng chất phụ thuộc vào những yếu tố nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. II và III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I, II và III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I, III và IV",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cả bốn yếu tố",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Có bốn vật A,B,C,DA,B,C,D kích thước nhỏ, nhiễm điện. Biết rằng vật AA hút vật BB nhưng lại đẩy CC. Vật CC hút vật DD. Khẳng định nào sau đây là sai.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điện tích của vật AA và DD trái dấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điện tích của vật AA và DD cùng dấu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Điện tích của vật BB và DD cùng dấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điện tích của vật AA và CC cùng dấu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Hai điện tích điểm có độ lớn không đổi được đặt cách nhau một khoảng nào đó thì lực tương tác giữa chúng có độ lớn F. Tăng khoảng cách giữa hai điện tích lên bốn lần thì độ lớn lực tương tác giữa chúng là F’. Liên hệ nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[F' = \\frac{F}{{16}}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[F' = \\frac{F}{2}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[F' = \\frac{F}{4}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[F' = \\frac{F}{8}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Xét các trường hợp sau với quả cầu B đang trung hòa điện:I- Quả cầu A mang điện dương đặt gần quả cầu B bằng sắtII- Quả cầu A mang điện dương đặt gần quả cầu B bằng sứIII- Quả cầu A mang điện âm đặt gần quả cầu B bằng thủy tinhIV- Quả cầu A mang điện âm đặt gần quả cầu B bằng đồngNhững trường hợp nào trên đây có sự nhiễm điện của quả cầu B",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I và III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. III và IV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. II và IV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I và IV",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Hai điện tích q1 = q, q2 = -3q đặt cách nhau một khoảng r. Nếu điện tích q1 tác dụng lực điện lên điện tích q2 có độ lớn là F thì lực tác dụng của điện tích q2 lên q1 có độ lớn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. F.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3F.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,5F.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6F.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Lực tương tác tĩnh điện giữa hai điện tích điểm đứng yên đặt cách nhau một khoảng 4 cm là F. Nếu để chúng cách nhau 1 cm thì lực tương tác giữa chúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4F.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,25F.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16F.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,0625F.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Hai điện tích điểm đứng yên trong không khí cách nhau một khoảng rr tác dụng lên nhau lực có độ lớn bằng F. Khi đưa chúng vào trong dầu hoả có hằng số điện môi ε = 2 và giảm khoảng cách giữa chúng còn \\[\\frac{r}{3}\\] thì độ lớn của lực tương tác giữa chúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18F",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,5F",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6F",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4,5F",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho 2 điện tích điểm giống nhau, cách nhau một khoảng 5cm, đặt trong chân không. Lực tương tác giữa chúng là F = 1,8.10-4 N. Độ lớn của điện tích q1 và q2 là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. - 7,07nC và 7,07nC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. - 7,07nC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7,07nC và - 7,07nC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7,07nC",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hai hạt bụi trong không khí, mỗi hạt chứa 5.108 electron cách nhau 2cm. Lực đẩy tĩnh điện giữa hai hạt bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,44.10-5 N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,44.10-6 N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,44.10-7 N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1,44.10-9 N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Đặt 2 điện tích q1 và q2 trong không khí. Lực hút tĩnh điện giữa hai điện tích là 2.10-6 N. Khi đưa chúng xa nhau thêm 2 cm thì lực hút là 5.10-7 N. Khoảng cách ban đầu giữa chúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2 cm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4 cm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Hai điện tích điểm đặt trong không khí cách nhau 1m, đẩy nhau một lực F = 1,8N. Điện tích tổng cộng của hai vật là 3.10-5C. Tìm điện tích mỗi vật.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. q1 = 2.10-5C và q2 = 10-5C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. q1 = 10-5C và q2 = 2.10-5C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. q1 = 2.150C và q2 = 105",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cả A và B đều đúng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,730 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-tuong-giao-do-thi/96957/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hàm số y=fx xác định trên R∖−1;1, liên tục trên mỗi khoảng xác định và có bảng biến thiên sau:\n\n\nTìm tất cả các giá trị thực của tham số m sao cho đường thẳng y=2m+1  cắt đồ thị hàm số y=fx  tại hai điểm phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m⩽−2  hoặc m⩾1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m⩾1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m<−2 hoặc m>1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m⩽−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nQuan sát BBT ta thấy đường thẳng y=2m+1 cắt đồ thị hàm số y=fx tại hai điểm phân biệt ⇔ 2m+1<−32m+1>3⇔m<−2m>1Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hàm số bậc ba y=fx có đồ thị như hình vẽ bên. Số nghiệm của phương trình f(x)=3  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐồ thị hàm số cắt đường thẳng y=3 tại 3 điểm phân biệt ⇒fx=3 có 3 nghiệm phân biệt.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đề thi THPT QG - 2021 - mã 101\nĐồ thị hàm số y=−x4+4x2−3 cắt trục tung tại điểm có tung độ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐồ thị hàm số y=−x4+4x2−3 cắt trục tung ⇒x=0\nVới x=0  thay vào hàm số ⇒y=−3.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tọa độ giao điểm của đường thẳng d:y=3x và parabol P:y=2x2+1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12;32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1;3 và 12;32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. −1;−3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhương trình hoành độ 2x2+1=3x\n⇔2x2−3x+1=0⇔x=1⇒y=3x=12⇒y=32\nVậy có hai giao điểm là 1;3và 12;32\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Các đồ thị hàm số y=x4−2x2+2 và y=−x2+4 có tất cả bao nhiêu điểm chung?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhương trình hoành độ giao điểm của hai đồ thị hàm số đã cho là:\nx4−2x2+2=−x2+4⇔x4−x2−2=0\n⇔x2=−1<0(L)x2=2⇔x=±2\nNhư vậy hai đồ thị có 2 giao điểm. \nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hai đồ thị hàm số y=x3+2x2−x+1 và đồ thị hàm số y=x2−x+3  có tất cả bao nhiêu điểm chung?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố giao điểm của hai đồ thị hàm số đã cho là số nghiệm của phương trình:\nx3−2x2+x−1=1−2x⇔x3−2x2+3x−2=0⇔x−1x2−x+2=0⇔x=1\nVậy hai đồ thị hàm số đã cho có 1 giao điểm duy nhất.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Số giao điểm của hai đồ thị hàm số y=3x2 và y=x3+x2+x+1  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hàm số bậc ba y=fx  có bảng biến thiên trong hình dưới:\n\n\nSố nghiệm của phương trình fx=−0,5  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hàm số y=fx liên tục trên ℝ và có đồ thị như hình vẽ bên. Số nghiệm của phương trình fx=2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tìm m để phương trình x5+x3−1−x+m=0 có nghiệm trên −∞;1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m⩾−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m>2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m⩽−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m<2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hàm số y=x3+3x2+m có đồ thị (C).Để đồ thị (C) cắt trục hoành tại ba điểm A,B,C sao cho C là trung điểm của AB thì  giá trị của tham số m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=−4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −4<m<0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Biết đường thẳng y=mx+1 cắt đồ thị hàm số y=x3−3x+1 tại ba điểm phân biệt. Tất cả các giá trị thực của tham số m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m>−3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.m>3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m<−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m<3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hàm số y=x3−m+3x2+2m−1x+3m+1 Tập hợp tất cả các giá trị của m để đồ thị hàm số đã cho cắt trục hoành tại ba điểm phân biệt có hoành độ âm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∅",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. −2;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −∞;−4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −1;+∞∖2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tìm m để đồ thị hàm số y=x3−3x2+2 cắt đường thẳng y=m(x−1)  tại ba điểm phân biệt có hoành độ x1,x2,x3  thỏa mãn x12+x22+x32=5",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m<−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m>−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tìm điều kiện của m để đồ thị hàm số (Cm):y=x4−mx2+m−1 cắt trục hoành tại 4 điểm phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m>1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m>1m≠2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m<1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m≠2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hàm số y=x4−22m+1x2+4m2 Các giá trị của tham số m để đồ thị hàm số (1) cắt trục hoành tại 4 điểm phân biệt có hoành độ x1,x2,x3,x4  thoả mãn x12+x22+x32+x42=6",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m>−12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m>−14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m⩾−14",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hàm số y=f(x)  liên tục trên ℝ và có đồ thị như hình vẽ. Có bao nhiêu giá trị nguyên của tham số m để phương trình f3sinx−cosx−12cosx−sinx+4=f(m2+4m+4) có nghiệm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hàm số y=f(x)  liên tục trên ℝ và có bảng biến thiên như sau\n\n\nCó bao nhiêu giá trị nguyên của tham số m sao cho phương trình 2f(sinx−cosx)=m−1 có hai nghiệmphân biệt trên khoảng −π4;3π4?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.21",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hàm số y=f(x)  có đồ thị như hình bên. Tìm tất cả các giá trị thực của tham số mm để phương trình f(x)=log2m  có hai nghiệm phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0<m<1,m=16",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m<1,m=16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m<1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hàm số y=f(x)  có đồ thị như hình vẽ. Với các giá trị nào của tham số m thì phương trình  f|x|=3m+1  có bốn nghiệm phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. f|x|=3m+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m<−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −1<m<−13.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1<m<2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số y=fx  liên tục trên R và có bảng biến thiên như hình vẽ\n\n\nPhương trình f3x+1−2=5 có bao nhiêu nghiệm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hàm số y=f(x)  liên tục trên ℝ và có đồ thị như hình vẽ bên. Số nghiệm của phương trình f1−fx=2  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Có tất cả bao nhiêu giá trị nguyên thuộc đoạn −2020;2020 của tham số m để đường thẳng y=x+m  cắt đồ thị hàm số y=2x−3x−1  tại hai điểm phân biệt?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4036",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4040",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4038",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4034",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hàm số y=x3+2mx2+m+3x+4   Cm. Giá trị của tham số m để đường thẳng d:y=x+4  cắt (Cm)tại ba điểm phân biệt A0;4,B,C  sao cho tam giác KBC có diện tích bằng 82với điểm K1;3 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=1−1372",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=1+1372",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=1±1372",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m=±1+1372",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hàm số y=fx  có bảng biến thiên:\n\n\nTìm tất cả các giá trị của mm để bất phương trình f(3−x2)≥m  vô nghiệm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≥3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m>−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m≤3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m>3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hàm số f(x) có bảng biến thiên như sau:\n\nPhương trình f(x2−1)+1=0  có bao nhiêu nghiệm thực?",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hàm số bậc ba y=f(x)  có đồ thị như hình vẽ bên dưới.\n\nSố nghiệm thực của phương trình ∣f(x3−3x)∣=23 là",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hàm số y=x4−4x2+3. Tìm tất cả các giá trị của tham số m sao cho phương trình x4−4x2+3=m  có 4 nghiệm phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13<m<1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=0  hoặc 1<m<3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m=0 hoặc 13<m<1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Tìm mm để phương trình 2x3−9x2+12x=m có 6 nghiệm phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m<4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m>5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m>5 hoặc m<4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4<m<5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho hàm số y=f(x)  liên tục trên ℝ  và có đồ thị như hình vẽ. Tổng tất cả giá trị nguyên của tham số m để phương trình  f(2f(cosx))=m có nghiệm x∈[π2;π)  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho hàm số y=f(x)=ax3+bx2+cx+d có đồ thị như hình dưới đây\n\n\n\nCó tất cả bao nhiêu giá trị nguyên của tham số m∈(−5;5)  để phương trình f2(x)−(m+4)|f(x)|+2m+4=0  có  6 nghiệm phân biệt",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cho hàm số y=f(x)  liên tục trên ℝ và có bảng biến thiên như hình vẽ.\n\n\nCó bao nhiêu giá trị nguyên của tham số m để phương trình f|2fx+m|=1  có đúng 2 nghiệm trên",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cho hàm số y=fx  liên tục trên ℝ có bảng biến thiên như hình vẽ:\n\n\nSố nghiệm của phương trình ffx=2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.9",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

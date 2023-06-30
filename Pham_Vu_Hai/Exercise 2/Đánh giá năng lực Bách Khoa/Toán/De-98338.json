@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/duong-thang-vuong-goc-voi-mat-phang-trong-khong-gian/98338/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hai đường thẳng phân biệt a,b và mặt phẳng (P), trong đó a⊥(P) Mệnh đề nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nếu b⊥(P) thì b//a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nếu b // (P) thì b⊥a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nếu b // a thì b⊥(P)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nếu b⊥a  thì b//(P)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCác đáp án A, B, C đúng.\nĐáp án D sai vì có thể xảy ra trường hợp b nằm trong (P).\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong không gian tập hợp các điểm M cách đều hai điểm cố định A và B là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mặt phẳng trung trực của đoạn thẳng AB.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đường trung trực của đoạn thẳng AB.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mặt phẳng vuông góc với AB tại A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đường thẳng qua A và vuông góc với AB.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nMặt phẳng trung trực của đoạn thẳng là tập hợp các điểm cách đều hai đầu mút của đoạn thẳng đó\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác cân tại C. Cạnh bên SA vuông góc với đáy. Gọi H,K lần lượt là trung điểm của AB và SB. Khẳng định nào dưới đây sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH⊥AK.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH⊥SB.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH⊥SA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AK⊥SB.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thoi tâm O. Biết rằng SA=SC, SB=SD. Khẳng định nào sau đây là đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AB⊥SAC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CD⊥AC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. SO⊥ABCD.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CD⊥SBD.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB,BC,CD đôi một vuông góc với nhau và AB=a, BC=b, CD=c. Độ dài đoạn thẳng AD bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2+b2+c2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a2+b2-c2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a2-b2+c2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. -a2+b2+c2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB,BC,CD đôi một vuông góc với nhau. Điểm nào dưới đây cách đều bốn đỉnh A,B,C,D của tứ diện ABCD ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trung điểm của cạnh BD.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tâm đường tròn ngoại tiếp tam giác ABC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trung điểm của cạnh AD.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Trọng tâm của tam giác ACD.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp S.ABC có SA=SB=SC và tam giác ABC vuông tại B. Vẽ SH⊥(ABC), H∈(ABC). Khẳng định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H trùng với trọng tâm tam giác ABC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H trùng với trực tâm tam giác ABC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H trùng với trung điểm của AC.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H trùng với trung điểm của BC.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp S.ABC thỏa mãn SA=SB=SC. Tam giác ABC vuông tại A. Gọi H là hình chiếu vuông góc của S lên mp(ABC). Chọn khẳng định sai trong các khẳng định sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SBH∩ SCH = SH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. SAH∩SBH=SH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AB⊥SH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. SAH∩SCH=SH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình chóp S.ABC có SA⊥(ABC) và tam giác ABC không vuông, gọi H,K lần lượt là trực tâm các tam giácABC và SBC. Các đường thẳng AH,SK,BC thỏa mãn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồng quy",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đôi một song song",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đôi một chéo nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đáp án khác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình chóp S.ABC có các mặt bên tạo với đáy một góc bằng nhau. Hình chiếu H của S trên (ABC) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tâm đường tròn nội tiếp tam giác ABC.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tâm đường tròn ngoại tiếp tam giác ABC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trọng tâm tam giác ABC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giao điểm hai đường thẳng AC và BD.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′. Đường thẳng AC′ vuông góc với mặt phẳng nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (A'BD)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (A'DC')",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (A'CD')",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (A'B'CD)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thoi, O là giao điểm của 2 đường chéo và SA=SC. Các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SA⊥ABCD",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. BD⊥SAC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AC⊥SBD",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. AB⊥SAC",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông, SA⊥(ABCD). Mặt phẳng qua A và vuông góc với SC cắt SB,SC,SD theo thứ tự tại H,M,K. Chọn khẳng định sai trong các khẳng định sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AK⊥HK",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. HK⊥AM",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. BD⊥AM",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AH⊥SB",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hình chóp S.ABCD trong đó ABCD là hình chữ nhật, SA⊥(ABCD) Trong các tam giác sau tam giác nào không phải là tam giác vuông?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ΔSBC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ΔSCD",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ΔSAB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ΔSBD",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

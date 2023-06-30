@@ -1,0 +1,540 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/khoang-cach-giua-hai-duong-thang-cheo-nhau-trong-khong-gian/99031/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông với AC=a22. Cạnh bên SA vuông góc với đáy, SB hợp với đáy góc 600. Tính khoảng cách d giữa hai đường thẳng AD và SC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a34.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=a22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a32.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, cạnh bằng 2. Đường thẳng SO vuông góc với mặt phẳng đáy (ABCD) và SO=3. Tính khoảng cách d giữa hai đường thẳng SA và BD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d = 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=305.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có đáy là tam giác đều cạnh có độ dài bằng 2a. Hình chiếu vuông góc của A′A′ lên mặt phẳng (ABC) trùng với trung điểm H của BC. Tính khoảng cách d giữa hai đường thẳng BB′ và A′H.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d = 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d = a.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=a32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a33.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a. Cạnh bên SA vuông góc với đáy. Biết rằng đường thẳng SC tạo với đáy một góc 600. Khoảng cách giữa hai đường thẳng AB và SD là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a427.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=a7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a426.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a67.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông cân tại A, tam giác SBC là tam giác đều cạnh aa và nằm trong mặt phẳng vuông góc với đáy. Tính khoảng cách giữa hai đường thẳng SA và BC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a34.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=3a38.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a, cạnh bên SA vuông góc với mặt phẳng đáy. Biết mặt phẳng (SBC) tạo với đáy một góc 600 và M là trung điểm của SD. Tính khoảng cách d giữa hai đường thẳng AB và CM.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=a33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a63.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABCD là hình vuông cạnh a, tâm O. Cạnh bên SA=2a và vuông góc với mặt đáy (ABCD). Gọi H và K lần lượt là trung điểm của cạnh BC và CD. Tính khoảng cách giữa hai đường thẳng HK và SD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, cạnh bằng 4a. Cạnh bên SA=2a. Hình chiếu vuông góc của đỉnh S trên mặt phẳng (ABCD) là trung điểm của H của đoạn thẳng AO. Tính khoảng cách d giữa các đường thẳng SD và AB.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=4a2211.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=3a211.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d = 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d = 4a.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a, tam giác SAD đều và nằm trong mặt phẳng vuông góc với đáy. Tính khoảng cách d giữa hai đường thẳng SA và BD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a2114.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a217.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d = a.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh a, gọi I là trung điểm của AB. Hình chiếu vuông góc của S trên mặt đáy là trung điểm của CI. Biết chiều cao của khối chóp là a3. Khoảng cách giữa hai đường thẳng AB và SC là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a5117.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a5154.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=2a5117.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=3a5117.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh aa. Cạnh bên SA vuông góc với mặt phẳng đáy. Biết góc giữa hai mặt phẳng (SBC) và (ABCD) bằng 600. Tính khoảng cách giữa hai đường thẳng BD và SC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3012.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a306.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3015.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3010.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a. Cạnh bên SA vuông góc với mặt phẳng (ABCD). Đường thẳng SC tạo với mặt phẳng đáy góc 450. Khoảng cách giữa hai đường thẳng SB và AC là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a1010.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a102.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a105.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=a1015.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại AB=3a, BC=4a. Cạnh bên SA vuông góc với đáy. Góc tạo bởi giữa SC và đáy bằng 600. Gọi M là trung điểm của AC, tính khoảng cách d giữa hai đường thẳng AB và SM.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=5a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=5a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=10a379.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, cạnh a. Cạnh bên SA vuông góc với đáy, góc SBD^=60∘. Tính khoảng cách d giữa hai đường thẳng AB và SO.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a64",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a55",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh bằng 10. Cạnh bên SA vuông góc với mặt phẳng (ABCD) và SC=105. Gọi M,N lần lượt là trung điểm của SA và CD. Tính khoảng cách giữa BD và MN.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=35.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d = 5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d = 10.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh 2a. Hình chiếu vuông góc của SS trên mặt phẳng (ABCD) là điểm H thuộc đoạn BD sao cho HD=3HB. Biết góc giữa mặt phẳng (SCD) và mặt đáy bằng 450. Khoảng cách giữa hai đường thẳng SA và BD là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a3417.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2a133.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a5113.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2a3817.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có đáy ABC là tam giác vuông cân, AC=BC=3a. Hình chiếu vuông góc của B′ lên mặt đáy trùng với trọng tâm của tam giác ABC, mặt phẳng (ABB′A′) tạo với mặt phẳng (ABC) một góc 600. Tính khoảng cách giữa hai đường thẳng AB và B′C.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=3a4214.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=3a427.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a424.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a427.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình lăng trụ đứng ABC.A′B′C′ có đáy ABC là tam giác vuông, AB=BC=a, A'B=a3. Gọi M là trung điểm của cạnh BC. Tính khoảng cách giữa hai đường thẳng AM và B′C.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a427.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a217.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a147.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a77.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình lăng trụ đều ABC.A′B′C′ có tất cả các cạnh bằng a. Gọi M là trung điểm của cạnh BC. Khoảng cách giữa hai đường thẳng AM và B’C là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a24",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho tứ diện gần đều ABCD, biết AB=CD=5,AC=BD=34,AD=BC=41. Tính sin của góc giữa hai đường thẳng AB và CD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2425",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 725",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 725",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho tứ diện đều ABCD có cạnh bằng 2a. Khoảng cách giữa hai đường thẳng AB và CD là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có tam giác ABC vuông tại A, AB=a, AC=a3,AA'=2a. Hình chiếu vuông góc của điểm A trên mặt phẳng (A′B′C′) trùng với trung điểm H của đoạn B′C′ (tham khảo hình vẽ dưới đây). Khoảng cách giữa hai đường thẳng AA′ và BC′ bằng am5. Tìm m.",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thang vuông tại A và D với AB=2a,AD=DC=a. Hai mặt phẳng (SAB) và (SAD) cùng vuông góc với đáy. Góc giữa SC và mặt đáy bằng 600. Tính khoảng cách d giữa hai đường thẳng AC và SB.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a62.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=2a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=2a155.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hình hộp chữ nhật ABCD.A′B′C′D′ có đáy ABCD là hình vuông cạnh a2,AA'=2a. Tính khoảng cách dd giữa hai đường thẳng BD và CD′.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d = 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=2a55.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=a55.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

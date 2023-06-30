@@ -1,0 +1,718 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/phuong-trinh-luong-giac-co-ban-1/95280/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Với giá trị nào của m dưới đây thì phương trình sinx = m có nghiệm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m = −3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m = −2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m = 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nPhương trình sinx = m có nghiệm nếu |m| ≤ 1 và vô nghiệm nếu |m| > 1\nĐáp án A: |m| = |−3| = 3 > 1 => Loại\nĐáp án B: |m| = |−2| = 2 > 1 => Loại\nĐáp án C: |m| = |0| = 0 ≤ 1 => Nhận\nĐáp án D: |m| = |3| = 3 > 1 => Loại\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho phương trình sinx = sinα. Chọn kết luận đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=α+kπx=π−α+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=α+k2πx=π−α+k2πk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=α+k2πx=−α+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=α+kπx=−α+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nsinx=sinα⇔x=α+k2πx=π−α+k2πk∈Z\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Nghiệm của phương trình sin x = - 1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=−π2+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π2+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−π2+k2πk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=−π+k2πk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nsinx=−1\n⇔sinx=sin−π2\n⇔x=−π2+k2πk∈Z\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nghiệm của phương trình sinx=12 thỏa mãn −π2≤x≤π2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=5π6+k2π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=5π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nBước 1: \nTa có: sinx=12⇔sinx=sinπ6\nBước 2:\n x=π6+k2πx=5π6+k2πk∈Z\nBước 3:\n\n+ Xét x=π6+k2π\nTa có: −π2≤x≤π2\n⇔−π2≤π6+k2π≤π2\n⇔−2π3≤k2π≤π3\n⇔−2π3.2π≤k≤π3.2π\n⇔−13≤k≤16\nMà k∈Z⇒k=0. Thay vào x ta được: x=π6\n+ Xét x=5π6+k2π\nTa có: −π2≤x≤π2\n⇔−π2≤5π6+k2π≤π2\n⇔−4π3≤k2π≤−π3\n⇔−4π3.2π≤k≤−π3.2π\n⇔−23≤k≤−16\n \nMà k∈Z nên không có giá trị k thỏa mãn\nVậy phương trình ban đầu có nghiệm duy nhất là x=π6\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Số nghiệm của phương trình 2sinx+π4−2=0 với π≤x≤5π",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n2sinx+π4−2=0\n⇔sinx+π4=1\n⇔x+π4=π2+k2π\n⇔x=π4+k2πk∈Z\nMà π≤x≤5π\n⇔π≤π4+k2π≤5π\n⇔3π4≤k2π≤19π4\n⇔38≤k≤198\n⇒k∈1;2\n\nVậy phương trình có hai nghiệm trong đoạn [π; 5π].\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Phương trình cos 2x = 1 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=π2+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π2+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\ncos2x = 1\n⇔ cos2x = cos0\n⇔ 2x = k2π\n⇔ x = kπ(k∈Z)\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Chọn mệnh đề sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sinx=−1⇔x=−π2+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sinx=0⇔x=kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sinx=0⇔x=k2πk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sinx=1⇔x=π2+k2πk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Nghiệm của phương trình sin x. cos x = 0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π2+k2π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=kπ2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=k2π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π6+k2π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cosx≠1⇔x≠π2+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cosx≠0⇔x≠π2+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. cosx≠−1⇔x≠−π2+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cosx≠0⇔x≠π2+k2πk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Nghiệm của phương trình 2 cos x – 1 = 0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π6+k2πx=5π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π6+k2πx=−π6+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π3+k2πx=2π3+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.x=π3+k2πx=−π3+k2πk∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Số nghiệm của phương trình 2cosx+π3=1 với 0≤x≤2π là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Nghiệm của phương trình cos 3x = cos x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. k2π;π2+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. kπ2k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. kπ;π2+k2πk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Nghiệm của phương trình sin2x−sinx=0 thỏa điều kiện: 0<x<π",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−π2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Nghiệm của phương trình 3tanx+3=0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π3+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=−π3+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π6+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−π3+kπk∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Phương trình tanx2=tanx có nghiệm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. k2π (k∈Z)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. kπ (k∈Z)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. π + k2π (k∈Z)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả 3 đáp án đúng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Phương trình 3cos5x−π8=0 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π8+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π8+kπ5k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=π8+kπ4k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π8+kπ2k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Nghiệm của phương trình tan2x−15°=1, với −90°<x<90° là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=−30°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=−60°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=30°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−60°,x=30°",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Nghiệm của phương trình cot x = cot 2x là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kết quả khác",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm tập xác định D của hàm số sau: y=2sinx−1tan2x+3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. D = R\\ π6+kπ2;π4+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. D = R\\ −π3+kπ;π2+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. D = R\\ −π6+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. D = R\\ −π6+kπ2;π4+kπ2k∈Z",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Số nghiệm của phương trình cos2x=12 trên nửa khoảng 0°;360° là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Phương trình sin2x+π7=m2−3m+3 vô nghiệm khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. – 1 < m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. – 3 < m < - 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m<1m>2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m<−2m>0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Giải phương trình lượng giác sinπ3−3x=sinx+π4 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π48+kπ2x=−5π24+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=π48+kπx=−5π12+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π24+kπx=−5π48+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π24+k2πx=−5π48+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Nghiệm của phương trình sin 3x = cos x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π8+kπ2,x=π4+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=k2π,x=π2+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=kπ,x=π4+kπk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π8+kπ2,x=−π4+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Tập nghiệm của phương trình tanx.cotx=1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R\\kπ2,k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. R\\π2+kπ,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R\\kπ,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Phương trình cos11xcos3x=cos17xcos9x có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=kπ6,x=kπ10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=kπ6,x=kπ20",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=kπ3,x=kπ20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=kπ3,x=kπ10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Phương trình cot 20x = 1 có bao nhiêu nghiệm thuộc khoảng [−50π; 0]?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 980",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 51",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 981",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1000",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho phương trình sin2x−π5=3m2+m2. Biết x=11π60 là một nghiệm của phương trình. Tính m.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=1m=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=−32m=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=−14m=23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=−12m=13",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Phương trình lượng giác cosx−32sinx−12=0 có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π6+k2π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vô nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−π6+k2π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=±π6+k2π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Nghiệm của phương trình tan4x.cot2x=1 là:tan4x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. kπ,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π4+kπ2,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. kπ2,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vô nghiệm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Phương trình tanπ2−x+2tan2x+π2=1có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π4+k2πk∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π4+kπk∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=π4+kπ2k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−π4+kπk∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Phương trình cos3x=2m2−3m+1. Xác định m để phương trình có nghiệm x∈0;π6",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m∈0;1∪32;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m∈−∞;1∪32;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m∈0;12∪1;32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m∈0;1∪32;2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

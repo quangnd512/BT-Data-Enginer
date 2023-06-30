@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ly-thuyet-chung-ve-kim-loai/75873/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một cation kim loại M có cấu hình e ở lớp ngoài cùng là 2s22p6. Vậy cấu hình e ở lớp ngoài cùng của nguyên tử kim loại M là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3s2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3s23p1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3s1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B, C đều đúng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nCấu hình electron của kim loại có thể có 1, 2 hoặc 3 electron lớp ngoài cùng\n=>các trường hợp thỏa mãn là\n1s22s22p63s1\n1s22s22p63s2\n1s22s22p63s23p1\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phát biểu nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kim loại chiếm hơn 80% tổng số các nguyên tố trong bảng tuần hoàn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Tất cả các kim loại ở điều kiện thường đều tồn tại ở trạng thái rắn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các nguyên tố nhóm IB, IIB, IIIB và một phần của nhóm IVB, VB, VIB là kim loại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cr dùng để làm dây tóc bóng đèn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A đúng vì trong hơn 110 nguyên tố ngày nay đã biết, có tới khoảng 90 nguyên tố là kim loại.B sai vì Hg ở nhiệt độ thường là thể lỏng.C sai vì tất cả các nguyên tố nhóm B đều là kim loại.D sai vì dây tóc bóng đèn làm từ W.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "So với nguyên tử phi kim ở cùng chu kì, nguyên tử kim loại :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thường có bán kính nguyên tử nhỏ hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thường có số electron ở các phân lớp ngoài cùng nhiều hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Thường dễ nhường electron trong các phản ứng hóa học.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thường dễ nhận electron trong các phản ứng hóa học.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Vì trong 1 chu kì, kim loại có độ âm điện nhỏ hơn phi kim =>nguyên tử kim loại thường dễ nhường electron trong các phản ứng hóa học.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Khi nói về kim loại, phát biểu nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kim loại có độ cứng lớn nhất là Cr.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kim loại dẫn điện tốt nhất là Cu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Kim loại có nhiệt độ nóng chảy cao nhất là W.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Kim loại có khối lượng riêng nhỏ nhất là Li.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B sai vì theo chiều giảm dần tính dẫn điện là: Ag >Cu >Au >Al >Fe nên Ag mới là kim loại dẫn điện tốt nhấtĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Kim loại nào sau đây khi tác dụng với HCl và tác dụng với Cl2 cho cùng một loại muối clorua:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ag.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Zn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Kim loại tác dụng với HCl và với Cl2 cho cùng 1 loại muối clorua là Zn.Loại A vì Fe cho 2 loại muối.Loại B và D vì không phản ứng với HClĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Các kim loại chỉ tác dụng với dung dịch H2SO4 loãng mà không tác dụng với dung dịch H2SO4 đặc nguội là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Cu và Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe và Al.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mg và Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mg và Cu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các kim loại chỉ tác dụng với dung dịch H2SO4 loãng mà không tác dụng với dung dịch H2SO4 đặc nguội là Fe và Al (Fe và Al bị thụ động hóa trong H2SO4 đặc nguội)Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Kim loại nào dưới đây không tan trong dung dịch NaOH ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Zn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Al.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Na.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mg.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho các kim loại sau : K, Fe, Ba, Cu, Na, Ca, Ag, Li. Số kim loại tác dụng được với nước ở nhiệt độ thường là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "M là kim loại trong số các kim loại sau: Cu Ba, Zn, Mg. Dung dịch muối MCl2 phản ứng với dung dịch Na2CO3 hoặc Na2SO4 tạo kết tủa, nhưng không tạo kết tủa khi phản ứng với dung dịch NaOH. Kim loại M là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ba.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Zn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một nguyên tố có Z = 24, vị trí của nguyên tố đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chu kì 4, nhóm IA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chu kì 4, nhóm VIA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chu kì 2, nhóm IVA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chu kì 4, nhóm VIB",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho các nguyên tố với số hiệu nguyên tử sau: X (Z =1); Y (Z =7); E( Z =12); T (Z =19). Dãy gồm các nguyên tố kim loại là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X, Y, E",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. X, Y, E, T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. E, T",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Y, T",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho cấu hình electron: 1s22s22p6. Dãy nào sau đây gồm các nguyên tử và ion có cấu hình electron như trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. K+, Cl, Al",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Li+, Br, Ne",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na+, Cl, Ar",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Na+, F−, Ne",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ở điều kiện thường, các kim loại đều có khối lượng riêng lớn hơn khối lượng riêng của nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tính chất hóa học đặc trưng của kim loại là tính khử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các kim loại đều chỉ có một số oxi hoá duy nhất trong các hợp chất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ở điều kiện thường, tất cả các kim loại đều ở trạng thái rắn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Bằng phân tích quang phổ, người ta phát hiện trong “khí quyển” của sao thủy có kim loại X. Biết X có cấu trúc mạng tinh thể lập phương tâm khối (độ đặc khít 68%) và bán kính nguyên tử là 0,230 nm. Khối lượng riêng của nguyên tố này là 0,862 g/cm3. (Biết Al = 27; K = 39; Zn = 65; Ba = 137). Kim loại X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ba",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. K",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Zn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Dựa vào khối lượng riêng của kim loại, hãy tính thể tích mol kim loại và ghi kết quả vào bảng sau: \n\nChọn phát biểu không đúng trong các phát biểu sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thể tích mol của K là 45,46 cm3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thể tích mol của Mg là 19,73 cm3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thể tích mol của Al là 9,99 cm3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thể tích mol của Au là 10,20 cm3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/mat-non-khoi-non/99865/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Công thức tính diện tích xung quanh hình nón có bán kính đáy r và độ dài đường sinh l là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sxq=13πrl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sxq=πr2l",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sxq=πrl+πr2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sxq=πrl",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính diện tích xung quanh hình nón có bán kính đáy r và độ dài đường sinh l là: Sxq=πrl\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Công thức tính diện tích toàn phần hình nón có bán kính đáy r, độ dài đường cao h và độ dài đường sinh l là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Stp=πrl+πr2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Sxq=πrl+2πr2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sxq=πrh+πr2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sxq=2πrh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính diện tích toàn phần hình nón có bán kính đáy r và độ dài đường sinh l là: Stp=πrl+πr2\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Công thức tính thể tích khối nón có bán kính đáy r, độ dài đường sinh l và chiều cao h là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=13πrl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=13πr2l",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=13πr2h",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=13πrh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính thể tích khối nón: V=13πr2h\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Công thức tính thể tích khối nón biết diện tích đáy Sd và đường sinh l là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=13Sd.l",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=13Sdh2−r2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=13Sdl2−r2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=Sdl2−r2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: l2=r2+h2⇒h=l2−r2⇒V=13Sd.h=13Sd.l2−r2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Diện tích xung quanh hình nón có bán kính đáy r = 3cm và độ dài đường sinh 4cm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12(m2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12π(cm3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12π(cm2)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4π(cm2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nÁp dụng công thức Sxq=πrl ta được: Sxq=π.3.4=12πcm2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình nón có các kích thước r = 1cm; l = 2cm với r, l lần lượt là bán kính đáy và độ dài đường sinh hình nón. Diện tích toàn phần hình nón là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2π(cm2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4π(cm2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3π(cm2)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6π(cm2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nÁp dụng công thức Stp=πrl+πr2 ta được: \nStp=πrl+πr2=π.1.2+π.12=3πcm2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một hình nón có thiết diện qua trục là một tam giác vuông cân có cạnh góc vuông bằng a. Diện tích xung quanh của hình nón bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. πa224",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2πa223",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. πa222",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. πa22",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình nón có góc ở đỉnh bằng 1200 và đường cao bằng 2. Tính diện tích xung quanh của hình nón đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 163π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 83π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 43π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình nón đỉnh S có bán kính đáy R = 2. Biết diện tích xung quanh của hình nón là 25π. Tính thể tích khối nón.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 53π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 43π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 23π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình nón có các kích thước r = 1; h = 2 với r,hr,h lần lượt là bán kính đáy và độ dài đường cao hình nón. Diện tích toàn phần hình nón là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1+5π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3+1π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5+1π",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Thể tích khối nón có bán kính đáy r = 2cm và h = 3cm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4πcm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 43πcm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2πcm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6πcm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho tam giác ABO vuông tại O, có góc BAO^=300,AB=a. Quay tam giác ABO quanh trục AO ta được một hình nón có diện tích xung quanh bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. πa234",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. πa22",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. πa24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một hình nón tròn xoay có đường sinh bằng đường kính đáy. Diện tích đáy của hình nón bằng 9π. Khi đó chiều cao h của hình nón bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. h=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. h=33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. h=32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. h=33",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Hình nón có thiết diện qua trục là tam giác đều cạnh a = 3 . Tính độ dài đường cao của hình nón.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 334",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 332",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một hình nón có bán kính đáy bằng 1, chiều cao nón bằng 2. Khi đó góc ở đỉnh của nón là 2φ  thỏa mãn",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tanφ=55",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cotφ=55",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cosφ=255",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sinφ=255",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Người ta đặt được vào một hình nón hai khối cầu có bán kính lần lượt là a và 2a sao cho các khối cầu đều tiếp xúc với mặt xung quanh của hình nón, hai khối cầu tiếp xúc với nhau và khối cầu lớn tiếp xúc với đáy của hình nón. Bán kính đáy của hình nón đã cho là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 22a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hình nón có diện tích xung quanh bằng 3πa2 và bán kính đáy bằng a. Tính độ dài đường sinh l của hình nón đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. l=5a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. l=22a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. l=3a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. l = 3a .",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho mặt cầu tâm O  bán kính R. Xét mặt phẳng (P) thay đổi cắt mặt cầu theo giao tuyến là đường tròn (C). Hình nón N có đỉnh S nằm trên mặt cầu, có đáy là đường tròn (C) và có chiều cao h (h > R). Tìm hh để thể tích khối nón được tạo nên bởi (N) có giá trị lớn nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. h=R3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. h=R2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. h=4R3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. h=2R3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình nón đỉnh S, tâm đáy là O, góc ở đỉnh là 1350. Trên đường tròn đáy lấy điểm A cố định và điểm M di động. Tìm số vị trí M để diện tích SAM đạt giá trị lớn nhất",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Một que kem ốc quế gồm hai phần: phần kem có dạng hình cầu, phần ốc quế có dạng hình nón. Giả sử hình cầu và hình nón có bán kính bằng nhau; biết rằng nếu kem tan chảy hết thì sẽ làm đầy phần ốc quế. Biết thể tích phần kem sau khi tan chảy chỉ bằng 75% thể tích kem đóng băng ban đầu. Gọi h và r lần lượt là chiều cao và bán kính của phần ốc quế. Tính tỉ số hr.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hr=3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. hr=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. hr=43",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hr=163",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có SA vuông góc với mặt phẳng (ABCD); tứ giác ABCD là hình thang vuông với cạnh đáy AD,BC; AD = 3BC = 3a, AB = a,SA=a3. Điểm I thỏa mãn AD→=3AI→; M là trung điểm SD, H là giao điểm của AM và SI. Gọi E, F lần lượt là hình chiếu của A lên SB, SC. Tính thể tích V của khối nón có đáy là đường tròn ngoại tiếp tam giác EFH và đỉnh thuộc mặt phẳng (ABCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=πa325",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=πa35",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=πa3105",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=πa355",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hình vuông ABCD cạnh bằng 2. Gọi M là trung điểm AB. Cho tứ giác AMCD và các điểm trong của nó quay quanh trục AD ta được một khối tròn xoay. Tính thể tích khối tròn xoay đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 14π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 14π9",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho tam giác ABC đều, có diện tích bằng s1 và AH là đường cao. Quay tam giác ABC quanh đường thẳng AH ta thu được hình nón có diện tích xung quanh bằng s2. Tính s1s2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 23π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 32π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4π3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Một cái phễu có dạng hình nón có chiều cao 15(cm). Người ta đổ một lượng nước vào phễu sao cho chiều cao của lượng nước trong phễu bằng 13 chiều cao ban đầu của cái phễu (hình 1). Hỏi nếu bịt kín miệng phễu rồi lộn ngược phễu lên (hình 2) thì chiều cao của nước xấp xỉ bằng bao nhiêu (làm tròn đến hàng phần nghìn).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,577(cm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,216(cm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,325(cm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,188(cm)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Một cái phễu có dạng hình nón. Chiều cao của phễu là 20 cm. Người ta đổ một lượng nước vào phễu sao cho chiều cao của cột nước trong phễu bằng 10cm. Nếu bịt kín miệng phễu rồi lật ngược phễu lên thì chiều cao của cột nước trong phễu gần bằng với giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2073−10cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1073cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20−1073cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2073cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hình tứ diện ABCD có AD⊥(ABC), ABC là tam giác vuông tại B.B. Biết BC=a, AB=a3, AD=3a.. Quay các tam giác ABC và ABD (bao gồm cả điểm bên trong 2 tam giác) xung quanh đường thẳng AB ta được 2 khối tròn xoay. Thể tích phần chung của 2 khối tròn xoay đó bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 83πa33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 33πa316.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 53πa316.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43πa316.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hình nón N1 có chiều cao bằng 40cm. Người ta cắt hình nón N1 bằng một mặt phẳng song song với đáy của có để được một hình nón nhỏ N2 có thể tích bằng 18 thể tích N1. Tính chiều cao h của hình nón N2?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.20cm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.10cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.40cm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Một hình nón đỉnh S có bán kính đáy bằng 2a3, góc ở đỉnh là 1200. Thiết diện qua đỉnh của hình nón là một tam giác. Diện tích lớn nhất Smax của thiết diện đó là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Smax=8a2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Smax=4a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Smax=4a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Smax=16a2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho hình hộp ABCD⋅A'B'C'D' có đáy là hình thoi cạnh a và góc BAD^=q. Mặt chéo ACC′A′ nằm trong mặt phẳng vuông góc với đáy, đồng thời ACC'A' là hình thoi có góc A'AC^=600.\nTính tan góc giữa hai mặt phẳng (BCC′B′) và (ABCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 23",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho hình hộp ABCD⋅A'B'C'D' có đáy là hình thoi cạnh a và góc BAD^=q. Mặt chéo ACC′A′ nằm trong mặt phẳng vuông góc với đáy, đồng thời ACC'A' là hình thoi có góc A'AC^=600.\nTính thể tích khối tứ diện ACB′D′.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a333",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a323",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a334",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a335",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho hình hộp ABCD⋅A'B'C'D' có đáy là hình thoi cạnh a và góc BAD^=q. Mặt chéo ACC′A′ nằm trong mặt phẳng vuông góc với đáy, đồng thời ACC'A' là hình thoi có góc A'AC^=600.\nTính diện toàn phần của hình nón có đáy là đường tròn nội tiếp ΔABD và chiều cao bằng chiều cao của lăng trụ.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. πa2(53−1)12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. πa2(53+1)13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. πa2(53+1)12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. πa2(53−1)13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

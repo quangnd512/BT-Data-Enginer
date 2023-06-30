@@ -1,0 +1,511 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-loai-dao-dong/75898/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dao động nào sau đây có tần số dao động khác tần số riêng của vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dao động duy trì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. dao động điều hòa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dao động tắt dần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dao động cưỡng bức",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nTrong dao động cưỡng bức, tần số của vật bằng tần số của lực cưỡng bức và có thể khác tần số riêng.\nNếu tần số của lực cưỡng bức bằng tần số dao động riêng của vật thì xảy ra hiện tượng cộng hưởng.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một cây cầu bắc ngang qua sông Phô-tan-ka ở thành phố Xanh Pê-téc-bua (Nga) được thiết kế xây dựng đủ vững chắc, có thể cho cùng lúc 300 người đi qua mà cầu không sập. Năm 1906 có một trung đội bộ binh gồm 36 người đi đều bước qua cây cầu làm cho cây cầu gãy. Sự cố gãy cầu là do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dao động tuần hoàn của cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. xảy ra cộng hưởng cơ ở cầu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. cầu không chịu được tải trọng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dao động tắt dần của cây cầu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nSự cố gãy cầu là do xảy ra hiện tượng cộng hưởng cơ ở cầu\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Hai chất điểm dao động có li độ phụ thuộc theo thời gian được biểu diễn tương ứng bởi hai đồ thị (1) và (2) như hình vẽ, Nhận xét nào dưới đây đúng khi nói về dao động của hai chất điểm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai chất điểm đều thực hiện dao động điều hòa với cùng chu kì.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đồ thị (1) biểu diễn chất điểm dao động tắt dần cùng chu kì với chất điểm còn lại.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hai chất điểm đều thực hiện dao động điều hòa và cùng pha ban đầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đồ thị (1) biểu diễn chất điểm dao động cưỡng bức với tần số ngoại lực cưỡng bức bằng tần số dao động của chất điểm còn lại.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nTừ đồ thị, ta thấy hai chất diểm dao động với cùng biên độ và chu kì. Chất điểm (1) dao động tắt dần, và chất điểm (2) dao động điều hòa.\n⇒⇒ B đúng.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Giảm xóc của ô tô là áp dụng của",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dao động cưỡng bức",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. dao động tắt dần",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. dao động duy trì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dao động tự do",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nGiảm xóc của ô tô là áp dụng của dao động tắt dần\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một vật dao động tắt dần có các đại lượng giảm liên tục theo thời gian là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biên độ và gia tốc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Li độ và tốc độ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Biên độ và năng lượng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Biên độ và tốc độ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có: Dao động tắt dần là dao động có biên độ giảm dần theo thời gian\n\nMặt khác: Cơ  năng (năng lượng) tỉ lệ thuận với bình phương biên độ:  \nW=12kA2\n \n=> Cơ năng (năng lượng) của dao động tắt dần cũng giảm dần theo thời gian\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khi nói về một hệ dao động cưỡng bức ở giai đoạn ổn định, phát biểu nào dưới đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tần số của hệ dao động cưỡng bức bằng tần số của ngoại lực cưỡng bức.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tần số của hệ dao động cưỡng bức luôn bằng tần số dao động riêng của hệ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Biên độ của hệ dao động cưỡng bức phụ thuộc vào tần số của ngoại lực cưỡng bức.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Biên độ của hệ dao động cưỡng bức phụ thuộc biên độ của ngoại lực cưỡng bức.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nTa có:\nA, C, D - đúng\nB - sai vì: Chỉ khi xảy ra hiện tượng cộng hưởng thì tần số của hệ dao động cưỡng bức mới bằng tần số dao động riêng của hệ\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Con lắc lò xo gồm vật nặng m = 100g và lò xo nhẹ có độ cứng k = 100N/m. Tác dụng một ngoại lực cưỡng bức biến thiên điều hòa biên độ F0 và tần số f1 = 6Hz thì biên độ dao động là A1. Nếu giữ nguyên biên độ F0 mà tăng tần số ngoại lực đến f2 = 5,5Hz thì biên độ dao động ổn định là A2. Kết luận đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biên độ dao động cưỡng bức tăng rồi giảm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A1 = A2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A1 > A2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A1 < A2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một con lắc đơn đang dao động điều hòa với biên độ góc α0 tại nơi có gia tốc trọng trường là g. Biết lực căng dây lớn nhất bằng 1.02 lần lực căng dây nhỏ nhất. Giá trị của α0 là ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,30",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6,60",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5,60",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9,60",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Dao động tự do là hệ dao động xảy ra dưới tác dụng của:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nội lực kéo về và tần số dao động của hệ không nhất thiết phải phụ thuộc vào đặc tính bên trong của hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngoại lực kéo về và tần số dao động của hệ không nhất thiết phải phụ thuộc vào đặc tính bên trong của hệ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nội lực kéo về và tần số dao động của hệ chỉ phụ thuộc vào đặc tính bên trong của hệ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ngoại lực kéo về và tần số dao động của hệ chỉ phụ thuộc vào đặc tính bên trong của hệ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Phát biểu nào sau đây là sai khi nói về dao động cơ học",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biên độ dao động cưỡng bức của một hệ cơ học khi xảy ra hiện tượng cộng hưởng không phụ thuộc vào lực cản của môi trường.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tần số dao động cưỡng bức của một hệ cơ học bằng tần số của ngoại lực điều hòa tác dụng lên hệ ấy.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hiện tượng cộng hưởng xảy ra khi tần số của ngoại lực điều hòa bằng tần số dao động riêng của hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tần số dao động tự do của một hệ cơ học là tần số dao động riêng của hệ ấy.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một người xách một xô nước đi trên đường, mỗi bước dài 45cm. Chu kì dao động riêng của nước trong xô là 0,3s. Để nước trong xô bị dao động mạnh nhất người đó phải đi với tốc độ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,6m/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4,2km/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4,8km/h.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5,4km/h.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một con lắc lò xo đang dao động tắt dần, sau ba chu kì đầu tiên biên độ của nó giảm đi 10%. Phần trăm cơ năng còn lại sau khoảng thời gian đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6,3%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 81%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 19%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 27%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một con lắc dao động tắt dần trong môi trường với lực masát rất nhỏ. Cứ sau mỗi chu kì, phần năng lượng của con lăc bị mất đi 8%. Trong một dao động toàn phần biên độ giảm đi bao nhiêu phần trăm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 22%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,6%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một con lắc lò xo đang dao động tắt dần, cơ năng ban đầu của nó là 5J. Sau ba chu kì kể từ lúc bắt đầu dao động thì biên độ của nó giảm đi 18%. Phần cơ năng của con lắc chuyển hóa thành nhiệt năng tính trung bình trong mỗi chu kì dao động của nó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,365J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,546J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,600J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,445J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Nhận định nào sau đây sai khi nói về dao động cơ học tắt dần?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dao động tắt dần có động năng giảm dần còn thế năng biến thiên điều hòa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dao động tắt dần là dao động có biên độ giảm dần theo thời gian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lực ma sát càng lớn thì dao động tắt càng nhanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong dao động tắt dần, cơ năng giảm dần theo thời gian.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Khi nói về một hệ dao động cưỡng bức ở giai đoạn ổn định, phát biểu nào dưới đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tần số của hệ dao động cưỡng bức bằng tần số của ngoại lực cưỡng bức.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tần số của hệ dao động cưỡng bức luôn bằng tần số dao động riêng của hệ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Biên độ của hệ dao động cưỡng bức phụ thuộc vào tần số của ngoại lực cưỡng bức.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Biên độ của hệ dao động cưỡng bức phụ thuộc biên độ của ngoại lực cưỡng bức.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Khi xảy ra hiện tượng cộng hưởng cơ thì vật tiếp tục dao động:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Với tần số bằng tần số dao động riêng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Mà không chịu ngoại lực tác dụng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Với tần số lớn hơn tần số dao động riêng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Với tần số nhỏ hơn tần số dao động riêng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một vật có khối lượng 100g gắn với một lò xo có độ cứng 100N/m. Vật chỉ dao động được trên trục Ox nằm ngang trùng với trục của lò xo. Ban đầu, kéo vật ra khỏi vị trí cân bằng 8cm, rồi truyền cho vật vận tốc 60cm/s hướng theo phương Ox. Trong quá trình dao động vật luôn chịu tác dụng một lực cản không đổi 0,02N. Tổng chiều dài quãng đường mà vật đi được từ lúc bắt đầu dao động cho tới lúc dừng lại:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15,6m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9,16m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16,9m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 15m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một con lắc lò xo có độ cứng 62,5 N/m, vật nặng có khối lượng m=100g dao động trên mặt phẳng nằm ngang. Hệ số masát giữa vật và mặt phẳng ngang là μ=0,1; lấy g=10m/s2. Kéo vật khỏi vị trí cân bằng một đoạn A rồi thả nhẹ. Quãng đường mà vật đã đi cho đến khi dừng hẳn là 2,4m. Giá trị của A là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8,8cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 7,6cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Một con lắc lò xo, vật nặng có khối lượng 100g, lò xo có độ cứng 100N/m, dao động trên mặt phẳng ngang với biên độ ban đầu 10cm. Lấy gia tốc trọng trường 10m/s2. Biết hệ số ma sát giữa vật và mặt phẳng ngang là 0,1. Số dao động thực hiện được kể từ lúc dao động cho đến lúc dừng lại là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 50",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 30",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 20",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Một con lắc lò xo, vật nặng có khối lượng 100g, lò xo có độ cứng 100N/m, dao động trên mặt phẳng ngang với biên độ ban đầu 10cm. Lấy gia tốc trọng trường 10m/s2. Biết hệ số ma sát giữa vật và mặt phẳng ngang là 0,1. Tìm thời gian từ lúc dao động cho đến lúc dừng lại.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Thực hiện thí nghiệm về dao động cưỡng bức như hình bên. Năm con lắc đơn: (1), (2), (3), (4) và M (con lắc điều khiển) được treo trên một sợi dây. Ban đầu hệ đang đứng yên ở vị trí cân bằng. Kích thích M dao động nhỏ trong mặt phẳng vuông góc với mặt phẳng hình vẽ thì các con lắc còn lại dao động theo. Không kể M, con lắc dao động mạnh nhất là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. con lắc (2).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. con lắc (1).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. con lắc (3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. con lắc (4).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

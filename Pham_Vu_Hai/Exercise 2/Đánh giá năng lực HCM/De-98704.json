@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dai-cuong-ve-dong-dien-xoay-chieu1/98704/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một khung dây dẫn quay đều quanh trục quay Δ với tốc độ 150 vòng/phút trong từ trường đều có cảm ứng từ B→ vuông góc với trục quay của khung. Từ thông cực đại gửi qua khung dây là 10/π (Wb). Suất điện động hiệu dụng trong khung dây bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.25 V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 252V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 50V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 502 V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTần số góc: ω=150.2π60=5π(rad/s)\nTa có: E=E02=ωΦ02=5π.10π2=252(V)\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Chọn phát biểu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Cường độ cực đại của dòng điện xoay chiều là cường độ của dòng điện không đổi khi chúng tỏa ra cùng một nhiệt lượng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Điện áp hiệu dụng của một đoạn mạch xoay chiều nhỏ hơn điện áp cực đại 2 lần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Cường độ hiệu dụng của dòng điện xoay chiều biến thiên cùng tần số với cường độ tức thời.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Để đo cường độ dòng điện tức thời của dòng điện xoay chiều ta dùng ampe kế.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nA - sai vì: Cường độ hiệu dụng của dòng xoay chiều bằng cường độ dòng điện không đổi khi chúng tỏa ra cùng một nhiệt lượng.\nB - đúng\nC - sai vì: Cường độ dòng điện hiệu dụng: I=I02=h/s chứ không biến thiên.\nD - sai vì: Số chỉ của ampe kế là giá trị của cường độ dòng điện hiệu dụng\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Giữa hai điểm A và B có điện áp xoay chiều: u=220cos100πt+π/2(V). Nếu mắc vôn kế vào A và B thì vôn kế chỉ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2202(V)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 220 V.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1102(V)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 110V.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Số chỉ trên vôn kế chỉ giá trị hiệu dụng của điện áp thế xoay chiều\n+ Từ phương trình điện áp: u=220cos100πt+π/2(V)\nTa có: U0=220V→U=U02=2202=1102(V)Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một mạch điện xoay chiều gồm điện trở R=50Ω. Biểu thức của cường độ dòng điện qua mạch là: i=2cos(100πt+π/4)(A)i=2cos(100πt+π/4)A. Nhiệt lượng tỏa ra ở R trong 15phút là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.360000 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1500 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.180000 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.90 kJ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ phương trình : i=2cos100πt+π/4(A)\nTa có,\n+ Cường độ dòng điện hiệu dụng: I=I02=22=2(A)\n+ Nhiệt lượng tỏa ra trên R trong 15 phút :\nQ=I2Rt=(2)2.50.(15.60)=90000(J)\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dòng điện xoay chiều có cường độ i=2cos50πt+π/6(A)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tần số dòng điện là 50 Hz.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Cường độ dòng điện hiệu dụng là 2 (A).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Cường độ dòng điện cực đại là 2A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Chu kì của dòng điện là 0,04 s.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ phương trình cường độ dòng điện: i=2cos50πt+π/6(A)\nTa có:\n+ Tần số dòng điện f=ω2π=50π2π=25(Hz)\n+ Chu kì dòng điện: T=1f=125=0,04s\n+ Cường độ dòng điện cực đại: I0=2(A)\n+ Cường độ dòng điện hiệu dụng: I=I02=22=2(A)\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cường độ còng điện và điện áp của một mạch điện xoay chiều có dạng i=I0cosωt+π/3;u=U0cosωt-π/6. Kết luận nào sau đây đúng khi nói về độ lệch pha của điện áp so với cường độ dòng điện?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.điện áp chậm pha hơn cường độ dòng điện một góc ϕ=π/2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.điện áp sớm pha hơn cường độ dòng điện một góc ϕ=π/3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.điện áp và cường độ dòng điện đồng pha.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.điện áp chậm pha hơn cường độ dòng điện một góc ϕ=−π/6.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: Độ lệch pha giữa điện áp và cường độ dòng điện:\nΔφ=φu−φi=−π6−π3=−π2\n=> Điện áp chậm pha hơn cường độ dòng điện một góc π2\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Mạch điện xoay chiều gồm R, L, C nối tiếp có điện áp hai đầu là u = U0cosωt. Độ lệch pha của dòng điện trong mạch so với điện áp đặt vào phụ thuộc vào",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.L và C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.R, L, C và ω.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.L, C và ω.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.R và C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Đồ thị dưới đây mô tả sự phụ thuộc của cường độ dòng điện xoay chiều i theo thời gian t trong một chu kì dao động.\n\nCường độ dòng điện hiệu dụng trong mạch có độ lớn bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.8 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 22A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 42A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đồ thị hình bên mô tả sự biến thiên của cường độ dòng điện xoay chiều theo thời gian. Biểu thức của cường độ dòng điện tức thời có biểu thức",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. i=22cos100πt+π2A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. i=2cos100πtA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. i=22cos100πtA.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. i=1cos100πtA.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho đoạn mạch điện xoay chiều chỉ có tụ điện với điện dung C=10−4πF Đặt điện áp xoay chiều có tần số 50Hz vào hai đầu đoạn mạch. Tại thời điểm mà điện áp hai đầu mạch có giá trị 10010 V thì cường độ dòng điện trong mạch là 2A. Điện áp hiệu dụng hai đầu tụ điện có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. UC=1002V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. UC=1006V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. UC=1003V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. UC=2002V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đặt vào hai đầu cuộn thuần cảm với độ tự cảm L=1πH một hiệu điện thế xoay chiều u=U0.cos100πt(V) Tại thời điểm t1có u1=200V,i1=2A; tại thời điểm t2 có  u2=2002V,i2=0. Biểu thức của hiệu điện thế và dòng điện trong mạch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. u=2002.cos100πt(V);i=22cos100πt−π2A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. u=2002.cos100πt(V);i=2cos100πtA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u=2002.cos100t(V);i=22cos100tA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u=200.cos100πt(V);i=2cos100πtA",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Điện áp u=200cos100πt+π2V có giá trị hiệu dụng bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1002V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2002V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 200V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 100V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Ở Việt Nam, mạng điện xoay chiều dân dụng có điện áp hiệu dụng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.110V.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2202  V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 220  V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1102  V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong các đại lượng đặc trưng cho dòng điện xoay chiều sau đây, đại lượng nào có dùng giá trị hiệu dụng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hiệu điện thế",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Chu kì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tần số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Công suất",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

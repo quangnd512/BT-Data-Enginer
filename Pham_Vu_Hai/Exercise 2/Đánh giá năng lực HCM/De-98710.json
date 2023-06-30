@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/giao-thoa-anh-sang-don-sac-3/98710/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong thí nghiệm Iâng (Y-âng) về giao thoa ánh sáng, hai khe hẹp cách nhau một khoảng a=0,5mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là D=1,5m. Hai khe được chiếu bằng bức xạ có bước sóng  λ=0,6μm. Trên màn thu  được hình  ảnh giao thoa. Tại điểm M trên màn cách vân sáng trung tâm (chính giữa) một khoảng 5,4mm có vân sáng bậc (thứ):",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, khoảng vân:\ni=λDa=0,6.10−6.1,50,5.10−3=1,8.10−3=1,8mm\nxM=5,4mm=k.1,8​⇒k=5,41,8=3\n=> Tại M là vân sáng bậc 3\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ánh sáng trên bề mặt rộng 7,2 mm của vùng giao thoa người ta đếm được 9 vân sáng (hai rìa là hai vân sáng). Tại vị trí cách vân trung tâm 14,4 mm ℓà vân:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tối thứ 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tối thứ 16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Sáng thứ 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Sáng thứ 16",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, trên màn có 9 vân sáng\n=> Khoảng cách giữa 9 vân sáng là 8i = 7,2mm => i = 0,9mm\nTại vị trí cách trung tâm 14,4mm = 16i => Vân sáng thứ 16\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một nguồn sáng S phát ra ánh sáng đơn sắc có bước sóngλ = 0,5μm, đến khe Yâng S1, S2 với S1S2 = 0,5mm. Mặt phẳng chứa S1S2 cách màn D = 1m. Tại M trên màn E cách vân trung tâm một khoảng x = 3,5mm ℓà vân sáng hay vân tối, bậc mấy?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vân sáng bậc 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Vân tối thứ 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vân sáng bậc 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Vân tối thứ 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Khoảng vâni=λDa=0,5.10−6.10,5.10−3=10−3m=1mm\n+ Tại M: x = 3,5mm = 3,5i = (3 + 0,5) i\n=> Tại M là vân tối bậc 4\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một nguồn sáng S phát ra ánh sáng đơn sắc có bước sóngλ= 0,5 μm, đến khe Yâng S1, S2 với S1S2 = 0,5mm. Mặt phẳng chứa S1S2 cách màn D = 1m. Chiều rộng vùng giao thoa quan sát được L = 13mm. Tìm số vân sáng và vân tối quan sát được?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13 sáng, 14 tối",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.11 sáng, 12 tối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12 sáng, 13 tối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10 sáng, 11 tối",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Bước 1:\nTa có:\n+ Khoảng vân i:i=λDa=0,5.10−6.10,5.10−3=10−3m=1mm\n- Bước 2:\n+ Số vân sáng trên màn: NS=2L2i+1=13\n- Bước 3:\nTa có:  phần thập phân củaL2i=0,5= > Số vân tối trên màn: Nt = NS + 1 = 14\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong thì nghiệm Y-âng về giao thoa ánh sáng, nếu ta dùng ánh sáng đơn sắc màu vàng bước sóng 600nm thì đoạn MN (đối xứng hai bên vân sáng trung tâm) ta quan sát được 13 vân sáng. Trong đó tại M và N là  các vân sáng. Nếu ta dùng ánh sáng đơn sắc màu xanh có bước sóng 500nm thì trên MN ta quan sát được bao nhiêu vân sáng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.15",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.17",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhi sử dụng bức xạ màu vàng:MN=12i1=12λ1Da⇒xM=−xN=6λ1Da\nKhi sử dụng bức xạ màu xanh:\nxN=−xM≤ni2≤xM⇔−6λ1≤nλ2≤6λ1⇔−7,2≤n≤7,2\n  Có 15 giá trị của n nguyên  Có 15 vân sáng\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong thí nghiệm giao thoa sóng ánh sáng với khoảng cách giữa hai khe ℓà a = 1,5mm. Khoảng cách từ mặt phẳng chứa hai khe tới màn là D = 2m. Hai khe được chiếu sáng bởi ánh sáng đơn sắc có bước sóng λ= 0,48 μm. Vị trí vân sáng bậc hai trên màn ℓà:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.± 2,56 mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.± 1,32 mm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.± 1,28 mm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.± 0,63 mm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Khoảng vân i:i=λDa=0,48.10−6.21,5.10−3=0,64.10−3m=0,64mm\n+ Vị trí vân sáng bậc 2 trên màn ứng với k=±2là: xs2=±2i=±2.0,64=±1,28mm\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong thí nghiệm giao thoa sóng ánh sáng với hai khe Y-âng, ta có a = 0,5mm, D = 2,5m;λ=0,64 μm. Vị trí vân tối thứ ba kể từ vân sáng trung tâm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.±11,2mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.±6,4mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.±4,8mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.±8mm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Thí nghiệm giao thoa sóng ánh sáng với hai khe Yâng trong đó a = 0,3 mm, D = 1m, λ = 600nm. Khoảng cách giữa hai vân sáng bậc 2 và bậc 5 nằm cùng bên vân sáng trung tâm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6mm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.8mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5mm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nguồn S phát ánh sáng đơn sắc chiếu sáng hai khe Y-âng cách nhau 0,8mm. Khoảng cách từ mặt phẳng chứa hai khe tới màn ℓà 2,5m. Giữa hai vân sáng ở M và N trên màn cách nhau 22,5mm có 15 vân tối. với tốc độ ánh sáng ℓà c = 3.108 m/s thì tần số của ánh sáng do nguồn S phát ra ℓà",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.f = 5,12.1015",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.f = 6,25.1014",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.f = 8,5.1016Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.f = 2,68.1013 Hz.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng, người ta dùng ánh sáng đơn sắc có bước sóng0,45μm, khoảng cách giữa hai khe là a = 0,45mm. Để trên màn tại vị trí cách vân trung tâm 2,5mm ta có vân sáng bậc 5 thì khoảng cách từ hai khe đến màn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,5m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,5m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa ánh sáng với ánh sáng đơn sắc có bước sóng 600(nm), khoảng vân đo được trên màn là 1(mm). Nếu dịch chuyển màn chứa hai khe theo phương vuông góc với màn một đoạn 20(cm) thì khoảng vân đo được là 1,2(mm). Khoảng cách giữa hai khe trong thí nghiệm này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,0 (mm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,2 (mm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,5 (mm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,6 (mm)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong thí nghiệm giao thoa Y-âng, khoảng cách hai khe là 0,5mm. Giao thoa thực hiện với ánh sáng đơn sắc có bước sóng thì tại điểm M cách vân sáng trung tâm 1 mm là vị trí vân sáng bậc 2. Nếu dịch màn xa thêm một đoạn 50/3 cm theo phương vuông góc với mặt phẳng hai khe thì tại M là vị trí vân tối thứ 2. Bước sóng ánh sáng dùng trong thí nghiệm bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,4 µm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,5 µm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0,6 µm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,64 µm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

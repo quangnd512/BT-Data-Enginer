@@ -1,0 +1,540 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/gioi-han-cua-ham-so-1/95119/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hàm số y=fx có giới hạn L khi x→x0  kí hiệu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→+∞fx=L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limx→−∞fx=L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→x0fx=L",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.limx→Lfx=x0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHàm số y=fx có giới hạn là số L khi x dần tới x0 kí hiệu là limx→x0fx=L\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Giá trị của giới hạn limx→39x2−x2x−1x4−3 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.15",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→39x2−x2x−1x4−3\n=9.32−32.3−134−3=15=55\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Giả sử limx→x0fx=L,limx→x0gx=M khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→x0fx+gx=L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limx→x0fx+gx=M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→x0fx+gx=L-M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→x0fx+gx=M+L",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nGiả sử limx→x0fx=L,limx→x0gx=M Khi đó: limx→x0fx+gx=L+M\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Giá trị của giới hạn limx→3x2−4 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→3x2−4=32−4=1\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Số L là giới hạn phải của hàm số y=f(x) kí hiệu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→x0+fx=L",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.limx→x0−fx=L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→+∞fx=L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→−∞fx=L",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSố L là: + giới hạn bên phải của hàm số y=fx kí hiệu là limx→x0+fx=L\n  + giới hạn bên trái của hàm số y=fx kí hiệu là limx→x0−fx=L\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Giá trị của giới hạn limx→−∞x−x3+1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.+∞",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→−∞x−x3+1=limx→−∞x31x2−1+1x3=+∞\nlimx→−∞x3=−∞limx→−∞(1x2−1+1x3)=−1<0\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hàm số y=fx  có limx→x0fx=L. Chọn đáp án đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→x0+fx=L",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.limx→x0+fx=−L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→x0−fx=−L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→x0+fx=−limx→x0−fx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Kết quả của giới hạn limx→2+x−15x−2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−152",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Chọn đáp án đúng: Với c,k là các hằng số và k nguyên dương thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→−∞c=c",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.limx→+∞cxk=+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→−∞xk=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→+∞xk=−∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→+∞fx=+∞⇔limx→+∞−fx=+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limx→+∞fx=+∞⇔limx→+∞−fx=−∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.limx→+∞fx=+∞⇔limx→−∞−fx=−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→+∞fx=−∞⇔limx→+∞−fx=−∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Giá trị của giới hạn limx→+∞x2+1+xlà:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho n=2k+1,k∈N. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→+∞xn=−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limx→±∞xn=+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→−∞xn=−∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.limx→−∞xn=+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hàm số fx=2x1−xkhi x<13x2+1 khi x≥1. Khi đó limx→1+fx là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Khẳng định nào sau đây Sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→+∞x2+12x2+1=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limx→−∞x2+3x−1=−∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.limx→+∞x+12x+1=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→−∞x+32x+1=12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho đa thức f(x) thỏa mãn fx−2x−1=12. Tính limx→1fx−2x2−1fx+1",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Biết limx→+∞4x2−3x+1−ax+b=0 . Tính a−4b ta được",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho các số thực a, b, c thỏa mãn c2+a=18c2+a=18 và lim⏟x→+∞(ax2+bx−cx)=−2. Tính P=a+b+5c.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.P=18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.P=12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.P=9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.P=5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho limx→−∞x2+ax+5+x=5 thì giá trị của a là một nghiệm của phương trình nào trong các phương trình sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x2−11x+10=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.x2−5x+6=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.x2−8x+15=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.x2+9x−10=0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm giới hạn I=limx→+∞x+1−x2−x+2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.I=4631",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.I=1711",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.I=32",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho limx→1x2+ax+bx2−1=−12 a,b∈ℝ. Tổng S=a2+b2  bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.S=13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.S=9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.S=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho f(x) là đa thức thỏa mãn lim⏟x→2f(x)−20x−2=10. Tính T=limx→26fx+53−5x2+x−6",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.T=1225",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.T=425",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.T=415",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.T=625",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho limx→0xx+17.x+4−2=ab (ablà phân số tối giản). Tính tổng L=a+b.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.L=43",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.L=23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.L=13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.L=53",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho dãy số (un) xác định bởi u1=0 và un+1=un+4n+3, ∀n≥1 Biết limun+u4n+u42n+...+u42018nun+u2n+u22n+...+u22018n=a2019+bcvới a, b, c là các số nguyên dương và b<2019. Tính giá trị S=a+b−c.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.S=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.S=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.S=2017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=2018",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Biết limx→1x2+x+2−7x+132x−1=a2b+c với a, b, c ∈ℤ  và ab là phân số tối giản. Giá trị của a+b+c bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.37",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.51",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

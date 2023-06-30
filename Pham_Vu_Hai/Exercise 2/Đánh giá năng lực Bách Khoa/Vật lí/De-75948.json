@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dong-dien-khong-doi/75948/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đơn vị của cường độ dòng điện, suất điện động, điện lượng lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. vôn (V), ampe (A), ampe (A)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ampe (A), vôn (V), cu lông (C)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. niutơn (N), fara (F), vôn (V)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. fara (F), vôn/mét (V/m), jun (J)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có :  Đơn vị của :+ Cường độ dòng điện là :  Ampe (A)+ Suất điện động là : Vôn (V)+ Điện lượng : Culông (C)Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trên một cục Pin do công ty cổ phần Pin Hà Nội sản xuất có ghi các thông số: PIN R20C – D SIZE – UM1 – 1,5V như hình vẽ. Thông số 1,5(V) cho ta biết:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.  hiệu điện thế giữa hai cực của pin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.  điện trở trong của pin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. suất điện động của pin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. dòng điện mà pin có thể tạo ra.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trên cục pin có ghi: PIN R20C – D SIZE – UM1 – 1,5V⇒⇒ Thông số 1,5V cho ta biết suất điện động của pin.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tác dụng đặc trưng nhất của dòng điện là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tác dụng nhiệt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tác dụng hóa học",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tác dụng từ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tác dụng cơ học",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Tác dụng đặc trưng nhất của dòng điện là tác dụng từĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Dòng điện không đổi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dòng điện có chiều không thay đổi theo thời gian",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dòng điện có cường độ không thay đổi theo thời gian",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dòng điện có điện lượng chuyển qua tiết diện thẳng của dây không đổi theo thời gian",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dòng điện có chiều và cường độ không thay đổi theo thời gian",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dòng điện không đổi là dòng điện có chiều và cường độ không thay đổi theo thời gian.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Suất điện động của nguồn điện định nghĩa là đại lượng đo bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. công của lực lạ tác dụng lên điện tích q dương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thương số giữa công và lực lạ tác dụng lên điện tích q dương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.thương số của lực lạ tác dụng lên điện tích q dương và độ lớn điện tích ấy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. thương số công của lực lạ dịch chuyển điện tích q dương trong nguồn từ cực âm đến cực dương với điện tích đó",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Suất điện động nguồn điện: Là đại lượng đặc trưng cho khả năng thực hiện công của nguồn điện.Công thức: \\[E = \\frac{A}{q}\\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong thời gian 30 giây có một điện lượng 60C chuyển qua tiết diện của dây. Số electron chuyển qua tiết điện trong thời gian 2 giây là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4.1019 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2,5.1019 electron",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1,6.1019 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,25.1019 electron",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:- Cường độ dòng điện:\\[I = \\frac{{\\Delta q}}{{\\Delta t}} = 2A\\]- Điện lượng chuyển qua tiết diện trong thời gian 2 giây:Δq = I.t  =  2.2  =  4C- Số elcetron chuyển qua dây dẫn là: \\[n = \\frac{{I.t}}{{\\left| e \\right|}} = 2,{5.10^{19}}\\,electron\\]Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Số electron qua tiết diện thẳng của một dây dẫn kim loại trong 1 giây là 1,25.1019. Điện lượng chạy qua tiết diện đó trong 2 phút là ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 120C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 240C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 8C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cường độ dòng điện không đổi chạy qua dây tóc của bóng đèn là 0,64A. Điện lượng  và số electron dịch chuyển qua tiết diện thẳng của dây tóc trong thời gian 11 phút.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,64C và 4.1018 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 120C và 24.1019 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 38,4C và 24.1019 electron",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 64C và 12.1019 electron",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Khi dòng điện chạy qua đoạn mạch ngoài nối giữa hai cực của nguồn điện thì các hạt mang điện chuyển động có hướng dưới tác dụng của lực:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu - long",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hấp dẫn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lực lạ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. điện trường",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Chọn một đáp án sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cường độ dòng điện đo bằng ampe kế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. để đo cường độ dòng điện phải mắc nối tiếp ampe kế với mạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dòng điện qua ampe kế đi vào chốt dương, đi ra chốt âm của ampe kế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dòng điện qua ampe kế đi vào chốt âm, đi ra chốt dương của ampe kế",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một bộ acquy có suất điện động 6 V, sản ra một công là 360 J khi acquy này phát điện.  Lượng điện tích dịch chuyển trong acquy.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 60C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 30C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 24C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một nguồn điện có suất điện động là E đang cung cấp năng lượng cho mạch ngoài là một bộ bóng đèn. Biết tổng điện lượng di chuyển qua bộ bóng đèn trong thời gian t là q thì công của nguồn điện sinh ra trong thời gian t này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A = q2Et",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A = qE",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. A = q2E",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A = qEt",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

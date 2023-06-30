@@ -1,0 +1,580 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cau-tuong-thuat/73728/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Choose the best sentence which has the same meaning as the original one.She said to her mother, “I am reading now.”",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. She told her mother that I was reading now.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. She told her mother that she was reading then.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. She told her mother that she was reading now.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. She told her mother that she is reading then.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác bước biến đổi:- chuyển thì hiện tại tiếp diễn ở câu trực tiếp thành thì quá khứ tiếp diễn ở câu gián tiếp- chuyển đại từ I =>she- now =>then- giữ nguyên các thành phần khác trong câu chủ động=>She told her mother that she was reading then.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "I am not sure ............ food tablets might supply enough energy for astronauts or not.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. what",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. why",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. how",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. if",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa nhận thấy ở cuối câu gián tiếp có cụm “or not” (có hay không) mang ý nghĩa nghi vấn nên câu trực tiếp phải là một câu hỏi nghi vấn Yes/ No\nCấu trúc:  S+ asked + O + if / whether + S + V.\n=>I am not sure if food tablets might supply enough energy for astronauts or not.\nTạm dịch: Tôi không chắc liệu viên nén thức ăn có thể cung cấp đủ năng lượng cho các phi hành gia hay không.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "He said, “I will clean the car tomorrow.”",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. He said that I would clean the car tommorrow.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. He said that he would clean the car the previous day.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. He said that he would clean the car tomorrow.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. He said that he would clean the car the next day.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác bước biến đổi:\n- chuyển động từ khuyết thiếu “will” hiện tại đơn ở câu trực tiếp thành “would” ở câu gián tiếp\n- tomorrow =>the next day\n- I =>he\n- giữ nguyên các thành phần khác trong câu chủ động\n=>He said that he would clean the car the next day.\nTạm dịch: Anh nói rằng anh sẽ dọn xe vào ngày hôm sau.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "\"Give me your wallet or I will kill you,\" he said to me.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. He threatened to kill me if I didn't give him my wallet.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. He promised to kill me if I didn't give him my wallet.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. He ordered to kill me if I wouldn't give him my wallet.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. If I don't give him my wallet, I will kill me.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nthreatened: đe dọapromised: hứaordered: ra lệnhTa thấy câu trực tiếp mang nghĩa đe dọa nên phải dùng động từ tường thuật threatenedCấu trúc: S + threatened O (not) to V...=>He threatened to kill me if I didn't give him my wallet.Tạm dịch:Anh ta dọa giết tôi nếu tôi không đưa ví cho anh ta.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "\"Go on, Mike! Apply for the job,\" the father said.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. The father encouraged Mike to apply for the job.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. The father denied applying for the job.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. The father invited Mike to apply for the job.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. The father forced Mike to apply for the job.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nencouraged: khuyến khích, khích lệ \ndenied: từ chối \ninvited: mời \nforced: ép, bắt buộc\nTa thấy câu trực tiếp mang nghĩa động viên khích lệ nên động từ tường thuật phù hợp là “encourage”\nCấu trúc: S + encourage + O (not) to V\n=>The father encouraged Mike to apply for the job.\nTạm dịch: Người cha khuyến khích Mike nộp đơn xin việc.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "“I went to see him yesterday”, she said.\n=>She said she ______ to him the day before.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. goes",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. had gone",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. went",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. has gone",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐộng từ chuyển tiếp “said” ở thì quá khứ nên động từ trong câu trực tiếp ở thì quá khứ đơn phải lùi về quá khứ hoàn thành.\nĐại từ nhân xưng “I” ở câu trực tiếp phải đổi theo chủ ngữ của câu gián tiếp “she”.\nTrạng từ “yesterday” đổi thành “the day before”\nCông thức: S + said + S + had +Ved/V3\nTạm dịch: Cô ấy nói “ Tôi đi đến để gặp anh ấy ngày hôm qua”.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Thu said all students _______ a meeting the following week.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. would have",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. will have had",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. will have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. would have had",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "He asked me ______ that film.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. have I ever seen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. whether I have ever seen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I had ever seen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. if I had ever seen",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "My friend said to me, “Will you present about Mars tomorrow?” (whether)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. My friend asked me would I present about Mars the next day.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. My friend asked me whether I would present about Mars the next day.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. My friend asked me whether I would present about Mars today.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. My friend asked me whether I will present about Mars the next day.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Put the following sentences into reported speech.“Why aren’t you curious about what an alien looks like?”, Ly asked me.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ly asked me why I wasn’t curious about what an alien look like.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ly asked me why I am not curious about what an alien looks like.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ly asked me why I wasn’t curious about what an alien looked like.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ly asked me whether I wasn’t curious about what an alien looked like.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "“I have just received a postcard from my aunt,” my best friend said to me.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. My friend told me that he had just received a postcard from my aunt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. My friend told me that he had just received a postcard from his aunt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. My friend said me that he had just received a postcard from his aunt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. My friend told me that I had just received a postcard from my aunt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "The teacher asked us what the essential conditions for human life ..................",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. is",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. are",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. was",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. were",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "“You had better go to bed early”, she said.\n=>She advised me _______ early.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. not to go to bed",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. had better go to bed",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. to go to bed",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. go to bed",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "\"If  I were you, I would kept silent”, he said to me.\n=>He advised me __________.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. keeping silent",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. keep silent",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. kept silent",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. to keep silent",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "“You damaged my laptop, Tom!” said John.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. John accused with Tom to have damaged his laptop.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. John accused Tom of damaging his laptop.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. John accused Tom to damage his laptop.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. John accused to Tom for damaging his laptop.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "He asked me _______ swim.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I can",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. could I",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I could",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. if I could",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "\"John, don’t forget to buy some milk.\"",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. He reminded John to buy some milk.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. He ordered John to buy some milk.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. He asked John to buy some milk.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. He advised John to buy some milk.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "“If the weather is fine, I will go on a picnic with my friends,” she said.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. She said that if the weather was fine, she would go on a picnic with her friends.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I said that if the weather was fine, she would go on a picnic with her friends.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. She asked that if the weather was fine, she would go on a picnic with her friends.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. She said if the weather was fine, I would go on a picnic with my friends.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Our teacher asked if we understood the lesson about planets in solar system that day.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \"Do you understand the lesson about planets in solar system?\", our teacher asked.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \"Do you understand the lesson about planets in solar system that day?\", our teacher asked.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \"Do you understand the lesson about planets in solar system today?\", our teacher asked.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \"Did you understand the lesson about planets in solar system today?\", our teacher asked.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "He wondered _______ there the next day.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. if would he be",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. whether would he be",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. whether he would be",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. he would be",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "“I don’t want to meet him again”, she said.\n=>She said she _______ to meet him again",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. will not want",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. didn’t want",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. doesn’t want",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hadn’t wanted",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "We complained ____ the manager ____ the pressure working environment.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. on - about",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. at - for",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. with - of",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. to – about",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "She asked us if we had had any space exploration.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \"Have you had any space exploration?\", she asked.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \"Have you made any space exploration?\", she asked.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \"Did you had any space exploration?\", she asked.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \"Did you have any space exploration?\", she asked.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "“ It’s really nice of you to help me”, Peter said to Jack.\n=>Peter thanked Jack_______ .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. to help him",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. helping him",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. for helping him",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. help him",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "The teacher asked, \"Who speaks English?\"\n=>The teacher wanted to know_________.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. who speak English",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. who spoke English",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. who did speak English",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. to speak English",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

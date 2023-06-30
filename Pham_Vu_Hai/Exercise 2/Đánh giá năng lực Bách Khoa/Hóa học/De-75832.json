@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/peptide/75832/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Thuốc thử được dùng để phân biệt Gly – Ala – Gly với Gly – Ala là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu(OH)2 trong môi trường kiềm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dung dịch NaCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dung dịch HCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dung dịch NaOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Gly-Ala-Gly là tripepit → có phản ứng màu biureGly-Ala là đipepit → không có phản ứng màu biure→ dùng Cu(OH)2 trong môi trường kiềm để nhận biết 2 dung dịch trênĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Để phân biệt các dd glucozơ, glixerol, anđehit axetic, ancol etylic và Gly-Gly-Gly ta dùng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AgNO3/NH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cu(OH)2/OH-",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. HNO3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời: GlucozơGlixerolAnđehit axeticAncol etylicGly-Gly-GlyCu(OH)2/OH- (to thường)Dung dịch xanhDung dịch xanhKhông hiện tượngKhông hiện tượngPhức màu tímCu(OH)2/OH- (đun nóng)Tạo kết tủa đỏ gạchKhông hiện tượngTạo kết tủa đỏ gạchKhông hiện tượng Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Phát biểu nào sau đây là sai",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tripeptit Gly-Ala-Gly có phản ứng màu biure.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trong phân tử đipeptit mạch hở có hai liên kết peptit.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Oligopeptit được tạo thành từ các gốc α-amino axit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các peptit đều có khả năng tham gia phản ứng thủy phân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B sai vì đipeptit mạch hở được tạo ra từ 2 α-amino axit, liên kết với nhau bằng 1 liên kết peptit.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Số đipeptit tối đa có thể tạo ra từ một hỗn hợp gồm alanin, valin là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các đipeptit tạo ra  làAla-Ala; Val-Val; Ala-Val; Val-AlaĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dùng Cu(OH)2/OH- sẽ phân biệt được?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gly – Ala với Gly – Ala.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ala – Ala – Ala với Gly – Gly",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Gly – Ala – Gly với Ala – Ala-Ala",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Gly – Gly với Gly – Ala",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Đipeptit đều không có phản ứng màu biure với Cu(OH)2/OH-  nên không phân biệt được =>Loại A và DTripeptit đều có phản ứng màu biure với Cu(OH)2/OH-  nên không phân biệt được =>Loại CĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Để phân biệt các dd glucozơ, glixerol, Ala-Gly và Gly-Gly-Gly ta dùng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nước Brom",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu(OH)2/OH-",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Qùy tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AgNO3/NH3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho các phát biểu nào sau đây là sai1, Tất cả các peptit đều có khả năng tham gia phản ứng thủy phân .2, Trong phân tử tripeptit mạch hở có hai liên kết peptit.3, Oligopeptit được tạo thành từ các gốc α- và β-amino axit.4, Tripeptit Gly-Gly- Ala có phản ứng màu biure.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ba dung dịch: Metylamin (CH3NH2), glyxin (Gly) và alanylglyxin (Ala - Gly) đều phản ứng được với",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dung dịch NaNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. dung dịch NaCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dung dịch NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dung dịch HCl",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Aminoaxit X phân tử có một nhóm amino và một nhóm cacboxylic chứa 15,73%N về khối lượng. X tạo Octapeptit Y, Y có phân tử khối là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 600",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 586",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 474",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 712",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Thủy phân hoàn toàn 1 mol peptit mạch hở X, thu được 2 mol Gly, 2 mol Ala và 1 mol Val. Mặt khác, thủy phân không hoàn toàn X, thu được hỗn hợp các amino axit và các peptit (trong đó có Gly-Ala-Val) nhưng không thu được peptit Gly-Gly. Số công thức cấu tạo phù hợp với tính chất của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Thủy phân hoàn toàn H2N-CH2-CO-NH-CH(CH3)-CO-NH-CH(CH3)-CO-NH-CH2-COOH thu được bao nhiêu loại α-amino axit khác nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Thủy phân không hoàn toàn pentapeptit mạch hở Gly-Ala-Ala-Gly-Val có thể thu được tối đa bao nhiêu loại đipeptit?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Thủy phân hoàn toàn 1 mol peptit mạch hở X thì thu được 1 mol glyxin, 2 mol alanin và 2 mol valin. Trong sản phẩm của phản ứng thủy phân không hoàn toàn X có Gly-Ala-Val. Amino axit đầu C của X là valin. Số công thức cấu tạo của X thỏa mãn dữ kiện trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

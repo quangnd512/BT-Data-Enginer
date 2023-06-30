@@ -1,0 +1,695 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/vat-lieu-polymer/75838/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cao su sống (hay cao su thô) là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cao su thiên nhiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cao su chưa lưu hoá",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cao su tổng hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cao su lưu hoá",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cao su sống là cao su chưa lưu hóaĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hợp chất đầu và các hợp chất trung gian trong quá trình điều chế ra cao su Buna (1) là : etilen (2), metan (3), rượu etylic (4), đivinyl (5), axetilen (6). Sự sắp xếp các chất theo đúng thứ tự xảy ra trong quá trình điều chế là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3→6→2→4→5→13→6→2→4→5→1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6→4→2→5→3→16→4→2→5→3→1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2→6→3→4→5→12→6→3→4→5→1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4→6→3→2→5→14→6→3→2→5→1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sơ đồ điều chế cao su Buna là : đi từ khí metan có sẵn trong tự nhiên\\[C{H_4}\\mathop  \\to \\limits_{lam\\,lanh\\,nhanh}^{t^\\circ ,xt,p} {C_2}{H_2}\\mathop  \\to \\limits_{Pb/PbC{O_3}}^{ + {H_2}} {C_2}{H_4}\\mathop  \\to \\limits^{ + {H_2}O} {C_2}{H_5}OH\\]\\[\\mathop  \\to \\limits_{cao\\,su\\,buna}^{} C{H_2} = CH - CH = C{H_2} \\to \\]Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Sơ đồ điều chế PVC trong công nghiệp hiện nay là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{C_2}{H_6}\\mathop  \\to \\limits^{C{l_2}} {C_2}{H_5}Cl\\mathop  \\to \\limits^{ - HCl} {C_2}{H_3}Cl\\mathop  \\to \\limits^{t^\\circ ,p,xt} PVC\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{C_2}{H_4}\\mathop  \\to \\limits^{C{l_2}} {C_2}{H_3}Cl\\mathop  \\to \\limits^{t^\\circ ,p,xt} PVC\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[C{H_4}\\mathop  \\to \\limits^{1500^\\circ C} {C_2}{H_2}\\mathop  \\to \\limits^{ + HCl} {C_2}{H_3}Cl\\mathop  \\to \\limits^{t^\\circ ,p,xt} PVC\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{C_2}{H_4}\\mathop  \\to \\limits^{C{l_2}} {C_2}{H_4}C{l_2}\\mathop  \\to \\limits^{ - HCl} {C_2}{H_3}Cl\\mathop  \\to \\limits^{t^\\circ ,p,xt} PVC\\]",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sơ đồ điều chế đúng là : \\[{C_2}{H_4}\\mathop  \\to \\limits^{C{l_2}} {C_2}{H_4}C{l_2}\\mathop  \\to \\limits^{ - HCl} {C_2}{H_3}Cl\\mathop  \\to \\limits^{t^\\circ ,p,xt} PVC\\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho sơ đồ phản ứng :\n\\[Xenlulozo\\mathop \\to \\limits_{{H^ + }}^{ + {H_2}O} A\\mathop \\to \\limits^{men} B\\mathop \\to \\limits_{500^\\circ C}^{ZnO,MgO} D\\mathop \\to \\limits_{}^{t^\\circ ,p,xt} E\\]\nChất E trong sơ đồ phản ứng trên là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cao su Buna",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Buta-1,3-đien",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Axit axetic",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Polietilen",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có sơ đồ phản ứng:\n\\[Xenlulozo\\mathop \\to \\limits_{{H^ + }}^{ + {H_2}O} {C_6}{H_{12}}{O_6}\\mathop \\to \\limits^{men} {C_2}{H_5}OH\\mathop \\to \\limits_{500^\\circ C}^{ZnO,MgO} C{H_2} = CH - CH = C{H_2}\\mathop \\to \\limits_{}^{t^\\circ ,p,xt} \\]cao su Buna\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Polime X có công thức (–NH–[CH2]5–CO–)n. Phát biểu nào sau đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X chỉ được tạo ra từ phản ứng trùng ngưng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. X có thể kéo sợi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. X thuộc loại poliamit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. % khối lượng C trong X không thay đổi với mọi giá trị của n",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A sai vì X là tơ nilon-6 có thể điều chế bằng phản ứng trùng hợp caprolactamB đúng vì X là tơ nilon-6C đúng vì có liên kết CO-NHD đúng vì công thức tính % khối lượng C là\\[\\% {m_C} = \\frac{{12.5n}}{{113n}}.100\\%  = 53,1\\% \\]Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong số các loại tơ sau : tơ tằm, tơ visco, tơ nilon- 6,6, tơ axetat, tơ capron, tơ enang, những loại tơ nào thuộc loại tơ nhân tạo?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ tằm và tơ enang",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tơ visco và tơ nilon-6,6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ nilon-6,6 và tơ capron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tơ visco và tơ axetat",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTơ nhân tạo là những tơ lấy polime thiên nhiên chế và chế hóa thành polime mới\nTơ visco và tơ axetat có nguồn gốc từ xenlulozơ =>là tơ nhân tạo\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Không nên ủi (là) quá nóng quần áo bằng nilon, len, tơ tằm, vì :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Len, tơ tằm, tơ nilon không thể là phẳng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Len, tơ tằm, tơ nilon có các nhóm (–CO–NH–) trong phân tử kém bền với nhiệt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Len, tơ tằm, tơ nilon mềm mại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Len, tơ tằm, tơ nilon là những sợi thấm nước",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Để phân biệt da thật và da giả làm bằng PVC, người ta thường dùng phương pháp đơn giản là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đốt thử",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thuỷ phân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ngửi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cắt",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho dãy các tơ sau: xenlulozo axetat, capron, nitron, visco, nilon -6, nilon -6,6. Số tơ trong dãy thuộc loại tơ poliamit là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho các sơ đồ phản ứng sau:\nX (C8H14O4) + 2NaOH \\[\\mathop \\to \\limits^{t^\\circ } \\] X1 + X2 + H2O\nX1 + H2SO4 → X3 + Na2SO4\nnX5 + nX3 \\[\\mathop \\to \\limits^{t^\\circ ,xt} \\]poli(hexametylen adipamit) + 2nH2O\n2X2 + X3 ⇄H2SO4dac,t° X6 + 2H2O\nPhân tử khối của X6 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 194",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 136",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 202",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 184",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Các sơ đồ phản ứng theo đúng tỉ lệ mol:\n(a) X + 2NaOH \\[\\mathop \\to \\limits^{t^\\circ } \\]X1 + 2X2\n(b) X1 + H2SO4 → X3 + Na2SO4\n(c) nX3 + nX4 \\[\\mathop \\to \\limits^{t^\\circ ,xt} \\]poli(etylenterephtalat) + 2nH2O\n(d) X2 + CO \\[\\mathop \\to \\limits^{t^\\circ ,xt} \\]X5\n(e) X4 + 2X5 ⇄H2SO4dac,t°X6 + 2H2O\nCho biết X là este có công thức phân tửu C10H10O4; X1, X2, X3, X4, X5, X6 là các hợp chất hữu cơ khác nhau. Phân tử khối của X6 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 146.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 118.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 104.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 132.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Polime nào sau đây điều chế bằng phản ứng trùng ngưng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Poli(etylen terephtalat)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Polistiren",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Poli acrilonitrin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Poli(metyl metacrylat)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho các polime: poli(vinyl clorua), xenlulozo, policaproamit, polistiren, xenlulozo trinitrat, nilon – 6,6. Số polime tổng hợp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Polivinylclorua (PVC) được điều chế từ phản ứng trùng hợp chất nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH2=CCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH2=CHCl.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CH2=CHCl-CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3-CH2Cl.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Nhóm các vật liệu được chế tạo từ polime trùng ngưng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cao su, tơ tằm, tơ lapsan.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thủy tinh plexiglas, nilon-6,6, tơ nitron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nilon-6,6, nilon-6, tơ lapsan.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tơ visco, nilon-6, nilon-6,6.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Polime nào sau đây thuộc polime bán tổng hợp?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tinh bột.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tơ tằm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ axetat.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Polietilen.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Loại tơ nào thường dùng để dệt vải, may quần áo ấm hoặc bện thành sợi len đan áo rét?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nitron.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tơ capron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ nilon - 6,6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tơ lapsan.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Loại tơ nào thường dùng để dệt vải, may quần áo ấm hoặc bện thành sợi len đan áo rét?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nitron.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tơ capron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ nilon - 6,6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tơ lapsan.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Polime thiên nhiên X được sinh ra trong quá trình quang hợp của cây xanh. Ở nhiệt độ thường, X tạo với dung dịch iot hợp chất có màu xanh tím. Polime X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tinh bột.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. xenlulozơ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. glixcogen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. saccarozơ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các loại tơ: Tơ capron (1); tơ tằm (2); tơ nilon-6,6 (3); tơ axetat (4); tơ clorin (5); sợi bông (6); tơ visco (7); tơ enang (8); tơ lapsan (9). Có bao nhiêu loại tơ không có nhóm amit?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Polime X là chất rắn trong suốt, có khả năng cho ánh sáng truyền qua tốt nên được dùng chế tạo thủy tinh hữu cơ plexiglas. Tên gọi của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. poli(vinyl clorua).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. polietilen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. poli(metyl metacrylat).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. poliacrilonitrin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Công thức của polime nào sau đây là phù hợp nhất được sử dụng để sản xuất túi đựng nilon?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (-CH2-CHCl-)n",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (-CH2-CH2-)n",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (-CH(CH3)-CH2-)n",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (C6H10O5)n",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Phát biểu nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nilon-6,6 được điều chế bằng phản ứng trùng ngưng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cao su lưu hóa có cấu trúc mạng không gian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ tằm thuộc loại tơ thiên nhiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tơ visco thuộc loại tơ thiên nhiên.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sợi bông, tơ tằm thuộc loại polime thiên nhiên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tơ visco, tơ xenlulozơ axetat đều thuộc loại tơ tổng hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ nilon-6,6 được điều chế từ hexametylenđiamin và axit axetic",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Polietilen và poli(vinyl clorua) là sản phẩm của phản ứng trùng ngưng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho các nhận định sau:(1) Chất dẻo là vật liệu polime có tính dẻo.(2) Tơ được chia làm 2 loại: tơ nhân tạo và tơ tổng hợp.(3) Polietilen có cấu trúc phân nhánh.(4) Tơ poliamit kém bền trong môi trường kiềm.(5) Cao su là vật liệu polime có tính đàn hồi.(6) Tơ nitron thuộc loại tơ vinylic.Số nhận định đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Polime nào sau đây trong thành phần hóa học chỉ có hai nguyên tố C và H?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Poli(metyl metacrylat)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Poli(vinyl clorua)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Poliacrilonitrin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Polistiren",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho các loại tơ sau: tơ capron, tơ nilon-6, tơ axetat, tơ tằm, tơ visco, tơ nitron. Số chất thuộc loại tơ tổng hợp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Tơ nào sau đây thuộc loại tơ bán tổng hợp?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nilon-6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tơ tằm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ visco.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Bông.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Trong các polime sau: tơ tằm, sợi bông, tơ nilon-7, tơ visco, tơ nilon-6,6, tơ axetat. Loại tơ có nguồn gốc xenlulozơ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sợi bông, tơ axetat, tơ visco",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.tơ viso, tơ axetat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tơ tằm, sợi bông, tơ axetat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sợi bông, tơ nilon-6,6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho các loại polime sau: poli(vinyl clorua), xenlulozơ, tơ axetat, tơ capron và nilon-6. Số polime thuộc loại poliamit là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

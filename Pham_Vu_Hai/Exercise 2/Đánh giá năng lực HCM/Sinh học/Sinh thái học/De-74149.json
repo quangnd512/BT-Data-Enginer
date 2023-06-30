@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/he-sinh-thai1/74149/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đơn vị sinh thái nào sau đây bao gồm cả nhân tố vô sinh và nhân tố hữu sinh?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quần xã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hệ sinh thái.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cá thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐơn vị bao gồm cả nhân tố vô sinh và nhân tố hữu sinh là hệ sinh thái.Trong đó nhân tố vô sinh là môi trường vật lý (sinh cảnh) và nhân tố hữu sinh là quần xã sinh vật (gồm sinh vật sản xuất, sinh vật tiêu thụ và sinh vật phân giải)Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Khi nói về thành phần hữu sinh của hệ sinh thái, phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thực vật là nhóm sinh vật duy nhất có khả năng tổng hợp chất hữu cơ từ chất vô cơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tất cả các loài vi khuẩn đều là sinh vật phân giải, chúng có vai trò phân giải các chất hữu cơ thành các chất vô cơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sinh vật tiêu thụ gồm các động vật ăn thực vật, động vật ăn động vật và các vi khuẩn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nấm là một nhóm sinh vật có khả năng phân giải các chất hữu cơ thành chất vô cơ",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhát biểu đúng là: D: nấm là sinh vật dị dưỡng hấp thụA sai vì: một số động vật nguyên sinh, vi khuẩn cũng có khả năng tổng hợp chất hữu cơ từ chất vô cơ.B sai vì: một số vi sinh vật còn là sinh vật sản xuất. (vi sinh vật tự dưỡng)C sai vì: sinh vật tiêu thụ gồm động vật ăn thực vật và động vật ăn động vậtĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Xét các sinh vật sau:1. Nấm rơm. 2. Nấm linh chi. 3. Vi khuẩn hoại sinh.4. Rêu bám trên cây. 5. Dương xỉ. 6. Vi khuẩn lam.Có mấy loài thuộc nhóm sinh vật sản xuất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác loài thuộc nhóm sinh vật sản xuất: (4), (5), (6).Những sinh vật này có khả năng tổng hợp chất hữu cơ.(1), (2), (3) là các sinh vật phân giải.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Hệ sinh thái nhân tạo:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không được con người bổ sung thêm nguồn năng lượng và vật chất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Không trao đổi vật chất và năng lượng với môi trường bên ngoài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có thành phần loài ít, có năng suất sinh học cao.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có năng suất sinh học thấp hơn nhiều so với hệ sinh thái tự nhiên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHệ sinh thái nhân tạo có thành phần loài ít, có năng suất sinh học cao.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khi nói về hệ sinh thái nông nghiệp, kết luận nào sau đây sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hình thành do hoạt động của các quy luật tự nhiên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đa dạng sinh học thấp, chuỗi thức ăn ít bậc dinh dưỡng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có năng suất sinh học cao",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sinh vật dễ bị dịch bệnh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhát biểu sai là A. hệ sinh thái nông nghiệp do con người tạo nên.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Thành phần hữu sinh của một hệ sinh thái bao gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. sinh vật sản xuất, sinh vật ăn thực vật, sinh vật phân giải",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sinh vật ăn thực vật, sinh vật ăn động vật, sinh vật phân giải",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sinh vật sản xuất, sinh vật ăn động vật, sinh vật phân giải",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nThành phần hữu sinh của hệ sinh thái bao gồm:1. Sinh vật sản xuất.2. Sinh vật tiêu thụ.3. Sinh vật phân hủy.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Sinh vật sản xuất là những sinh vật:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. phân giải vật chất (xác chết, chất thải) thành những chất vô cơ trả lại cho môi trường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. động vật ăn thực vật và động vật ăn động vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. có khả năng tự tổng hợp nên các chất hữu cơ để tự nuôi sống bản thân",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. chỉ gồm các sinh vật có khả năng hóa tổng hợp",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Các kiểu hệ sinh thái trên Trái Đất được phân chia theo nguồn gốc bao gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hệ sinh thái trên cạn và hệ sinh thái dưới nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hệ sinh thái tự nhiên và hệ sinh thái nhân tạo",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. hệ sinh thái nước mặn và hệ sinh thái nước ngọt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hệ sinh thái nước mặn và hệ sinh thái trên cạn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Hệ sinh thái nào dưới đây là hệ sinh thái nhân tạo?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồng ruộng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ao nuôi cá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Rừng trồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả ba hệ sinh thái trên",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Điểm giống nhau giữa hệ sinh thái tự nhiên và hệ sinh thái nhân tạo là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.có đặc điểm chung về thành phần cấu trúc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. có đặc điểm chung về thành phần loài trong hệ sinh thái",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. điều kiện môi trường vô sinh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tính ổn định của hệ sinh thái",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong hệ sinh thái ruộng lúa, sinh vật nào sau đây được xếp vào nhóm sinh vật sản xuất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cây lúa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Rắn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Châu chấu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giun đất.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Phát biểu nào sau đây là đúng khi nói về chuỗi thức ăn và lưới thức ăn trong quần xã sinh vật ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trong một quần xã sinh vật, mỗi loài chỉ có thể tham gia vào một chuỗi thức ăn nhất định",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trong một lưới thức ăn, một sinh vật tiêu thụ có thể được xếp vào nhiều bậc dinh dưỡng khác nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Trong một lưới thức ăn, mỗi bậc dinh dưỡng thường chỉ có một loài sinh vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quần xã càng đa dạng về thành phần loài, thì lưới thức ăn càng đơn giản.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong chuỗi thức ăn sau cỏ → dê→hổ→ vi sinh vật, hổ được xếp vào sinh vật tiêu thụ bậc mấy?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bậc 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bậc 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bậc 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Bậc 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Chuỗi thức ăn là ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Là một dãy gồm nhiều loài sinh vật có quan hệ dinh dưỡng với nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Là một dãy gồm nhiều loài sinh vật có cùng nơi ở với nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Là một dãy gồm nhiều loài sinh vật có cùng nguồn thức ăn với nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Là một dãy gồm nhiều loài sinh vật không cùng nguồn thức ăn với nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Sinh vật nào sau đây thuộc mắt xích mở đầu trong chuỗi thức ăn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Rắn hổ mang.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cây ngô.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ếch đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sâu ăn lá ngô.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Đề thi THPT QG – 2021, mã đề 206Chim mỏ đỏ bắt các con rận kí sinh trên lưng linh dương để ăn. Mối quan hệ giữa chim mỏ đỏ và linh dương thuộc quan hệ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. kí sinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hội sinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. hợp tác.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cạnh tranh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho các nhóm sinh vật trong một hệ sinh thái như sau:I. Thực vật nổi     II. Động vật nổi     III. Giun     IV. Cỏ     V. Cá trắm cỏCác nhóm sinh vật thuộc bậc dinh dưỡng cấp 1 của hệ sinh thái này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. II và III.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I và IV.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. III và IV.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. II và V.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

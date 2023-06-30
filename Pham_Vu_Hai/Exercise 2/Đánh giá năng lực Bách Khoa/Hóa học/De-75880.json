@@ -1,0 +1,741 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/aluminium-va-hop-chat-cua-aluminium/75880/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Vì sao những vật bằng nhôm hàng ngày tiếp xúc với nước dù ở nhiệt độ nào cũng không xảy ra phản ứng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nhôm là kim loại không tác dụng với nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Trên bề mặt vật được phủ một lớp nhôm oxit mỏng, bền, ngăn cách vật với nước",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Do nhôm tác dụng với nước tạo lớp nhôm hiđroxit không tan bảo vệ cho nhôm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhôm là kim loại hoạt động không mạnh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Những vật bằng nhôm hàng ngày tiếp xúc với nước dù ở nhiệt độ nào cũng không xảy ra phản ứng vì trên bề mặt vật được phủ một lớp nhôm oxit mỏng, bền, ngăn cách vật với nước.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phản ứng hoá học nào dưới đây không thuộc loại phản ứng nhiệt nhôm ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al tác dụng với Fe3O4 nung nóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al tác dụng với CuO nung nóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Al tác dụng với Fe2O3 nung nóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al tác dụng với axit H2SO4 đặc, nóng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Phản ứng nhiệt nhôm là cho nhôm khử các oxit của kim loại =>Phản ứng hoá học không thuộc loại phản ứng nhiệt nhôm là Al tác dụng với axit H2SO4 đặc, nóng.\\[8Al + 3F{e_3}{O_4}\\mathop  \\to \\limits^{t^\\circ } 4A{l_2}{O_3} + 9Fe\\]\\[2Al + 3CuO\\mathop  \\to \\limits^{t^\\circ } A{l_2}{O_3} + 3Cu\\]\\[2Al + F{e_2}{O_3}\\mathop  \\to \\limits^{t^\\circ } A{l_2}{O_3} + 2Fe\\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Để giữ cho các đồ vật làm từ kim loại nhôm được bền, đẹp thì cần phải :(1) Ngâm đồ vật trong nước xà phòng đặc, nóng, để làm sạch.(2) Không nên cho đồ vật tiếp xúc với dung dịch nước chanh, giấm ăn.(3) Dùng giấy nhám, chà trên bề mặt của vật, để vật được sạch và sáng.(4) Bảo vệ bề mặt của vật như nhà thiết kế, sản xuất ban đầu.Cách làm đúng là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 và 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1 và 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1 và 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2 và 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Để giữ cho các đồ vật làm từ kim loại nhôm được bền, đẹp thì cần phải :(2) Không nên cho đồ vật tiếp xúc với dung dịch nước chanh, giấm ăn vì nhôm tác dụng với axit.(4) Bảo vệ bề mặt của vật như nhà thiết kế, sản xuất ban đầu.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Phản ứng nhiệt nhôm (đun nóng oxit kim loại với Al ở nhiệt độ cao) dùng điều chế những kim loại nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al, Fe, Mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe, Cr, Cu",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Cu, Na, Zn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ca, Fe, Cu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Al khử được những oxit kim loại yếu hơn nóLoại A vì Mg mạnh hơn AlLoại C vì Na mạnh hơn AlLoại D vì Ca mạnh hơn AlĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hỗn hợp X gồm Fe3O4 và Al có tỉ lệ mol tương ứng 1 : 3. Thực hiện phản ứng nhiệt nhôm X (không có không khí) đến khi phản ứng xảy ra hoàn toàn thu được hỗn hợp gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al2O3 và Fe",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al, Fe và Al2O3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Al, Fe, Fe3O4 và Al2O3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al2O3, Fe và Fe3O4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:nFe3O4 = 1 mol =>nAl = 3 molPTHH:  3Fe3O4 + 8Al → 9Fe + 4Al2O3                1          →  8/3   → 3    → 4/3=>sau phản ứng Al còn dư, hỗn hợp thu được gồm Al, Fe, Al2O3Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong số các phản ứng cho sau đây có mấy phản ứng viết sai :\n1) 2Al + 3MgSO4 → Al2(SO4)3 + 3Mg.\n2) Al + 6HNO3 đặc, nguội → Al(NO3)3 + 3NO2 + 3H2O.\n3) 8Al + 5NaOH + 3NaNO3 + 2H2O → 8NaAlO2 + 3NH3\n4) 2Al + 2NaOH + 2H2O → 2NaAlO2 + 3H2\n5) 2Al + 2H2O + Ca(OH)2 → Ca(AlO2)2 + 3H2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n(1) sai vì Mg mạnh hơn Al nên Al không đẩy được Mg ra khỏi dung dịch muối\n(2) sai vì Al bị thụ động hóa tronh HNO3 đặc nguội\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho phản ứng:\nAl + HNO3 →  Al(NO3)3 + NO + N2O + H2O.\nBiết tỉ lệ NO và N2O là 1 : 3. Hệ số cân bằng của phản ứng trên là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 9, 34, 9, 1, 3, 17",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 9, 36, 9, 1, 3, 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9, 30, 9, 1, 3, 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9, 38, 9, 1, 3, 19",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho Al tác dụng với S, C ở nhiệt độ cao, lấy sản phẩm phản ứng trên cho tác dụng với H2O thì sản phẩm cuối cùng thu được là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al(OH)3; H2S; CH4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Al2S3; Al(OH)3; CH4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Al4C3; Al(OH)3; H2S",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al(OH)3; H2S; C2H2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Điều nào sau đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al khử được Cu2+ trong dung dịch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Al3+ bị khử bởi Na trong dung dịch AlCl3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Al2O3 là hợp chất bền với nhiệt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al tan được trong dung dịch HCl và dung dịch NaOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho Al đến dư vào dung dịch gồm NO3-, Cu2+, Fe3+, Ag+. Số phản ứng xảy ra (không kể phản ứng của Al với H2O) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong phản ứng của nhôm với dung dịch NaOH, chất oxi hóa nhôm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2O",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. NaOH hoặc H2O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả NaOH và H2O",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hỗn hợp dạng bột hai kim loại Mg và Al vào dung dịch có hòa tan hai muối AgNO3 và Cu(NO3)2. Sau khi phản ứng kết thúc, thu được hỗn hợp hai kim loại và dung dịch D. Như vậy :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai muối AgNO3 và Cu(NO3)2 đã phản ứng hết và hai kim loại Mg, Al cũng phản ứng hết",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hai kim loại Mg, Al phản ứng hết, AgNO3 phản ứng hết, Cu(NO3)2 phản ứng vừa hết hoặc còn dư",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hai kim loại Mg, Al phản ứng hết, cả AgNO3 và Cu(NO3)2 đều còn dư",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một trong hai kim loại phải là Ag, kim loại còn lại là Cu hoặc Al",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho Al lần lượt vào các dung dịch : H2SO4 loãng, HNO3 (đậm đặc, to), Ba(OH)2, HNO3 loãng, H2SO4 đặc, thấy sinh ra khí B có tỉ khối so với O2 nhỏ hơn 0,8. Số dung dịch có thể phù hợp là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Nung nóng hỗn hợp Al và Fe2O3 (chỉ xảy ra phản ứng nhiệt nhôm đến hoàn toàn) thu được hỗn hợp X. Cho X tác dụng dung dịch NaOH thấy có khí thoát ra. Thành phần X gồm :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al2O3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe, Al, Al2O3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Al, Fe",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al, Fe, Fe2O3, Al2O3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho các kim loại Na, Ca, Al, Fe. Chỉ dùng nước cất có thể nhận biết được mấy kim loại ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho các kim loại: Ba, Mg, Al, Fe, Ag. Chỉ dùng dung dịch H2SO4 loãng sẽ nhận biết được bao nhiêu kim loại?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Có 3 mẫu hợp kim Fe – Al, K – Na, Cu – Mg. Có thể dùng dung dịch nào dưới đây có thể phân biệt 3 mẫu hợp kim trên ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.H2SO4 loãng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. MgCl2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong các ứng dụng được cho là của nhôm dưới đây, có mấy ứng dụng chưa chính xác ?(1) Làm vật liệu chế tạo ôtô, máy bay, tên lửa, tàu vũ trụ;(2) Sản xuất thiết bị điện (dây điện điện), trao đổi nhiệt (dụng cụ đun nấu).(3) Sản xuất, điều chế các kim loại quí hiếm (Au, Pt, Ag).(4) Trang trí nội thất và mạ đồ trang sức.(5) Chế tạo hỗn hợp tecmit, được dùng để hàn gắn đường ray.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hỗn hợp gồm BaO, FeO, Al2O3 vào nước dư thu được dung dịch A và phần không tan B. B tan một phần trong dung dịch NaOH. Dung dịch A có chứa :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ba(AlO2)2, Ba(OH)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ba(OH)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ba(AlO2)2, FeAlO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ba(AlO2)2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho bốn hỗn hợp, mỗi hỗn hợp gồm hai chất rắn có số mol bằng nhau: Na2O và Al2O3; Cu và Fe2(SO4)3; BaCl2 và CuCl2 ; Ba và NaHSO4. Số hỗn hợp có thể tan hoàn toàn trong nước (dư) chỉ tạo ra dung dịch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Có các hỗn hợp chất rắn(1) FeO, BaO, Al2O3 (tỉ lệ mol 1: 1 : 1)                       (2) Al, K, Al2O3 (tỉ lệ mol 1: 2: 1)(3) Na2O, Al (tỉ lệ mol 1: 1)                                         (4) K2O, Zn (tỉ lệ mol 1: 1)Số hỗn hợp tan hết trong nước (dư) là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Có 3 chất rắn: Mg, Al, Al2O3 đựng trong 3 lọ mất nhãn. Chỉ dùng một thuốc thử nào sau đây có thể nhận biết được mỗi chất ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dung  dịch  HCl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Dung dịch H2SO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Dung dịch CuSO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dung dịch NaOH",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Nhỏ từ từ cho đến dư dung dịch NaOH vào dung dịch AlCl3. Hiện tượng xảy ra là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có kết tủa keo trắng và có khí bay lên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.có kết tủa keo trắng, sau đó kết tủa tan",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.không có kết tủa, có khí bay lên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. chỉ có kết tủa keo trắng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hai thí nghiệm (TN) :TN1 cho từ từ đến dư dung dịch HCl vào dung dịch NaAlO2.TN2 cho từ từ đến dư khí CO2 vào dung dịch NaAlO2.Hiện tượng quan sát được là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cả 2 thí nghiệm đều có kết tủa rồi  tan",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cả 2 thí nghiệm đều có kết tủa rồi không tan",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thí nghiệm (1) có kết tủa rồi tan, thí nghiệm (2) có kết tủa không tan",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thí nghiệm (2) có kết tủa rồi tan, thí nghiệm (1) có kết tủa không tan",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Thí nghiệm nào sau đây có kết tủa sau phản ứng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cho dung dịch NaOH đến dư vào dung dịch Cr(NO3)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cho dung dịch HCl đến dư vào dung dịch NaAlO2 (hoặc Na[Al(OH)4])",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thổi CO2 đến dư vào dung dịch Ca(OH)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cho dung dịch NH3 đến dư vào dung dịch AlCl3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho các chất : Al, Al2O3, Al2(SO4)3, Zn(OH)2, NaHS, KHSO3, (NH4)2CO3. Số chất đều phản ứng được với dung dịch HCl, dung dịch NaOH là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Hoà tan m gam hỗn hợp gồm Al, Fe vào dung dịch H2SO4 loãng (dư). Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X. Cho dung dịch Ba(OH)2 (dư) vào dung dịch X, thu được kết tủa Y. Nung Y trong không khí đến khối lượng không đổi, thu được chất rắn Z là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hỗn hợp gồm Al2O3 và Fe2O3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hỗn hợp gồm BaSO4 và Fe2O3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. hỗn hợp gồm BaSO4 và FeO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe2O3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho Na vào dung dịch chứa Al2(SO4)3 và CuSO4 thu được khí (A), dung dịch (B) và kết tủa (C). Nung kết tủa (C) thu được chất rắn (D). Cho khí (A) dư tác dụng với rắn (D) thu được rắn (E). Hoà tan (E) trong HCl dư thu được rắn (F). Rắn (F) là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu và Al2O3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu và CuO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cu và Al(OH)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có Cu",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho chuỗi biến hóa sau :Vậy X1, X2, X3, X4 lần lượt là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al2(SO4)3, KAlO2, Al2O3, AlCl3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. AlCl3, Al(NO3)3, Al2O3, Al",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Al2O3, NaAlO2, AlCl3, Al(NO3)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaAlO2, Al2O3, Al2(SO4)3, AlCl3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Hòa tan hết a mol Al vào dung dịch chứa 2a mol NaOH thu được dung dịch X. Kết luận nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sục CO2 dư vào dung dịch X thu được a mol kết tủa",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dung dịch X không phản ứng với dung dịch CuSO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thêm 2a mol HCl vào dung dịch X thu được 2a/3 mol kết tủa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dung dịch X làm quỳ tím chuyển sang màu đỏ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Các hidroxit: Ba(OH)2, NaOH, Al(OH)3, Fe(OH)3 được kí hiệu ngẫu nhiên là X, Y, Z, T. Kết quả thí nghiệm của X, Y, Z, T được ghi ở bảng sau:Chất X, Y, Z, T lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ba(OH)2, Fe(OH)3, Al(OH)3, NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ba(OH)2, Al(OH)3, Fe(OH)3, NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaOH, Fe(OH)3, Al(OH)3, Ba(OH)2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. NaOH, Al(OH)3, Fe(OH)3, Ba(OH)2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Dân gian xưa kia dùng phèn chua làm thuốc chữa đau răng, đau mắt, cầm máu và đặc biệt dùng làm trong nước. Nguyên nhân nào sau đây làm cho phèn chua có khả năng làm trong nước :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phèn chua có tính axit nên hút hết hạt bẩn lơ lửng trong nước về phía mình , làm trong nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phèn chua bị điện ly tạo ra các ion K+ , Al3+, SO42- nên các ion này hút hết hạt bẩn lơ lửng về phía mình, làm trong nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khi hòa tan vào nước , do quá trình điện ly và thủy phân Al3+ tạo ra Al(OH)3 dạng keo nên hút các hạt bẩn lơ lửng về phía mình, làm trong nước",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Phèn chua bị điện ly thành K+, SO42- trung tính nên hút các hạt bẩn lơ lửng làm trong nước.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

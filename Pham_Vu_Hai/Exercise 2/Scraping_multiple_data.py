@@ -1,28 +1,48 @@
 import requests
+import re
 from bs4 import BeautifulSoup
 import json
 
-def extract_urls(main_url):
+def extract_urls(main_url, keywords):
     response = requests.get(main_url)
     soup = BeautifulSoup(response.text, "html.parser")
 
     urls = set()
-    keyword = "de-luyen-thi-ngon-ngu-dhqg-hcm-co-dap-an"
 
-    anchor_tags = soup.find_all("a", href=lambda href: href and keyword in href)
-    for i, tag in enumerate(anchor_tags):
-        url = tag.get("href")
-        if url.startswith("http"):
-            if i < 2:
-                continue
-            url += "/thi"  # Append "/thi" to the extracted URL
-            urls.add(url)
-            print("Extracted URL:", url)
+    for keyword in keywords:
+        anchor_tags = soup.find_all("a", href=lambda href: href and keyword in href)
+        for i, tag in enumerate(anchor_tags):
+            url = tag.get("href")
+            if url.startswith("http") and i >= 2:
+                urls.add(url)
 
     return urls
 
-main_url = "https://khoahoc.vietjack.com/thi-online/de-luyen-thi-ngon-ngu-dhqg-hcm-co-dap-an"
-urls = extract_urls(main_url)
+
+def extract_urls_from_sources(urls, keywords):
+    extracted_urls = set()
+
+    for url in urls:
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        for keyword in keywords:
+            anchor_tags = soup.find_all("a", href=lambda href: href and keyword in href)
+            for i, tag in enumerate(anchor_tags):
+                url = tag.get("href")
+                if url.startswith("http") and i >= 2:
+                    extracted_urls.add(url)
+
+    return extracted_urls
+
+
+main_url = "https://khoahoc.vietjack.com/trac-nghiem/danh-gia-nang-luc/mon-dh-bach-khoa/hoa-hoc-3"
+initial_keywords = ["thi-online"]
+extracted_urls = extract_urls(main_url, initial_keywords)
+
+# Continue extracting more links from the sources of extracted URLs
+more_keywords = ["hoa-hoc", "dien-li", "dung-dich", "muoi", "halogen", "chlorine", "oxygen", "luu-huynh", "nitrogen", "phosphor", "carbon", "silic", "kim-loai", "aluminium", "chromium", "huu-co", "alkane", "alknene", "ankadien", "ankin", "benzen", "ancol", "phenol", "andehit", "axit", "ester", "lipid", "amine", "amino", "peptide", "protein", "polymer"]
+additional_urls = extract_urls_from_sources(extracted_urls, more_keywords)
 
 cookies = {
     # Your cookies here
@@ -32,7 +52,11 @@ cookies = {
     "khoahocvietjackcom_session": "eyJpdiI6IjMxMzJZeU80UkVzcDJIMlwvNmVDeDN3PT0iLCJ2YWx1ZSI6Inl0dUgwc09QOEtoWUd0XC92ejZKKzVqQlR3OU5Xb0RwODNTU29aVmNZRzFXNDdiT05ZZkFVMnRMVXdZb3BhQkVjY0RvNjVNWnUrTlwvWHU4WTFrNUhEY3VwaW1jY2NJWTlGVnY0QW9kWHFHVXNFd1M4RE9rdlRNNVpUbWxkVE9wU0kiLCJtYWMiOiIzMTI3ZDE2ZmE5NGVlZGU3MWQ3ZGM4OGVjZWNhYjYxOTFmZGEwYjM5ZmQ0ZjE2MzcwOGJmOGYwNjVmNjgzYzRmIn0%3D",
 }
 
-for url in urls:
+for url in additional_urls:
+    if re.search(r"/\d+$", url) and not url.endswith("/"):
+        url += "/thi"
+        print("Additional URL:", url)
+
     response = requests.get(url, cookies=cookies)
     soup = BeautifulSoup(response.text, "html.parser")
 
@@ -44,26 +68,32 @@ for url in urls:
 
     question_items = soup.find_all("div", class_="quiz-answer-item")
     for question_item in question_items:
-        question = {
-            "Câu số": question_item.find("div", class_="num").text.strip(),
-            "Câu hỏi": question_item.find("div", class_="question-name").text.strip(),
-            "Danh sách đáp án": [],
-            "Giải thích": question_item.find("div", class_="question-reason").text.strip()
-        }
+        try:
+            question = {
+                "Câu số": question_item.find("div", class_="num").text.strip(),
+                "Câu hỏi": question_item.find("div", class_="question-name").text.strip(),
+                "Danh sách đáp án": [],
+                "Giải thích": question_item.find("div", class_="question-reason").text.strip()
+            }
 
-        answer_items = question_item.find_all("div", class_="anwser-item")
-        for answer_item in answer_items:
-            answer_div = answer_item.find("div")
-            if answer_div:
-                result_answer = answer_item.find("input", class_="result-anwser")
-                answer = {
-                    "answer": answer_div.text.strip(),
-                    "is_correct": result_answer.get("value") == "Y",
+            answer_items = question_item.find_all("div", class_="anwser-item")
+            for answer_item in answer_items:
+                answer_div = answer_item.find("div")
+                if answer_div:
+                    result_answer = answer_item.find("input", class_="result-anwser")
+                    answer = {
+                        "answer": answer_div.text.strip(),
+                        "is_correct": result_answer.get("value") == "Y",
 
-                }
-                question["Danh sách đáp án"].append(answer)
+                    }
+                    question["Danh sách đáp án"].append(answer)
 
-        data["questions"].append(question)
+            data["questions"].append(question)
+
+        except AttributeError:
+            # Skip the current URL if 'question_item.find' returns None
+            print("AttributeError: Skipping URL:", url)
+            continue
 
     # Save the data to a JSON file
     json_file_name = f"De-{url.split('/')[-2]}.json"

@@ -1,0 +1,534 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/mat-cau-va-duong-thang/98204/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho mặt cầu (S):x2+(y+1)2+z2=R2. Điều kiện của bán kính R để trục Ox tiếp xúc với (S) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.R=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.R=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=±1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.R=1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTọa độ giao điểm của (S) và Ox là nghiệm của hệ x2+(y+1)2+z2=R2x=ty=0z=0\n(S) tiếp xúc với Ox khi và chỉ khi  (*) có nghiệm kép ⇔t2+1=R2 có nghiệm kép ⇔R2−1=0⇔R=1\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, phương trình  mặt cầu (S) có tâm I(2;0;1)  và tiếp xúc với đường thẳng d:x−11=y2=z−21 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (x−2)2+y2+(z−1)2=2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (x−2)2+y2+(z−1)2=9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (x−2)2+y2+(z−1)2=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (x−1)2+(y−2)2+(z−1)2=24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nPhương trình mặt cầu (S) có dạng (x−2)2+y2+(z−1)2=R2\nPhương trình tham số của d là: d:x=1+ty=2tz=2+t\nTọa độ giao điểm của (S) và d là nghiệm của hệ\n(x−2)2+y2+(z−1)2=R2x=1+ty=2tz=2+t*\n(S) tiếp xúc với d khi và chỉ khi  (∗) có nghiệm kép⇔(t−1)2+(2t)2+(1+t)2=R2 có nghiệm kép\n⇔6t2+2=R2 có nghiệm kép ⇔R2=2\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ  Oxyz, cho mặt cầu S:x−12+y+22+z−32=9 và đường thẳng d:x−1=y−22=z−43.  (d) cắt  (S) tại hai điểm phân biệt A và B. Khi đó AB bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AB=1267",
+                    "is_correct": true
+                },
+                {
+                    "answer": "b. AB=1237",
+                    "is_correct": false
+                },
+                {
+                    "answer": "c. AB=1267",
+                    "is_correct": false
+                },
+                {
+                    "answer": "d. AB=1297",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTham số hóa phương trình đường thẳng d ta được:d:x=t+1y=2+2tz=4+3t\nGiả sử A là giao điểm của (d) và (P).\nVì  A∈d:x=t+1y=2+2tz=4+3t nên ta có: At+1;2+2t;4+3t\nMặt khác A∈(S) nên ta có\n(t+1−1)2+(2+2t+2)2+(4+3t−3)2=9\n⇔t2+(4+2t)2+(1+3t)2=9\n⇔14t2+22t+8=0\n⇔t=−1t=−47⇔A(0;0;1)B37;67;167⇒AB=372+672+1672=1267Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, phương trình mặt cầu (S) có tâm I(3;−2;0)  và cắt trục Oy tại hai điểm A,B mà AB=8 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (x−3)2+(y+2)2+z2=9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (x+3)2+(y−2)2+z2=25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (x−3)2+(y+2)2+z2=64",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (x−3)2+(y+2)2+z2=25",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nGọi H là hình chiếu vuông góc của I lên Oy⇒H(0;−2;0)\n⇒IH→=−3;0;0⇒IH=3\nMặt khác ta có: AH=AB2=4\nSuy ra R2=AH2+HI2=42+32=25\n(S) có tâm I(3;−2;0) và bán kính R với R2=25\n Suy ra: (S):(x−3)2+(y+2)2+z2=25Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho mặt cầu (S):x2+y2+z2−2x−4y+4z−16=0 và đường thẳng d:x−11=y+32=z2. Mặt phẳng nào trong các mặt phẳng sau chứa d và tiếp xúc với mặt cầu (S).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P:2x−2y+z−8=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P:2x−2y+z−8=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P:2x−11y+10z−35=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. P:−2x+2y−z+11=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa xét mặt cầu (S):(x−1)2+(y−2)2+(z+2)2=25\n⇒I(1;2;−2);R=5\nĐiểm A(1;−3;0) thuộc d nên A∈(P) và d(I;(P))=5 nên thử các đáp án ta thấy C đúng.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho điểm A(1;−2;3) và đường thẳng d có phương trình x+12=y−21=z+3−1. Tính đường kính của mặt cầu (S) có tâm A và tiếp xúc với đường thẳng d.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 102",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 45",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhương trình mặt cầu (S) có dạng (x−1)2+(y+2)2+(z−3)2=R2\nPhương trình tham số của d là: d:x=−1+2ty=2+tz=−3−t\nTọa độ giao điểm của (S) và d là nghiệm của hệ\n(x−1)2+(y+2)2+(z−3)2=R2x=−1+2ty=2+tz=−3−t*\n(S) tiếp xúc với d khi và chỉ khi (∗) có nghiệm kép\n⇔(−2+2t)2+(4+t)2+(−6−t)2=R2 có nghiệm kép\n⇔6t2+12t+56−R2=0 có nghiệm kép\n⇔=−62−6.(56−R2)=0⇔6R2−300=0⇔R2=50⇔R=52\nSuy ra đường kính của mặt cầu (S) là 102\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho đường thẳng Δ   có phương trình x=y=z. Trong bốn phương trình mặt cầu dưới đây, phương trình mặt cầu không có hai điểm chung phân biệt với Δ  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x2+y2+z2+x+y+z−6=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x2+y2+z2+2x−4y+2z−3=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x2+y2+z2−2x+3y+5z+3=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x2+y2+z2−7x−2z+6=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong bốn phương trình mặt cầu dưới đây, phương trình mặt cầu có điểm chung với trục Oz là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x2+y2+z2+4x−8y+2z+2=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x2+y2+z2+2x−4y−2z+2=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x2+y2+z2+x−2y+z+1=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x2+y2+z2−2x+4y+4z+4=0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Xét đường thẳng d có phương trình x=1+ty=2z=3+2t  và mặt cầu (S) có phương trình x−12+y−22+z−32=4.  Nhận xét nào sau đây đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.d cắt (S) tại hai điểm phân biệt A,B và AB<2R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.d không có điểm chung với (S)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.d tiếp xúc với (S)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.d cắt (S) tại hai điểm phân biệt A,B và AB đạt GTLN.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ  Oxyz, cho mặt cầu (S) có phương trình x+12+y−12+z−22=4. Phương trình nào sau đây là phương trình của mặt cầu đối xứng với mặt cầu (S) qua trục Oz.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (x−1)2+(y+1)2+(z−2)2=4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (x−1)2+(y−1)2+(z−2)2=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (x+1)2+(y+1)2+(z−2)2=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (x+1)2+(y−1)2+(z+2)2=4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho mặt cầu (S) có tâm I thuộc đường thẳng Δ:x1=y+31=z2 . Biết rằng mặt cầu (S) có bán kính bằng 22 và cắt mặt phẳng (Oxz) theo một đường tròn có bán kính 2. Tìm tọa độ tâm I.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(1;−2;2),I(5;2;10)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.I(1;−2;2),I(0;3;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.I(5;2;10),I(0;−3;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.I(1;−2;2),I(−1;2;−2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong không gian Oxyz, cho 3 điểm A(0;1;1),B(3;0;−1),C(0;21;−19) và mặt cầu S:x−12+y−12+z−12=1. Điểm M thuộc mặt cầu (S) sao cho tổng 3MA2+2MB2+MC2   đạt giá trị nhỏ nhất, khi đó, độ dài vectơ OM→  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 110",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 310",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3105",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1105",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho điểm I(3;4;−2). Lập phương trình mặt cầu tâm I và tiếp xúc với trục Oz.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S:x−32+y−42+z+22=25.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S:x−32+y−42+z+22=4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S:x+32+y+42+z−22=20.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "d. S:x−32+y−42+z+22=5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ  Oxyz,  cho mặt cầu (S) có phương trình x−12+y+22+z−32=50.Trong số các đường thẳng sau, mặt cầu (S) tiếp xúc với đường thẳng nào.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x+12=y−21=z+3−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Trục Ox",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Trục Oy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Trục Oz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai đường thẳng d:x=2ty=tz=4 và d':x=t'y=3−t'z=0 . Phương trình mặt cầu có đường kính là đoạn thẳng vuông góc chung của hai đường thẳng d và d′ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (x−2)2+y2+z2=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (x−2)2+(y−1)2+(z−2)2=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (x−2)2+(y−1)2+(z−2)2=4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (x+2)2+(y+1)2+z2=4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz. Hãy viết phương trình  mặt cầu (S) có tâm I(2;0;1) và tiếp xúc với đường thẳng d:x−11=y2=z−21.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (x−2)2+y2+(z−1)2=2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (x−2)2+y2+(z−1)2=9.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (x−2)2+y2+(z−1)2=4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (x−1)2+(y−2)2+(z−1)2=24.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho đường thẳng d:x−1−1=y−21=z+12, điểm A(2;−1;1). Gọi I là hình chiếu vuông góc của A lên d. Viết phương trình mặt cầu (C) có tâm I và đi qua A.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x2+(y−3)2+(z−1)2=20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x2+(y+1)2+(z+2)2=5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (x−2)2+(y−1)2+(z+3)2=20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (x−1)2+(y−2)2+(z+1)2=14",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho mặt cầu (S) có phương trình: x2+y2+z2−2x+4y−2z−3=0  và đường thẳng Δ:x2=y+1−2=z  . Mặt phẳng (P) vuông góc với Δ và tiếp xúc với (S) có phương trình là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2x−2y+z−2=0 và 2x−2y+z+16=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2x−2y+z−2=0 và 2x−2y+z-16=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2x−2y−38+6=0  và 2x−2y−38−6=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2x−2y+38−6=0 và 2x−2y−38−6=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz , cho đường thẳng d:x=ty=−1z=−tvà 2 mặt phẳng (P)  và (Q) lần lượt có phương  trình x+2y+2z+3=0;x+2y+2z+7=0. Viết phương trình mặt cầu (S) có tâmI  thuộc đường thẳng d, tiếp xúc với hai mặt phẳng (P)  và (Q).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (x+3)2+(y+1)2+(z−3)2= 49",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (x−3)2+(y+1)2+(z+3)2=49",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (x+3)2+(y+1)2+(z+3)2=49",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (x−3)2+(y−1)2+(z+3)2=49",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ  Oxyz, cho mặt phẳng (P):2x−y−2z+1=0 và ba điểmA(1;−2;0), B(1;0;−1) và C(0;0;−2). Hỏi có tất cả bao nhiêu mặt cầu có tâm thuộc mặt phẳng (P) và tiếp xúc với ba đường thẳng AB,AC,BC?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4 mặt cầu",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.2 mặt cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1 mặt cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Vô số mặt cầu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Trong không gian Oxyz, cho điểm E(2;1;3), mặt phẳng P:2x+2y−z−3=0  và mặt cầu S:x−32+y−22+z−52=36. Gọi Δ là đường thẳng đi qua E, nằm trong (P) và cắt (S) tại hai điểm có khoảng cách nhỏ nhất. Phương trình của Δ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=2+9ty=1+9tz=3+8t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=2−5ty=1+3tz=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=2+ty=1−tz=3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=2+4ty=1+3tz=3−3t",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Trong không gian Oxyz, cho điểm S(−2;1;−2) nằm trên mặt cầu S:x2+y2+z2=9. Từ điểm S kẻ ba dây cung SA,SB,SC với mặt cầu (S) có độ dài bằng nhau và đôi một tạo với nhau góc 600. Dây cung AB có độ dài bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 26",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Trong không gian Oxyz, cho hai mặt phẳng (α):x−my+z+6m+3=0 và (β):mx+y−mz+3m−8=0 ; hai mặt phẳng này cắt nhau theo giao tuyến là đường thẳng Δ. Gọi Δ'  là hình chiếu của Δ lên mặt phẳng Oxy. Biết rằng khi mm thay đổi thì đường thẳng Δ'  luôn tiếp xúc với một mặt cầu cố định có tâm I(a;b;c) thuộc mặt phẳng Oxy. Tính giá trị biểu thức P=10a2−b2+3c2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P=56",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P=41",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. P=73",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

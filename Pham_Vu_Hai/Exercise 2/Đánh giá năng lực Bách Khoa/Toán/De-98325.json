@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/elip/98325/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Elip (E) có độ dài trục bé bằng tiêu cự. Tâm sai của (E) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nElip có độ dài trục bé bằng tiêu cự nên ta có b=c\nMặt khác ta có a2=b2+c2 suy ra a2=2c2 hay a=2c\nTâm sai của elip là: e=ca=c2c=12\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho elip (E):x225+y29=1 và cho các mệnh đề:\n1. (E) có các tiêu điểm F1(0;−4) và F2(0;4)\n2. (E) có tỉ số ca=45\n3. (E) có đỉnh A1(−5;0)\n4. (E) có độ dài trục nhỏ bằng 3.\nTìm mệnh đề sai trong các mệnh đề trên:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1 và 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2 và 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1 và 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4 và 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ phương trình elip (E):x225+y29=1 ta có a=5b=3c=a2−b2=4\nSuy ra ta có:\n1. (E) có các tiêu điểm F1(−4;0) và F2(4;0) nên (1) sai.\n2. (E) có tỉ số ca=45 nên (2) đúng.\n3. (E) có đỉnh A1(−5;0) nên (3) đúng.\n4. (E) có độ dài trục nhỏ bằng 2b=6 nên (4) sai.\nVậy các mệnh đề sai là (1) và (4).\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Elip có độ dài trục lớn là 12, độ dài trục nhỏ là 8 có phương trình chính tắc là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x236+y216=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x2144+y264=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x212+y28=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x216+y236=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐộ dài trục lớn là 12, suy ra 2a=12  hay a=6\nĐộ dài trục nhỏ là 8, suy ra 2b=8  hay b=4\nVậy elip cần tìm là x236+y216=1\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Phương trình chính tắc của elip có  hai đỉnh là A(5;0)  và B(0;3) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x25+y23=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x2100+y236=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x225+y29=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x210+y26=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nElip có  hai đỉnh là A(5;0) và B(0;3) suy ra a=5 và b=3. Do đó, phương trình chính tắc của elip là:x225+y29=1\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho elip  chính tắc (E) có tiêu điểm F1(4;0) và một đỉnh là A(5;0). Phương trình chính tắc của elip (E) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x225+y216=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x25+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x225+y29=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x5+y4=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nElip có tiêu điểm F1(4;0) suy ra c=4, elip có một đỉnh là  A(5;0) suy ra a=5\nMặt khác ta có b2=a2−c2=25−16=9\nVậy elip có phương trình là x225+y29=1\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho elip (E):x2+4y2−40=0. Chu vi hình chữ nhật cơ sở là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 610",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 310",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1210",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: (E):x2+4y2−40=0⇔x240+y210=1.  Suy ra a=210b=10\nChu vi hình chữ nhật cơ sở là: 22a+2b=2410+210=1210\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Phương trình chính tắc của elip có độ dài trục lớn là 20, tâm sai là e=53 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x2100+y236=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x2100+y264=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x2400+y2256=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x2100+y249=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Phương trình chính tắc của elip có  hai tiêu điểm là F1(−1;0),F2(1;0)  và tâm sai e=15 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x224+y225=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x224+y225=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x225+y224=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x225+y224=−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Phương trình chính tắc của elip có một đỉnh là B(0;−2), tiêu cự là 25 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x27+y22=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x220+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x24+y21=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x29+y24=1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Phương trình chính tắc của elip có một đỉnh là A(0;−4), tâm sai e=35",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x216+y29=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x225+y29=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x225+y216=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x236+y216=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Phương trình chính tắc của elip có đỉnh là A(2;0) và đi qua M(−1;32) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x24+y21=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x24+y22=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x29+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x29+y21=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Phương trình chính tắc của elip có  đi qua M(1;25) tiêu cự là 4 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x225+y221=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x225+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x25+y21=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x25+y24=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Phương trình chính tắc của elip có đi qua hai điểm M(22;13) và N2;53 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x24+y21=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x29+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x29+y21=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x216+y29=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong mặt phẳng với hệ trục tọa độ Oxy, cho elip E:x225+y29=1 có hai tiêu điểm F1,F2. Biết rằng, điểm M là điểm có tung độ yM dương thuộc elip (E) sao cho bán kính đường tròn nội tiếp tam giác MF1F2 bằng 43. Khẳng định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. yM∈0;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. yM∈2;8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. yM∈8;5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "d. yM∈3;2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Phương trình chính tắc của elip có diện tích hình chữ nhật cơ sở là 8 và e=124 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x24+y23=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x24+y21=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x21+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "d. x23+y24=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

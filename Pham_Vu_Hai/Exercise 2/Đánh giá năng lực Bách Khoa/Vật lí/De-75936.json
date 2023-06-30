@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tan-sac-anh-sang/75936/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Ánh sáng trắng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ánh sáng không bị đổi màu khi đi qua lăng kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hỗn hợp của ánh sáng đơn sắc có màu biến thiên liên tục từ đỏ đến lam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ánh sáng không bị tán sắc khi đi qua lăng kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hỗn hợp của ánh sáng đơn sắc có màu biến thiên liên tục từ đỏ đến tím",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ánh sáng trắng là hỗn hợp của ánh sáng đơn sắc có màu biến thiên liên tục từ đỏ đến tímĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ánh sáng đơn sắc là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Ánh sáng bị đổi màu khi đi qua lăng kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Không bị khúc xạ khi đi qua lăng kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hỗn hợp ánh sáng có màu biến thiên liên tục từ đỏ đến tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ánh sáng không bị tán sắc khi đi qua lăng kính",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ánh sáng đơn sắc là ánh sáng không bị tán sắc khi đi qua lăng kínhĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Phát biểu nào dưới đây là không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hiện tượng tán sắc ánh sáng là hiện tượng khi một chùm ánh sáng phức tạp truyền qua một lăng kính bị phân tách thành các ánh sáng đơn sắc khác nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ánh sáng trắng là tập hợp của vô số ánh sáng đơn sắc khác nhau, có màu biến thiên liên tục từ đỏ đến tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ánh sáng có bước sóng càng dài thì chiết suất của môi trường đối với ánh sáng đó càng lớn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ánh sáng đơn sắc không bị tán sắc khi đi qua lăng kính",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A, B, D - đúngC -sai vì: \\[n = \\frac{c}{v} = \\frac{c}{{\\lambda f}}\\]=>Ánh sáng có bước sóng càng dài thì chiết suất của môi trường đối với ánh sáng đó càng nhỏ chứ không phải càng lớnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nhận định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chiết suất tuyệt đối của ánh sáng tím lớn nhất",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Vận tốc truyền ánh sáng của ánh sáng tím lớn nhất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Góc lệch khi đi qua lăng kính của ánh sáng tím nhỏ nhất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chiết suất tuyệt đối của ánh sáng cam lớn hơn của ánh sáng chàm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có:\n+ vđỏ>vcam >vvàng >vlục >vlam >vchàm >vtím\n+ nđỏ< ncam < nvàng < nlục < nlam < nchàm < ntím\n+ Dđỏ< Dcam < Dvàng  < Dlục < Dlam < Dchàm <Dtím\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khi rọi một chùm hẹp ánh sáng Mặt trời xuống mặt nước trong một bể bơi thì thấy ở đáy bể một vệt sáng. Vệt sáng này",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có màu trắng dù chiếu xiên hay chiếu vuông góc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. có nhiều màu dù chiếu xiên hay chiếu vuông góc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. có nhiều màu khi chiếu xiên và có màu trắng khi chiếu vuông góc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. chỉ có một màu dù chiếu xiên hay chiều vuông góc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:- Khi chiếu vuông góc, ánh sáng truyền thẳng (theo định luật truyền thẳng ánh sáng) =>vệt sáng vẫn có màu trắng- Khi chiếu xiên, theo hiện tượng tán sắc ánh sáng, ta có vệt sáng sẽ có nhiều màuĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khi sóng ánh sáng truyền từ một môi trường này sang một môi trường khác thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tần số không đổi nhưng bước sóng thay đổi",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. bước sóng không đổi nhưng tần số thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tần số và bước sóng đều không đổi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tần số và bước sóng đều thay đổi",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi sóng ánh sáng truyền từ môi trường này sang môi trường khác thì tần số không thay đổi và bước sóng thay đổiĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một bể nước sâu 1,2m. Một chùm ánh sáng mặt trời chiếu vào mặt nước dưới góc tới i sao cho sin i = 0,8. Chiết suất của nước đối với ánh sáng đỏ là 1,331 và đối với ánh sáng tím là 1,343. Bề rộng của dải quang phổ dưới đáy bể là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,5 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,25 cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,5 cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Khi ánh sáng truyền từ nước ra không khí thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vận tốc và bước sóng ánh sáng giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vận tốc và tần số ánh sáng tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vận tốc và bước sóng ánh sáng tăng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Bước sóng và tần số ánh sáng không đổi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nguyên nhân của hiện tượng tán sắc ánh sáng là sự phụ thuộc của chiết suất môi trường vào",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lăng kính và màu sắc của môi trường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Màu sắc của môi trường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Màu của ánh sáng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Lăng kính mà ánh sáng đi qua",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một ánh sáng đơn sắc màu cam có tần số f được truyền từ chân không vào một chất lỏng có chiết suất là 1,5 đối với ánh sáng này. Trong chất lỏng trên, ánh sáng này có",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. màu tím và tần số f.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. màu cam và tần số 1,5f.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. màu cam và tần số f.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. màu tím và tần số 1,5f.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Chiếu xiên từ không khí vào nước một chùm sáng song song rất hẹp (coi như một tia sáng) gồm ba thành phần đơn sắc: đỏ, lam và tím. Gọi rđ, rℓrℓ,  rt  lần lượt là góc khúc xạ ứng với tia màu đỏ, tia màu lam và tia màu tím. Hệ thức đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{r_l} = {r_t} = {r_d}_{}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{r_r} < {r_l} = {r_d}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[{r_d} < {r_l} < {r_t}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.  \\[{r_t} < {r_d} < {r_l}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Bước sóng của ánh sáng màu vàng trong không khí là λ=0,6µm, trong thủy tinh (n = 1,5) sóng ánh sáng này có bước sóng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,4 µm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,9 µm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,6 µm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,5 µm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Ánh sáng lam có bước sóng trong chân không và trong nước lần lượt là 0,4861 μm và 0,3635 μm. Chiết suất tuyệt đối của nước đối với ánh sáng lam là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,3335",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,3725",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,3301",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,3373",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho 4 tia có bước sóng như sau: 0,40μm; 0,50μm; 0,45μm; 0,6μm qua cùng một lăng kính. Tia nào lệch nhiều nhất so với phương truyền ban đầu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,40 μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,50 μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,45 μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,60 μm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Chiếu một tia sáng gồm 5 thành phần đơn sắc màu: tím, lam, đỏ, lục và vàng từ nước tới không khí. Tia ló đơn sắc màu lục đi sát với mặt phân cách giữa hai môi trường. Không kể tia đơn sắc màu lục, các tia ló ra ngoài không khí là các tia sáng đơn sắc màu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lam, tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tím, lam, đỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. đỏ, vàng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. đỏ, vàng, lam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

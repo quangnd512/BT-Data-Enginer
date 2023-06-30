@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/nang-luong-cua-mach-dao-dong-lc/98742/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Mạch dao động điện từ điều hoà LC có chu kỳ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Phụ thuộc vào L, không phụ thuộc vào C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Phụ thuộc vào C, không phụ thuộc vào L.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Phụ thuộc vào cả L và C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Không phụ thuộc vào L và C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, chu kì dao động của mạch LC dao động tự do: T=2πLC\n=> Chu kì T phụ thuộc vào L và C\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Mạch dao động điện từ điều hoà gồm cuộn cảm L và tụ điện C, khi tăng điện dung của tụ điện lên 4 lần thì chu kỳ dao động của mạch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tăng lên 4 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tăng lên 2 lần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Giảm đi 4 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Giảm đi 2 lần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, chu kì dao động của mạch LC dao động tự do: T=2πLC\n=> Khi tăng C lên 4 lần thì chu kì dao động sẽ tăng lên 2 lần\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Mạch dao động điện từ điều hoà gồm cuộn cảm L và tụ điện C. Khi tăng độ tự cảm của cuộn cảm lên 2 lần và giảm điện dung của tụ điện đi 2 lần thì tần số dao động của mạch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Không đổi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Tăng 2 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Giảm 2 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tăng 4 lần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, tần số dao động của mạch LC dao động tự do: f=12πLC\n=> Khi tăng L lên 2 lần, điện dung C giảm 2 lần =>  thì tần số của dao động không đổi\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Mạch dao động LC gồm cuộn cảm có độ tự cảm L = 2mH và tụ điện có điện dung C = 2pF, (lấy π2 = 10). Tần số dao động của mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.f = 2,5Hz.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.f = 2,5MHz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.f = 1Hz.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.f = 1MHz.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, tần số dao động của mạch LC dao động tự do:\nf=12πLC=12π2.10−3.2.10−12=2,5.106Hz\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cường độ dòng điện tức thời trong mạch dao động LC có dạng i=0,02cos2000t(A). Tụ điện trong mạch có điện dung 5μF. Độ tự cảm của cuộn cảm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.L = 50mH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.L = 50H",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.L = 5.10-6H",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.L = 5.10-8H",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ phương trình cường độ dòng điện i=0,02cos2000t(A)\nTa có: ω=2000(rad/s)\nMặt khác, ta có: ω=1LC→L=1ω2C=120002.5.10−6=0,05H\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Gọi U0 là điện áp cực đại giữa hai đầu bản tụ điện, I0 là cường độ dòng điện cực đại đi qua cuộn cảm. Biểu thức liên hệ giữa U0 và I0 của mạch dao động LC là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I0= U0CL",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. U0= I0CL",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. U0= I0LC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I0= U0LC",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCường độ dòng điện cực đại trong mạch:\nI0=ωq0=q0LC=U0CLC=U0CL\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Mạch dao động điện từ điều hoà LC gồm tụ điện C = 30nF và cuộn cảm L =25mH. Nạp điện cho tụ điện đến hiệu điện thế 4,8V rồi cho tụ phóng điện qua cuộn cảm, cường độ dòng điện hiệu dụng trong mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I = 3,72mA.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.I = 4,28mA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.I = 5,20mA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.I = 6,34mA.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Khi mắc tụ điện có điện dung C1 với cuộn cảm có độ tự cảm L thì tần số dao động của mạch là f1 = 6kHz; khi mắc tụ điện có điện dung C2 với cuộn cảm có độ tự cảm L thì tần số dao động của mạch là f2 = 8kHz. Khi mắc C1 song song C2 với cuộn cảm có độ tự cảm L thì tần số dao động của mạch là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.f = 4,8kHz.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.f = 7kHz.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.f = 10kHz.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.f = 14kHz.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một mạch dao động điện từ lí tưởng gồm cuộn cảm thuần và tụ điện có điện dung thay đổi được. Khi điện dung của tụ điện có giá trị 20pF thì chu kì dao động riêng của mạch dao động là 2,0µs. Khi điện dung của tụ điện có giá trị 80pF thì chu kì dao động riêng của mạch dao động là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,0µs",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8,0µs",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4,0µs",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,5µs",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một mạch dao động điện từ LC gồm cuộn dây thuần cảm có độ tự cảm L không đổi và tụ điện có C thay đổi được.Biết điện trở của dây dẫn là không đáng kể và trong mạch có dao động điện từ riêng. Khi điện dung có giá trị C1 thì tần số dao động riêng của mạch là f1. Khi điện dung có giá trị C2=4C1  thì tần số dao động điện từ riêng trong mạch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. f2=2f1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f2=f12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. f2=f14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. f2=4f1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Mạch dao động LC, với cuộn dây có L = 5mH. Khi cường độ dòng điện trong mạch là 2Athì năng lượng từ trường trong mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5 μJ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5 mJ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1 mJ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1 μJ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Biểu thức xác định năng lượng điện trường trong mạch dao động điện từ LC là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Wd=12Cu2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Wd=12Cu2+12Li2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Wd=12Li2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Wd=12Cu2−12Li2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Mạch dao động LC, với tụ điện có điện dung C=30μF. Khi hiệu điện thế  trong mạch là 4V thì năng lượng điện trường trong mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2,4.10-5 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.10-5 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2,4.10-4 J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.10-4 J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong mạch dao động LC lí tưởng, năng lượng điện từ trường của mạch dao động",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Biến thiên tuần hoàn theo thời gian với chu kì 2T.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Biến thiên tuần hoàn theo thời gian với chu kì T.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Biến thiên tuần hoàn theo thời gian với chu kì T/2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Không biến thiên tuần hoàn theo thời gian.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong mạch dao động LC gồm cuộn dây có độ tự cảm L=5mH và tụ điện có điện dung C=50μF. Khi đó năng lượng điện trường trong mạch biến thiên tuần hoàn với tần số là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2000πHz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1000πHz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 500πHz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 250πHz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Công thức tính năng lượng điện từ của mạch dao động LC là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. W=Q022L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. W=Q022C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. W=Q02L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. W=Q02C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một mạch dao động gồm một tụ điện có điện dung C=5 μF và cuộn cảm có độ tự cảm L. Năng lượng điện từ của mạch dao động là 5.10-5 J. Khi điện áp giữa hai bản tụ là 3V thì năng lượng từ trường của mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,5.10-5 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,75.10-5 J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2.10-5 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10-5 J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Mạch dao động gồm cuộn dây thuần cảm có độ tự cảm L, tụ điện có điện dung C=1,25 μF. Dao động điện từ trong mạch có tần số góc ω=4000 rad/s, cường độ dòng điện cực đại trong mạch I0 = 40 mA. Năng lượng điện từ trong mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2.10-3 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2.10-4 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4.10-5 J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2.10-5 J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Mạch dao động gồm tụ điện có điện dung C = 30nF và cuộn dây thuần cảm có độ tự cảm L = 25 mH. Khi điện áp cực đại giữa 2 bản tụ là 4,8 V thì cường độ dòng điện hiệu dụng trong mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,72 mA",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4,28 mA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5,20 mA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.6,34 mA",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Trong mạch điện dao động điện từ LC, dòng điện tức thời tại thời điểm Wđ = nWt   được tính theo biểu thức:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. i=I0n+1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. i=Q0n+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. i=Q0nn+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. i=I0nn+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

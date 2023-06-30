@@ -1,0 +1,580 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/vi-tri-dia-li-pham-vi-lanh-tho/73894/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nước ta nằm ở vị trí:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. rìa phía Đông của bán đảo Đông Dương",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. rìa phía Tây của bán đảo Đông Dương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. trung tâm châu Á",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. phía đông Đông Nam Á",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNước ta nằm ở rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Điểm cực Bắc của nước ta là xã Lũng Cú thuộc tỉnh:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cao Bằng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hà Giang",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Yên Bái",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Lạng Sơn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐiểm cực Bắc nước ta ở vĩ độ 23023’B tại xã Lũng Cú, huyện Đồng Văn, tỉnh Hà Giang.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Điểm cực Đông của nước ta là xã Vạn Thạnh thuộc tỉnh:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ninh Thuận",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khánh Hòa",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Đà Nẵng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phú Yên",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐiểm cực Đông nước ta ở vĩ độ l09024'Đ tại xã Vạn Thạnh, huyện Vạn Ninh, tỉnh Khánh Hòa.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Đâu không phải là đặc điểm của vị trí địa lí nước ta:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. vừa gắn liền với lục địa Á – Âu, vừa tiếp giáp với Thái Bình Dương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nằm trên các tuyến đường giao thông hàng hải, đường bộ, đường hàng không quốc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. trong khu vực có nền kinh tế năng động của thế giới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. nằm ở trung tâm của châu Á.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNước ta nằm ở rìa phía đông bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á =>Đặc điểm “nằm ở trung tâm khu vực châu Á” là không đúng.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Đặc điểm nào sau đây không đúng với lãnh thổ nước ta",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nằm hoàn toàn trong vùng nhiệt đới nửa cầu Bắc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nằm trọn trong múi giờ số 8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Nằm trong vùng có khí hậu nhiệt đới ẩm gió mùa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nằm trong vùng chịu ảnh hưởng của gió Mậu dịch.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐại bộ phận lãnh thổ nước ta nằm trong khu vực múi giờ thứ 7.=>Đáp án “nằm hoàn toàn trong múi giờ số 8” là sai.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Vùng đất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. phần đất liền giáp biển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. toàn bộ phần đất liền và các hải đảo",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. phần được giới hạn bởi các đường biên giới và đường bờ biển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. các hải đảo và vùng đồng bằng ven biển",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nVùng đất bao gồm: toàn bộ phần đất liền + các hải đảo (Diện tích: 331.212  km2).Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đường biên giới dài nhất trên đất liền nước ta là với quốc gia nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trung Quốc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Campuchia",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lào",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thái Lan",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết cửa khẩu nào sau đây nằm trên đường biên giới Việt Nam –  Lào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Móng Cái.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lệ Thanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mường Khương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cầu Treo.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Căn cứ vào Atlat Địa lí Việt Nam trang 4 -5, cho biết tỉnh nào sau đây của nước ta không giáp biển?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quảng Ninh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hà Nam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ninh Bình",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ninh Thuận",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Bộ phận nào sau đây được xem như bộ phận lãnh thổ trên đất liền:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lãnh hải",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vùng đặc quyền kinh tế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nội thủy",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Thềm lục địa",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đối với vùng đặc quyền kinh tế, Việt Nam có nghĩa vụ và quyền lợi nào dưới đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có chủ quyền hoàn toàn về thăm dò, khai thác quản lí tất cả các nguồn tài nguyên, các nước khác không có quyền tự do về hàng hải, hàng không.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. có chủ quyền hoàn toàn về mặt kinh tế nhưng vẫn cho phép các nước tự do về hàng hải, hàng không, đặt ống dẫn dầu, cáp quang ngầm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. cho phép các nước được phép thiết lập các công trình nhân tạo phục vụ cho thăm dò, khảo sát biển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. nước ta không có chủ quyền về mặt khai thác, quản lí các nguồn tài nguyên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hiện nay, về vấn đề cắm mốc phân định chủ quyền biên giới quốc gia Việt Nam cần tiếp tục đàm phán với:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trung Quốc và Lào",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lào và Cam- pu - chia",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cam-pu-chia và Trung Quốc.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Trung Quốc, Lào và Cam-pu-chia",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Ý nghĩa kinh tế của vị trí địa lí nước ta là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có vị trí địa lí đặc biệt quan trọng ở vùng Đông Nam Á, khu vực nhạy cảm với những biến động chính trị thế giới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo điều kiện thực hiện chính sách mở cửa, hội nhập với các nước trên thế giới, thu hút vốn đầu tư của nước ngoài.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tạo điều kiện thuận lợi cho nước ta cùng chung sống hòa bình, hợp tác hữu nghị và cùng phát triển với các nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Có nhiều nét tương đồng về lịch sử, văn hóa – xã hội với các nước láng giềng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Thiên nhiên nước ta bốn mùa xanh tươi khác hẳn với các nước có cùng độ vĩ ở Tây Á, châu Phi là nhờ :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nước ta nằm hoàn toàn trong vùng nội chí tuyến.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nước ta nằm ở trung tâm vùng Đông Nam Á.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nước ta nằm ở vị trí tiếp giáp của nhiều hệ thống tự nhiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nước ta nằm tiếp giáp Biển Đông với chiều dài bờ biển trên 3260 km",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Nằm ở vị trí tiếp giáp giữa lục địa và đại dương trên vành đai sinh khoáng Thái Bình Dương, nên Việt Nam có nhiều:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nhiều động vật quý hiếm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tài nguyên khoáng sản",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Bão và lũ lụt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vùng tự nhiên khác nhau trên lãnh thổ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Thế mạnh của vị trí địa lí nước ta trong khu vực Đông Nam Á sẽ được phát huy cao độ nếu biết kết hợp xây dựng các loại hình giao thông vận tải:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đường ô tô và đường sắt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường biển và đường sắt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đường hàng không và đường biển.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đường ô tô và đường biển.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Vị trí địa lí đã quy định đặc điểm cơ bản của thiên nhiên nước ta",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. chịu ảnh hưởng sâu sắc của biển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. có thảm thực vật bốn mùa xanh tốt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. có khí hậu hai mùa rõ rệt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. mang tính chất nhiệt đới ẩm gió mùa",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Do nước ta nằm hoàn toàn trong vùng nhiệt đới ở bán cầu Bắc, nên:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. khí hậu có hai mùa rõ rệt: mùa đông bớt nóng, khô và mùa hạ nóng, mưa nhiều",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nền nhiệt độ cao, các cân bức xạ quanh năm dương",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. có nhiều tài nguyên sinh vật quý giá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. có sự phân hóa tự nhiên rõ rệt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Hạn chế nào không phải do hình dạng dài và hẹp của lãnh thổ Việt Nam mang lại:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khoáng sản nước ta đa dạng, nhưng trữ lượng không lớn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Giao thông Bắc – Nam trắc trở",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Việc bảo vệ an ninh và chủ quyền lãnh thổ khó khăn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khí hậu phân hóa phức tạp",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Ý nghĩa của biển Đông đối với an ninh quốc phòng nước ta là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nước ta có khả năng phát triển tổng hợp kinh tế biển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thúc đẩy mở rộng, giao lưu hợp tác quốc tế bằng đường biển",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Là một hướng chiến lược có ý nghĩa rất quan trọng trong công cuộc xây dựng, phát triển và bảo vệ đất nước.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Là bàn đạp để nước ta tiến dần ra biển trong thời đại mới",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Đây là cảng biển mở lối ra biển thuận lợi cho vùng Đông Bắc Cam-pu-chia?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hải Phòng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cửa Lò",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Rạch Giá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cam Ranh",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Ở nước ta, loại tài nguyên có triển vọng khai thác lớn nhưng chưa được chú ý đúng mức là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tài nguyên đất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tài nguyên biển.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. tài nguyên rừng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tài nguyên khoáng sản.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Đâu là nguồn lực tạo điều kiện để nước ta mở cửa, hội nhập với các nước trên thế giới?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chính sách đổi mới của nhà nước trong thời kì mới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nền kinh tế trong nước phát triển.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vị trí địa lí thuận lợi",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tài nguyên giàu có, nguồn lao động dồi dào",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Hiện nay, việc bảo vệ chủ quyền lãnh thổ của nước ta gặp nhiều khó khăn chủ yếu là do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có đường biên giới kéo dài trên đất liền và trên biển.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. phần lớn biên giới nước ta nằm ở khu vực núi cao.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. đường bờ biển kéo dài và tiếp giáp nhiều quốc gia",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. vùng biển nước ta rộng lớn và đang có sự tranh chấp.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Nhân tố nào sau đây quyết định tính chất phong phú về thành phần loại của giới thực vật Việt Nam?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nằm ở nơi giao thoa của các luồng sinh vật.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Khí hậu nhiệt đới ẩm gió mùa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự phong phú đa dạng của các nhóm đất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Địa hình đồi núi chiếm ưu thế và phân hóa phức tạp",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

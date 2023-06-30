@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/khoang-cach-tu-mot-diem-den-duong-thang/99024/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình chóp S.ABC trong đó SA,AB,BC đôi một vuông góc và SA=AB=BC=1. Khoảng cách giữa hai điểm S và C nhận giá trị nào trong các giá trị sau ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hình chóp đều S.ABC có cạnh đáy bằng 3a, cạnh bên bằng 2a. Gọi H là trung điểm của BC, khoảng cách từ S đến AH bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình chóp A.BCDcó cạnh AC⊥(BCD) và BCD là tam giác đều cạnh bằng a. Biết AC=a2, khoảng cách từ A đến đường thẳng BD bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4a53",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a112",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có SA⊥ABCD, đáy ABCD là hình thoi cạnh bằng a và B^=600. Biết SA=2a. Tính khoảng cách từ A đến SC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a55",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5a62",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ có cạnh bằng a. Khoảng cách từ đỉnh A của hình lập phương đó đến đường thẳng CD′ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a62",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ có cạnh bằng a. Khoảng cách từ đỉnh A của hình lập phương đó đến đường thẳng DB' bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a62",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a63",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có SA⊥(ABCD),SA=2a, ABCDlà hình vuông cạnh bằng a. Gọi O là tâm của ABCD, tính khoảng cách từ O đến SC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a33",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp tứ giác đều có cạnh đáy bằng aa và góc hợp bởi một cạnh bên và mặt đáy bằng α. Khoảng cách từ tâm của đáy đến một cạnh bên bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2cotα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a2tanα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a22cosα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a22sinα",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho tứ diện SABC trong đó SA, SB, SC vuông góc với nhau từng đôi một và SA=3a, SB=a,SC=2a. Khoảng cách từ A đến đường thẳng BC bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7a55",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5a66",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình chóp A.BCD có cạnh AC⊥(BCD) và BCD là tam giác đều cạnh bằng a. Biết AC=a2 và M là trung điểm của BD. Khoảng cách từ C đến đường thẳng AM bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a611",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a75",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a47",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình chóp S.ABC trong đó SA, AB, BC vuông góc với nhau từng đôi một. Biết SA=3a, AB=a3A, BC=a6. Khoảng cách từ B đến SC bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ có cạnh bằng aa. Khoảng cách từ ba điểm nào sau đây đến đường chéo AC′ bằng nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A', B, C'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. B, C, D",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. B', C', D'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A, A', D'",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

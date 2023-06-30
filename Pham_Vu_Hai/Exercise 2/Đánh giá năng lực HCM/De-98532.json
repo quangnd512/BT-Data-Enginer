@@ -1,0 +1,419 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/con-lac-lo-xo1/98532/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Phát biểu nào sau đây sai khi nói về chuyển động của con lắc lò xo:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chuyển động của vật là chuyển động thẳng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Chuyển động của vật là chuyển động biến đổi đều.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Chuyển động của vật là chuyển động tuần hoàn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Chuyển động của vật là dao động điều hòa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nA, C, D đúng\nB - sai vì gia tốc của vật luôn luôn thay đổi mà chuyển động biến đổi đều là chuyển động có gia tốc không đổi\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một con lắc lò xo dao động không ma sát trên một mặt phẳng ngang. Phát biểu nào sau đây sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Dao động của con lắc là dao động tuần hoàn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Dao động của con lắc là dao động điều hòa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Thời gian thực hiện một dao động càng lớn khi biên độ càng lớn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Số dao động thực hiện được trong 1s tỉ lệ thuận với căn bậc hai của độ cứng k.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nA, B - đúng vì dao động của con lắc lò xo là dao động điều hòa mà dao động điều hòa là trường hợp riêng của dao động tuần hoàn\nD - đúng vì: số dao động vật thực hiện trong 1s là tần số \nf=12πkm (tỉ lệ thuận với căn bậc 2 của k)\nC - sai vì chu kì dao động không phụ thuộc vào biên độ\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chu kì dao động của con lắc lò xo phụ thuộc vào:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Gia tốc của sự rơi tự do.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Biên độ của dao động.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Điều kiện kích thích ban đầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Khối lượng của vật nặng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, chu kì dao động của con lắc lò xo:T=2πmk\n=> chu kì T phụ thuộc vào khối lượng m, độ cứng k\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một con lắc lò xo đang dao động điều hòa. Biên độ dao động phụ thuộc vào:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Độ cứng lò xo",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Khối lượng vật nặng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Điều kiện kích thích ban đầu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Gia tốc của sự rơi tự do.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nBiên độ dao động phụ thuộc vào kích thích ban đầu\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong con lắc lò xo nếu ta tăng khối lượng vật nặng lên 4 lần và độ cứng tăng 2 lần thì tần số dao động của vật:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tăng 2 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Giảm 2 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tăng 2 lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Giảm 2 lần.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, tần số dao động của con lắc lò xo: f=12πkm\nKhi tăng khối lượng lên 4 lần và độ cứng tăng 2 lần tức là m'=4mk'=2k\nTần số dao động của con lắc khi này:f'=12πk'm'=12π2k4m=12πk2m\nf'f=12πk2m12πkm=12\n \n⇒f'=f2Hay nói cách khác khi tăng khối lượng lên 4 lần và độ cứng tăng 2 lần thì tần số dao động sẽ giảm 2 lần\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đồ thị nào sau đây biểu diễn đúng sự phụ thuộc của chu kì vào khối lượng của con lắc lò xo dao động điều hòa?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đồ thị A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Đồ thị B",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Đồ thị C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đồ thị D",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, chu kì dao động của con lắc lò xo:T=2πmk→T2=4π2mk\n=> Đồ thị T−m có dạng parabol \nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Con lắc lò xo gồm vật m và lò xo k=100N/m, dao động điều hòa với tần số 3,18Hz. Khối lượng vật nặng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,2kg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.250g",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0,3kg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.100g",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một lò xo có chiều dài tự nhiên l0 = 25cm được treo thẳng đứng, treo vật nặng vào dưới lò xo dài l = 27,5cm (lấy g = 10m/s2). Chu kì dao động của con lắc lò xo là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,1s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,314s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3,14s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một lò xo có độ cứng k=25(N/m). Một đầu của lò xo gắn vào điểm O cố định. Treo vào lò xo hai vật có khối lượng m=100g và Δm=60g. Tính độ dãn của lò xo khi vật cân bằng và tần số góc dao động của con lắc.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Δl0=4,4cm;ω=12,5rad/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Δl0=6,4cm;ω=12,5rad/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Δl0=6,4cm;ω=10,5rad/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Δl0=6,4cm;ω=13,5rad/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Khi gắn vật có khối lượng m1 = 4kg vào một lò xo có khối lượng không đáng kể, nó dao động với chu kì T1 = 1s. Khi gắn một vật khác có khối lượng m2 vào lò xo trên nó dao động với chu kì T2 = 0,5s. Khối lượng m2 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,5kg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2 kg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1 kg",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3 kg",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cơ năng của một con lắc lò xo tỉ lệ thuận với:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Li độ dao động",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Biên độ dao động",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Bình phương biên độ dao động",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Tần số dao động.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một chất điểm khối lượng m=100(g), dao động điều hoà với phương trình x=4cos(2t)cm. Cơ năng trong dao động điều hoà của chất điểm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.W = 3200 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.W = 3,2 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.W= 0,32 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.W= 0,32 mJ",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một con lắc lò xo có độ cứng k=150N/m và có năng lượng dao động là E=0,12J. Biên độ dao động của con lắc có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A=4mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.A=4m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A=0,04m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.A=2cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Con lắc lò xo dao động theo phương ngang với phương trình x=Acos(ωt+φ) Cứ sau những khoảng thời gian bằng nhau và bằng π40s thì động năng của vật bằng thế năng của lò xo. Con lắc dao động điều hoà với tần số góc:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.ω=20rad/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ω=80rad/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ω=40rad/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ω=10rad/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một chất điểm có khối lượng m = 1 kg dao động điều hoà với chu kì T= π/5(s). Biết năng lượng của nó là 0,02 J. Biên độ dao động của chất điểm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A = 2 cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.A = 4 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A = 6,3 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A = 6 cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Con lắc lò xo dao động điều hòa trên mặt phẳng ngang không ma sát. Khi vật ở vị trí biên, ta giữ chặt một phần của lò xo làm cơ năng của vật giảm 10% thì biên độ dao động của hệ vật sẽ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. giảm 10%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tăng 10%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. giảm 10%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. tăng 10%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một vật nặng gắn vào một lò xo nhẹ có độ cứng k = 20 N/m thực hiện dao động điều hoà với biên độ A = 5cm. Động năng của vật khi nó cách vị trí cân bằng 4 cm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,04 J.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,0016 J.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,009 J.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0,024 J.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Xét một con lắc lò xo gồm vật nhỏ và lò xo nhẹ dao động điều hòa trên mặt phẳng nằm ngang với biên độ A. Chọn gốc thế năng tại vị trí cân bằng. Tại vị trí con lắc có động năng bằng cơ năng, li độ của vật có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.±A2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ±A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ±A22",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

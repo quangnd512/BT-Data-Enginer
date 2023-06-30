@@ -1,0 +1,695 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/he-toa-do-trong-khong-gian/97975/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz cho điểm A(1;−2;4). Hình chiếu vuông góc của A trên trục Oy là điểm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.P(0;0;4)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Q(1;0;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.N(0;−2;0)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.M(0;−2;4)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHình chiếu vuông góc của A(1;−2;4) trên trục Oy là điểm N(0;−2;0).\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Điểm M(x;y;z) nếu và chỉ nếu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.OM→=x.i→+y.j→+z.k→",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. OM→=z.i→+y.j→+x.k→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. OM→=x.j→+y.k+z.i→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. OM→=x.k→+y.j→+z.i→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiểm Mx;y;z⇔OM→=x.i→+y.j→+z.k→\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Điểm N là hình chiếu của M(x;y;z) trên trục tọa độ OzOz thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.N(x;y;z)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.N(x;y;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.N(0;0;z)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.N(0;0;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nChiếu M lên trục Oz thì x=0;y=0và giữ nguyên z nên N(0;0;z).\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Hình chiếu của điểm M(1;−1;0) lên trục Oz là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.N(−1;−1;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.N(1;−1;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.N(−1;1;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.N(0;0;0)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVì chiếu điểm M lên trục Oz nên giữ nguyên z và cho x=y=0. Do đó ta được hình chiếu của điểm M(1;−1;0) lên trục Oz là N(0;0;0)\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khi chiếu điểm M(−4;3;−2) lên trục Ox được điểm N thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.ON¯=−4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ON¯=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ON¯=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ON¯=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhi chiếu điểm M(−4;3;−2) lên trục Ox được điểm N có tọa độ N(−4;0;0)  nênON¯=−4\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Điểm M∈(Oxy)  thì tọa độ của M là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(x;y;0)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.M(0;x;y)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M(0;0;z)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M(0;0;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiểm M∈Oxy thì cao độ z=0. Do đó M(x;y;0).\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Hình chiếu của điểm M(2;2;−1) lên mặt phẳng (Oyz) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.N(0;2;−1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.N(2;0;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.N(0;2;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.N(0;2;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tọa độ điểm M là trung điểm đoạn thẳng AB là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M−xA+xB2;−yA+yB2;−zA+zB2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.MxA+xB3;yA+yB3;zA+zB3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.MxA−xB2;yA−yB2;zA−zB2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. MxA+xB2;yA+yB2;zA+zB2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tọa độ trọng tâm tam giác ABC là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.GxA+xB+xC3;yA+yB+yC3;zA+zB+zC3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. GxA+xB+xC4;yA+yB+yC4;zA+zB+zC4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. GxA−xB+xC3;yA−yB+yC3;zA−zB+zC3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. GxA−xB−xC3;yA−yB−yC3;zA−zB−zC3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hai véc tơ u→=a;0;1,v→=−2;0;c. Biết u→=v→ khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.a=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.c=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.a=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.a=c",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Công thức tính độ dài véc tơ u→=a;b;c là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.u→=a+b+c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. u→=a2+b2+c2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. u→=a2+b2+c2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u→=a+b+c2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho các véc tơ u1→x1;y1;z1 và u2→(x2;y2;z2),, khi đó cô sin góc hợp bởi hai véc tơ u1→,u2→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.u1→.u2→u1→.u2→",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x1x2+y1y2+z1z2x12+y12+z12.x22+y22+z22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x1x2+y1y2+z1z2x12+y12+z12.x22+y22+z222",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u1→.u2→u1→.u2→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hai véc tơ u→=−1;−1;−1,v→=2;1;0, khi đó cô sin của góc hợp bởi hai véc tơ đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−155",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 315",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −53",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 415",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tung độ của điểm M thỏa mãn OM→=2j→−i→+k→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hình chiếu của điểm M(0;2;1) trên mặt phẳng (Oxy) thuộc:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.trục Ox",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.trục Oy",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.trục Oz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.trùng điểm O",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hai điểm A(−3;1;2),B(1;1;0), tọa độ trung điểm đoạn thẳng AB  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(−1;1;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.M(−2;2;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M(−2;0;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M(−1;2;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho tam giác ABC có A(2;1;0),B(−1;0;3),C(1;2;3). Tọa độ trọng tâm tam giác là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.G2;1;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. G23;1;2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. G23;13;−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. G1;1;2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Gọi G(4;−1;3) là tọa độ trọng tâm tam giác ABC với A(0;2;−1),B(−1;3;2). Tìm tọa độ điểm C.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.C(−1;3;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.C(11;−2;10)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.C(5;−6;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.C(13;−8;8)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tọa độ trọng tâm tứ diện ABCD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.GxA+xB+xC+xD3;yA+yB+yC+yD3;zA+zB+zC+zD3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. GxA+xB+xC+xD4;yA+yB+yC+yD4;zA+zB+zC+zD4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. GxA+xB+xC+xD2;yA+yB+yC+yD2;zA+zB+zC+zD2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.GxA+xB−xC+xD4;yA+yB−yC+yD4;zA−zB+zC+zD4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho tứ diện ABCD có A(1;0;0),B(0;1;1),C(−1;2;0),D(0;0;3). Tọa độ trọng tâm tứ diện G là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.G0;34;1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. G0;3;4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. G12;−12;−12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. G0;32;2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hai véc tơ OA→=−1;2;−3,OB→=2;−1;0, khi đó tổng hai véc tơ OA→,OB→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(1;1;−3)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.(−3;3;−3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(1;3;−3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(1;−1;3)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hai véc tơ u→=−2;3;1 và v→=1;1;1. Khi đó số thực m=u→.v→ thỏa mãn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m∈0;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m∈−2;0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m∈1;3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho ba vectoa→=2;3;−5;​​b→=0;−3;4;​​c→=1;−2;3. Tọa độ vector n→=3a→+2b→−c→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.n→=5;1;−10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. n→=7;1;−4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n→=5;5;−10",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. n→=5;−5;−10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hai véc tơ u→=2;1;−3,v→=0;b;1, nếu u→⊥v→ thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.b=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.b=−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.b=3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.b=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hai điểm A(5;3;1),B(1;3;5). Độ dài véc tơ AB→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−4;0;4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 42",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 63",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Độ dài đoạn thẳng AB với A(2;1;0),B(4;−1;1) là một số:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.nguyên âm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.vô tỉ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.nguyên dương",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.bằng 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hai vectơ a→=1;1;−2,  b→=1;0;m. Góc giữa chúng bằng 450 khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m=2+5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=2±6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=2−6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m=2+6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Trong không gian Oxyz, cho hình hộp ABCD.A’B’C’D’ có A(0;0;1), B’(1;0;0), C’(1;1;0). Tìm tọa độ điểm D.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.D(0;1;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.D(0;-1;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.D(0;1;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.D(1;1;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho 3 điểm A(0;0;1), B(1;0;0); C(1;1;0). Tính bán kính đường tròn ngoại tiếp tam giác ABC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Trong không gian Oxyz, cho điểm A(1;1;1),B(4;1;1),C(1;1;5). Tìm tọa độ điểm II là tâm đường tròn nội tiếp tam giác ABC",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I(−2;1;−2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.I(2;1;2)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.I(2;1;−2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.I(−2;−1;−2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

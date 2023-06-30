@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/gia-tri-luong-giac-cua-mot-goc-cung-luong-giac/95175/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sin743°=sin23°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.sin743°=−sin23°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sin743°=cos23°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.sin743°=−cos23°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: sin743°=sin23°+2.360°=sin23°\n \nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho góc x  thoả 00 < x < 900. Trong các mệnh đề sau, mệnh đề nào sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sinx > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cosx < 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. tanx > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cotx > 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVì 00 < x < 900 nên sinx > 0, cosx > 0, tanx > 0, cotx > 0\nSuy ra cosx < 0 sai.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Giá trị của biểu thức P = msin00 + ncos00 + psin900",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. n − p",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m + p",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m − p",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n + p",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nP = msin00 + ncos00 + psin900 \n= m.0 + n.1 + p.1\n= n + p\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho biểu thức P=3sin2x+4cos2x , biết cosx=12 . Giá trị của P bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.74",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.134",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n \n \n \nP=3sin2x+4cos2x\n=3sin2x+cos2x+cos2x\n=3+122−134\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong các khẳng định sau khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cotαtanα=1,  α≠kπ2,k∈Z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1+tan2α=1cos2α,  α≠kπ,k∈Z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sin2α+cos2β=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1+cot2α=1sin2α,  α≠π2+kπ,k∈Z",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐáp án B: 1+tan2α=1cos2α,  α≠kπ,k∈Z  sai\nVì: cosx≠0⇔ x≠π2+kπ,k∈Z\nĐáp án C: sin2α+cos2β=1  sai\nVì: α≠β\nĐáp án D: 1+cot2α=1sin2α,  α≠π2+kπ,k∈Z  sai \nVì: sinx≠0⇔x≠kπ,k∈Z\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Biết cotα=−1213  và π2<α<π . Giá trị của sinα, tanα  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−513;23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.23;−512",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−513;512",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.513;−512",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nsin2α+cos2α=1\n⇒sin2α=1−cos2α\n⇒sin2α=1−−12132=25169\n⇒sinα=±513\n\nVì π2<α<π  nên sinα>0\n⇒sinα=513\n⇒tanα=sinαcosα=−512\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Giá trị của biểu thức S=3−sin290°+2cos260°−3tan245°  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.-12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho π<α<3π2 . Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sin3π2+α>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.sinπ2+α≥0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sinπ2+α<0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.sinπ2+α≤0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho sinα=13π2<α<π . Giá trị tanα  là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.tanα=−34",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.tanα=−22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tanα=22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.tanα=24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho cosα=−23180°<α<270° . Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cotα=255",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.cotα=25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.cotα=−25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.cotα=−255",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Giá trị của biểu thức A=cos750°+sin420°sin−330°−cos−390° . Ta được",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A=−3−3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.A=2−33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A=233−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A=1−33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong các mệnh đề sau, mệnh đề nào sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sinx+cosx2=1+2sinxcosx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.sinx−cosx2=1−2sinxcosx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sin4x+cos4x=1−2sin2xcos2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.sin6x+cos6x=1−2sin2xcos2x",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Nếu tanα+cotα=2  thì tan2α+cot2α  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Kết quả đơn giản của biểu thức sinα+tanαcosα+12+1  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1+tanα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1cos2α",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1sin2α",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho A = cos2350.sin600.tan1250.cos900. Khẳng định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A = 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. A > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A = 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Biểu thức P=cos2x.cot2x+3cos2x−cot2x+2sin2x  có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.-2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.-3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Giá trị lớn nhất của 6cos2x+6sinx−2  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.112",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

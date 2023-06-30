@@ -1,0 +1,609 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ham-so-bac-hai-3/95257/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Xác định Parabol (P): y=ax2+bx+2 biết rằng Parabol đi qua hai điểm M(1;5) và N(2;−2).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=−5x2+8x+2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y=10x2+13x+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=−10x2−13x+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=9x2+6x−5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nVì nên tọa độ của hai điểm M, N phải thỏa mãn phương trình của (P).Do đó, ta có hệ phương trình 5=a+b+2−2=4a+2b+2⇔a=−5b=8\n\nVậy phương trình của (P) là:  y=−5x2+8x+2\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Xác định Parabol (P): y=ax2+bx+3  biết rằng Parabol có đỉnh I(3;−2).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=x2−6x+3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=−59x2+103x+3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=3x2+9x+3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=59x2−103x+3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa có đỉnh của (P)có tọa độ\nx=−b2a=3y=9a+3b+3=−2⇔6a+b=09a+3b=−5⇔a=59b=−103\n\nSuy ra phương trình của Parabol (P) là y=59x2−103x+3\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Xác định Parabol (P): y=ax2+bx−5 biết rằng Parabol đi qua điểm A(3;−4) và có trục đối xứng x = −32",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=118x2+16x−5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y=118x2+16x+5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=3x2+9x−9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=−118x2+16x−5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n(P) đi qua điểm A(3;−4) nên −4=9a+3b−5⇔9a+3b=1\n\nTrục đối xứng x=−b2a=−32⇔b=3a\n\nSuy ra hệ phương trình 9a+3b=13a−b=0⇔a=118b=16\n\nVậy phương trình của (P)là y=118x2+16x−5\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tìm các giá trị của tham số m để phương trình 2x2−2x+1−m=0  có hai nghiệm phân biệt",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m>12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m<12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không tồn tại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n2x2−2x+1−m=0⇔2x2−2x=m−1\nSố nghiệm của phương trình đã cho bằng số giao điểm của Parabol\nP:  y=2x2−2x và đường thẳng y=m−1 có tính chất song song với trục hoành.\nParabol (P) có tọa độ đỉnh −b2a;−Δ4a=12;−12\n\nDựa trên đồ thị ta thấy phương trình đã cho có hai nghiệm khi và chỉ khi\nm−1>−12⇔m>12\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hàm số f(x)=x2+2x−3 \n\nXét các mệnh đề sau: \n(i) f(x−1)=x2−4\n(ii) Hàm số đã cho đồng biến trên −1;+∞\n(iii) Giá trị nhỏ nhất của hàm số là một số âm.\n(iv) Phương trình f(x)=m có nghiệm khi m≥−4\n\nSố mệnh đề đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa có fx−1=x−12+2x−1−3=x2−4\nVới trục đối xứng x=−b2a=−1 và hệ số a=1>0 thì hàm số đồng biến trên −1;  +∞\nBiến đối fx=x2+2x−3=x+12−4≥−4 ⇒ GTNN của hàm số là −4 < 0\nDễ thấy fx=m⇔x+12=m+4 nên để phương trình có nghiệm thì\nm+4≥0⇔m≥−4\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tìm các giá trị của m để hàm số y=x2+mx+5 luôn đồng biến trên 1;+∞",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m < −2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m ≥ −2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m = −4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrục đối xứng x=−b2a=−m2\n\nVới hệ số a = 1 > 0 thì hàm số đã cho đồng biến trên −m2;  +∞\nVậy để hàm số luôn đồng biến trên 1;  +∞ thì −m2≤1⇔m≥−2\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tìm giá trị của m để hàm số y=−x2+2x+m−5 đạt giá trị lớn nhất bằng 6",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m = 10",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m = −10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một cái cổng hình parabol có dạng y=−12x2 có chiều rộng d = 4m. \nTính chiều cao h của cổng (xem hình minh họa)",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Viết phương trình của Parabol (P) biết rằng (P) đi qua các điểm A(0;2), B(−2;5), C(3;8)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=710x2+110x−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=710x2−110x+2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=710x2−110x−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=710x2+110x+2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho phương trình của (P): y=ax2+bx+ca≠0 biết rằng hàm số có giá trị lớn nhất bằng 1 và đồ thị hàm số đi qua các điểm A(2;0), B(−2;−8) Tính tổng  a2+b2+c2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2+b2+c2=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a2+b2+c2=2916",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a2+b2+c2=4829",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a2+b2+c2=5a2+b2+c2=20916",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Biết đồ thị hàm số (P): y=x2−(m2+1)x−1 cắt trục hoành tại hai điểm phân biệt có hoành độ x1,x2. Tìm giá trị của tham số mm để biểu thức T=x1+x2  đạt giá trị nhỏ nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tìm các giá trị của tham số mm để phương trình x2−2(m+1)x+1=0 có hai nghiệm phân biệt trong đó có đúng một nghiệm thuộc khoảng (0;1).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m > 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tìm các giá trị của tham số m để 2x2−2(m+1)x+m2−2m+4≥0(∀x)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. M = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3−2<m<3+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m≥3+2m≤3−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không tồn tại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tìm giá trị nhỏ nhất của hàm số f(x) biết rằng f(x+2)=x2−3x+2 trên ℝ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tìm giá trị của m để đồ thị hàm số y=x2−2x+m−1 cắt trục hoành tại hai điểm phân biệt có hoành độ dương.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=1m=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m<1m>2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1 < m < 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Tìm điểm A cố định mà họ đồ thị hàm số y=x2+(2−m)x+3m          (Pm) luôn đi qua.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A(3;15)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.A(0;−2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A(3;−15)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A(−3;−15)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một chiếc cổng parabol dạng y=−12x2 có chiều rộng d = 8m. Hãy tính chiều cao h của cổng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. h = 8m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. h = 7m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. h = 9m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. h = 5m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Tìm các giá trị thực của tham số m để phương trình x2−3x+2=m có bốn nghiệm thực phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≥14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0<m<14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không tồn tại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm các giá trị của tham số m để phương trình 12x2−4x+3=m2có 3 nghiệm thực phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −3<m<3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=±3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không tồn tại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tìm các giá trị của m để phương trình x2−2x+4x2−12x+9=m có nghiệm duy nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −34<m<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −32<m<32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=−34",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không tồn tại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tìm giá trị nhỏ nhất của biểu thức P=3a2b2+b2a2−8ab+ba",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −343",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−10",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Đạn bắn ra từ 1 máy bắn đá có quỹ đạo là một parabol (P). Biết rằng đạn của máy bắn đá bắn xa 100m và tại thời điểm đạn cao 60m thì đạn cách điểm bắn 80m.\n\n\nVị trí đạn bay cao nhất cách mặt đất bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.95,75m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.96,75m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.91,75m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.93,75m",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Đạn bắn ra từ 1 máy bắn đá có quỹ đạo là một parabol (P). Biết rằng đạn của máy bắn đá bắn xa 100m và tại thời điểm đạn cao 60m thì đạn cách điểm bắn 80m.\n\n\nMáy bắn đá cách tường thành địch 90m. Biết tường thành cao 30m. Hỏi chiều cao khi đạn bay đến tường thành thì cao hơn hay thấp hơn tường thành bao nhiêu mét?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,75m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.33,75m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.31,75m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,75m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Đạn bắn ra từ 1 máy bắn đá có quỹ đạo là một parabol (P). Biết rằng đạn của máy bắn đá bắn xa 100m và tại thời điểm đạn cao 60m thì đạn cách điểm bắn 80m.\n\n\nĐịch xây chòi phòng thủ cao 20m phía trước tường thành. Hỏi phải đặt máy bắn đá cách chòi bao xa để đạn có thể bắn trúng chòi? Biết rằng để tránh bị địch tấn công thì máy bắn đá phải đặt cách thành địch ít nhất 50m.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.93,35 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.95,35 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.94,35 m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.95,85 m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Bảng giá cước của một hãng taxi X được cho như bảng dưới đây:\n\n\n\n\n\n\nQuãng đường\n\n\nGiá cước (VNĐ/km)\n\n\n\n\nTừ 0 đến 10 km\n\n\n10 000\n\n\n\n\nTừ trên 10 km đến 40 km\n\n\n15 000\n\n\n\n\nTrên 40 km\n\n\n12 500\n\n\n\n\nThiết lập công thức liên hệ giữa quãng đường di chuyển và số tiền tương ứng phải trả. Nếu một người đi taxi của hãng X phải trả số tiền xe là 475000VNĐ thì người đó đã đi quãng đường là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.35 km",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.36 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.37 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.38 km",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Bảng giá cước của một hãng taxi X được cho như bảng dưới đây:\n\n\n\n\n\n\nQuãng đường\n\n\nGiá cước (VNĐ/km)\n\n\n\n\nTừ 0 đến 10 km\n\n\n10 000\n\n\n\n\nTừ trên 10 km đến 40 km\n\n\n15 000\n\n\n\n\nTrên 40 km\n\n\n12 500\n\n\n\n\nMột người đi taxi của hãng X từ A đến B, sau đó phải bắt taxi một lần nữa để đi từ B đến C. Biết quãng đường AB trong khoảng từ 10 đến 40 km, quãng đường BC dài hơn quãng đường AB là 32 km. Số tiền người đó phải trả ở quãng đường BC gấp 2,8 lần số tiền phải trả ở quãng đường AB. Tính độ dài quãng đường AB.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.19 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.20 km",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.21 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.22 km",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Bảng giá cước của một hãng taxi X được cho như bảng dưới đây:\n\n\n\n\n\n\nQuãng đường\n\n\nGiá cước (VNĐ/km)\n\n\n\n\nTừ 0 đến 10 km\n\n\n10 000\n\n\n\n\nTừ trên 10 km đến 40 km\n\n\n15 000\n\n\n\n\nTrên 40 km\n\n\n12 500\n\n\n\n\nNgày Valentine, hãng X áp dụng chương trình giảm giá 10% cho khách hàng, tối đa 50000VNĐ. Một người đi taxi của hãng X trong dịp này phải trả 360000VNĐ thì người đó đã đi quãng đường là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.15 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.25 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.30 km",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

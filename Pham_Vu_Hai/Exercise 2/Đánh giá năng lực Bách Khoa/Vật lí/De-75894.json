@@ -1,0 +1,419 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/con-lac-don/75894/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Chu kỳ dao động nhỏ của con lắc đơn phụ thuộc vào:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khối lượng của con lắc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trọng lượng của con lắc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tỷ số trọng lượng và khối lượng của con lắc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Khối lượng riêng của con lắc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có chu kì dao động của con lắc đơn: \\[T = 2\\pi \\sqrt {\\frac{l}{g}} \\]=> Chu kì dao động của con lắc đơn phụ thuộc vào chiều dài con lắc đơn (l) và gia tốc trọng trường (g)Ta có, tỉ số trọng lượng và khối lượng của con lắc là:\\[\\frac{P}{m} = \\frac{{mg}}{m} = g\\]A, B, D - loạiĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tại một nơi  xác định, hai con lắc đơn có độ dài l1 và l2, dao động điều hoà với tần số tương ứng f1 và f2. Tỉ số \\[\\frac{{{f_1}}}{{{f_2}}}\\] bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\sqrt {\\frac{{{l_1}}}{{{l_2}}}} \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[\\frac{{{l_1}}}{{{l_2}}}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[\\sqrt {\\frac{{{l_2}}}{{{l_1}}}} \\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[\\frac{{{l_2}}}{{{l_1}}}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n+ Tần số dao động của con lắc đơn có chiều dài l1:\n\\[{f_1} = \\frac{1}{{2\\pi }}\\sqrt {\\frac{g}{{{l_1}}}} \\]\n+ Tần số dao động của con lắc đơn có chiều dài l2:\n\\[{f_2} = \\frac{1}{{2\\pi }}\\sqrt {\\frac{g}{{{l_2}}}} \\]\n\\[ \\to \\frac{{{f_1}}}{{{f_2}}} = \\sqrt {\\frac{{{l_2}}}{{{l_1}}}} \\]\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Con lắc đơn có chiều dài dây treo là l = 1 m thực hiện 10 dao động mất 20s. Lấy π = 3,14 . Gia tốc trọng trường tại nơi đặt con lắc là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. g ≈ 10 m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. g ≈ 9, 75 m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. g ≈ 9,95 m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. g ≈ 9,86 m/s2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có:\n+ Chu kì dao động của con lắc:\n\\[T = \\frac{{\\Delta t}}{N} = \\frac{{20}}{{10}} = 2s\\]\nMặt khác, ta có:\n\\[T = 2\\pi \\sqrt {\\frac{l}{g}} \\]\n\\[ \\to g = \\frac{{4{\\pi ^2}l}}{{{T^2}}} = \\frac{{4{\\pi ^2}.1}}{{{2^2}}} = {\\pi ^2} \\approx 9,869m/{s^2}\\]\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Con lắc đơn có chiều dài ℓ, trong khoảng thời gian Δt thực hiện được 40 dao động. Nếu tăng chiều dài dây của dây treo thêm 19 cm, thì cũng trong khoảng thời gian trên con lắc chỉ thực hiện được 36 dao động. Chiều dài lúc đầu của con lắc là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ℓ = 64cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. l = 19cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ℓ = 36cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. l = 81cm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:- Tần số dao động của con lắc đơn lúc đầu: \\[{f_1} = \\frac{{40}}{{\\Delta t}} = \\frac{1}{{2\\pi }}\\sqrt {\\frac{g}{l}} \\]- Tần số dao động của con lắc đơn khi tăn chiều dài dây của dây treo thêm 19cm: \\[{f_2} = \\frac{{36}}{{\\Delta t}} = \\frac{1}{{2\\pi }}\\sqrt {\\frac{g}{{l + 0,19}}} \\]\\[ \\Rightarrow \\frac{{{f_1}}}{{{f_2}}} = \\frac{{40}}{{36}} = \\sqrt {\\frac{{l + 0,19}}{l}} \\]\\[ \\to l = 0,81m = 81cm\\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một con lắc đơn đang dao động điều hòa với biên độ góc bằng 90 dưới tác dụng của trọng lực. Ở thời điểm t0, vật nhỏ của con lắc có li độ góc và li độ cong lần lượt là 4,50 và 2,5πcm. Lấy g = 10m/s2. Tốc độ của vật ở thời điểm t0 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 37cm/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 31cm/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 25cm/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43cm/s.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có:\n\\[{\\alpha _0} = {9^0} = \\frac{{9\\pi }}{{180}}rad\\]\n\\[{\\alpha _0} = 4,{5^0} = \\frac{{4,5\\pi }}{{180}}rad\\]\nTheo đề bài, ta có tại thời điểm t0: \n\\[\\left\\{ {\\begin{array}{*{20}{c}}{s = 2,5\\pi cm}\\\\{\\alpha = \\frac{{4,5\\pi }}{{180}}rad}\\end{array}} \\right.\\]\nLại có: \\[s = l\\alpha \\Rightarrow l = \\frac{s}{\\alpha } = \\frac{{2,5\\pi }}{{\\frac{{4,5\\pi }}{{180}}}} = 100cm = 1m\\]\nTa có, vận tốc tại vị trí α bất kì khi góc <100</10:\n\\[v = \\sqrt {gl\\left( {\\alpha _0^2 - {\\alpha ^2}} \\right)} \\]\nTa suy ra, vận tốc của vật tại thời điểm t0 là:\n\\[v = \\sqrt {gl\\left( {\\alpha _0^2 - {\\alpha ^2}} \\right)} = \\sqrt {10.1\\left( {{{\\left( {\\frac{{9\\pi }}{{180}}} \\right)}^2} - {{\\left( {\\frac{{4,5\\pi }}{{180}}} \\right)}^2}} \\right)} \\]\n= 0,43m = 43cm\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một học sinh thực hiện thí nghiệm khảo sát ảnh hưởng của chiều dài con lắc đơn với chu kì dao động kiểm chứng chu kì dao động. Từ kết quả thí nghiệm, học sinh này vẽ đồ thị biểu diễn sự phụ thuộc của T2 vào chiều dài l) của con lắc như hình vẽ. Góc α đo được trên hình bằng 76,10. Lấy π ≈ 3,14. Theo kết quả thí nghiệm của học sinh này thì gia tốc trọng trường tại nơi làm thí nghiệm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.9,76m/s2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.9,78m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9,8m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.9,83m/s2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có:\n\\[T = 2\\pi \\sqrt {\\frac{l}{g}} \\Rightarrow {T^2} = \\frac{{4\\pi }}{g}l\\]\n\\[ \\Rightarrow \\tan \\alpha = \\frac{{4{\\pi ^2}}}{g}\\]\n\\[ \\Rightarrow g = \\frac{{4{\\pi ^2}}}{{\\tan \\alpha }} = 9,76\\left( {m/{s^2}} \\right)\\]\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một con lắc đơn có chiều dài 1 m, được treo tại nơi có gia tốc trọng trường g = π2 m/s2. Giữ vật nhỏ của con lắc ở vị trí có li độ góc −90 rồi thả nhẹ . Bỏ qua lực cản của không khí. Con lắc đơn dao động điều hòa. Chọn gốc thời gian t = 0 là lúc vật nhỏ của con lắc chuyển động chậm dần qua vị trí có li độ góc −4,50. Phương trình dao động của vật là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[s = 5\\cos \\left( {\\pi t - \\frac{{2\\pi }}{3}} \\right)cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[s = 5\\cos \\left( {\\pi t + \\frac{{2\\pi }}{3}} \\right)cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[s = 5\\pi \\cos \\left( {\\pi t - \\frac{{2\\pi }}{3}} \\right)cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[s = 5\\pi \\cos \\left( {\\pi t + \\frac{{2\\pi }}{3}} \\right)cm\\]",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một con lắc đơn có chiều dài 50cm dao động điều hòa tại nơi có \\[g = 9,8\\frac{m}{{{s^2}}}\\]với biên độ góc α0. Thời gian ngắn nhất vật đi từ vị trí biên dương đến vị trí có li độ góc \\[\\alpha = \\frac{{{\\alpha _0}}}{{\\sqrt 2 }}\\]gần giá trị nào nhất sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,236s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,118s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,355s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,177s.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Phát biểu nào sau đây đúng nhất khi nói về dao động của một con lắc đơn trong trường hợp bỏ qua lực cản của môi trường?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khi vật nặng đi qua vị trí cân bằng thì hợp lực tác dụng lên vật bằng không.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khi vật nặng ở vị trí biên, cơ năng của con lắc bằng thế năng của nó.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Dao động của con lắc là dao động điều hòa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chuyển động của con lắc từ vị trí biên về vị trí cân bằng là chậm dần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tại cùng một nơi trên Trái Đất, con lắc đơn có chiều dài l dao động điều hòa với chu kì 2s2s, con lắc đơn có chiều dài 2l2l dao động điều hòa với chu kì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\sqrt 2 \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2\\[\\sqrt 2 \\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tại một nơi xác định, chu kì dao động điều hòa của con lắc đơn tỉ lệ thuận với:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Căn bậc hai chiều dài con lắc.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chiều dài con lắc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Căn bậc hai gia tốc trọng trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Gia tốc trọng trường.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong bài thực hành đo gia tốc trọng trường của Trái Đất tại phòng thí nghiệm, một học sinh đo được chiều dài của con lắc đơn l = 800 ± 1 (mm) thì chu kỳ dao động là T = 1,78 ± 0,02 (s). Lấy π = 3,14. Gia tốc trọng trường của Trái Đất tại phòng thí nghiệm đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 9,96 ± 0,24 m/s2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 9,96 ± 0,21 m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10,2 ± 0,24 m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9,72 ± 0,21 m/s2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một con lắc đơn dao động điều hòa có chu kì dao động T = 2s. Lấy g = 10m/s2, π2=10. Viết phương trình dao động của con lắc biết rằng tại thời điểm ban đầu, vật có li độ góc α = 0,05rad và vận tốc v = 15,7 cm/s.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[s = 5\\sqrt 2 \\cos \\left( {\\pi t + \\frac{\\pi }{4}} \\right)\\,cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[s = 5\\sqrt 2 \\cos \\left( {\\pi t - \\frac{\\pi }{4}} \\right)\\,cm\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[s = 5\\cos \\left( {\\pi t + \\frac{\\pi }{4}} \\right)\\,cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[s = 5\\cos \\left( {\\pi t - \\frac{\\pi }{4}} \\right)\\,cm\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một sợi dây nhẹ, không dãn, dài 100cm được buộc chặt vào hai điểm cố định A và B trên một đường thẳng nằm ngang cách nhau 60cm. Một hạt cườm nhỏ, nặng, được xâu vào dây và có thể trượt không ma sát dọc theo dây. Ban đầu hạt cườm đứng yên tại vị trí cân bằng. Kéo hạt cườm lệch khỏi vị trí cân bằng một đoạn nhỏ rồi buông nhẹ cho nó dao động điều hòa trong mặt phẳng vuông góc với AB và bỏ qua sức cản của không khí. Hạt cườm dao động với tần số góc có giá trị gần giá trị nào sau đây nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2π(rad/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2(rad/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4(rad/s)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4π(rad/s)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Con lắc đơn có chiều dài 1, vật nâng có khối lượng m = 200g. Từ vị trí cân bằng kéo vật sao cho dây treo hợp phương thẳng đúng góc α = 600 rồi thả nhẹ. Bỏ qua lực ma sát và lực cản. Lấy gia tốc trọng trường g = 9,8m/s2. Trong quá trình chuyển động thì gia tốc tổng hợp có giá trị nhỏ nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 15m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12m/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8m/s2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho một bộ thí nghiệm khảo sát dao động của con lắc đơn như hình bên. Tên các thiết bị trong bộ thí nghiệm đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5- quả cầu, 6- dây treo, 7- cổng quang điện hồng ngoại, 8- đồng hồ đo thời gian hiện số, 9- thanh ke.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5- dây treo; 6- quả cầu; 7- cổng quang điện hồng ngoại, 8– thanh ke, 9- đồng hồ đo thời gian hiện số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5- dây treo; 6- quả cầu; 7- cổng quang điện hồng ngoại; 4- đồng hồ đo thời gian hiện số; 9- thanh ke",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5- dây treo; 6- quả cầu; 7- cổng quang điện hồng ngoại; 8- đồng hồ đo thời gian hiện số; 9- thanh ke.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Con lắc đơn dao động điều hòa có  s0 = 4cm, tại nơi có gia tốc trọng trường g = 10m/s2. Biết chiều dài của dây là l = 1m. Hãy viết phương trình dao động biết lúc t = 0 vật đi qua vị trí cân bằng theo chiều dương?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[s = 4\\cos \\left( {10\\pi t - \\frac{\\pi }{2}} \\right)\\,cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[s = 4\\cos \\left( {\\pi t + \\frac{\\pi }{2}} \\right)\\,cm\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[s = 4\\cos \\left( {\\pi t - \\frac{\\pi }{2}} \\right)\\,cm\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[s = 4\\cos \\left( {10\\pi t + \\frac{\\pi }{2}} \\right)\\,cm\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một con lắc đơn có chiều dài 81 cm đang dao động điều hòa với biên độ góc 80  tại nơi có g = 9,87m/s2(π2 ≈ 9,87). Chọn t = 0 khi vật nhỏ của con lắc ở vị trí biên. Quãng đường vật nhỏ đi được trong khoảng thời gian từ t = 0 đến t = 1,2 s là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30,2 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 32,4 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 26,5 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 28,3 cm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

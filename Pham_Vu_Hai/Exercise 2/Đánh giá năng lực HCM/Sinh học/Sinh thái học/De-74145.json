@@ -1,0 +1,511 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-dac-trung-quan-the/74145/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tỉ lệ giới tính là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tỉ số giữa số lượng cá thể đực và cá thể cái trong quần thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. tỉ số giữa số lượng cá thể đực trên tổng số cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tỉ số giữa số lượng cá thể cái trên tổng số cá thể trong quần thể..",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. không xác định được vì chúng thay đổi liên tục.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTỉ lệ giới tính là tỉ số giữa số lượng cá thể đực và cá thể cái trong quần thểĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tỉ lệ giới tính bị ảnh hưởng bởi các nhân tố?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tỷ lệ tử vong trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thay đổi theo nhiệt độ môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tùy loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các ý trên.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTỉ lệ giới tính bị ảnh hưởng bởi các nhân tố A, B, CĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Khi đánh cá, nếu đa số các mẻ lưới có cá lớn chiếm tỷ lệ nhiều thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nghề cá đã rơi vào tình trạng khai thác quá mức",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tiếp tục đánh bắt với mức độ ít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Không nên tiếp tục khai thác",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nghề cá chưa khai thác hết tiềm năng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nKhi các mẻ cá có lượng cá lớn chiếm tỷ lệ cao có nghĩa là tỷ lệ cá thể sau sinh sản lớn → Nghề cá chưa khai thác hết tiềm năng.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Phân bố đồng đều giữa các cá thể trong quần thể thường gặp khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điều kiện sống phân bố một cách đồng đều và có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Điều kiện sống phân bố không đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điều kiện sống trong môi trường phân bố đồng đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các cá thể của quần thể sống thành bầy đàn ở những nơi có nguồn sống dồi dào nhất.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nPhân bố đồng đều xảy ra khi điều kiện sống phân bố đồng đều và có sự cạnh tranh gay gắt giữa các cá thể.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Loài nào sau đây có kiểu phân bố đồng đều",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đàn gà rừng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các loài sò sống trong phù sa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các loài sâu trên tán cây rừng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cây thông trong rừng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác cây thông trong rừng có kiểu phân bố đồng đều vì có sự cạnh tranh về ánh sáng,.. giữa các cá thể.A: là phân bố theo nhómB và C là phân bố ngẫu nhiên.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Về mặt sinh thái, sự phân bố đồng đều của cá thể cùng loài trong khu vực phân bố có ý nghĩa:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tăng khả năng khai thác nguồn sống tiềm tàng từ môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tăng cường cạnh tranh nhau dẫn tới làm tăng tốc độ tiến hóa của loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hỗ trợ lẫn nhau để chống chọi với điều kiện bất lợi của môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giảm sự cạnh tranh gay gắt giữa các cá thể trong quần thể",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nVề mặt sinh thái, sự phân bố đồng đều của các cá thể có ý nghĩa làm giảm sự cạnh tranh giữa các cá thể trong quần thể.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Kiểu phân bố ngẫu nhiên của các cá thể trong quần thể thường gặp khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điều kiện sống phân bố không đồng đều, không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điều kiện sống phân bố không đồng đều, có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điều kiện sống phân bố đồng đều, có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điều kiện sống phân bố đồng đều, không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ví dụ nào sau đây cho thấy quần thể của loài có kiểu phân bố ngẫu nhiên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các cây thông trong rừng thông và các loài sò sống trong phù sa vùng triều",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhóm cây bụi mọc hoang dại, đàn trâu rừng, bầy chim cánh cụt ở Nam cực",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các cây thông trong rừng thông, chim hải âu làm tổ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các con sâu sống trên tán lá cây, các cây gỗ trong rừng mưa nhiệt đới",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Khi nói về kiểu phân bố theo nhóm của các cá thể trong quần thể, phát biểu nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thường gặp khi điều kiện sống phân bố đồng đều trong môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Xảy ra khi có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kiểu phân bố này thường ít gặp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các cá thể hỗ trợ nhau chống lại các điều kiện bất lợi của môi trường.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Sự phân bố theo nhóm cá thể trong quần thể có ý nghĩa gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Làm giảm sự cạnh tranh gay gắt giữa các cá thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Làm tăng sự cạnh tranh gay gắt giữa các cá thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Giúp sinh vật tận dụng được nguồn sống từ môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giúp sinh vật hỗ trợ nhau chống chọi với bất lợi từ môi trường",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Nguyên nhân chính làm cho sự phân bố dân cư ở mỗi quốc gia không đồng đều là vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sở thích định cư của con người ở các vùng có điều kiện khác nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điều kiện sống phân bố không đều và con người có xu hướng quần tụ với nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nếp sống và văn hóa mang tính đặc trưng cho từng vùng khác nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điều kiện sống phân bố không đều và con người có thu nhập khác nhau.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong các kiểu phân bố cá thể của quần thể sinh vật, phân bố đồng đều thường gặp khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. các cá thể của quần thể sống thành bầy đàn ở những nơi có nguồn sống dồi dào nhất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. điều kiện sống trong môi trường phân bố đồng đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. điều kiện sống phân bố không đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. điều kiện sống phân bố một cách đồng đều và có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Phát biểu nào sau đây sai khi nói về mật độ cá thể của quần thể?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mật độ cá thể của quần thể là số lượng cá thể trên một đơn vị diện tích hay thể tích của quần thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mật độ cá thể của quần thể ảnh hưởng đến mức độ sử dụng nguồn sống, mức độ tử vong và mức độ sinh sản của các cá thể trong quần thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mật độ cá thể của quần thể có thể thay đôit theo mùa, năm hoặc tùy theo điều kiện của môi trường sống",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mật độ cá thể của quần thể tăng lên quá cao so với sức chứa của môi trường sẽ làm tăng khả năng sinh sản của cá thể trong quần thể",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Có 4 quần thể của cùng một loài cỏ sống ở 4 môi trường khác nhau, quần thể sống ở môi trường nào sau đây có kích thước lớn nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quần thể sống trong môi trường có diện tích 800 m2và có mật độ 34 cá thể /1 m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quần thể sống trong môi trường có diện tích 2150 m2và có mật độ 12 cá thể/ m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quần thể sống trong môi trường có diện tích 835 m2và có mật độ 33 cá thể/ m2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Quần thể sống trong môi trường có diện tích 3050 m2và có mật độ 9 cá thể/ m2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Kích thước của quần thể KHÔNG phụ thuộc vào",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sức sinh sản",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mức độ tử vong.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cá thể nhập cư và xuất cư.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tỷ lệ đực/cái",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Khi nói về mức sinh sàn và mức tử vong của quần thể, phát biểu nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự thay đổi về mức sinh sản và mức tử vong là cơ chế chủ yếu điều chỉnh số lượng cá thể của quần thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mức sinh sản của một quần thể động vật chỉ phụ thuộc vào số lượng trứng (hay con non) của mỗi lứa đẻ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Mức sinh sản của quần thể thường giảm khi điều kiện sống không thuận lợi như thiếu thức ăn, điều kiện khí hậu thay đổi bất thường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mức tử vong của quần thể phụ thuộc vào trạng thái của quần thể, các điều kiện sống của môi trường và mức độ khai thác của con người",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Khi nguồn sống trong môi trường dồi dào, điều kiện tự nhiên thuận lợi, quần thể có trạng thái sinh lý tốt, quần thể sinh vật tăng trưởng theo :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đường cong hình chữ S",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường cong hình chữ K.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đường cong hình chữ J.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tới khi số cá thể đạt mức ổn định.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Mật độ của quần thể là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. số lượng cá thể trung bình của quần thể được xác định trong một khoảng thời gian xác định nào đó.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. số lượng cá thể cao nhất ở một thời điểm xác định nào đó trong một đơn vị diện tích nào đó của quần tể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. khối lượng sinh vật thấp nhất ở một thời điểm xác định trong một đơn vị thể tích của quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. số lượng cá thể có trên một đơn vị diện tích hay thể tích của quần thể.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Mật độ cá thể của quần thể có ảnh hưởng tới:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. khối lượng nguồn sống trong môi trường phân bố của quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. mức độ sử dụng nguồn sống, khả năng sinh sản và tử vong của quần thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. hình thức khai thác nguồn sống của quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tập tính sống bầy đàn và hình thức di cư của các cá thể trng quần thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Kích thước của quần thể sinh vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. số lượng cá thể hoặc khối lượng sinh vật hoặc năng lượng tích luỹ trong các cá thể của quần thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. độ lớn của khoảng không gian mà quần thể đó phân bố.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. thành phần các kiểu gen biểu hiện thành cấu trúc di truyền của quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tương quan tỉ lệ giữa tỉ lệ tử vong với tỉ lệ sinh sản biểu thị tốc độ sinh trưởng của quần thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Khi nói về quan hệ giữa kích thước quần thể và kích thước cơ thể, thì câu sai là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. loài có kích thước cơ thể nhỏ thường có kích thước quần thể lớn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. loài có kích thước cơ thể lớn thường có kích thước quần thể nhỏ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. kích thước cơ thể của loài tỉ lệ thuận với kích thước của quần thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. kích thước cơ thể và kích thước quần thể của loài phù hợp với nguồn sống.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Phần lớn quần thể sinh vật trong tự nhiên tăng trưởng theo dạng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tăng dần đều.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. đường cong chữ J.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. đường cong chữ S.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. giảm dần đều.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

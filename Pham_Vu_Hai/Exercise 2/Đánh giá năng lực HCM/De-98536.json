@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/song-co-cac-dai-luong-dac-trung-cua-song-co/98536/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Sóng ngang là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng trong đó các phần tử của môi trường dao động theo phương vuông góc với phương truyền sóng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Sóng trong đó các phần tử của môi trường dao động theo phương trùng với phương truyền sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Sóng trong đó các phần tử của môi trường dao động theo phương song song với phương truyền sóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Sóng trong đó các phần tử của môi trường dao động theo cả hai phương vuông góc và song song với phương truyền",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSóng ngang: là sóng trong đó các phần tử của môi trường dao động theo phương vuông góc với phương truyền sóng.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Sóng ngang:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chỉ truyền được trong chất rắn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Truyền được trong chất rắn và bề mặt chất lỏng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Truyền được trong chất rắn, chất lỏng và chất khí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Không truyền được trong chất rắn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSóng ngang truyền trong: Chất rắn và bề mặt chất lỏng.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Sóng dọc là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng trong đó các phần tử của môi trường dao động theo phương vuông góc với phương truyền sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Sóng trong đó các phần tử của môi trường dao động theo phương bất kì với phương truyền sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Sóng trong đó các phần tử của môi trường dao động theo phương trùng với phương truyền sóng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Sóng trong đó các phần tử của môi trường dao động theo phương song song với phương truyền sóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSóng dọc: là sóng trong đó các phần tử của môi trường dao động theo phương trùng với phương truyền sóng.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Sóng dọc:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chỉ truyền được trong chất rắn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Truyền được trong chất rắn, chất lỏng và chất khí.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Truyền được trong chất rắn, chất lỏng, chất khí và trong chân không.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Không truyền được trong chất rắn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSóng dọc truyền trong: tất cả các môi trường rắn, lỏng, khí.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tốc độ truyền sóng trong một môi trường:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Phụ thuộc vào bản chất môi trường và tần số sóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Phụ thuộc vào bản chất môi trường và biên độ sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Chỉ phụ thuộc vào bản chất môi trường.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Tăng theo cường độ sóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTốc độ truyền sóng v : là tốc độ lan truyền  dao động trong môi trường\nPhụ thuộc vào bản chất của môi trường truyền (tính đàn hồi và mật độ môi trường): vR> vL> vK\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một sóng cơ học lan truyền trong một môi trường A có vận tốc vA và khi truyền trong môi trường B có vận tốc vB = 2vA. Bước sóng trong môi trường B sẽ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Lớn gấp hai lần bước sóng trong môi trường A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Bằng bước sóng trong môi trường A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Bằng một nửa bước sóng trong môi trường A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Lớn gấp bốn lần bước sóng trong môi trường A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVì f không thay đổi trong các môi trường\nTa có:\nλ=vT=vf→λAλB=vAvB=12→λB=2λA\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một người ngồi ở bờ biển quan sát thấy khoảng cách giữa năm ngọn sóng liên tiếp bằng 20m. Bước sóng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.16m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.40m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một người ngồi ở bờ biển đếm được 20 ngọn sóng đi qua trước mặt trong 76s. Chu kì dao động của nước biển là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3,6s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3,8s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4s",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tại một điểm trên mặt chất lỏng có một nguồn dao động với tần số 120Hz, tạo ra sóng ổn định trên mặt chất lỏng. Xét 5 gợn lồi liên tiếp trên một phương truyền sóng ở về một phía so với nguồn, gợn thứ nhất cách gợn thứ năm 0,5m. Tính tốc độ truyền sóng trên mặt chất lỏng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.15m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.20m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một sóng hình sin truyền trên một sợi dây dài. Ở thời điểm t, hình dạng của một đoạn dây như hình vẽ. Các vị trí cân bằng của các phần tử trên dây cùng nằm trên trục Ox. Bước sóng của sóng này bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.48cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.18cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.36cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.24cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một nguồn phát sóng dao động theo phương trình u=acos20πt (cm). Trong khoảng thời gian 2s sóng truyền đi được quãng đường bằng bao nhiêu lần bước sóng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.20",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.30",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.40",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một nguồn dao động điều hoà với chu kỳ 0,04s. Vận tốc truyền sóng bằng 200cm/s. Hai điểm nằm trên cùng một phương truyền sóng và cách nhau 6 cm, thì  có độ lệch pha:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1.5π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3,5π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,5π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một sóng có tần số 500Hz và tốc độ lan truyền 350m/s. Hỏi hai điểm gần nhất trên phương truyền sóng cách nhau một khoảng bao nhiêu để giữa chúng có độ lệch pha π4?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.8,75cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.17,5cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.35cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.70cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một nguồn phát sóng cơ dao động với phương trình u=4cos4πt−π4cm. Biết dao động tại hai điểm gần nhau nhất trên cùng một phương truyền sóng cách nhau 0,5m có độ lệch pha là π3. Tốc độ truyền của sóng đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,0 m/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,0 m/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,5 m/s.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.6,0 m/s.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một nguồn phát sóng nước có dạng u=Acosπ4t  cm. Cho tốc độ truyền sóng không đổi. Tại một điểm cách nguồn một khoảng d, độ lệch pha của dao động sóng tại điểm đó ở hai thời điểm cách nhau Δt=0,2s  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,05π.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,125π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,16π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,24π.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

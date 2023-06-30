@@ -1,0 +1,494 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/khoang-cach-tu-mot-diem-den-mat-phang/99026/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác cạnh BC=a,AC=2a2, góc ACB^=450. Cạnh bên SB vuông góc với mặt phẳng (ABC). Tính khoảng cách từ điểm A đến mặt phẳng (SBC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3a4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật có AB=a2. Cạnh bên SA=2a và vuông góc với mặt đáy (ABCD). Tính khoảng cách dd từ D đến mặt phẳng (SBC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a102.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=2a33.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=a33.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh bằng a. Cạnh bên SA vuông góc với đáy, SB hợp với mặt đáy một góc 60°.Tính khoảng cách d từ điểm D đến mặt phẳng (SBC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, cạnh a. Cạnh bên SA=a152 và vuông góc với mặt đáy (ABCD). Tính khoảng cách d từ O đến mặt phẳng (SBC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a28519.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=28538.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a28538.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=a22.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh a, SA vuông góc với mặt phẳng (ABC); góc giữa đường thẳng SB và mặt phẳng (ABC) bằng 60°.Gọi M là trung điểm của cạnh AB. Tính khoảng cách d từ B đến mặt phẳng (SMC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a3913.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d = a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh a. Cạnh bên SA=a3 và vuông góc với mặt đáy (ABC). Tính khoảng cách d từ A đến mặt phẳng (SBC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a155.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d = a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a55.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a32.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại A, AB=a,AC=a3. Tam giác SBC đều và nằm trong mặt phẳng vuông với đáy. Tính khoảng cách d từ B đến mặt phẳng (SAC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a3913.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=2a3913.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=a32.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a, các cạnh bên của hình chóp bằng nhau và bằng 2a. Tính khoảng cách d từ A đến mặt phẳng (SCD)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a730.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a730.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a22.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh bằng 1. Tam giác SAB đều và nằm trong mặt phẳng vuông góc với đáy (ABCD). Tính khoảng cách d từ A đến (SCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d = 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=233.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=217.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình chóp tứ giác đều S.ABCD có cạnh đáy bằng 1, cạnh bên hợp với mặt đáy một góc 600. Tính khoảng cách dd từ O đến mặt phẳng (SBC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=12.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=72.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=4214.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình chóp S.ACBD có đáy ABCD là hình thang vuông tại A và B. Cạnh bên SA vuông góc với đáy, SA=AB=BC=1, AD=2. Tính khoảng cách d từ điểm A đến mặt phẳng (SBD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=23.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=255.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d = 1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình thang vuông tại A và B, AD=a, AB=2a, BC=3a, SA=2a, H là trung điểm cạnh AB, SH là đường cao của hình chóp S.ABCD. Tính khoảng cách từ điểm A đến mặt phẳng (SCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a307",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a3010",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a1310",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a177",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hình chóp tam giác đều S.ABC có cạnh đáy bằng a và cạnh bên bằng a216. Tính khoảng cách d từ đỉnh A đến mặt phẳng (SBC) .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=3a4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=34.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a36.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thang vuông tại A và B, AD=2BC, AB=BC=a3. Đường thẳng SA vuông góc với mặt phẳng (ABCD). Gọi E là trung điểm của cạnh SC. Tính khoảng cách d từ điểm E đến mặt phẳng (SAD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật với AB=a,AD=2a. Cạnh bên SA vuông góc với đáy, góc giữa SD với đáy bằng 60°. Tính khoảng cách d từ điểm C đến mặt phẳng (SBD) theo aa.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=2a55.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=32.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật với AC=2a, BC=a. Đỉnh S cách đều các điểm A,B,C. Tính khoảng cách d từ trung điểm M của SC đến mặt phẳng (SBD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=a34.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d=a52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d = a.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thoi cạnh a. Tam giác ABC đều, hình chiếu vuông góc H của đỉnh S trên mặt phẳng (ABCD) trùng với trọng tâm của tam giác ABC. Đường thẳng SD hợp với mặt phẳng (ABCD) góc 300. Tính khoảng cách d từ B đến mặt phẳng (SCD) theo a.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=2a2121.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=a217.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. d=a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d=a3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình chóp S.ABCD, đáy ABCD là hình vuông cạnh a. Hình chiếu vuông góc của S trên mặt phẳng (ABCD) là điểm H trùng với trung điểm của AB, biết SH=a3. Gọi M là giao điểm của HD và AC. Tính khoảng cách từ điểm M đến mặt phẳng (SCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thoi cạnh a. Tam giác ABC đều, hình chiếu vuông góc H của đỉnh S trên mặt phẳng (ABCD) trùng với trọng tâm của tam giác ABC. Đường thẳng SD hợp với mặt phẳng (ABCD) một góc 300. Tính khoảng cách d từ B đến mặt phẳng (SCD) theo a",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d=2a53",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. d=2a2121",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d=a217",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. d=a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hình chóp S.ABCD, có đáy ABCD là hình chữ nhật. Cạnh bên SA vuông góc với đáy , SA=AB=a và AD=x.a. Gọi E là trung điểm của SC. Tìm x, biết khoảng cách từ điểm E đến mặt phẳng (SBD) bằng h=a3.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật, BC=a. Cạnh bên SA vuông góc với đáy, góc SCA^=BSC^=300. Gọi M là trung điểm của CD. Tính khoảng cách từ D đến mặt phẳng (SAM).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3a2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật, AB=a, AD=2a. Tam giác SAB cân tại S và nằm trong mặt phẳng vuông góc với đáy. Góc giữa SC và mặt phẳng (ABCD) bằng 450. Gọi M là trung điểm SD, hãy tính theo a khoảng cách d từ M đến mặt phẳng (SAC).",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

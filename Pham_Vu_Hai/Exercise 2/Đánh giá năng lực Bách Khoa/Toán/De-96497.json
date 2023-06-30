@@ -1,0 +1,592 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bat-phuong-trinh-co-logarit/96497/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Giải bất phương trình log13(x+9500)>−1000",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x>−9500",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −31000<x<0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện x+9500>0⇔x>−9500\nVì 0<a=13<1 nên\nlog13x+9500>−1000⇔0<x+9500<13−1000⇔0<x+9500<31000⇔−9500<x<31000−9500⇔−31000<x<31000−31000⇔−31000<x<0\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Giải bất phương trình log23x−1≥3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x≥3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 13<x<3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x < 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x≥103",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐiều kiện: x>13\nBPT ⇔3x−1≥8⇔x≥3\nKết hợp điều kiện ta được x≥3\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tìm tập nghiệm S của bất phương trình log12x−1>log125−2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=−∞;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=2;52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=52;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S = (1;2)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện: x−1>05−2x>0⇔x>1x<52\nlog12x−1>log125−2x⇔x−1<5−2x⇔x<2\nKết hợp với điều kiện suy ra S = (1;2)\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Giải bất phương trình log3(2x−3)<0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0 < x < 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x < 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. log23<x<2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x > 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nBất phương trình tương đương:\n2x−3>02x−3<1⇔x>log23x<2⇔log23<x<2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tìm tập hợp nghiệm S của bất phương trình: logπ4(x2+1)<logπ4(2x+4)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S = (-2;-1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=(−2;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=(3;+∞)∪(−2;−1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=(3;+∞)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện: x>-2\nBất phương trình\n ⇔x2+1>2x+4 (do π4<1)⇔x2−2x−3=(x+1)(x−3)>0\nNên x > 3 hoặc x < −1.\nKết hợp điều kiện x > −2 ta được x > 3 hoặc -2<x<-1.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tập nghiệm của phương trình log3log12x<1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (0;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 18;1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (1;8)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 18;3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Số nguyên nhỏ nhất thỏa mãn log25x−3>5 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình lnx−1x−2x−3+1>0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1;2∪3;+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. −∞;1∪2;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1;2∩3;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −∞;1∩2;3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình logx2+25>log10x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R\\{5}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (0;5)∪(5;+∞)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (0;+∞)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Nghiệm của bất phương trình log2(x+1)+log12x+1≤0 là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −1≤x≤0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −1<x≤0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. −1<x≤1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x≤0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Giải bất phương trình log0,7log6x2+xx+4<0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −4;−3∪8;+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (-4;-3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −4;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Xác định tập nghiệm S của bất phương trình lnx2>ln4x−4",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=(1;+∞) ∖{2}",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. R\\{2}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (1;+∞)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Giải bất phương trình: log22x−4033log2x+4066272≤0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. [2016; 2017]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (2016; 2017)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 22016;22017",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 22016;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình 2017log2x≤4log29 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0<x≤82017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0<x≤2812017",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0≤x≤92017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0<x≤92017",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình log23 3x−2> log232x+1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 23;3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −∞;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 23;2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Tìm tất cả các giá trị thực của tham số m để bất phương trình 4.log2x2+log2x+m≥0 nghiệm đúng với mọi giá trị x∈1;64",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m≤0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m≥0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m > 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình (2x2−4−1).lnx2<0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. {1;2}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −2;−1∪1;2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (1;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. [1;2]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Với m là tham số thực dương khác 1. Hãy tìm tập nghiệm S của bất phương trình logm(2.12+1+3)≤logm(3.12−1)⇔logm6≤logm2⇔0m<1. Biết rằng  x = 1 là một nghiệm của bất phương trình.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=(−2;0)∪(13;  3 ]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=(−1;0)∪(13;  2 ]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=−1 , 0∪(13;  3 ]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=(−1;0)∪(1;  3 ]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm tập nghiệm S của bất phương trình log12x+2−log12x>log2x2−x−1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=2;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S = (1;2)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. S = (0;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S = (1;2]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình log3x≤log13(2x) là nửa khoảng (a;b]. Giá trị của a2+b2  bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình 9log92x+xlog9x≤18 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. [1;9]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 19;9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0;1∪9;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0;19∪9;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình log2xx2+2+4−x2+2x+x2+2≤1 là −a;−b.Khi đó ab bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 125",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 512",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1516",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1615",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hàm số f(x) liên tục trên R và có đồ thị f′(x) như hình vẽ bên. Bất phương trình log5fx+m+2+fx>4−mđúng với mọi x∈−1;4 khi và chỉ khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≥4−f−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m≥3−f1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m<4−f−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m≥3−f4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho phương trình log7x2+2x+2+1>log7x2+6x+5+m. Có tất cả bao nhiêu giá trị nguyên của tham số m để bất phương trình trên có tập nghiệm chứa khoảng (1;3)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 36",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 35",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vô số",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hàm số y = f(x). Hàm số y = f′(x) có đồ thị như hình bên. Biết f−1=1,f(−1e)=2.. Tìm tất cả các giá trị của m để bất phương trình f(x)<ln(−x)+m nghiệm đúng với mọi x∈(−1;−1e).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≥2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m≥3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m > 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m > 3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Xét các số thực không âm a,b thỏa mãn 2a+b≤log22a+b+1. Giá trị nhỏ nhất của a2+b2  bằng bao nhiêu?",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Có tất cả bao nhiêu giá trị nguyên của y sao cho tương ứng với mọi y luôn tồn tại không quá 63 số nguyên x thỏa mãn điều kiện log2020x+y2+log2021y2+y+64≥log4x−y",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

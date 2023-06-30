@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ly-thuyet-ester/75741/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong thành phần nước dứa có este tạo bởi ancol isoamylic và axit isovaleric. Công thức cấu tạo của este là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3CH2COOCH(CH3)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (CH3)2CHCH2CH2OOCCH2CH(CH3)2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (CH3)2CHCH2CH2COOCH2CH(CH3)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3CH2COOCH3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:ancol isoamylic: (CH3)2CHCH2CH2OHaxit isovaleric: (CH3)2CHCH2COOH=>Este: (CH3)2CHCH2CH2OOCCH2CH(CH3)2Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một số este được dùng trong hương liệu, mĩ phẩm, bột giặt vì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Là chất lỏng dễ bay hơi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có mùi thơm, an toàn với con người.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Có thể bay hơi nhanh sau khi sử dụng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đều có nguồn gốc từ thiên nhiên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Một số este được dùng trong hương liệu, mĩ phẩm, bột giặt là nhờ các este: Có mùi thơm, an toàn với con ngườiĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho các chất sau: CH3OH (1); CH3COOH (2); HCOOC2H5(3). Thứ tự nhiệt độ sôi giảm dần là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1); (2); (3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (3); (1); (2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2); (3); (1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (2); (1); (3)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Nhiệt độ sôi giảm dần: (2) >  (1)>  (3)Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Thứ tự tăng dần nhiệt độ sôi các chất dưới đây là:\nCH3COOH (1); C2H5OH (2); HCOOCH3 (3); CH3CHO (4)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4,3,2,1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3,4,2,1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4,3,1,2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3,4,1,2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nAxit có nhiệt độ sôi lớn nhất vì tạo liên kết Hiđro bền\nAnđehit và xeton có nhiệt độ sôi nhỏ vì không có liên kết Hiđro\nKhối lượng HCOOCH3 >CH3CHO =>Nhiệt độ sôi lớn hơn\n=>thứ tự nhiệt độ sôi:   CH3CHO < HCOOCH3\n < C2H5OH < CH3COOH\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dãy chất nào sau đây được sắp xếp theo chiều nhiệt độ sôi của các chất tăng dần",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COOH, CH3COOC2H5, CH3CH2CH2OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3COOH,CH3CH2CH2OH,CH3COOC2H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3CH2CH2OH, CH3COOH, CH3COOC2H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3COOC2H5, CH3CH2CH2OH, CH3COOH",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Thứ tự nhiệt độ sôi tăng dần: CH3COOC2H5, CH3CH2CH2OH, CH3COOHĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Este X mạch hở có công thức phân tử C4H6O2 có khả năng tráng bạc. Số este X thỏa mãn tính chất trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Este có khả năng tráng bạc  este là este của axit fomic=>este có dạng : HCOORHCOOCH2-CH=CH2HCOOCH=CH-CH3 (có đồng phân cis - trans)HCOOC(CH3)=CH2Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Etyl axetat chủ yếu được dùng làm dung môi cho các phản ứng hóa học, cũng như để thực hiện công việc chiết các hóa chất khác. Công thức của etyl axetat là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5COOC2H5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3COOC2H5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H5COOCH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HCOOC2H5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho vào 2 ống nghiệm, mỗi ống nghiệm 2 ml etyl axetat, sau đó thêm vào ống thứ nhất 1 ml dung dịch H2SO4 20% và ống thứ hai 1 ml dung dịch NaOH 30% dư. Sau đó lắc đều cả 2 ống nghiệm, lắp ống sinh hàn đồng thời đun cách thủy trong khoảng 5 phút. Hiện tượng trong 2 ống nghiệm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chất lỏng trong ống thứ 2 trở thành đồng nhất.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chất lỏng trong ống thứ nhất trở thành đồng nhất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chất lỏng trong cả hai ống nghiệm có sự phân tách lớp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chất lỏng trong cả hai ống nghiệm trở thành đồng nhất.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tiến hành các thí nghiệm sau:\n(1) Lên men giấm ancol etylic thu được chất hữu cơ X\n(2) Hidrat hóa etilen thu được hợp chất hữu cơ Y\n(3) Z là sản phẩm hữu cơ thu được khi cho X tác dụng với Y (H2SO4 đặc, đun nóng)\n(4) Hợp chất hữu cơ T là sản phẩm của axetilen tác dụng với nước (dung dịch HgSO4, 800C)\nThứ tự tăng dần về nhiệt độ sôi của các chất X,Y, Z, T là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Z < T < Y < X.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T < Z < Y",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Z < X < Y < T.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. X < Y < T < Z.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Este X được tạo thành từ axit axetic và ancol metylic có công thức phân tử là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H4O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C4H8O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C3H6O2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C4H10O2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Ở điều kiện thích hợp, hai chất phản ứng với nhau tạo thành metyl fomat là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCOOH và C2H5NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HCOOH và CH3OH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CH3COONa và CH3OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HCOOH và NaOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Khi làm bay hơi 8,14 gam một este đơn chức X thu được một thể tích đúng bằng 3,52 gam O2 đo ở cùng điều kiện nhiệt độ và áp suất. Công thức phân tử của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C3H4O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H6O2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C4H8O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C4H6O2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Thủy phân este có công thức phân tử C3H6O2 (trong môi trường axit) thu được 2 sản phẩm hữu cơ X ,Y. Từ X có thể điều chế trực tiếp ra Y. Vậy chất X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Rượu metylic",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Metyl axetat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Axit axetic",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Rượu etylic",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho axit acrylic tác dụng với ancol đơn chức X, thu được este Y. Trong Y, oxi chiếm 32% về khối lượng. Công thức của Y là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H3COOCH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5COOC2H5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H3COOC2H5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3COOC2H5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một este có công thức phân tử là C4H8O2, khi thủy phân trong môi trường axit thu được rượu Y. Oxi hóa rượu Y thành anđehit Y1 sau đó cho Y1 tham gia phản ứng tráng gương thu được số mol Ag gấp 4 lần số mol Y1. Vậy tên gọi của este là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Metyl propionat",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Etyl axetat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n-propyl fomiat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Isoproyl fomiat.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Este X không no, mạch hở có tỉ khối hơi so với khí oxi bằng 3,125 và khi tham gia phản ứng xà phòng hóa tạo ra 1 andehit và 1 muối của axit hữu cơ.Số đồng phân cấu tạo của X phù hợp:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong các chất: este, axit, ancol có cùng số nguyên tử cacbon thì chất có nhiệt độ sôi thấp nhất là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Axit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Este",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ancol",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không so sánh được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một este no, đơn chức X có thành phần khối lượng mO :mH= 16 : 3 .Số công thức cấu tạo thỏa mãn tính chất của X là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho các đặc điểm sau:(1) Có CTPT là  C2H4O2     (2) Là este của axit fomic(3) Thuộc dãy đồng đẳng axit axetic(4) Là đồng phân của axit axeticSố đặc điểm phù hợp với metyl fomat là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "So với các axit, ancol có cùng số nguyên tử cacbon thì este có nhiệt độ sôi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thấp hơn do khối lượng phân tử của este nhỏ hơn nhiều.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thấp hơn do giữa các phân tử este không tồn tại liên kết hidro.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cao hơn do giữa các phân tử este có liên kết hidro bền vững.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cao hơn do khối lượng phân tử của este lớn hơn nhiều.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

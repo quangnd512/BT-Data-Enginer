@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = "https://khoahoc.vietjack.com/thi-online/di-truyen-y-hoc/74496/thi"
+url = "https://khoahoc.vietjack.com/thi-online/cach-mang-khoa-hoc-cong-nghe-va-xu-the-toan-cau-hoa/73993/thi"
 
 cookies = {
     "cross-site-cookie": "bar",

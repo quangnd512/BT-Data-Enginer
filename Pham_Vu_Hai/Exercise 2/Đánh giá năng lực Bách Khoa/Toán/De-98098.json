@@ -1,0 +1,460 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/phuong-trinh-mat-phang-a/98098/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hai mặt phẳng P:ax+by+cz+d=0;Q:a'x+b'y+c'z+d'=0. Công thức tính cô sin của góc giữa hai mặt phẳng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cosP,Q=a.a'+b.b'+c.c'a2+b2+c2.a'2+b'2+c'2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.cosP,Q=a.a'+b.b'+c.c'a2+b2+c2.a'2+b'2+c'2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cosP,Q=a.a'+b.b'+c.c'a+b+c.a'+b'+c'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cosP,Q=a.a'+b.b'+c.c'a+b+c2.a'+b'+c'2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nGóc giữa hai mặt phẳng (P),(Q) có:\ncosP,Q=cosn1→,n2→=n1→.n2→n1→.n2→=a.a'+b.b'+c.c'a2+b2+c2.a'2+b'2+c'2\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho mặt phẳng P:ax+by+cz+d=0. Khoảng cách từ điểm Mx0;y0;z0 đến mặt phẳng (P) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dM;P=ax0+by0+cz0+da2+b2+c2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dM;P=ax0+by0+cz0+da2+b2+c2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dM;P=ax0+by0+cz0+da2+b2+c2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dM;P=ax0+by0+cz0+da2+b2+c2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhoảng cách từ điểm Mx0;y0;z0  đến P:ax+by+cz+d=0\ndM;P=ax0+by0+cz0+da2+b2+c2\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho mặt phẳng P:2x−y+z−1=0. Điểm nào dưới đây thuộc (P)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(2;−1;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.N(0;1;−2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.P(1;−2;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Q(1;−3;−4)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nDễ thấy 2.1−−3+−4−1=0 ⇒ điểm Q thuộc (P)\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nếu a→,b→ là cặp VTCP của (P) thì véc tơ nào sau đây có thể là VTPT của (P)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−a→ hoặc −b→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a→,b→",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.a→−b→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a→+b→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVì tích có hướng của hai vecto là một vecto vuông góc với cả hai vecto ban đầu nên nó vuông góc với mặt phẳng (P).\nNếu a→,b→ là cặp VTCP của (P) thì a→,b→ là một VTPT của (P).\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Phương trình mặt phẳng đi qua điểm Mx0;y0;z0 và nhận n→=a;b;c  làm VTPT là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.ax−x0+by−y0+cz−z0=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x0x−a+y0y−b+z0z−c=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. xa−x0+yb−y0+zc−z0=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ax+x0+by+y0+cz+z0=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nMặt phẳng (P) đi qua Mx0;y0;z0 và nhận n→=a;b;c làm VTPT thì (P) có phương trình:\nax−x0+by−y0+cz−z0=0\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hai mặt phẳng P:ax+by+cz+d=0;Q:a'x+b'y+c'z+d'=0. Nếu có aa'≠bb' thì ta kết luận được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.hai mặt phẳng cắt nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.hai mặt phẳng trùng nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.hai mặt phẳng song song",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.không kết luận được gì",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu có aa'≠bb' thì n→≠k.n'→ và ta kết luận được ngay hai mặt phẳng cắt nhau.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong không gian Oxyz, mặt phẳng (Oxz) có phương trình là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.z=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x+y+z=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.x=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong không gian Oxyz, điểm O(0;0;0) thuộc mặt phẳng nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.P4:  2x+3z+1=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P3:  2x+3y−z=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. P1:  2x+3y+1=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P2:  2x+2y+2z+1=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho a→,b→ là các VTCP của mặt phẳng (P). Chọn kết luận sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(P) có vô số véc tơ pháp tuyến",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. n→=−a→,b→  là một VTPT của mặt phẳng (P)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.n→=a→,b→ là một VTCP của mặt phẳng (P)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.a→,b→ không cùng phương.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho a→=5;1;3,b→=−1;−3;−5 là cặp VTCP của mặt phẳng (P). Véc tơ nào sau đây là một véc tơ pháp tuyến của (P)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(1;2;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(2;11;−7)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.(4;−22;−14)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(2;2;−4)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Mặt phẳng P:ax+by+cz+d=0 có một VTPT là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.n→=a;b;c;d",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. n→=a2;b2;c2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n→=a+b;b+c;c+a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n→=a;b;c",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Mặt phẳng P:ax−by−cz−d=0 có một VTPT là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(a;b;c)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(a;−b;−c)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.(−a;−b;−c)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.a;−b;−c;−d",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho mặt phẳng P:2x−z+1=0, tìm một véc tơ pháp tuyến của mặt phẳng (P)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(2;−1;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(2;0;−1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.(2;0;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(2;−1;0)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hai mặt phẳng(P):ax+by+cz+d=0;(Q):a'x+b'y+c'z+d'=0.Điều kiện nào sau đây không phải điều kiện để hai mặt phẳng trùng nhau",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. n→=k.n'→ và d=k.d'(k≠0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. aa'=bb'=cc'=dd'a'b'c'd'≠0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. aa'=bb'=cc'=d'd",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a=ka';b=kb';c=kc';d=kd'k≠0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hai mặt phẳng P:ax+by+cz+d=0;Q:a'x+b'y+c'z+d'=0 . Nếu có aa'=bb'=cc' thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.hai mặt phẳng song song",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.hai mặt phẳng trùng nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.hai mặt phẳng vuông góc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A hoặc B đúng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho điểm M(1;2;0) và mặt phẳng P:x−3y+z=0. Khoảng cách từ M đến (P) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.  51111",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.  511",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −511",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho mặt phẳng P:x−y+z=1,Q:x+z+y−2=0 và điểm M(0;1;1). Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dM,P=dM,Q",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.  dM,P>dM,Q",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.  M∈P",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.dM,P=3dM,Q",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho α,β lần lượt là góc giữa hai véc tơ pháp tuyến bất kì và góc giữa hai mặt phẳng (P) và (Q). Chọn nhận định đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. α=β",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. α=1800−β",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sinα=sinβ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cosα=cosβ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trong không gian với hệ trục tọa độ Oxyz, cho hai mặt phẳng P:x−2y−z+2=0,Q:2x−y+z+1=0 . Góc giữa (P) và (Q) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 60∘.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 90∘.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 30∘.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120∘.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Trong không gian Oxyz, cho điểm M(1;6;−3) và mặt phẳng (P):2x−2y+z−2=0. Khoảng cách từ M đến (P) bằng:",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Trong không gian Oxyz, tính khoảng cách giữa hai mặt phẳng (P):2x+2y−z−11=0 và (Q):2x+2y−z+4=0",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Trong không gian với hệ trục tọa độ Oxyz, cho A(1; 2; 3), B(3; 4; 4). Tìm tất cả các giá trị của tham số m sao cho khoảng cách từ điểm A đến mặt phẳng 2x+y+mz−1=0  bằng độ dài đoạn thẳng AB.",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

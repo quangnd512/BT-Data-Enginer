@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/song-am1/98540/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nhận xét nào sau đây là sai khi nói về sóng âm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng âm là sóng cơ học truyền được trong cả 3 môi trường rắn, lỏng, khí",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Trong cả 3 môi trường rắn, lỏng, khí sóng âm luôn là sóng dọc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Trong chất rắn sóng âm có cả sóng dọc và sóng ngang",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Âm thanh có tần số từ 16 Hz đến 20 kHz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSóng âm trong môi trường lỏng, khí là sóng dọc; trong môi trường rắn là sóng dọc hoặc sóng ngang.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Âm nghe được là sóng cơ học có tần số nằm trong khoảng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.16Hz đến 2.104Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.16Hz đến 20MHz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.16Hz đến 200KHz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.16Hz đến 2KHz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nÂm nghe được (âm thanh) là sóng cơ học có tần số nằm trong khoảng 16Hz−20000Hz\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một lá thép mỏng, một đầu cố định, đầu còn lại được kích thích để dao động với chu kì không đổi và bằng 0,08s. Âm do lá thép phát ra là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Âm thanh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Nhạc âm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Hạ âm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Siêu âm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nf=1T=10,08=12,5Hz<16Hz\n=> Hạ âm\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Sóng cơ học lan truyền trong không khí với cường độ đủ lớn, tai ta có thể cảm thụ được sóng cơ học nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng cơ học có chu kì 2 μs",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Sóng cơ học có chu kì 2 ms.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Sóng cơ học có tần số 30 kHz.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Sóng cơ học có tần số 10 Hz.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:Âm nghe được có tần số từ 16 Hz - 20000 Hz\nTần số âm f=1T \nA: f = 500kHz\nB: f = 500Hz\nC: f = 30kHz\nD: f =10Hz\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một dây đàn dài 15cm, khi gảy phát ra âm cơ bản với tốc độ truyền sóng trên dây là 300m/s. Tốc độ truyền âm trong không khí là 340m/s. Bước sóng của âm phát ra trong không khí là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,5m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,24m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,34m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0,68m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, chiều dài của dây đàn:\nl=kλ2=kv2f→f=kv2l\nÂm cơ bản là âm ứng với k=1\n=> Tần số của âm cơ bản:\nf1=v2l=3002.0,15=1000Hz\n=> Bước sóng của âm phát ra trong không khí:\nλ=vkkf1=3401000=0,34m\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Các đặc trưng vật lý của âm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tần số và cường độ âm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Cường độ âm và âm sắc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Đồ thị dao động và độ cao.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Độ to và mức cường độ âm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCác đặc trưng vật lí của sóng âm: tần số, vận tốc, bước sóng, năng lượng âm, cường độ âm và mức cường độ âm.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Các đặc trưng sinh lý  của âm gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Độ to của âm và cường độ âm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Độ cao của âm và cường độ âm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Độ cao của âm, âm sắc, độ to của âm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Độ cao của âm và âm sắc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cường độ âm tại một điểm trong môi trường truyền âm  là 10-5W/m2. Biết cường độ âm chuẩn là 10-12W/m2. Mức cường độ âm tại điểm đó bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.70B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,7dB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,7B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.70dB",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Có một số nguồn âm giống nhau với công suất phát âm không đổi trong môi trường đẳng hướng không hấp thụ âm. Nếu tại điểm A đặt 4 nguồn âm thì tại điểm B cách A một đoạn d có mức cường độ âm là 60dB. Nếu tại điểm C cách B một đoạn 2d/3 đặt 6 nguồn âm thì tại điểm B có mức cường độ âm bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.58,42dB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.65,28dB",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.54,72dB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.61,76dB",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Hình bên là đồ thị biểu diễn sự phụ thuộc của mức cường độ âm L theo cường độ âm chuẩn. Cường độ âm chuẩn gần nhất với giá trị nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,31a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0,35a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,37a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,39a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tại một vị trí, nếu cường độ âm là I thì mức cường độ âm là L, nếu cường độ âm tăng lên 1000 lần thì mức cường độ âm tăng lên bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1000dB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.30dB",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.30B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1000B",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một sóng âm truyền theo phương Ox với phương trình u=Acosft−kx. Vận tốc của sóng âm này được tính bởi công thức:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4π2kf.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. fk.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. kf.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4π2fk.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tốc độ truyền âm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Phụ thuộc vào cường độ âm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Phụ thuộc vào độ to của âm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Không phụ thuộc vào nhiệt độ của môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Phụ thuộc vào tính đàn hồi và khối lượng riêng của môi trường.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Hai âm có âm sắc khác nhau là do chúng có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Cường độ khác nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Các hoạ âm có tần số và biên độ khác nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Biên độ khác nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tần số khác nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một nguồn điểm phát sóng âm trong môi trường đẳng hướng. Mức cường độ âm tại hai điểm A và B có giá trị lần lượt bằng 55dB và 35 dB. Biết khoảng cách từ nguồn S đến điểm A là 5m, khoảng cách từ S đến điểm B là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.100 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.50 m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.25 m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

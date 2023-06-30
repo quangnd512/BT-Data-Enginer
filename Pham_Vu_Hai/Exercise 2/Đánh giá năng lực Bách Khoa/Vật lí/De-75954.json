@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cam-ung-dien-tu/75954/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Phát biểu nào sau đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một khung dây dẫn hình chữ nhật, quay đều trong một từ trường đều quanh một trục đối xứng OO’ song song với các đường cảm ứng từ thì trong khung có xuất hiện dòng điện cảm ứng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Một khung dây dẫn hình chữ nhật, quay đều trong một từ trường đều quanh một trục đối xứng OO’ song song với các đường cảm ứng từ thì trong khung không có dòng điện cảm ứng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một khung dây dẫn hình chữ nhật, quay đều trong một từ trường đều quanh một trục đối xứng OO’ vuông góc với các đường cảm ứng từ thì trong khung có xuất hiện dòng điện cảm ứng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một khung dây dẫn hình chữ nhật, quay đều trong một từ trường đều quanh một trục đối xứng OO’ hợp với các đường cảm ứng từ một góc nhọn thì trong khung có xuất hiện dòng điện cảm ứng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:+ Dòng điện xuất hiện khi có sự biến đổi từ thông qua mạch điện kín gọi là dòng điện cảm ứng+ từ thông qua một diện tích S:A- sai vì khi khung quay quanh trục song song với các đường cảm ứng từ thì từ thông qua khung dây luôn bằng 0 =>không có dòng điện cảm ứngB, C, D - đúngĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một vòng dây phẳng giới hạn diện tích 5cm2 đặt trong từ trường đều cảm ứng từ B = 0,1T. Mặt phẳng vòng dây làm thành với \\[\\overrightarrow B \\] một góc 300. Từ thông qua diện tích trên là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{2.10^{ - 5}}\\left( {{\\rm{W}}b} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[2,5.\\sqrt 3 {10^{ - 5}}\\left( {{\\rm{W}}b} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[2,{5.10^{ - 5}}\\left( {{\\rm{W}}b} \\right)\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[{5.10^{ - 5}}\\left( {{\\rm{W}}b} \\right)\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:\\[\\alpha  = \\left( {\\overrightarrow n ,\\overrightarrow B } \\right) = 90^\\circ  - 30^\\circ  = 60^\\circ \\]Từ thông qua diện tích S: Φ = Bscosα = 0,1.5.10-4.cos600 = 2,5.10-5(Wb)Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Hình vẽ nào sau đây xác định sai chiều của dòng điện cảm ứng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. D",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Định luật lenxơ về chiều dòng điện cảm ứng: Dòng điện cảm ứng có chiều sao cho từ trường mà nó sinh ra có tác dụng chống lại nguyên nhân đã sinh ra nó.A- sai vì, theo quy tắc nắm bàn tay phải Ic phải có chiều như sau:Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cách di chuyển nam châm để dòng điện cảm ứng xuất hiện trong mạch như hình là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nam châm đi lên lại gần vòng dây",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Nam châm đi xuống ra xa vòng dây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nam châm đi lên ra ra vòng dây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nam châm đi xuống lại gần vòng dây",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Định luật lenxơ về chiều dòng điện cảm ứng: Dòng điện cảm ứng có chiều sao cho từ trường mà nó sinh ra có tác dụng chống lại nguyên nhân đã sinh ra nó.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Chọn phương án sai về các cực của nam châm trong các trường hợp sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. D",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Định luật lenxơ về chiều dòng điện cảm ứng: Dòng điện cảm ứng có chiều sao cho từ trường mà nó sinh ra có tác dụng chống lại nguyên nhân đã sinh ra nó.C - sai, cực  của cam châm phải như sau:Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một khung dây dẫn hình chữ nhật kích thước (3cm x 4cm) đặt trong từ trường đều có cảm ứng từ B = 5.10-4 T. Vectơ cảm ứng từ hợp với mặt phẳng khung một góc 300. Tính từ thông qua khung dây dẫn đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6,9.10-7 Wb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6,9.10-3 Wb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3.10-3 Wb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3.10-7 Wb",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nVecto cảm ứng từ hợp với mặt phẳng khung một góc 300 \n→  Pháp tuyến mặt phẳng khung dây hợp với vecto cảm ứng từ một góc:\nα = 900 – 300 = 600\nTừ thông qua khung dây dẫn đó là:\nΦ = B.S.cosα = 5.10-4.0,03.0,04.cos600= 3.10-7Wb\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đặt khung dây dẫn phẳng, kín với diện tích S trong từ trường đều có cảm ứng từ B. Từ thông qua khung dây có độ lớn là Φ = 0,8BS. Góc giữa vectơ pháp tuyến của mặt phẳng khung dây với đường sức từ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,644 rad",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,800rad.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,721rad.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,927 rad.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một khung dây hình chữ nhật chuyển động song song với dòng điện thẳng dài vô hạn như hình vẽ. Dòng điện cảm ứng trong khung",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có chiều ABCD.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. có chiều ADCB.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cùng chiều với I.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. bằng 0.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một cuộn dây dẫn hình vuông có 100 vòng dây, cạnh a = 10cm, đặt cố định trong một từ trường đều có vectơ cảm ứng từ vuông góc với mặt khung. Trong khoảng thời gian 0,05s, cho độ lớn của cảm ứng từ tăng đều từ 0 đến 0,5T. Độ lớn của suất điện động cảm ứng xuất hiện trong vòng dây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10(V).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 70,1(V).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,5(V).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,15(V).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Từ thông qua một vòng dây dẫn kín là \n\\[\\phi = \\frac{{{{2.10}^{ - 2}}}}{\\pi }\\cos \\left( {100\\pi t + \\frac{\\pi }{4}} \\right)\\left( {{\\rm{W}}b} \\right)\\].\nBiểu thức của suất điện động cảm ứng xuất hiện trong vòng dây là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[e = 2\\cos \\left( {100\\pi t + \\frac{\\pi }{4}} \\right)\\left( V \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[e = 2\\sin \\left( {100\\pi t + \\frac{\\pi }{4}} \\right)\\left( V \\right)\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[e = 2\\cos \\left( {100\\pi t} \\right)\\left( V \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[e = 2\\sin \\left( {100\\pi t} \\right)\\left( V \\right)\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đặt khung dây ABCD cạnh một dây dẫn thẳng có dòng điện như hình:Thanh AB có thể trượt trên thanh DE và CF. Điện trở R không đổi và bỏ qua điện trở của các thanh. AB song song với dòng điện thẳng và chuyển động thẳng đều với vận tốc vuông góc với AB. Dòng điện cảm ứng trong mạch có chiều?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Từ A đến B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Từ B đến A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Không xác định được",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không có dòng điện cảm ứng trong mạch",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Chọn phương án đúng về chiều dòng điện cảm ứng trong thanh MN:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a- dòng điện cảm ứng có chiều từ N đến M, b- dòng điện cảm ứng có chiều từ N đến M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a- dòng điện cảm ứng có chiều từ M đến N, b- dòng điện cảm ứng có chiều từ M đến N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a- dòng điện cảm ứng có chiều từ M đến N, b- dòng điện cảm ứng có chiều từ N đến M",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a- dòng điện cảm ứng có chiều từ N đến M, b- dòng điện cảm ứng có chiều từ M đến N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Khi sử dụng điện, dòng điện Fucô không xuất hiện trong:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quạt điện",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lò vi sóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nồi cơm điện",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Bếp từ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

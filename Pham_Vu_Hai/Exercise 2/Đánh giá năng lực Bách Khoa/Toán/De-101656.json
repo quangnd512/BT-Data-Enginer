@@ -1,0 +1,557 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/nguyen-ham-dinh-nghia-va-tinh-chat/101656/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫f'xdx=fx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ∫fxdx=f'x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ∫f'xdx=f''x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫fxdx=f''x+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: ∫f'xdx=fx+C\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho f(x) là đạo hàm của hàm số F(x). Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. f'x=Fx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ∫fxdx=Fx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ∫Fxdx=fx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. f'x=F'x",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHàm số f(x) là đạo hàm của F(x) nên F(x) là nguyên hàm của f(x) hay∫fxdx=Fx+C\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Hàm số y=sinx là một nguyên hàm của hàm số nào trong các hàm số sau",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=sinx+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=cosx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=cotx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=-cosx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nsinx'=cosx⇒y=sinx là một nguyên hàm của hàm số y=cosx\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫axdx=axlna+C(0<a≠1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ∫axdx=ax+C(0<a≠1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ∫axdx=axlna+C(0<a≠1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫axdx=axlna(0<a≠1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: ∫axdx=axlna+C(0<a≠1) nên A đúng.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hàm số fx=x2+4. Khẳng định nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫fxdx=2x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ∫fxdx=x2+4x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ∫x2+4dx=x33+4x+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ∫fxdx=x3+4x+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n∫x2+4dx=x33+4x+C\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Hàm số nào không là nguyên hàm của hàm số y=3x4?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=12x3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y=3x55−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=3x5+15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=35x5−35",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nQuan sát các đáp án ta thấy mỗi hàm số ở đáp án B, C, D đều có đạo hàm bằng 3x4\nChỉ có đáp án A: 12x3'=36x2≠3x4 nên A sai.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Chọn mệnh đề sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫1cos2xdx=tanx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ∫1sin2xdx=cotx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ∫1sin2xdx=−cotx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫1cos2xdx=sinxcosx+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong các mệnh đề sau, mệnh đề nào sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫sinxdx=cosx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ∫dx=x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ∫exdx=ex+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫1xdx=lnx+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫1sin2x+1cos2xdx=tanx−cotx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ∫1sin2x+1cos2xdx=cotx−tanx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ∫1sin2x+1cos2xdx=cotx+tanx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫1sin2x+1cos2xdx=−cotx−tanx+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hàm số fx=ex+2. Khẳng định nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫fxdx=ex−2+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ∫fxdx=ex+2x+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ∫fxdx=ex+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫fxdx=ex−2x+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tìm họ nguyên hàm của hàm số fx=x2−2x+1x−2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x+1x−2+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x22+lnx−2+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x2+lnx−2+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1+1x−22+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Họ nguyên hàm của hàm số fx=1x2−2x trên khoảng 2;+∞ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lnx−2+lnx2 + C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. lnx−lnx−22 + C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lnx−2−lnx2 + C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. lnx−2−lnx+ C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hàm số f(x)=1sin2x. Nếu F(x) là một nguyên hàm của hàm số f(x) và đồ thị hàm số y=F(x) đi qua Mπ3;0 thì là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fx=13−cotx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Fx=3−cotx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fx=32−cotx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fx=−cotx+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hàm số fx=1x+2. Hãy chọn mệnh đề sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫1x+2dx=lnx+2+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y=ln3x+2 là một nguyên hàm của f(x)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=lnx+2 + C là họ nguyên hàm của f(x)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=lnx+2 là một nguyên hàm của f(x)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Họ nguyên hàm của hàm số fx=x2+3x2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x21+34x2+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x222x+x3+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x22+6x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x2+34x4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Tìm nguyên hàm của hàm số f(x)=x2+2x2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ∫f(x)dx=x33−2x+C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. ∫f(x)dx=x33−1x+C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ∫f(x)dx=x33+2x+C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∫f(x)dx=x33+1x+C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hàm số fx=e−2018x+2017. Gọi F(x) là một nguyên hàm của f(x) mà F(1)=e. Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fx=−12018e−2018x+2017+12018e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fx=−12018e−2018x+2017+e+12018e",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Fx=−2018e−2018x+2017+e+2018e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fx=−2018e−2018x+2017+12018e",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Tìm hàm số F(x) biết F'(x)=3x2+2x−1 và đồ thị hàm số y=F(x) cắt trục tung tại điểm có tung độ bằng 2. Tổng các hệ số của F(x) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. -1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hàm số y=f(x) thỏa mãn f2=−419 và f'(x)=x3f2(x)∀x∈ℝ. Giá trị của f(1) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. -1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. −34",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Giả sử Fx=ax2+bx+cex là một nguyên hàm của hàm số fx=x2ex. Tính tích P=abc",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P = -4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. P = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P = -5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P = -3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số F(x)=x2  là một nguyên hàm của hàm số f(x)e4x, hàm số f(x) có đạo hàm f′(x). Họ nguyên hàm của hàm số f'xe4x là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −4x2+3x+C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −4x2+2x+C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4x2+2x+C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −4x2+x+C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Họ nguyên hàm của hàm số y=2x+32x2−x−1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 23ln2x+1+53lnx−1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −23ln2x+1+53lnx−1+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 23ln2x+1−53lnx−1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −13ln2x+1+53lnx−1+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hàm số f(x) xác định và liên tục trên R và thỏa mãn đồng thời các điều kiện sau f(x)>0;f'(x)=x.f(x)x2+1;∀x∈ℝ và f(0)=e Giá trị của f3 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. e-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. e2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. e-2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hàm số f(x) liên tục trên R thỏa mãn các điều kiện: f0=22, f(x)>0,∀x∈ℝ  và f(x).f'(x)=(2x+1)1+f2(x),∀x∈ℝ. Khi đó giá trị f(1) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 24",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 26",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

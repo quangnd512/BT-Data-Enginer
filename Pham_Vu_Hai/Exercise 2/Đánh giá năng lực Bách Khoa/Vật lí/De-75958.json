@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-mach-xoay-chieu-chua-rlc/75958/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một mạch điện xoay chiều có u là điện áp tức thời ở hai đầu đoạn mạch và i là cường độ tức thời qua mạch. Chọn phát biểu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. u và i luôn luôn biến thiên cùng tần số.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. u và i luôn luôn biến thiên cùng pha.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u và i luôn luôn biến thiên ngược pha.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u luôn luôn sớm pha hơn i.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A - đúngB, C, D - sai vì tùy loại mạch mà u và i có độ lệch pha khác nhauĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Đặt vào hai đầu đoạn mạch chỉ có điện trở thuần R một điện áp xoay chiều có biểu thức u = U0cos(ωt) V thì cường độ dòng điện chạy qua điện trở có biểu thức \\[i = I\\sqrt 2 \\cos \\left( {\\omega t + {\\varphi _i}} \\right)A\\], trong đó I và φi được xác định bởi các hệ thức tương ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[I = \\frac{{{U_0}}}{R};{\\varphi _i} = \\frac{\\pi }{2}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[I = \\frac{{{U_0}}}{{2R}};{\\varphi _i} = 0\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[I = \\frac{{{U_0}}}{{\\sqrt 2 R}};{\\varphi _i} = - \\frac{\\pi }{2}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[I = \\frac{{{U_0}}}{{\\sqrt 2 R}};{\\varphi _i} = 0\\]",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có:\n+ Cường độ dòng điện hiệu dụng trong mạch chỉ có R:\n\\[I = \\frac{U}{R} = \\frac{{{U_0}}}{{\\sqrt 2 R}}\\]\n+ Cường độ dòng điện và hiệu điện thế trong mạch chỉ có R dao động cùng pha với nhau\n=>φi = φu = 0\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đoạn mạch điện xoay chiều gồm hai điện trở thuần R1 = 20 Ω và R2 = 40 Ω mắc nối tiếp với nhau. Đặt vào giữa hai đầu đoạn mạch một điện áp xoay chiều có biểu thức \\[u = 120\\sqrt 2 \\cos 100\\pi t\\,V\\]. Kết luận nào sau đây là không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dòng điện xoay chiều chạy qua hai điện trở thuần cùng pha với nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dòng điện xoay chiều chạy qua hai điện trở thuần có cùng cường độ hiệu dụng I= 2A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dòng điện xoay chiều chạy qua hai điện trở thuần có biểu thức \\[i = 2\\sqrt 2 \\cos 100\\pi t\\,A\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dòng điện xoay chiều chạy qua hai điện trở thuần R1 và R2 có cường độ cực đại lần lượt là  \\[{I_{01}} = 6\\sqrt 2 A;{I_{02}} = 3\\sqrt 2 A\\]",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có tổng trở của mạch: R = R1 + R2 = 60ΩCường độ dòng điện hiệu dụng trong mạch:\\[I = \\frac{U}{R} = \\frac{{120}}{{60}} = 2A\\]Cường độ dòng điện cực đại qua R1 và R2 là như nhau và bằng: \\[{I_{01}} = {I_{02}} = {I_0} = \\frac{{{U_0}}}{R} = \\frac{{120\\sqrt 2 }}{{60}} = 2\\sqrt 2 A\\]Cường độ dòng điện và hiệu điện thế trong mạch dao động cùng pha nhau=>Biểu thức cường độ dòng điện trong mạch:\\[i = 2\\sqrt 2 \\cos 100\\pi t\\,\\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Mắc điện trở R = 55Ω vào mạng điện xoay chiều có điện áp   \\[u = 110\\cos \\left( {100\\pi t + \\frac{\\pi }{2}} \\right)\\left( V \\right)\\]. Nhiệt lượng toả ra ở R trong 10 phút là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 132 kJ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 66 kJ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 33000 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13,2 kJ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTa có, cường độ dòng điện cực đại trong mạch:\n\\[{I_0} = \\frac{{{U_0}}}{R} = \\frac{{110}}{{55}} = 2A\\]\nNhiệt lượng tỏa ra trên R trong 10 phút là:\n\\[Q = {I^2}Rt = \\frac{{I_0^2Rt}}{2}\\]\n\\[ \\to Q = \\frac{{{2^2}.55.10.60}}{2} = 66000J = 66kJ\\]\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một cuộn dây thuần cảm có độ tự cảm L được mắc vào điện áp xoay chiều u có tần số f. Chọn phát biểu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cường độ dòng điện biến thiên điều hòa cùng pha với điện áp u.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cường độ hiệu dụng qua mạch tỉ lệ nghịch với f.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cường độ dòng điện qua mạch tỉ lệ thuận với L.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cường độ dòng điện biến thiên điều hòa với tần số f’ = 2f",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A- sai vì: Cường độ dòng điện trong mạch chỉ có L trễ pha hơn điện áp uB- đúngC- sai vì:\\[I = \\frac{U}{{{Z_L}}} = \\frac{U}{{\\omega L}} = \\frac{U}{{2\\pi fL}}\\] =>cường độ dòng điện tỉ lệ nghịch với L và fD- sai vì cường độ dòng điện biến thiên điều hòa với tần số fĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tác dụng của cuộn cảm đối với dòng điện xoay chiều là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gây cảm kháng nhỏ nếu tần số dòng điện lớn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngăn cản hoàn toàn dòng điện xoay chiều.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Gây cảm kháng lớn nếu tần số dòng điện lớn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Chỉ cho phép dòng điện đi qua theo một chiều.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có, cảm kháng:ZL = 2πfL =>cảm kháng lớn nếu tần số dòng điện lớnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đoạn mạch điện xoay chiều chỉ có cuộn cảm có hệ số tự cảm L. Điện áp tức thời và cường độ dòng điện tức thời của mạch là u và i. Điện áp hiệu dụng và cường độ hiệu dụng là U, I. Biểu thức nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{\\left( {\\frac{u}{U}} \\right)^2} + {\\left( {\\frac{i}{I}} \\right)^2} = 1\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{\\left( {\\frac{u}{U}} \\right)^2} + {\\left( {\\frac{i}{I}} \\right)^2} = 2\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[{\\left( {\\frac{u}{U}} \\right)^2} - {\\left( {\\frac{i}{I}} \\right)^2} = 0\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{\\left( {\\frac{u}{U}} \\right)^2} + {\\left( {\\frac{i}{I}} \\right)^2} = \\frac{1}{2}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Mạch điện xoay chiều chỉ có tụ điện với điện dung C. Đặt vào hai đầu tụ điện một điện áp u = U0cos(ωt + φ) V. Cường độ dòng điện hiệu dụng của mạch được cho bởi công thức:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[I = \\frac{{{U_0}}}{{\\sqrt 2 \\omega C}}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[I = \\frac{{{U_0}\\omega C}}{{\\sqrt 2 }}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[I = \\frac{{{U_0}}}{{\\omega C}}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[I = {U_0}\\omega C\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho đoạn mạch điện xoay chiều chỉ có tụ điện với điện dung \\[C = \\frac{{{{10}^{ - 4}}}}{\\pi }\\left( F \\right)\\]. Đặt điện áp xoay chiều có tần số 50Hz vào hai đầu đoạn mạch. Tại thời điểm mà điện áp hai đầu mạch có giá trị \\[100\\sqrt {10} V\\]thì cường độ dòng điện trong mạch là \\[\\sqrt 2 A\\]. Điện áp hiệu dụng hai đầu tụ điện có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{U_C} = 100\\sqrt 2 V\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{U_C} = 100\\sqrt 6 V\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[{U_C} = 100\\sqrt 3 V\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{U_C} = 200\\sqrt 2 V\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một học sinh mắc mạch điện như hình vẽ. Đặt vào A và B điện áp xoay chiều\\[u = U\\sqrt 2 \\cos \\left( {100\\pi t} \\right)\\] (U không đổi). Khi nối E, F với một ampe kế thì số chỉ của ampe kế là 3,8A. Khi nối E, F với một vôn kế thì số chỉ của vôn kế là 11,95V. Coi như hai cuộn dây thuần cảm và có hệ số tự cảm bằng nhau. Độ tự cảm cảu mỗi cuộn dây gần nhấu với giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5mH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 20 mH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10 mH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15 mH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một mạch điện xoay chiều nối tiếp có \\[R = 60\\Omega ;L = \\frac{{0,2}}{\\pi }H;C = \\frac{{{{10}^{ - 4}}}}{\\pi }F\\] mắc vào mạng điện xoay chiều có chu kì 0,02s. Tổng trở của đoạn mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 180Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 140Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 100Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 80Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đoạn mạch RLC nối tiếp. Biết điện áp tức thời ở hai đầu đoạn mạch sớm pha hơn cường độ dòng điện tức thời i chạy qua mạch 450. Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[R = {Z_L} - {Z_C}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[R = {Z_L} >{Z_C}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[R = {Z_C} - {Z_L}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[R = {Z_C} >{Z_L}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Mạch điện xoay chiều RLC nối tiếp. Biết điện áp tức thời giữa hai đầu đoạn mạch chậm pha hơn cường độ dòng điện tức thời là: 600 và \\[R = 10\\sqrt 3 \\Omega ;{Z_L} = 50\\Omega \\]. Dung kháng của tụ điện có giá trị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{Z_C} = 60\\sqrt 3 \\Omega \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{Z_C} = 40\\sqrt 3 \\Omega \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[{Z_C} = 20\\Omega \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{Z_C} = 80\\Omega \\]",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Điện áp của mạch điện xoay chiều là \\[u = 100\\sqrt 2 \\cos \\left( {100\\pi t + \\frac{\\pi }{2}} \\right)V\\] và  cường độ dòng điện qua mạch là \\[i = 5\\sqrt 2 \\cos \\left( {100\\pi t + \\frac{\\pi }{3}} \\right)A\\]. Trong mạch điện có thể có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ chứa L",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chỉ chứa C và R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chỉ chứa L và C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ chứa L và R",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong đoạn mạch điện xoay chiều RLC nối tiếp, nếu điện áp hiệu dụng giữa hai bản tu gấp hai lần điện áp điện áp hiệu dụng giữa hai đầu cuộn dây thuần cảm thì điện áp giữa hai đầu đoạn mạch sẽ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. trễ pha với dòng điện trong mạch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. sớm pha với dòng điện trong mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cùng pha với dòng điện trong mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. vuông pha với công điện trong mạch.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Đặt điện áp u = U0cos(ωt) vào hai đầu cuộn cảm thuần có độ tự cảm L thì cường độ dòng điện qua cuộn cảm thuần là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[i = \\frac{{{U_0}}}{{\\omega L}}\\cos \\left( {\\omega t + \\frac{\\pi }{2}} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[i = {U_0}\\omega L\\cos \\left( {\\omega t + \\frac{\\pi }{2}} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[i = \\frac{{{U_0}}}{{\\omega L}}\\cos \\left( {\\omega t - \\frac{\\pi }{2}} \\right)\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.  \\[i = {U_0}\\omega \\cos \\left( {\\omega t - \\frac{\\pi }{2}} \\right)\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Đồ thị cường độ dòng điện như hình vẽCường độ dòng điện tức thời có biểu thức",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[i = 4\\cos \\left( {100\\pi t + \\frac{\\pi }{2}} \\right)A\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[i = 4\\cos \\left( {100\\pi t + \\frac{{3\\pi }}{2}} \\right)A\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[i = 4\\cos \\left( {100\\pi t} \\right)A\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[i = 4\\cos \\left( {50\\pi t + \\frac{\\pi }{2}} \\right)A\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Đồ thị biểu diễn cường độ tức thời của dòng điện xoay chiều chỉ có cuộn cảm thuần có cảm kháng ZL = 50Ω như hình sau:Viết biểu thức điện áp tức thời giữa hai đầu cuộn cảm.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[u = 60\\cos \\left( {\\frac{{50\\pi t}}{3} + \\frac{{4\\pi }}{3}} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[u = 60\\sin \\left( {\\frac{{50\\pi t}}{3} + \\frac{{4\\pi }}{3}} \\right)\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[u = 60\\cos \\left( {\\frac{{50\\pi t}}{3} + \\frac{\\pi }{6}} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[u = 30\\cos \\left( {\\frac{{50\\pi t}}{3} + \\frac{\\pi }{3}} \\right)\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một đoạn mạch điện xoay chiều gồm R = 60Ω , cuộn cảm thuần \\[L = \\frac{{0,2}}{\\pi }H\\]và \\[C = \\frac{{{{10}^{ - 3}}}}{{8\\pi }}F\\]mắc nối tiếp. Điện áp giữa hai đầu đoạn mạch là \\[u = 100\\sqrt 2 \\cos 100\\pi tV\\]. Tìm độ lệch pha giữa điện áp giữa hai đầu đoạn mạch và dòng điện trong mạch?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\frac{\\pi }{4}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[ - \\frac{\\pi }{4}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[\\frac{\\pi }{6}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[ - \\frac{\\pi }{6}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Đặt điện áp xoay chiều vào hai đầu đọa mạch có R, L, C mắc nối tiếp. Khi trong đoạn mạch có cộng hưởng điện thì điện áp giữa hai đầu đoạn mạch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lệch pha so với cường độ dòng điện trong mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. trễ pha  so với dòng điện trong mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cùng pha với cường độ dòng điện trong mạch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sớm pha  so với cường độ dòng điện trong mạch.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Mạch điện xoay chiều gồm điện trở thuần R = 30Ω mắc nối tiếp với cuộn dây. Đặt vào hai đầu mạch một hiệu điện thế xoay chiều \\[u = U\\sqrt 2 .\\cos \\left( {100\\pi t} \\right)V\\] thì hiệu điện thế hiệu dụng ở hai đầu cuộn dây là Ud = 60V và dòng điện trong mạch lệch pha \\[\\frac{\\pi }{6}\\]  so với u và lệch pha \\[\\frac{\\pi }{3}\\] so với udud. Hiệu điện thế hiệu dụng ở hai đầu mạch U có giá trị",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 120V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[60\\sqrt 3 V\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 90V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[60\\sqrt 2 V\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

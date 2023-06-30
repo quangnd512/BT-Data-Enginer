@@ -1,0 +1,672 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ham-so-chua-logarit/97306/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hàm số y=logax(0<a≠1) xác định trên:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (0;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R\\{0}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0;+∞",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHàm số y=logax(0<a≠1) xác định trên 0;+∞\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hàm số y=logax có đạo hàm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y'=logax",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y' = xlna",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y'=1xlna",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. y'=1xlna",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện xác định: x > 0\nĐạo hàm hàm số y=logax là y'=1xlna\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. limx→0ln1+xx=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. limx→0ln1-xx=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. limx→0lnxx=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. limx→0ln1+x1+x=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nGiới hạn cần nhớ: limx→0ln1+xx=1\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hàm số y=logax. Nếu 0<a<1 thì hàm số:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. nghịch biến trên 0;+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. đồng biến trên 0;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. nghịch biến trên −∞;0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. đồng biến trên −∞;0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHàm số y=logax nghịch biến trên 0;+∞ nếu 0<a<1 và đồng biến trên 0;+∞ nếu a>1.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Điểm (x0;y0) thuộc đồ thị hàm số y=logax(0<a≠1) nếu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y0=logax0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y0=x0a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y0=ax0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x0=logay0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiểm x0;y0 thuộc đồ thị hàm số y=logax(0<a≠1) nếu y0=logax0\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tiệm cận đứng của đồ thị hàm số y=logax(0<a≠1) là đường thẳng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = 0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐồ thị hàm số y=logax(0<a≠1) có đường tiệm cận đứng là x = 0 (trục Oy)\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Hàm số y=loge3x−1 nghịch biến trên khoảng nào dưới đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1;+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Điểm nào sau đây không thuộc đồ thị hàm số y=logax(0<a≠1) ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (a;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a2;a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a2;2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hàm số y=logπ4x. Khẳng định nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hàm số đã cho nghịch biến trên tập xác định",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đồ thị hàm số đã cho có một tiệm cận đứng là trục Oy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hàm số đã cho có tập xác định D=0;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đồ thị hàm số đã cho luôn nằm phía trên trục hoành",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Hàm số y=logax và y=logbx có đồ thị như hình vẽ bên:\nĐường thẳng y = 3 cắt hai đồ thị tại các điểm có hoành độ x1,x2. Biết rằng x2=2x1,giá trị của ab bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 23",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. loga+b=loga+logb;∀a>0;b>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ax+y=ax+ay; ∀a>0; x,y∈ R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hàm số y=e10x+2017 đồng biến trên R",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hàm số y=log12x nghịch biến trên khoảng (0;+∞)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho a,b là các số thực, thỏa mãn 0<a<1<b, khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. logba+logab<0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. logba>1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. logab>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. logab+logba≥2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tìm tập xác định D của hàm số y=log2−32−2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. D=(−∞;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. D=[1;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. D=(−∞;1]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. D=(1;+∞)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đạo hàm hàm số y=log20182018x+1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1xln2018",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20182018x+1ln2018",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12018x+1ln2018",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 20182018x+1ln2018",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tính đạo hàm hàm số y=ln1+x+1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y'=12x+11+x+1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y'=11+x+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y'=1x+11+x+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y'=2x+11+x+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho a,b là các số thực dương, thỏa mãn a34>a45 và logb12<logb23. Mệnh đề nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a > 1, 0 < b < 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0 < a < 1, 0 < b < 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0 < a < 1, b > 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a > 1, b > 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Nếu gọi (G1) là đồ thị hàm số y=ax và (G2) là đồ thị hàm số y=logax với 0<a≠1. Mệnh đề nào dưới đây đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (G1) và (G2) đối xứng với nhau qua trục hoành.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (G1) và (G2) đối xứng với nhau qua trục tung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (G1) và (G2) đối xứng với nhau qua đường thẳng y = x.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (G1) và (G2)  đối xứng với nhau qua đường thẳng y = −x.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho ba số thực dương a,b,c khác 1. Đồ thị các hàm số y=logax,y=logbx,y=logcx được cho trong hình vẽ sau:\n\nMệnh đề nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a < b < c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. b < c < a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a < c < b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. c < a < b",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm tất cả các giá trị thực của tham số m sao cho hàm số y=logx2−2mx+4 có tập xác định là R",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m < 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m < -2 hoặc m > 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. -2 < m < 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Biết hai hàm số y=ax và y = f(x) có đồ thị như hình vẽ đồng thời đồ thị của hai hàm số này đối xứng nhau qua đường thẳng d:y=−x. Tính f(−a3).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. f−a3=−a−3a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f−a3=−13.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. f−a3=−3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. f−a3=−a3a.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tìm tập giá trị T của hàm số f'x=1−lnxx2 với x∈[1;e2].",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T=0;e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T=1e;e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T=0;1e",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. T=−1e;e",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Tìm tham số m để hàm số y=log12x−2log2x−m đồng biến trên khoảng (0;1).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m≥−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m≥0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m > -2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Tìm tất cả các giá trị của tham số m để hàm số y=log2020mx−m+2 xác định trên 1;+∞.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≤0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m≥0.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m≥-1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m≤−1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Đồ thị của hàm số y = f(x)  đối xứng với đồ thị của hàm số y=ax(a>0,a≠1) qua điểm M(1;1). Giá trị của hàm số y = f(x) tại x=2+loga12020  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -2020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -2018",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2019",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho a và b là các số thực dương khác 1. Biết rằng bất kì đường thẳng nào song song với trục tung mà cắt các đồ thị y=logax,y=logbx và trục hoành lần lượt tại A,B và H phân biệt ta đều có 3HA = 4HB (hình vẽ bên dưới). Khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3b4=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a = 4b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4a = 3b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a4b3=1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Xét các số thực a, b thỏa mãn a>b>1. Tìm giá trị nhỏ nhất Pmin của biểu thức P=logab2a2+3logbab",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 19",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hàm số fx=lnex+m có f'−ln2=32. Mệnh đề nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m∈−2;  0.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m∈−5; −2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m∈0;  1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m∈1;  3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho x,y là các số thực thỏa mãn log4x+y+log4x−y≥1. Tìm giá trị nhỏ nhất Pmin của biểu thức P=2x-y.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Pmin=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Pmin=-4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Pmin=23",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Pmin=1033",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho hai hàm số y=lnx−2x và y=3x−2−1x+4m−2020. Tổng tất cả các giá trị nguyên của tham số m để hai đồ thị hàm số cắt nhau tại một điểm duy nhất bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 506",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1011",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1010",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

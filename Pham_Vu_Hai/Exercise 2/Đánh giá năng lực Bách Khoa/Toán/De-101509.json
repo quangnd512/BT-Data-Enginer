@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ung-dung-tich-phan-de-giai-mot-so-bai-toan-thuc-te/101509/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một chất điểm chuyển động thẳng với vận tốc v(t)=2t+3 (m/s), với t  là thời gian tính bằng giây (s) từ lúc chất điểm bắt đầu chuyển động. Tính quãng đường chất điểm đi được trong khoảng thời gian từ giây thứ nhất đến giây thứ năm.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 24m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 36m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 30m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 40m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một xe lửa chuyển động chậm dần đều và dừng lại hẳn sau 20 s kể từ lúc bắt đầu hãm phanh. Trong thời gian đó xe chạy được 120 m. Biết công thức tính vận tốc của chuyển động biến đổi đều là v=v0+at;; trong đó a( m/s2)) là gia tốc, v( m/s) là vận tốc tại thời điểm t(s). Hãy tính vận tốc v0 của xe lửa lúc bắt đầu hãm phanh",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 45m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một ô tô đang đứng và bắt đầu chuyển động theo một đường thẳng với gia tốc at=6−3t  m/s2 trong đó tt là khoảng thời gian tính bằng giây kể từ lúc ô tô bắt đầu chuyển động. Hỏi quãng đường ô tô đi được kể từ lúc bắt đầu chuyển động đến khi vận tốc của ô tô đạt giá trị lớn nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8m",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có\nvt=∫atdt=∫6−3tdt=6t−3t22+C\nTheo bài ra ta có: Ô tô đang đứng yên và bắt đầu chuyển động, do đó v0=0 => C=0\nKhi đó ta có vt=6t−32t2 đây là một parabol có bề lõm hướng xuống, đạt giá trị lớn nhất tại t=−b2a=−62.−32=2\nVậy quãng đường ô tô đi được từ khi chuyển động đến khi vận tốc của ô tô đạt giá trị lớn nhất là:\nS=∫02vtdt=∫026t−32t2dt=8  m.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một chất điểm đang chuyển động với vận tốc v0=15 m/s thì tăng tốc với gia tốc at=t2+4tm/s2. Tính quãng đường chất điểm đó đi được trong khoảng thời gian 3 giây kể từ lúc bắt đầu tăng vận tốc.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 70,25m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 68,25m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 67,25m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 69,75m",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Bác Năm làm một cái cửa nhà hình parabol bằng gỗ có chiều cao từ mặt đất đến đỉnh là 2,25 mét, chiều rộng tiếp giáp với mặt đất là 3 mét. Giá tiền mỗi mét vuông gỗ là 1500000 đồng. Vậy số tiền bác Năm phải trả là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 33750000 đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3750000 đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12750000 đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6750000 đồng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một ô tô chuyển động nhanh dần đều với vận tốc v(t)=7tm/s. Đi được 5(s) người lái xe phát hiện chướng ngại vật và phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc a = −35(m/s2). Tính quãng đường của ô tô đi được từ lúc bắt đầu chuyển bánh cho đến khi dừng hẳn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 87.5 mét",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 96.5 mét",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 102.5 mét",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 105 mét",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một chất điểm A xuất phát từ O, chuyển động thẳng với vận tốc biến thiên theo thời gian bởi quy luật vt=1100t2+1310tm/s trong đó t (giây) là khoảng thời gian tính từ lúc A bắt đầu chuyển động. từ trạng thái nghỉ, một chất điểm B cũng xuất phát từ O, chuyển động thẳng cùng hướng với A nhưng chậm hơn 10 giây so với A và có gia tốc bằng a(m/s2) (a là hằng số). Sau khi B xuất phát được 15 giây thì đuổi kịp A. Vận tốc của B tại thời điểm đuổi kịp A bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15(m/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9(m/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 42(m/s)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 25(m/s)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một vật chuyển động trong 3 giờ với vận tốc v(km/h) phụ thuộc vào thời gian t(h) có đồ thị vận tốc như hình bên. Trong khoảng thời gian 1 giờ kể từ khi bắt đầu chuyển động, đồ thị đó là một phần của đường parabol có đỉnh I(2;5) và có trục đối xứng song song với trục tung, khoảng thời gian còn lại của đồ thị là một đoạn thẳng song song với trục hoành. Tính quãng đường mà vật di chuyển được trong 3 giờ đó",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15(km)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 353  (km)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12(km)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 323  (km)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một viên gạch hoa hình vuông cạnh 40cm. Người thiết kế đã sử dụng bốn đường parabol có chung đỉnh tại tâm của viên gạch để tạo ra bốn cánh hoa (được tô màu sẫm như hình vẽ bên). Diện tích mỗi cánh hoa của viên gạch bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8003cm2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4003cm2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 16003cm2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 800cm2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một cổng chào có dạng hình parabol chiều cao 18m, chiều rộng chân đế 12m. Người ta căng sợi dây trang trí AB, CD nằm ngang đồng thời chia hình giới hạn bởi parabol thành ba phần có diện tích bằng nhau (xem hình vẽ bên). Tỉ số ABCD bằng :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 123",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 31+22",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Sân trường THPT Chuyên Hà Giang có một bồn hoa hình tròn có tâm O. Một nhóm học sinh lớp 12 được giao thiết kế bồn hoa, nhóm này chia bồn hoa thành bốn phần, bởi hai đường Parabol có cùng đỉnh O và đối xứng nhau qua O. Hai đường Parabol này cắt đường tròn tại bốn điểm A, B, C, D tạo thành một hình vuông có cạnh bằng 4m (như hình vẽ). Phần diện tích S1,S3 dùng để trồng hoa, phần diện tích S2,S4 dùng để trồng cỏ (Diện tích được làm tròn đến hàng phần trăm). Biết kinh phí trồng hoa là 150.000 đồng/m2, kinh phí trồng cỏ là 100.000 đồng/ m2. Hỏi cả trường cần bao nhiêu tiền để trồng bồn hoa đó? (Số tiền làm tròn đến hàng chục nghìn).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3.000.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6.060.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3.270.000 đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5.790.000 đồng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một vật chuyển động trong 4 giờ với vận tốc v (km/h) phụ thuộc vào thời gian t(h) có đồ thị là một phần của đường parabol có đỉnh I(1;1) và trục đối xứng song song với trục tung như hình bên. Tính quãng đường s mà vật di chuyển được trong 4 giờ kể từ lúc xuất phát.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. s=6 (km).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. s=8 (km).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. s=463(km).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. s=403(km).",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một xe mô tô phân khối lớn sau khi chờ đèn đỏ đã bắt đầu phóng nhanh với vận tốc tăng liên tục được biểu thị bằng đồ thị là đường Parabol (hình vẽ). Biết rằng sau 15 giây thì xe đạt đến vận tốc cao nhất 60m/s và bắt đầu giảm tốc. Hỏi từ lúc bắt đầu đến lúc đạt vận tốc cao nhất thì quãng đường xe đi được là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 450m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 900m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 600m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 180m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Ông A có một mảnh đất hình chữ nhật ABCD có AB=2π(m),AD=5(m). Ông muốn trồng hoa trên giải đất có giới hạn bởi hai đường trung bình MN  và đường hình sin (như hình vẽ). Biết kinh phí trồng hoa là 100.000 đồng /m2 . Hỏi ông A cần bao nhiêu tiền để trồng hoa trên giải đất đó?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1.000.000  đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 800.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1.600.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 400.000 đồng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một chiếc xe đua F1 đạt tới vận tốc lớn nhất là 360km/h. Đồ thị bên biểu thị vận tốc v của xe trong 5 giây đầu tiên kể từ lúc xuất phát. Đồ thị trong 2 giây đầu là một phần của một parabol định tại gốc tọa độ O, giây tiếp theo là đoạn thẳng và sau đúng ba giây thì xe đạt vận tốc lớn nhất. Biết rằng mỗi đơn vị trục hoành biểu thị 1 giây, mỗi đơn vị trực tung biểu thị 10 m/s và trong 5 giây đầu xe chuyển động theo đường thẳng. Hỏi trong 5 giây đó xe đã đi được quãng đường là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 340 (mét)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 420 (mét)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 400 (mét)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 320 (mét)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một tập đoàn định đầu tư vào hai dự án. Giả sử dự án đầu tư đầu có tốc độ sinh lợi nhuận là P1t=50+t2 (triệu đồng/năm), dự án thứ hai có tốc độ sinh lợi nhuận là P2(t)=200+5t  ( triệu đồng/năm). Sau t năm thì tốc độ sinh lợi nhuận của dự án hai bằng một nửa dự án một. Trong khoảng thời gian trên, chênh lệch lợi nhuận của hai dự án là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6674,6 triệu đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6576,4 triệu đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5676,4 triệu đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6679,4 triệu đồng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một đám vi trùng tại ngày thứ t có số lượng N(t), biết rằng N'(t)=40001+0,5t và lúc đầu đám vi trùng có 250000 con. Hỏi số lượng vi trùng tại ngày thứ 10 (lấy theo phần nguyên) là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 264334 con",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 256334 con",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 300560 con",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 614678 con",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

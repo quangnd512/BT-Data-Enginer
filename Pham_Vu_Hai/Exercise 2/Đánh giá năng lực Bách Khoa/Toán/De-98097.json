@@ -1,0 +1,557 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-ve-diem-va-vecto-a/98097/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hai điểm A(1;2;−1) và B(−1;3;1). Tọa độ điểm M nằm trên trục tung sao cho tam giác ABM vuông tại M .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(0;1;0) hoặc M(0;4;0)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.M(0;2;0) hoặc M(0;3;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M(0;−1;0) hoặc M(0;−4;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M(0;−2;0) hoặc M(0;−3;0)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nM nằm trên trục tung, giả sử M(0;m;0). Ta có\nMA→=(1;2−m;−1) và MB→=(−1;3−m;1)\nVì tam giác ABM vuông tại M nên ta có MA.→MB→=0\n⇔1.(−1)+(2−m)(3−m)+(−1).1=0⇔m2−5m+4=0⇔m=1m=4\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz , cho điểm M thỏa mãn hệ thức  OM→=2i→+j→Tọa độ của điểm  M là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(0;2;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.M(1;2;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M(2;0;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M(2;1;0)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:OM→=2i→+j→⇒OM→=2.i→+1.j→+0.k→⇔M2;1;0\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho OM→=2j→−k→ và ON→=2j→−3i→. Tọa độ của MN→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(−3;0;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.(0;−1;−3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(−2;1;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(−3;0;−1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:MN→=ON→−OM→=2j→−3i→−2j→−k→=−3i→+k→\nSuy ra MN→=−3;0;1\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai điểm A(0;−2;3),B(1;0;−1).  Gọi M là trung điểm đoạn  AB. Khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.BA→=(−1;−2;−4)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AB=21",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. M1;−1;1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AB→=(−1;−2;4)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:BA→=(0−1;−2−0;3+1)=(−1;−2;4) Suy ra A sai.\nSuy raAB→=(1;2;−4) D sai.\nCó AB=12+22+(−4)2=21B đúng.\nMà M là trung điểm của AB nên M12;−1;1C sai.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai điểm M(2;−3;5),N(6;−4;−1) và đặt  u=MN→. Mệnh đề nào sau đây là mệnh đề đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.u=(4;−1;−6)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.u=53",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.u=311",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.u=(−4;1;6)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa cóMN→=(6−2;−4+3;−1−5)=(4;−1;−6)\nDo đó|MN→|=42+(−1)2+(−6)2=53\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong không gian Oxyz cho ba vecto a→=−1;1;0,b→=1;1;0,c→=1;1;1.\nMệnh đề nào sau đay sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a→=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a→⊥b→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. c→=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. b→⊥c→",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKiểm tra lần lượt các điều kiện\na→=(−1)2+12+02=2b→=12+12+12=3a→.b→=(−1).1+1.1+0.0=0⇒a→⊥b→\nLại có:b→.c→=1.1+1.1+0.1=2≠0  nên b→và c→ không vuông góc.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong không gian Oxyz cho 3 véc tơ: a→4;2;5,b→3;1;3,c→2;0;1. Kết luận nào sau đây đúng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.c→=a→,b→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3 véc tơ cùng phương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3 véctơ đồng phẳng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3 véctơ không đồng phẳng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho ba điểmA(1;1;1),B(−1;−1;0) và C(3;1;−1). Tìm tọa độ điểm M thuộc (Oxy)  và cách đều các điểm A,B,C .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. M0;74;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. M2;74;0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. M2;−74;0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. M−2;−74;0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ  Oxyz, cho hai điểm  A(1;4;2) , B(−1;2;4). Tìm tọa độ điểm M thuộc trục Oz  sao cho :MA2+MB2=32.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(0;0;1) hoặc M(0;0;5)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.M(0;0;−1) hoặc M(0;0;5)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M(0;0;−1)  hoặc M(0;0;6)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M(0;0;1) hoặc M(0;0;−5)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz , để hai vecto a→=m;2;3 và b→1;n;2 cùng phương thì 2m+3n bằng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.7",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho tam giác ABC biết A(2;4;−3) và trọng tâm G của tam giác có toạ độ là G(2;1;0). Khi đó AB→+AC→ có tọa độ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(0;−9;9)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.(0;−4;4)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(0;4;−4)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(0;9;−9)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai vectơ a→ và b→ thỏa mãn a→=23,b→=3 và a→,b→=300. Độ dài của vectơ 5a→,−2b→ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 303.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 90",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong không gian với hệ trục tọa độ Oxyz, cho ba điểm A(1;2;−1),B(2;−1;3),C(−3;5;1). Tìm tọa độ điểm D sao cho tứ giác ABCD là hình bình hành.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.D(−2;8;−3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.D(−4;8;−5)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.D(−2;2;5)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.D(−4;8;−3)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hình bình hành ABCD với A(2;4;−4),B(1;1;−3),C(−2;0;5),D(−1;3;4). Diện tích của hình bình hành ABCD bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6182đvdt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 615đvdt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 618đvdt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 345đvdt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, các điểm A(1;2;3),B(3;3;4),C(−1;1;2) sẽ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.thẳng hàng và A nằm giữa B và C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.thẳng hàng và C nằm giữa B và A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.thẳng hàng và B nằm giữa A và C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.là ba đỉnh của một tam giác.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho ba vectơ a→=3;−1;−2,b→=1;2;m và c→=5;1;7.Giá trị m bằng bao nhiêu để c→=a→,b→",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m=−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.m=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m=−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai điểm  A(0;2;−1), B(2;0;1). Tìm tọa độ điểm M nằm trên trục Ox sao cho :MA2+MB2 đạt giá trị bé nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M(0;1;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.M(1;0;0)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.M(0;1;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M(−1;0;0)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho tam giác ABC có A(1;2;−1), B(2;−1;3), C(−4;7;5). Tọa độ chân đường phân giác trong góc B^ của tam giác ABC là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −23;113;1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 23;113;13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 113;−2;1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −2;11;1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trong không gian với hệ trục tọa độ Oxyz, cho hình hộp ABCD.A′B′C′D′ biết A(1;0;1),  B(2;1;2),  D(1;−1;1) và C′(4;5;−5).  Khi đó, thể tích của hình hộp đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.V=9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.V=7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.V=10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.V=13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz,  cho tứ diện ABCD  có A(2;−1;1), B(3;0;−1), C(2;−1;3) và D thuộc trục Oy . Tính tổng tung độ của các điểm D, biết thể tích tứ diện bằng 5.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Trong không gian Oxyz, cho hai điểm A(4;0;4) và B(2;4;0). Điểm M di động trên tia Oz, điểm N di động trên tia Oy. Đường gấp khúc AMNB có độ dài nhỏ nhất bằng bao nhiêu? (Kết quả làm tròn đến hàng phần chục).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10,1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 11,3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9,9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 10,0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho ba vectơ a→=(1;m;2),b→=(m+1;2;1) và c→=(0;m−2;2). Giá trị m bằng bao nhiêu để ba vectơ a→,b→,c→đồng phẳng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m=35",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=25",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m=34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=23",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho A(1;2;5),B(1;0;2),C(4;7;−1),D(4;1;a). Để 4 điểm A,B,C,D đồng phẳng thì a bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−10",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.-7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz , để hai vecto a→=(m;2;3) và b→(1;n;2) cùng phương thì 2m+3n bằng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.7",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

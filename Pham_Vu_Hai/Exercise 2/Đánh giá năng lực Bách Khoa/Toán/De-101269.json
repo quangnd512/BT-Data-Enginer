@@ -1,0 +1,615 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ung-dung-tich-phan-vao-tinh-dien-tich/101269/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Công thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số y=f(x) đường thẳng y=0 và hai đường thẳng x=a, x=b(a<b) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫abfxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=∫0bf(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=∫bafxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=∫abfxdx",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số y=f(x) đường thẳng y = 0 và hai đường thẳng là x=a, x=b là S=∫abfxdx\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Công thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số y=f(x), y=g(x) và hai đường thẳng x=a, x=b (a<b) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫abfx−gxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=∫abgx−fxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=∫abfx−gxdx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=∫abfxdx−∫abgxdx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Diện tích hình phẳng giới hạn bởi các đồ thị hàm số y=x3−x;y=2x và các đường thẳng x=-1; x=1 được xác định bởi công thức:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫−113x−x3dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=∫−103x−x3dx+∫01x3−3xdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=∫−113x−x3dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=∫−10x3−3xdx+∫013x−x3dx",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Gọi S  là diện tích hình phẳng giới hạn bởi các đường y=x3,y=2−x và y = 0. Mệnh đề nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫01x3dx + ∫12x−2dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=∫02x3+x−2dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=12+∫01x3dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=∫01x3+x−2dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Công thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số y=fx=x2−1, trục hoành và hai đường thẳng x=−1;x=−3 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫-3-1x2−1dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S=∫-1-3x2−1dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=∫-30x2−1dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=∫-3-11−x2dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hai hàm số f(x)=-x và g(x)=ex. Diện tích hình phẳng giới hạn bởi hai đồ thị hàm số y=f(x), y=g(x) và hai đường thẳng x=0,x=e là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫0eex+xdx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S=∫0eex−xdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=∫e0ex−xdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=∫e0ex+xdx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tìm diện tích hình phẳng giới hạn bởi các đường y=(x−1)ex, trục hoành, đường thẳng x = 0 và x = 1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=2+e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=2-e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=e-2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=e-1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho đồ thị hàm số y = f(x) như hình vẽ dưới đây. Diện tích S của hình phẳng (phần gạch chéo) được xác định bởi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫−22f(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=∫1−2f(x)dx+∫12f(x)dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. S=∫−21f(x)dx+∫12f(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=∫−21f(x)dx−∫12f(x)dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hàm số f(x) có đồ thị trên đoạn [-3;3]là đường gấp khúc ABCD như hình vẽ.\n\nTính ∫−33fxdx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 52",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 356",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −356",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Diện tích hình phẳng giới hạn bởi đồ thị hàm số y=x2−4x+3, trục hoành và hai đường thẳng x=1, x=2 bằng: (Đáp án là phân số tối giản)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=∫−10f(x)dx+∫01|f(x)|dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ∫−11fxdx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ∫-11f(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=∫−11f(x)dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Gọi S là diện tích hình phẳng (H) giới hạn bởi các đường y=f(x) trục hoành và hai đường thẳng x=-1, x=2 (như hình vẽ). Đặt a=∫−10f(x)dx,b=∫02f(x)dx.  Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=b-a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S=b+a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=-b+a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=-b-a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tính diện tích S của hình phẳng giới hạn bởi đồ thị của hai hàm số y=x2−4 và y=x-4",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=163",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=1616",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=16",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=56",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Diện tích hình phẳng giới hạn bởi nửa đường tròn x2+y2=2,y>0 và parabol y=x2  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. π+43",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π2−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. π2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. π2+13",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Diện tích hình phẳng giới hạn với đường cong y=4-|x| và trục hoành Ox là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 16",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hàm số y=fx liên tục trên ℝ và có đồ thị như hình vẽ.\n\n\nDiện tích hai phần A và B lần lượt là 163 và 634. Tính ∫−132f2x+1dx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25312",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 25324",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −12524",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. −12512",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hình vuông ABCD tâm O, độ dài cạnh là 4cm. Đường cong BOC là một phần của parabol đỉnh O chia hình vuông thành hai hình phẳng có diện tích lần lượt là S1 và S2 (tham khảo hình vẽ).\nTỉ số S1S2 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 35",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hàm số y=f(x) có đồ thị như hình vẽ. Biết các miền A và B có diện tích lần lượt là 4 và 1. Tính ∫124xfx2dx",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Diện tích hình phẳng thuộc góc phần tư thứ hai, giới hạn bởi parabol y=2−x2, đường thẳng y=-x và trục Oy bằng ab (phân số tối giản). Tính a+b",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho parabol P:y=x2+1 và đường thẳng (d);y=mx+2. Biết rằng tồn tại m để diện tích hình phẳng giới hạn bới(P) và (d)  đạt giá trị nhỏ nhất, tính diện tích nhỏ nhất đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=83",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=43",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. S = 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=169",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hàm số y=x4−3x2+m có đồ thị là (Cm) (m là tham số thực). Giả sử (Cm) cắt trục Ox tại 4 điểm phân biệt. Gọi S1,S2 là diện tích của hai hình phẳng nằm dưới trục Ox và S3 là diện tích của hình phẳng nằm trên trục Ox được tạo bởi (Cm) với trục Ox. Biết rằng tồn tại duy nhất giá trị m=ab (với a,b∈ℕ*  và tối giản) để S1+S2=S3. Giá trị của 2a−b bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. -2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hai hàm số fx=mx3+nx2+px−52m,n,p∈ℝ và gx=x2+3x−1có đồ thị cắt nhau tại ba điểm có hoành độ lần lượt là −3;−1;1( tham khảo hình vẽ bên). Diện tích hình phẳng giới hạn bởi hai đồ thị hàm số f(x)và g(x) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 92",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 185",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hàm số f(x)=x3+ax2+bx+c với a,b,c là các số thực. Biết hàm số g(x)=f(x)+f'(x)+f''(x) có hai giá trị cực trị là −3 và 6. Diện tích hình phẳng giới hạn bởi các đường y=f(x)g(x)+6 và y=1 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2ln3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ln3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ln18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2ln2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Gọi S là diện tích của Ban Công của một ngôi nhà có dạng như hình vẽ (S được giới hạn bởi parabol (P)  và trục Ox). Giá trị của S là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=83",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=43",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S = 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Ông B có một khu vườn giới hạn bởi đường parabol và một đường thẳng. Nếu đặt trong hệ tọa độ Oxy như hình vẽ bên thì parabol có phương trình y=x2 và đường thẳng là y = 25. Ông B dự định dùng một mảnh vườn nhỏ được chia từ khu vườn bởi đường thẳng đi qua O và điểm M trên parabol để trồng hoa. Hãy giúp ông B xác định điểm M bằng cách tính độ dài OM để diện tích mảnh vường nhỏ bằng 92.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. OM=25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. OM=310",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. OM=15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. OM=10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Vòm cửa lớn của một trung tâm văn hóa có hình parabol. Gắn parabol vào hệ trục Oxy thì nó có đỉnh (0;8) và cắt trục hoành tại 2 điểm phân biệt, trong đó có 1 điểm là (−4;0). Người ta dự định lắp vào cửa kính cho vòm cửa này. Hãy tính diện tích mặt kính cần lắp vào.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1283m2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1313m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 283m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 263m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Sàn của một viện bảo tàng mỹ thuật được lát bằng những viên gạch hình vuông cạnh 40(cm) như hình bên. Biết rằng người thiết kế đã sử dụng các đường cong có phương trình 4x2=y4  và 4(|x|−1)3=y2  để tạo hoa văn cho viên gạch. Diện tích phần được tô đậm gần nhất với giá trị nào dưới đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 506  cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 747  cm2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 507  cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 746  cm2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Một khung cửa kính hình parabol với đỉnh M và cạnh đáy AB như minh họa ở hình bên. Biết chi phí để lắp phần kính màu (phần tô đậm trong hình) là 200.000 đồng /m2 và phần kính trắng còn lại là 150.000 đồng /m2.Cho MN=AB=4m và MC=CD=DN. Hỏi số tiền để lắp kính cho khung cửa như trên gần nhất với số tiền nào dưới đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1.954.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2.123.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1.946.000 đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2.145.000 đồng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Người ta cần trồng hoa tại phần đắt nằm phía ngoài đường tròn tâm gốc tọa độ O , bán kính bằng 12và phía trong của Elip có độ dài trục lớn bằng 22 và độ dài trục nhỏ bằng 2 (như hình vẽ bên). Trong mỗi một đơn vị diện tích cần bón 10022−1πkg phân hữu cơ. Hỏi cần sử dụng bao nhiêu kg phân hữu cơ để bón cho hoa?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30kg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 40kg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50kg",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 45kg",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

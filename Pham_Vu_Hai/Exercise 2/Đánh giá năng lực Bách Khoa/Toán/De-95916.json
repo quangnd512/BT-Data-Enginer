@@ -1,0 +1,971 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/gia-tri-lon-nhat-va-gia-tri-nho-nhat-cua-ham-so/95916/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho biết GTLN của hàm số f(x) trên 1;3 là M = −2. Chọn khẳng định đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. fx⩾−2,∀x∈1;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f1=f3=−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. fx<−2,∀x∈1;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. fx⩽−2,∀x∈1;3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu M = −2 là GTLN của hàm số y = f(x) trên 1;3 thì fx⩽−2,∀x∈1;3\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hàm số f(x) xác định trên 0;2 và có GTNN trên đoạn đó bằng 5. Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. f0<5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f2⩾5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. f1=5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. f0=5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nGTNN của f(x) trên 0;2 bằng 5 nên fx⩾5,∀x∈0;2⇒f2⩾5.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Giá trị nhỏ nhất của hàm số y=2x+cosx trên đoạn 0;1 là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa cóy'=2−sinx>0​​∀x∈R⇒Hàm số luôn đồng biến trên0;1\n⇒min0;1y=y0=1\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Giá trị lớn nhất và giá trị nhỏ nhất của hàm số y=sinx  trên đoạn [−π2;−π3] lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −12;−32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −32;−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. −32;−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −22;−32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa có y'=cosx⇒y'=0⇔cosx=0⇔x=π2+kπk∈ℤ\nDox∈−π2;−π3nênk=−1hayx=−π2\nSuy ra\ny(−π2)=−1;y(−π3)=−32\nmax−π2;−π3y=−32min−π2;−π3y=−1\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Gọi m là giá trị nhỏ nhất của hàm số y=x−1+4x−1 trên khoảng 1;+∞. Tìm m?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n x>1⇔x−1>0\n⇒y=x−1+4x−1≥2x−1.4x−1=2.2=4\nDấu bằng xảy ra ⇔x−1=4x−1⇔x−12=4⇔x=3\nVậy GTNN của hàm số là m = 4 khi x = 3.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hàm số y=fx  có bảng biến thiên như hình vẽ, chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. max−3;0fx=f−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. min1;3fx=−7",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. min−∞;2fx=−7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. max−1;1fx<−3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+)max−3;0fx=f0=−3 nên A sai.\n+) min1;3fx=f2=−7 nên B đúng.\n+) Vì limx→−∞fx=−∞ nên không tồn tạimin−∞;2fx nên C sai.\n+)max−1;1fx=f0=−3  nên D sai.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hàm số y=fx  có đồ thị như hình vẽ. Khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. maxx∈ℝfx=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hàm số đồng biến trên khoảng −∞;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Giá trị cực tiểu của hàm số bằng 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. minx∈0;4fx=−1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hàm số y=fx  có bảng biến thiên như sau:\n\n\nKhẳng định nào sau đây là khẳng định đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hàm số đạt cực đại tại x = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.GTNN của hàm số bằng giá trị cực tiểu của hàm số.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Hàm số không có GTNN.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hàm số có GTLN là 3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hàm số y=fx xác định và liên tục trên ℝ, có đồ thị như hình vẽ bên. Tìm giá trị nhỏ nhất m và giá trị lớn nhất M của hàm số y=fx  trên đoạn −2;2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=−5,M=−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=−1,M=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=−2,M=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=−5,M=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Gọi M,N lần lượt là giá trị lớn nhất, giá trị nhỏ nhất của hàm số fx=x−3x+1  trên đoạn 0;4. Tính M+2N.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1639",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 25627",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Hàm số nào dưới đây có giá trị nhỏ nhất trên tập xác định?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=x3−3x+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=−2x3+3x2−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=x4−2x2−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. y=−x4+4x2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đề thi THPT QG - 2021 - mã 101\nTrên đoạn 0;3,hàm số y=−x3+3x  đạt giá trị lớn nhất tại điểm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hàm số f(x) có bảng biến thiên như hình vẽ:\n\n\nTìm điều kiện của tham số mm để m<f(x)+x2  với mọi x∈1;2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≤ f2+4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m<f1+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m<f2+4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m≤ f1+1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tìm giá trị lớn nhất của hàm số y=x3−5x2+3x−1 trên đoạn 2;4",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M = −10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.M = −7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M = −5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.M = 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tìm GTLN và GTNN của hàm số y=x5−5x4+5x3+1 trên đoạn −1;2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. minx∈−1;2y=−10,maxx∈−1;2y=2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. minx∈−1;2y=−2,maxx∈−1;2y=10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. minx∈−1;2y=−10,maxx∈−1;2y=−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. minx∈−1;2y=−7,maxx∈−1;2y=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Giá trị lớn nhất của hàm số fx=6−8xx2+1 trên tập xác định của nó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Gọi giá trị lớn nhất và nhỏ nhất của hàm số y=x4+2x2−1  trên đoạn −1;2 lần lượt là M và m. Khi đó giá trị của M.m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.46",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−23",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.23",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hàm số y=x+1x. Giá trị nhỏ nhất của hàm số trên khoảng 0;+∞ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hàm số y=2mx+1m−x.. Giá trị lớn nhất của hàm số trên 2;3 bằng −13khi m bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.52",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hàm số y=x3−3mx2+6, giá trị nhỏ nhất của hàm số trên 0;3 bằng 2 khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=3127",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m>32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số y = f(x) liên tục trên ℝ và có đồ thị như hình dưới. Gọi a,A lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của f(x+1) trên đoạn −1;0. Giá trị a+A bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hàm số y=fx  liên tục trên đoạn −1;4 và có đồ thị như hình vẽ\n\n\nCó tất cả bao nhiêu giá trị nguyên của m thuộc đoạn −10;10 để bất phương trình |f(x)+m|<2m đúng với mọi x thuộc đoạn −1;4?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Một sợi dây kim loại dài a(cm) . Người ta cắt sợi dây đó thành hai đoạn, trong đó một đoạn có độ dài x(cm) được uốn thành đường tròn và đoạn còn lại được uốn thành hình vuông a>x>0. Tìm x để hình vuông và hình tròn tương ứng có tổng diện tích nhỏ nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=aπ+4cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=2aπ+4cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=πaπ+4cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=4aπ+4cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Gọi M và m là giá trị lớn nhất và giá trị nhỏ nhất của hàm số y=2sin2x−cosx+1 . Khi đó, giá trị của tổng M+m  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 258",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 256",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 252",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 254",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hàm số y=fx  liên tục trên  ℝ có đồ thị  y=f'(x)  như hình vẽ. Đặt g(x)=2f(x)−x2 . Khi đó giá trị lớn nhất của hàm số g(x) trên đoạn −2;4  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.g(−2).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.g(2).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.g(4).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.g(0).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hàm số y=fx  có đạo hàm trên ℝ và có đồ thị như hình vẽ bên. Xét hàm số gx=f(x3+2x)+m. Giá trị của tham số m để giá trị lớn nhất của hàm số g(x) trên đoạn 0;1  bằng 9 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m=10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m=6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m=8",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hàm số y=fx liên tục trên R và có đồ thị như hình vẽ. Gọi M và m tương ứng là giá trị lớn nhất và giá trị nhỏ nhất của hàm số  y=f(1−2cosx) trên  Giá trị của M + m bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Có bao nhiêu số nguyên m∈[−5;5]  để min1;3∣x3−3x2+m∣≥2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho hai số thực x,y thỏa mãn x2+y2−4x+6y+4+y2+6y+10=6+4x−x2. Gọi M,m lần lượt là giá trị lớn nhất, giá trị nhỏ nhất của biểu thức T=x2+y2−a.  Có bao nhiêu giá trị nguyên thuộc đoạn −10;10  của tham số aa để M≥2m ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.17.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.16.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.15.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.18.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho f(x) mà đồ thị hàm số y=f'(x)   như hình vẽ bên\n\n\nBất phương trình f(x)>sinπx2+m nghiệm đúng với mọi x∈[−1;3] khi và chỉ khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m<f0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m<f1−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m<f−1+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m<f2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho fx=1x2−4x+5−x24+x  Gọi M=Maxx∈0;3f(x); m=Minx∈0;3fx Khi đó M − m bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 35.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 75.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 95.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cho hàm số f(x). Biết hàm số f′(x) có đồ thị như hình dưới đây. Trên đoạn −4;3, hàm số g(x)=2f(x)+(1−x)2 đạt giá trị nhỏ nhất tại điểm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x = −1.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.x = −4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.x = −3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.x = 3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cho hàm số y=x3−3mx2+3m2−1x+2020. Có tất cả bao nhiêu giá trị nguyên của tham số m sao cho hàm số có giá trị nhỏ nhất trên khoảng 0;+∞.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Cho x,y là các số thực thỏa mãn 2x+y−1(3x+y+1)=3x+3y+1. Tìm giá trị nhỏ nhất của biểu thức P=x2+xy+y2 .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho các số thực x,y thay đổi thỏa mãn x2+2y2+2xy=1 và hàm số f(t)=t4−t2+2. Gọi M,m lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của Q=fx+y+1x+2y−2  Tính M+m?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 83−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3032",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3034",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 43+2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho hàm số y=x+1x−1 có đồ thị là (C). Gọi MxM;yM  là một điểm bất kỳ trên (C). Khi tổng khoảng cách từ M đến hai trục tọa độ là nhỏ nhất, \ntính tổng xM+yM .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2−22",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 22−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Cho hàm số y=f(x) có đồ thị y=f'x  như hình vẽ. Xét hàm số g(x)=f(x)−13x3−34x2+32x+2018. Mệnh đề nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. min−3;  1gx=g−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. min−3;  1gx=g1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. min−3;  1gx=g−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. min−3;  1gx=g−3+g12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Hàm số y=x+m3+x+n3−x3 (tham số m;n) đồng biến trên khoảng −∞;+∞. Giá trị nhỏ nhất của biểu thức P=4(m2+n2)−m−n  bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −116",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 14",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Nhà xe khoán cho hai tài xế ta-xi An và Bình mỗi người lần lượt nhận 32 lít và 72 lít xăng. Hỏi tổng số ngày ít nhất là bao nhiêu để hai tài xế chạy tiêu thụ hết số xăng của mình được khoán, biết rằng chỉ tiêu cho hai người một ngày tổng cộng chỉ chạy đủ hết 10 lít xăng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.20 ngày.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.15 ngày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.10 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.25 ngày",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 40:",
+            "Câu hỏi": "Cô An đang ở khách sạn A bên bờ biển, cô cần đi du lịch đến hòn đảo C. Biết rằng khoảng cách từ đảo C đến bờ biển là 10km, khoảng cách từ khách sạn A đến điểm B trên bờ gần đảo C nhất là 50km. Từ khách sạn A, cô An có thể đi đường thủy hoặc đi đường bộ rồi đi đường thủy để đến hòn đảo C (như hình vẽ bên). Biết rằng chi phí đi đường thủy là 5 USD/km, chi phí đi đường bộ là 3USD/km. Hỏi cô An phải đi đường bộ một khoảng bao nhiêu km để chi phí là nhỏ nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 152 (km)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 852 (km)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 50 km",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1026 (km)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 41:",
+            "Câu hỏi": "Ông Bình đặt thợ làm một bể cá, nguyên liệu bằng kính trong suốt, không có nắp đậy dạng hình hộp chữ nhật có thể tích chứa được 220500cm3 nước. Biết tỉ lệ giữa chiều cao và chiều rộng của bể bằng 3. Xác định diện tích đáy của bể cá để tiết kiệm nguyên vật liệu nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2220  cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1880  cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2100  cm2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2200  cm2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 42:",
+            "Câu hỏi": "Một công ty bất động sản có 50 căn hộ cho thuê. Biết rằng nếu cho thuê mỗi căn hộ với giá 2.000.000 đồng một tháng thì mọi căn hộ đều có người thuê. Mỗi một căn hộ không thuê nữa (bỏ trống) thì công ty lại phải tăng số tiền thuê của những căn hộ còn lại thêm 50.000 đồng. Công ty đã tìm ra phương án cho thuê đạt lợi nhuận lớn nhất. Hỏi thu nhập cao nhất công ty có thể đạt được trong một tháng là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.115.250.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.101.250.000 đồng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.100.000.000 đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.100.250.000 đồng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

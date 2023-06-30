@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/thau-kinh/75932/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Thấu kính phân kì là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một khối chất trong suốt, được giới hạn bởi hai mặt cầu lồi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. một khối chất trong suốt, được giới hạn bởi một mặt cầu lồi và một mặt phẳng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một khối chất trong suốt , được giới hạn bởi 2 mặt cầu lõm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. một khối chất trong suốt, được giới hạn bởi mặt cầu lồi có bán kính nhỏ hơn mặt cầu lõm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Thấu kính phân kì là một khối chất trong suốt, được giới hạn bởi hai mặt cầu lõm hoặc một mặt phẳng và một mặt lõmĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Thấu kính hội tụ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. một khối chất trong suốt, được giới hạn bởi hai mặt luôn là các mặt cầu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. một khối chất trong suốt, được giới hạn bởi một mặt cầu lõm và một mặt phẳng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. một khối chất trong suốt, được giới hạn bởi hai mặt cầu lõm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. một khối chất trong suốt, được giới hạn bởi hai mặt cầu lồi hoặc một mặt cầu lồi và một mặt phẳng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Thấu kính hội tụ là một khối chất trong suốt, được giới hạn bởi hai mặt cầu lồi hoặc một mặt phẳng và một mặt lồi.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Khi nói về đường đi của một tia sáng qua thấu kính hội tụ, phát biểu nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. một chùm tia sáng song song với trục chính thì chùm tia ló hội tụ ở tiêu điểm ảnh sau thấu kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia sáng đi qua quang tâm của thấu kính thì truyền thẳng qua thấu kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một chùm tia sáng hội tụ tại tiêu điểm vật tới thấu kính thì chùm tia ló đi qua song song với trục hoành",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tia sáng đi song song với trục chính thì tia ló có đường kéo dài đi qua tiêu điểm chính của thấu kính",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A, B, C - đúngD - sai vì: Tia sáng song song với trục chính cho tia ló (hoặc đường kéo dài) qua tiêu điểm ảnh chính.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Khi nói về đường đi của tia sáng qua thấu kính phân kì, phát biểu nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. một chùm tia sáng song song với trục chính qua thấu kính thì chùm tia ló có đường kéo dài đi qua tiêu điểm ảnh trước thấu kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tia sáng đi qua quang tâm của thấu kính thì truyền thẳng qua thấu kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tia sáng (hoặc đường kéo dài) qua tiêu điểm vật chính cho tia ló song song trục chính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tia sáng đi song song với trục chính thì tia ló có đường kéo dài đi qua tiêu điểm vật chính của thấu kính",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A, B, C - đúngD - sai vì: Tia sáng đi song song với trục chính thì tia ló có đường kéo dài đi qua tiêu điểm ảnh chính của thấu kínhĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khi nói về sự tạo ảnh của vật qua thấu kính hội tụ, phát biểu nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. vật thật có thể cho ảnh thật, ngược chiều và lớn hơn vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. vật thật có thể cho ảnh thật, ngược chiều và nhỏ hơn vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. vật thật có thể cho ảnh ảo, cùng chiều và lớn hơn vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. vật thật có thể cho ảnh ảo, cùng chiều và nhỏ hơn vật",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:=>Các phương án:A, B, D - đúngC - saiĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Dùng thấu kính A hứng ánh sáng Mặt Trời, thấy ánh sáng tập trung vào một điểm. Dùng thấu kính B hứng ánh sáng Mặt Trời, thấy ánh sáng không thể tập trung vào một điểm.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thấu kính A là thấu kính hội tụ; B là thấu kính hội tụ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thấu kính A là thấu kính hội tụ; B là thấu kính phân kỳ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Thấu kính A là thấu kính phân kỳ; B là thấu kính hội tụ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thấu kính A là thấu kính phân kỳ; B là thấu kính phân kỳ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có: Thấu kính hội tụ làm hội tụ chùm tia sáng tới, thấu kính phân kì làm phân kì chùm tia sáng tới=>Thấu kính A là thấu kính hội tụ, B là thấu kính phân kì.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho các phát biểu sau về thấu kính hội tụ:(1) Thấu kính hội tụ có phần rìa mỏng hơn phần giữa.(2) Thấu kính hội tụ có hình dạng bất kì.(3) Thấu kính hội tụ còn gọi là thấu kính lồi.(4) Thấu kính hội tụ có phần rìa và phần giữa bằng nhau.Số phát biểu đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tiêu điểm vật của thấu kính:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. là khoảng cách OF",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. là điểm F trên trục chính, tia sáng bất kỳ tới thấu kính đi qua F (hoặc kéo dài qua F) thì có tia ló đi song song với trục chính.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. là điểm F' trên trục chính, tia sáng tới thấu kính theo hướng song song với trục chính thì có tia ló đi qua F' (hoặc kéo dài qua F').",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. là điểm O trên thấu kính, các tia đi qua O đều truyền thẳng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đáp án nào sau đây sai? Tiêu cự của thấu kính:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. OF = OF' =  f.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. là nghịch đảo của độ tụ thấu kính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. có giá trị dương với thấu kính  hội tụ, có giá trị âm với thấu kính phân kỳ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. có đơn vị là m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một người cao tuổi đeo kính lão có độ tụ D = +2dp.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đây là thấu kính hội tụ có tiêu cự 2 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đây là thấu kính phân kỳ có tiêu cự (-2 m).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đây là thấu kính hội tụ có tiêu cự 0,5 m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đây là thấu kính phân kỳ có tiêu cự (-0,5 m).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một thấu kính có tiêu cự 20 cm. Vật sáng AB vuông góc với trục chính thấu kính tại A, cách thấu kính 30 cm. Ảnh tạo bởi thấu kính",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cách thấu kính 60 cm, cao gấp 2 lần vật, cùng chiều với vật",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cách thấu kính 60 cm, cao gấp 2 lần vật, ngược chiều với vật.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. cách thấu kính 10 cm, cao bằng nửa vật, cùng chiều với vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cách thấu kính 10 cm, cao nửa vật, ngược chiều với vật.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đặt vật sáng cao 2cm trước thấu kính phân kì có tiêu cự -12cm, cách thấu kính một đoạn 12cm. Ảnh của vật qua thấu kính là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ảnh thật, ngược chiều và cách thấu kính 6cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ảnh ảo, cùng chiều với vật và cách thấu kính 12cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ảnh ảo , cùng chiều với vật và cao 1cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ảnh thật, ngược chiều với vật và cao 1cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Vật sáng AB có dạng đoạn thẳng nhỏ đặt vuông góc với trục chính (A nằm trên trục chính) của thấu kính hội tụ cho ảnh A’B’. Biết A’B’ có độ cao bằng 2/3 lần độ cao của vật AB  và khoảng cách giữa A’ và A bằng 50cm. Tiêu cự của thấu kính bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.  9cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 15cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12cm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một vật đặt trước một thấu kính 40cm cho một ảnh trước thấu kính 20cm. Đây là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. thấu kính hội tụ có tiêu cự 40 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thấu kính phân kì có tiêu cự 40 cm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. thấu kính phân kì có tiêu cự 20 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. thấu kính hội tụ có tiêu cự 20 cm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Vật sáng AB đặt vuông góc với trục chính của một thấu kính cách thấu kính 20 cm, qua thấu kính cho một ảnh thật cao gấp 5 lần vật. Khoảng cách từ vật đến ảnh là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 24 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 80 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 120 cm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 16 cm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Ảnh S’ của điểm sáng S được đặt như hình là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một chiếc phông hình tròn, đường kính 210 cm được chiếu sáng vào buổi tối. Để tạo độ sáng dịu trên phông, một học sinh đã lắp trước đèn, cách đèn 3 cm một thấu kính phân kỳ có tiêu cự f = - 5 cm, đường kính 10 cm. Coi đèn là nguồn sáng điểm. Vị trí đặt thấu kính thế nào để ánh sáng qua thấu kính chiếu vừa vặn vào phông?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quang tâm thấu kính nằm trên đường vuông góc với mặt phẳng phông, đi qua tâm phông, cách phông 35,7 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quang tâm thấu kính nằm trên đường vuông góc với mặt phẳng phông, đi qua tâm phông, cách phông 375 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quang tâm thấu kính nằm trên đường vuông góc với mặt phẳng phông, đi qua tâm phông, cách phông 3,75 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quang tâm thấu kính nằm trên đường vuông góc với mặt phẳng phông tại tâm phông, cách phông 37,5 cm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

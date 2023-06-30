@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/nguyen-ham-doi-bien/101648/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nếu t=u(x) thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dt=u'(x)dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dx=u'(t)dt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dt=1uxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dx=1utdt",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu t=u(x) thì dt=u'(x)dx\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nếu x=u(t) thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dx=u'(t)dt",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dt=u'(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dx=u(t)dt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dt=dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu x=u(t) thì dx=u'(t)dtĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Biết ∫fx​dx=2xln3x−1+C với x∈19;+∞. Tìm khẳng định đúng trong các khẳng định sau",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.∫f3x​dx=2xln9x−1+C.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.∫f3x​dx=6xln3x−1+C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.∫f3x​dx=6xln9x−1+C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.∫f3x​dx=3xln9x−1+C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Nếu t=x2 thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. xfx2dx=ftdt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. xfx2dx=12ftdt",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. xfx2dx=2ftdt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. xfx2dx=f2tdt",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho fx=sin2x1−cos2x. Nếu đặt 1−cos2x=t thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. fxdx=−tdt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. fxdx=2tdt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. fxdx=−2t2dt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. fxdx=2t2dt",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho nguyên hàm I=∫6tanxcos2x3tanx+1dx . Giả sử đặt u=3tanx+1 thì ta được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=43∫2u2+1du",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=43∫−u2+1du",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=43∫u2−1du",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I=43∫2u2−1du",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tìm nguyên hàm của hàm số f(x)=sinxcos2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.∫f(x)dx=−2cos3x3+cosx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.∫f(x)dx=16cos3x+12sinx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.∫f(x)dx=cos3x3+cosx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.∫f(x)dx=16cos3x−12sinx+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tính I=∫cos3x1+sinxdx với t=sinx. Tính I theo t?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=t−t22+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I=t22−t+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=t22−t23+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I=−t22+t23+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Biết F(x) là một nguyên hàm của hàm số f(x)=x8−x2thoả mãn F(2)=0. Khi đó phương trình F(x)=x có nghiệm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=1−3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x = -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hàm số fx=3−2x−x2, nếu đặt x=2sint-1, với 0≤t≤π2 thì ∫f(x)dx bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.∫fxdx=4∫cos2tdt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.∫fxdx=8∫cos2tdt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.∫fx dx=∫1+cos2t  dt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.∫fx dx=2t−sin2t+C.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Biết∫fudu=Fu+C. Tìm khẳng định đúng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.∫f(5x+2)dx=5F(x)+2+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.∫f(5x+2)dx=F(5x+2)+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.∫f(5x+2)dx=15F(5x+2)+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.∫f(5x+2)dx=5F(5x+2)+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Nguyên hàm của hàm số y=cotx là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lncosx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. lnsinx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. sinx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tan x + C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tính I=∫3x5x3+1dx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=15x3+12x3+1−13x3+1x3+1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=25x3+12x3+1−23x3+1x3+1+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. I=25x3+12x3+1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I=25x3+12x3+1+x3+1x3+1+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho Fx=∫lnxx1−lnxdx , biết F(e) , tìm F(x)=?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fx=−21−lnx+231−lnx1−lnx+3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Fx=−1−lnx+131−lnx1−lnx+3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fx=−21−lnx−231−lnx1−lnx+3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fx=21−lnx−231−lnx1−lnx+3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho fx=x21−x và ∫f(x)dx=−2∫(t2−m)2dt với t=1−x , giá trị của m bằng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m = -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m = -1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho Fx=∫x1+1+xdx và F3−F0=ab là phân số tối giản , a>0. Tổng a + b bằng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho nguyên hàm I=∫e2xex+1ex+1dx=at+1t+C với t=ex+1, giá trị a bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Tìm nguyên hàm của hàm số f(x)=x3x2+2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.∫fxdx=133x2+2+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.∫fxdx=−133x2+2+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.∫fxdx=163x2+2+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.∫fxdx=233x2+2+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho nguyên hàm I=∫x2−1x3 dx. Nếu đổi biến số x=1sint với t∈[π4;π2] thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=− ∫cos2t  dt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I=∫sin2t  dt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=∫cos2t  dt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I=12∫1+cos2tdt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Gọi F(x) là một nguyên hàm của hàm số fx=x2sinx+2xcosxxsinx+cosx. Biết F(0)=1. Tính giá trị biểu thức Fπ2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. π22+lnπ2+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π24−lnπ2+1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. π28.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. π28+lnπ2+1.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho F(x) là một nguyên hàm của hàm số fx=xx2−m. Số giá trị của tham số m để F2=73 và F5=143 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

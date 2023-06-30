@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/gia-tri-luong-giac-cua-cac-goc-co-lien-quan-dac-biet/95178/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cotπ−α=cotπ+α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.cotπ2−α=tanπ+α",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.cotπ+α=cot−α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.cotπ+α=cotπ2−α",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n\nĐáp án A: cotπ−α=−cotαcotπ+α=cotα⇒cotπ−α≠cotπ+α\n\nVậy A sai\n\nĐáp án B: cotπ2−α=tanαtanπ+α=tanα⇒cotπ2−α=tanπ+α\n\nVậy B đúng\n\nĐáp án C: cotπ+α=cotαcot−α=−cotα⇒cotπ+α≠cot−α\n\nVậy C sai\n\nĐáp án D: cotπ+α=cotαcotπ2−α=tanα⇒cotπ+α≠cotπ2−α\n\nVậy D sai\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sinπ−α=sinπ+α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.sinπ2−α=sinπ+α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sinπ+α=sin−α",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.sinπ+α=cosπ2−α",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n\nĐáp án A: sinπ−α=sinαsinπ+α=−sinα⇒sinπ−α≠sinπ+α\n\nVậy A sai\nĐáp án B: sinπ2−α=cosαsinπ+α=−sinα⇒sinπ2−α≠sinπ+α\n\nVậy B sai\nĐáp án C: sinπ+α=−sinαsin−α=−sinα⇒sinπ+α=sin−α\n\nVậy C đúng\nĐáp án D: sinπ+α=−sinαcosπ2−α=sinα⇒sinπ+α≠cosπ2−α\n\nVậy D sai\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.tanπ−α=tanπ2−α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tanπ2−α=tan−α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tanπ−α=tanπ2+α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.tanπ2−α=cotπ+α",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nĐáp án A: tanπ−α=−tanαtanπ2−α=cotα⇒tanπ−α≠tanπ2−α\n\nVậy A sai\nĐáp án B: tanπ2−α=cotαtan−α=−tanα⇒tanπ2−α≠tan−α\n\nVậy B sai\nĐáp án C: tanπ−α=−tanαtanπ2+α=−cotα⇒tanπ−α≠tanπ2+α\n\nVậy C sai\nĐáp án D: tanπ2−α=cotαcotπ+α=cotα⇒tanπ2−α=cotπ+α\nVậy D đúng\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.tanπ+α=−tanα",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.tan−α=−tanα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tanπ2−α=cotα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.tanπ−α=−tanα",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n tanπ+α=tanα  nên A sai\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho tam giác ABC. Mệnh đề nào sau đây đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sinA+B2=sinC2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.cosA+B2=cosC2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sinA+B=sinC",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.cosA+B=cosC",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có ΔABC ⇒ A + B + C = 1800  (định lý tổng 3 góc trong tam giác)\n\n⇒ sin(A + B) = sin(1800 – A − B) = sinC\nVậy C đúng.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đơn giản biểu thức A=cosα−π2+sinα−π  ta được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A=cosα+sinα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.A=2sinα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A=sinα−cosα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A = 0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nA=cosα−π2+sinα−π\nA=cosπ2−α−sinπ−α\nA=sinα−sinα=0\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Giá trị của biểu thức S=cos212°+cos278°+cos21°+cos289° bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sin225°=−22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.cos225°=−22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tan225°=−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.cot225°=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Kết quả thu gọn của biểu thức: A=sinπ+x+cosπ2−x+cot2π−x+tan3π2+x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2sinx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. – 2 cotx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. – 2 sinx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho cosα=13 . Khi đó cos3π+α bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−23",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Rút gọn biểu thức S=cos90°−xsin180°−x−sin90°−xcos180°−x  ta được kết quả:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S = 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S = sin2x – cos2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S = 2 sinx cosx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho tam giác ABC. Hãy chỉ ra hệ thức sai",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cosB+C2=sinA2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.sinA+C=−sinB",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.cosA+B+2C=−cosC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.cosA+B=−cosC",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho tam giác ABC và các mệnh đề\nIcosB+C2=sinA2\nIItanA+B2.tanC2=1\nIIIcosA+B−C=cos2C\n\n\nMệnh đề nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ I",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. II và III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I và II",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Chỉ III",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

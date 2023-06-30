@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/acid-base-muoi-1/75707/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dãy bao gồm chất và ion đều là axit là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[HSO_4^ - ,NH_4^ + ,C{H_3}COOH\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[NH_4^ + ,C{H_3}COOH,A{l_2}{O_3}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[HSO_4^ - ,NH_4^ + ,CO_3^{2 - }\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[Al{\\left( {OH} \\right)_3},HCO_3^ - ,NH_4^ + \\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B sai vì Al2O3 là oxit lưỡng tínhC sai vì CO2−3CO32− là bazơD sai vì Al(OH)3 là hiđroxit lưỡng tínhA đúng vì các chất đều phân li ra H+\\[HSO_4^ -  \\to {H^ + } + SO_4^{2 - }\\]\\[NH_4^ +  \\mathbin{\\lower.3ex\\hbox{$\\buildrel\\textstyle\\rightarrow\\over{\\smash{\\leftarrow}\\vphantom{_{\\vbox to.5ex{\\vss}}}}$}} {H^ + } + N{H_3}\\]CH3COOH → CH3COO- + H+Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Dãy các chất và ion nào sau đây là bazơ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[CO_3^{2 - },C{H_3}CO{O^ - },N{H_3}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[CO_3^{2 - },C{H_3}CO{O^ - },ZnO\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[HCO_3^ - ,C{H_3}CO{O^ - },HSO_4^ - \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[Zn{\\left( {OH} \\right)_2},CO_3^{2 - },AlO_2^ - \\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy chất và ion là bazơ là \\[CO_3^{2 - },C{H_3}CO{O^ - },N{H_3}\\]CO32- + H2O → HCO3- + OH-CH3COO- + H2O→ CH3COOH + OH-NH3 + H2O → NH4+ + OH-Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong phản ứng: \\[HSO_4^ - + {H_2}O \\to SO_4^{2 - } + {H_3}{O^ + }\\], H2O đóng vai trò là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Axit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bazơ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Oxi hóa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khử",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nH2O đóng vai trò là bazơ vì nhận proton của HSO4-\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chất nào trong các chất sau đây không phải là chất lưỡng tính",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaHCO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al(OH)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ZnO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Al",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nChất không phải là chất có tính lưỡng tính là Al vì Al tác dụng với NaOH và HCl thay đổi số oxi hóa nên không coi là phản ứng axit – bazơ.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dãy các chất và ion lưỡng tính là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[A{l_2}{O_3},HCO_3^ - ,Zn{\\left( {OH} \\right)_2}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[HSO_4^ - ,HCO_3^ - ,{H_2}O\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[PO_4^{3 - },CO_3^{2 - },AlO_2^ - \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[Zn{\\left( {OH} \\right)_2},CO_3^{2 - },AlO_2^ - \\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy các chất và ion lưỡng tính là \\[A{l_2}{O_3},HCO_3^ - ,Zn{\\left( {OH} \\right)_2}\\]Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Chất có tính lưỡng tính là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaHSO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaHCO3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. NaCl",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Chất có tính lưỡng tính là: NaHCO3Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Hai chất nào sau đây đều là hiđroxit lưỡng tính?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ca(OH)2 và Cr(OH)3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ba(OH)2 và Fe(OH)3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Cr(OH)3 và Al(OH)3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. NaOH và Al(OH)3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho dãy các oxit: MgO, FeO, CrO3, Cr2O3. Số oxit lưỡng tính trong dãy (theo Bronsted) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho các chất: Cr, Fe2O3, Cr2O3, Al(OH)3, Zn, Al2O3, NaAlO2, AlCl3, Zn(OH)2, ZnSO4. Theo Bronsted, số chất có tính lưỡng tính là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Các oxit của crom: (a) Cr2O3, (b) CrO, (c) CrO3. Oxit axit, oxit bazơ, oxit lưỡng tính có thứ tự là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. b, a, c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. c, b, a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. c, a, b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a, b, c",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Chất nào dưới đây vừa phản ứng được với dung dịch HCl vừa phản ứng được với dung dịch NaOH?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na2CO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NH4Cl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaHCO3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Dãy gồm các chất tác dụng với cả hai dung dịch NaOH và dung dịch HCl là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al(OH)3, Al2O3, NaHCO3, (NH4)2CO3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Na2SO4, HNO3, Al2O3, Na2CO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na2SO4, ZnO, Zn(OH)2, NaHCO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CuSO4, Al(OH)3, BaCl2, Na2CO3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho các chất: Al, Al2O3, Al2(SO4)3, Zn(OH)2, NaHS, KHSO3, (NH4)2CO3. Số chất phản ứng được với cả dung dịch HCl và dung dịch NaOH là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho các phản ứng: (1)  Fe  +  2HCl →   FeCl2  +  H2 (2)  2NaOH + (NH4)2SO4  → Na2SO4  + 2NH3  + 2H2O (3)  BaCl2  + Na2CO3 →  BaCO3  + 2NaCl (4)  2NH3  + 2H2O + FeSO4 →  Fe(OH)2  + (NH4)2SO4Các phản ứng thuộc loại phản ứng axit - bazơ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (2), (4).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (3), (4).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2), (3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (1), (2).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho các muối sau : NaHCO3; NaHSO4; Na2HPO3; NaHSO3; (NH4)2CO3; Na2HPO4. Số muối axit là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Dung dịch của chất X làm quỳ tím hóa đỏ, dung dịch của chất Y làm quỳ tím hóa xanh. Trộn lẫn dung dịch X của hai chất lại thì xuất hiện kết tủa. Vậy X và Y có thể lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2SO4 và Ba(OH)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. H2SO4 và NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaHSO4 và BaCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HCl và Na2CO3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong dung dịch H3PO4 (bỏ qua sự phân li của H2O) có chứa bao nhiêu anion âm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho các dung dịch sau: NH4NO3 (1), KCl (2), K2CO3 (3), CH3COONa (4), NaHSO4 (5), Na2S (6). Số dung dịch có khả năng làm đổi màu phenolphtalein là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho các phát biểu sau:(a) Muối trung hòa là muối mà anion gốc axit không có khả năng phân li ra ion H+.(b) Muối axit là muối mà anion gốc axit vẫn có khả năng phân li ra ion H+.(c) Theo Bronsted: Axit là chất nhận proton (tức H+) còn bazơ là chất nhường proton (H+).(d) Hiđroxit lưỡng tính là hiđroxit vừa có thể phản ứng được với axit, vừa phản ứng được với bazơ.Số phát biểu đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Theo thuyết Bronsted thì câu trả lời nào dưới đây không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Axit hoặc bazơ có thể là phân tử hoặc ion.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trong thành phần của bazơ phải có nhóm OH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Trong thành phần của axit có thể không có hiđro.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong thành phần của bazơ có thể không có nhóm OH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho 0,001 mol NH4Cl vào 100 ml dung dịch NaOH có pH = 12 và đun sôi, sau đó làm nguội, thêm vào một ít phenolphtalein, dung dịch thu được có màu",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. xanh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. trắng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. không màu",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

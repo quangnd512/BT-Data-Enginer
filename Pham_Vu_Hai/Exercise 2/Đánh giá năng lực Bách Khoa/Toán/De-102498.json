@@ -1,0 +1,816 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/so-phuc-va-cac-phep-toan-so-phuc/102498/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Số phức z=2i−1 có phần thực là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSố phức z=2i−1=−1+2i có phần thực là −1.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hai số phức z=a+bi, z'=a+b'i bằng nhau nếu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a=b'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a=b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. b=b'",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a=-b",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHai số phức z=a+bi, z'=a+b'i bằng nhau nếu b=b'\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z¯=z",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z¯=z",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. z+z¯=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. z¯.z=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có z=z¯ nên B đúng.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho số phức z=3-4i Modun của z bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nModun của số phức z=3-4i là: z=32+−42=5.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho số phức z=3-2i. Tìm phần thực và phần ảo của số phức z¯",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phần thực bằng −3  và Phần ảo bằng −2i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phần thực bằng −3  và Phần ảo bằng −2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phần thực bằng 3  và Phần ảo bằng 2i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phần thực bằng 3  và Phần ảo bằng 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSố phức liên hợp của z là 3 + 2i, phần thực 3, phần ảo 2. \nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Kí hiệu a,b lần lượt là phần thực và phần ảo của số phức 3−22i. Tìm a,b.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a=3,b=2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a=3,b=22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a=3,b=2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a=3,b=−22.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố phức 3−22i có phần thực bằng 3 phần ảo bằng -22 hay a=3b=−22Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho số phức z=a+bi và z¯ là số phức liên hợp của z. Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z+z¯=2a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. z.z¯=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z−z¯=2b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. z.z¯=z2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hai số phức z1=1+i và z2=2−3i. Tính môđun của số phức z1+z2 .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z1+z2=13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. z1+z2=5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z1+z2=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. z1+z2=5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tìm số phức có phần thực bằng 12 và mô đun bằng 13:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5±12i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12+5i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12±5i",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 12±i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho số phức z=7−11i2−i. Tìm phần thực và phần ảo của z",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phần thực bằng 5  và phần ảo bằng −3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phần thực bằng −5  và phần ảo bằng 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phần thực bằng 5  và phần ảo bằng 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Phần thực bằng 5  và phần ảo bằng 3i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho 2 số phức, z1=1+3i,z¯2=4+2i.Tính môđun của số phức z2−2z1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 217",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 213",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho số phức z=2+3i. Tìm số phức w=(3+2i)z+2z¯",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. w=16+7i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. w=4+7i",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. w=7+5i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. w=7+4i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tìm các số thực x,y thỏa mãn đẳng thức 3x+y+5xi=2y-(x-y)i.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=−17y=−47",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=47y=17",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−47y=17",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=0y=0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho z1=2+i;  z2=1−3i. Tính A=z12+z22.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho các số phức z1=3i,z2=m−2i. Số giá trị nguyên của m để z2<z1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Biết rằng z=m2−3m+3+m−2im∈ℝ là một số thực. Giá trị của biểu thức 1+z+z2+...+z2019 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2019",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2020",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho số phức z=−12+32i. Số phức 1+z+z2 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2−3i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −12+32i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho số phức z thỏa mãn 2iz+z¯=1−i. Phần thực của số phức z là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. -1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Biết số phức z thỏa  z−1=1+2i, phần ảo của z bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −25",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho số phức z=a+bi(ab≠0). Tìm phần thực của số phức w=1z2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −aba2+b22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a2+b2a2+b22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. b2a2+b22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a2−b2a2+b22",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tính môđun của số phức z biết z¯=4−3i1+i",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z=252",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z=72",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z=52",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. z=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho số phức z=1+i+i2+i3+...+i9. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z = i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z = 1 + i",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. z = 1 - i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. z = 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Có bao nhiêu số phức z=a+bi với a,b tự nhiên thuộc đoạn [2;9] và tổng a+b chia hết cho 3?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 42",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 21",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Biết 1 + i là nghiệm của phương trình zi+azi+bz+a=0(a,b∈ℝ)  ẩn z trên tập số phức. Tìm b2−a3.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 72",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. -72",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Có bao nhiêu số phức thỏa mãn z2+2z¯=0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Với số phức z tùy ý, cho mệnh đề −z=z;z¯=z;z+z¯=0;z>0. Số mệnh đề đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho số phức z thỏa mãn 3−4iz=2+3iz¯z2+2+i, giá trị của |z| bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Biết số phức z thỏa mãn điều kiện 5z¯+iz+1=2−i. Mô đun số phức w=1+z+z2  bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho số phức z=m+3i1−i,  m∈ℝ. Số phức w=z2  có |w|=9 khi các giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=±1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=±2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=±3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m=±4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Tính tổng phần thực của tất cả các số phức z≠0 thỏa mãn z+5|z|i=7−z.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Tính giá trị biểu thức T=z1−z22, biết z1,z2  là các số phức thỏa mãn đồng thời |z|=5 và z−7+7i=5.",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Xét số phức z thỏa mãn z+2−i+z−4−7i=62. Gọi m,M lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của |z-1+i|. Tính P=m+M.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P=13+73",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=52+2732",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. P=52+73",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P=52+732",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Có bao nhiêu số phức z thỏa mãn |z| = 1 và ∣z3+2024z+z¯∣−23∣z+z¯∣=2019",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Cho số phức z  có tích phần thực và phần ảo bằng 625. Gọi a là phần thực của số phức z3+4i. Giá trị nhỏ nhất của |a| bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 23.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho hai số phức z1,z2 khác 0 thỏa mãn z1z2 là số thuần ảo và z1−z2=10. Giá trị lớn nhất của z1+z2 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 102",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 103",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 20",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho các số phức z và w thỏa mãn 3−iz=zw−1+1−i. Tìm GTLN của T = |w+i|",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 322",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

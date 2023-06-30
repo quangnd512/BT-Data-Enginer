@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dai-cuong-ve-dong-dien-xoay-chieu/75956/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một khung dây dẫn quay đều quanh trục quayΔvới tốc độ 150 vòng/phút trong từ trường đều có cảm ứng từ \\[\\overrightarrow B \\]vuông góc với trục quay của khung. Từ thông cực đại gửi qua khung dây là 10/π(Wb). Suất điện động hiệu dụng trong khung dây bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25 V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.\\[25\\sqrt 2 V\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 50 V.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[50\\sqrt 2 V\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nTần số góc:\n\\[\\omega = \\frac{{150.2\\pi }}{{60}} = 5\\pi \\left( {rad/s} \\right)\\]\nTa có:\n\\[E = \\frac{{{E_0}}}{{\\sqrt 2 }} = \\frac{{\\omega {\\phi _0}}}{{\\sqrt 2 }}\\]\n\\[ \\Rightarrow E = \\frac{{5\\pi .\\frac{{10}}{\\pi }}}{{\\sqrt 2 }} = 25\\sqrt 2 \\left( V \\right)\\]\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Chọn phát biểu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cường độ cực đại của dòng điện xoay chiều là cường độ của dòng điện không đổi khi chúng tỏa ra cùng một nhiệt lượng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điện áp hiệu dụng của một đoạn mạch xoay chiều nhỏ hơn điện áp cực đại √22 lần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cường độ hiệu dụng của dòng điện xoay chiều biến thiên cùng tần số với cường độ tức thời.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Để đo cường độ dòng điện tức thời của dòng điện xoay chiều ta dùng ampe kế.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A - sai vì: Cường độ hiệu dụng của dòng xoay chiều bằng cường độ dòng điện không đổi khi chúng tỏa ra cùng một nhiệt lượng.B - đúngC - sai vì: Cường độ dòng điện hiệu dụng: \\[I = \\frac{{{I_0}}}{{\\sqrt 2 }} = h/s\\] chứ không biến thiên.D - sai vì: Số chỉ của ampe kế là giá trị của cường độ dòng điện hiệu dụngĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chọn trả lời sai. Dòng điện xoay chiều:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gây ra tác dụng nhiệt trên điện trở",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gây ra từ trường biến thiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Được dùng để mạ điện, đúc điện",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Bắt buộc phải có cường độ tức thời biến đổi theo thời gian.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:C- sai vì: Dòng điện xoay chiều không được dùng để mạ điệnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Phát biểu nào sau đây là sai khi nói về hiệu điện thế hiệu dụng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Được ghi trên các thiết bị sử dụng điện.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Được đo bằng vôn kế xoay chiều.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có giá trị bằng giá trị cực đại chia \\[\\sqrt 2 \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Được đo bằng vôn kế khung quay",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Hiệu điện thế hiệu dụng: \\[U = \\frac{{{U_0}}}{{\\sqrt 2 }}\\]và được ghi trên các thiết bị sử dụng điện, được đo bằng vôn kế xoay chiều.=>D - saiĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tính cường độ hiệu dụng và chu kì của dòng điện xoay chiều có biểu thức:\n\\[i = 5\\sqrt 2 \\cos \\left( {100\\pi t + \\frac{\\pi }{2}} \\right)\\left( A \\right)\\]",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I = 5A; T = 0,2s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I = 2,5A; T = 0,02s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I = 5A; T = 0,02s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I = 2,5A; T = 0,2s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\\[i = 5\\sqrt 2 \\cos \\left( {100\\pi t + \\frac{\\pi }{2}} \\right)\\]\nTừ phương trình ta có:\n\\[{I_0} = 5\\sqrt 2 \\Rightarrow I = \\frac{{{I_0}}}{{\\sqrt 2 }} = 5\\left( A \\right)\\]\n\\[\\omega = 100\\pi \\left( {rad/s} \\right)\\]\n\\[ \\Rightarrow T = \\frac{{2\\pi }}{\\omega } = \\frac{{2\\pi }}{{100\\pi }} = 0,02s\\]\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đối với dòng điện xoay chiều phát biểu nào sau đây SAI:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Công suất tức thời bằng √22lần công suất hiệu dụng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cường độ dòng điện tức thời biến thiên cùng tần số với điện áp tức thời.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điện lượng tải qua tiết diện thẳng của dây dẫn  trong 1 chu kì bằng không.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cường độ dòng điện hiệu dụng được định nghĩa từ tác dụng nhiệt của dòng điện.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B, C, D - đúngA - sai vì:Công suất tức thời: Pt= ui = Uicosφ + UIcos(2ωt + φ)Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một mạch điện xoay chiều gồm điện trở R = 50Ω. Biểu thức của cường độ dòng điện qua mạch là: I = 2cos (100πt + π/4) (A). Nhiệt lượng tỏa ra ở R trong 15phút là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 360000 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1500 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 180000 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 90 kJ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Dòng điện xoay chiều có cường độ I = 2cos(50πt + π/6) (A). Kết luận nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tần số dòng điện là 50 Hz.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cường độ dòng điện hiệu dụng là \\[\\sqrt 2 \\left( A \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cường độ dòng điện cực đại là 2A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chu kì của dòng điện là 0,04 s.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đồ thị dưới đây mô tả sự phụ thuộc của cường độ dòng điện xoay chiều i theo thời gian t trong một chu kì dao động.Cường độ dòng điện hiệu dụng trong mạch có độ lớn bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[2\\sqrt 2 A\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[24\\sqrt 2 A\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ở Việt Nam, mạng điện xoay chiều dân dụng có điện áp hiệu dụng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 110V.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[220\\sqrt 2 V\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 220V.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[110\\sqrt 2 V\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Khi dùng đồng hồ đa năng hiện số để đo điện áp xoay chiều, ta đặt núm xoay ở vị trí",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ACA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ACV.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. DCV.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. DCA.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một khung dây quay đều trong từ trường đều quanh một trục vuông góc với đường cảm ứng từ. Suất điện động hiệu dụng trong khung là 60V. Nếu giảm tốc độ quay của khung đi 2 lần nhưng tăng cảm ứng từ lên 3 lần thì suất điện động hiệu dụng trong khung có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 150V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.120V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 90V",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bat-phuong-trinh-co-mu/96197/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tìm tập nghiệm của bất phương trình 12x≥2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −∞;−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. −1;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −∞;−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −1;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n12x≥2⇔2−x≥2⇔−x≥1↔x≤−1⇒S=−∞;−1\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tìm tập nghiệm S của bất phương trình 2x−1>1161x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (0;+∞)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (−∞;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (−∞;0)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tìm tập nghiệm của bất phương trình 0,3x2+x>0,09",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −∞;−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −∞;−2∪1;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (-2;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n0,3x2+x>0,09⇔0,3x2+x>0,32⇔x2+x−2<0⇔−2<x<1\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tìm tập nghiệm của bất phương trình 5x<7−2x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −∞;1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ∅",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Nghiệm của bất phương trình ex+e−x<52 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x < -ln2 hoặc x > ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -ln2 < x < ln2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x<12 hoặc x>2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12<x<2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nex+e−x<52⇔e2x+1<52ex⇔2e2x−5ex+2<0⇔ex−22ex−1<0⇔12<ex<2⇔−ln2<x<ln2\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tìm tập nghiệm của bất phương trình 7x≥10−3x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1;+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (−∞;1]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −∞;103",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 103;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tập hợp nghiệm của bất phương trình: 33x−2+127x≤23 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (2;3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (1;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. {3}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Bất phương trình 2−3x>2+3x+2có tập nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −1;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −∞;−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −∞;−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tìm số nghiệm nguyên của bất phương trình 13x2−3x−10>13x−2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 11",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tìm số nghiệm nguyên của bất phương trình 15x2−2x≥1125",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình x2+x+1x<1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −∞;0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −∞;−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (0;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tập nghiệm của bất phương trình 32x+1−3x+1≤x2−2x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. [0;2]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2;+∞∪0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Số nghiệm nguyên của bất phương trình 4x−5.2x+4<0 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Có bao nhiêu giá trị thực của m để bất phương trình 4x−(m+1)2x+m<0  vô nghiệm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hàm số fx=3x7x2−4. Hỏi khẳng định nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. fx>9⇔x−2−x2−4log37>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. fx>9⇔x−2ln3−x2−4ln7>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. fx>9 ⇔x−2log3−x2−4log7>0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. fx>9⇔x−2log0,23−x2−4log0,27>0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hàm số y = f(x). Hàm số y = f′(x) có bảng biến thiên như sau:\n\nBất phương trình f(x)<ex+m  đúng với mọi x∈−1;1 khi và chỉ khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m≥f1−e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m>f−1−1e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m≥f−1−1e",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m>f1−e",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Có bao nhiêu giá trị nguyên của tham số m để bất phương trình 3x2−x−92x2−m≤0 có 5 nghiệm nguyên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 65021",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 65024",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 65022",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 65023",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Gọi S là tập hợp các số tự nhiên n có 4 chữ số thỏa mãn 2n+3n2020<22020+32020n. Số phần tử của S là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8999",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2019",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1010",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7979",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho x;y là hai số thực dương thỏa  mãn x≠y và 23y+123yy<2y+12y3y. Tìm giá trị nhỏ nhất của biểu thức P=x2+3y2xy−y2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. minP=132.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. minP=92.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. minP = -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. minP = 6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

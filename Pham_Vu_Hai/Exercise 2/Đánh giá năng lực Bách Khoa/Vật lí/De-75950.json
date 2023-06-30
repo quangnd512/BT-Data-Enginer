@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dien-nang-cong-suat-dien-1/75950/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Điện năng tiêu thụ được đo bằng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. vôn kế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. công tơ điện",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. ampe kế",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tĩnh điện kế",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Điện năng tiêu thụ được đo bằng công tơ điện.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Đặt vào hai đầu điện trở RR một hiệu điện thế không đổi UU. Công suất toả nhiệt trên điện trở RR là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[P = \\frac{U}{R}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P = U R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[P = \\frac{{{U^2}}}{R}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. P = U2R",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Công suất toả nhiệt trên R:\\[P = {I^2}R = \\frac{{{U^2}}}{R}\\]Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một bóng đèn trên vỏ có ghi 220V – 50W. Điện trở định mức của đèn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 44,5 Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 11,4 Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 484 Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 968 Ω",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:\\[\\left\\{ {\\begin{array}{*{20}{c}}{U = 220V}\\\\{P = 50W}\\end{array}} \\right.;P = \\frac{{{U^2}}}{R}\\]\\[ \\Rightarrow R = \\frac{{{U^2}}}{P} = \\frac{{{{220}^2}}}{{50}} = 968\\Omega \\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong đoạn mạch chỉ có điện trở thuần, với thời gian như nhau, nếu cường độ dòng điện giảm 2 lần thì nhiệt lượng tỏa ra trên mạch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tăng 4 lần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tăng 2 lần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. giảm 4 lần",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. giảm 2 lần",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:\\[\\left\\{ {\\begin{array}{*{20}{c}}{Q = {I^2}Rt}\\\\{Q' = {{\\left( {\\frac{I}{2}} \\right)}^2}Rt}\\end{array}} \\right.\\]\\[ \\Rightarrow \\frac{Q}{{Q'}} = 4 \\Leftrightarrow Q' = \\frac{Q}{4}\\]=>Nhiệt lượng giảm 4 lầnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một bếp điện gồm hai dây điện trở R1 và R2. Nếu chỉ dùng R1 thì thời gian đun sôi nước là 30 phút, nếu chỉ dùng R2 thì thời gian đun sôi nước  là 60 phút. Hỏi khi dùng R1 song song R2 thì thời gian đun sôi nước là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 22,5 phút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 90 phút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20 phút",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 10 phút",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Gọi hiệu điện thế của nguồn là UNhiệt lượng cần cung cấp để đun sôi nước là QKhi dùng dây dẫn có điện trở R1:\\[Q = \\frac{{{U^2}}}{{{R_1}}}.{t_1}\\] (1)Khi dùng dây dẫn có điện trở R2:\\[Q = \\frac{{{U^2}}}{{{R_2}}}.{t_2}\\] (2)Khi dùng R1 // R2:\\[Q = \\frac{{{U^2}}}{{\\frac{{{R_1}{R_2}}}{{{R_1} + {R_2}}}}}.{t_3}\\] (3)Từ (1), (2), (3) suy ra:\\[{t_3} = \\frac{{{t_1}{t_2}}}{{{t_1} + {t_2}}} = \\frac{{30.60}}{{30 + 60}} = 20\\]phútĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho 4 đồ thị sau. Đồ thị biểu diễn đúng sự phụ thuộc của công suất tỏa nhiệt trên một vật dẫn kim loại vào hiệu điện thế ở hai đầu vật dẫn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồ thị 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đồ thị 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đồ thị 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đồ thị 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Công thức biểu diễn mối liên hệ giữa công suất tỏa nhiệt trên một vật dẫn kim loại vào hiệu điện thế ở hai đầu vật dẫn là:\\[P = \\frac{{{U^2}}}{R} = \\left( {\\frac{1}{R}} \\right).{U^2}\\] (Có dạng y = a.x2)Khi U = 0 ⇒ P = 0⇒ Đồ thị P theo U là hàm bậc hai và đi qua gốc tọa độ⇒ Đồ thị biểu diễn đúng là đồ thị 1.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Công tơ điện được sử dụng để đo điện năng tiêu thụ trong các hộ gia đình hoặc nơi kinh doanh sản xuất có tiêu thụ điện. 1 số điện (1kWh) là lượng điện năng bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3600J.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1J.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3600000J.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1000J.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Đèn Flash của điện thoại thông minh hoạt động nhờ một tụ có điện dung C = 20mF phóng điện qua đèn. Mỗi lần chụp ảnh, đèn Flash được bật sáng trong 0,01s với công suất 2W. Khi tụ này được tích điện đến hiệu điện thế U = 9V thì làm đèn Flash sáng được mấy lần?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 20 lần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 40 lần",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 9 lần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 56 lần",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một bóng đèn có ghi 220V − 100W, được mắc vào mạng điện xoay chiều 220V. Điện năng tiêu thụ của bóng đèn trong một ngày là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 220W.h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 100W.h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 800W.h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,4kW.h",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một nguồn điện có suất điện động 3V khi mắc với một bóng đèn thành một mạch kín thì cho một dòng điện chạy trong mạch có cường độ là 0,3A. Khi đó, công suất của nguồn điện này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 30W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,9W",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,1W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Khi một tải R nối vào nguồn suất điện động ξ  và điện trở trong r, thấy công suất mạch ngoài cực đại thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ξ = IR",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. r = R",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. PR = ξI",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[I = \\frac{\\xi }{r}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một đèn ống loại 40 W được chế tạo để có công suất chiếu sáng bằng đèn dây tóc loại 100 W. Hỏi nếu sử dụng đèn ống này trong trung bình mỗi ngày 5 giờ thì trong 30 ngày sẽ giảm được bao nhiêu tiền điện so với sử dụng đèn dây tóc nói trên. Biết giá tiền điện là  700 đ/kWh.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6300 đ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 14700 đ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4900 đ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5600 đ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Bố trí thí nghiệm như hình vẽ, E là nguồn điện một chiều không đổi, L là lò xo “ruột gà” (lò xo kim loại rất mềm, bỏ qua điện trở của dây), chậu đựng thủy ngân, các dây nối đều là dây dẫn. Đầu trên của lò xo cố định và nối với đèn Đ, đầu dưới của lò xo tiếp xúc ngay sát bề mặt thủy ngân. Nếu đóng khóa K thì đèn Đ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không sáng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sáng lên rồi tắt hẳn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sáng liên tục",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sáng nhấp nháy",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Sơ đồ một máy đo vạn năng được mô tả bằng hình vẽ với công tắc OB xoay được quanh trục O, có các điểm tiếp xúc 1, 2, 3, 4; các chốt M, N để nối với mạch phải đo. Để đo cường độ dòng điện, hiệu điện thế, điện trở ta phải xoay công tắc OB đến các vị trí tương ứng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1-2-4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3-1-2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1-4-2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4-1-3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

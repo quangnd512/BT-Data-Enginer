@@ -1,0 +1,902 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/chromium-va-hop-chat-cua-chromium-1/75885/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Chọn phát biểu đúng về phản ứng của crom với phi kim:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ở nhiệt độ thường crom chỉ phản ứng với flo.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ở nhiệt độ cao, oxi sẽ oxi hóa crom thành Cr(VI).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lưu huỳnh không phản ứng được với crom.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ở nhiệt độ cao, clo sẽ oxi hóa crom thành Cr(II).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B sai vì oxi phản ứng với crom tạo Cr2O3C sai vì lưu huỳnh có phản ứng với crom ở nhiệt độ caoD sai vì clo sẽ oxi hóa crom thành CrCl3Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Crom thể hiện số oxi hóa nào khi tác dụng với dung dịch HCl và H2SO4 loãng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. +2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. +3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. +4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. +6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi tác dụng với dung dịch HCl và H2SO4 loãng thì crom thể hiện số oxi hóa +2Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Nhận xét nào sau đây là không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Crom là kim loại cứng nhất trong tất cả các kim loại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhôm và crom đều bị thụ động hóa bởi HNO3 đặc nguội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nhôm và crom đều bị phản ứng với HCl theo cùng tỉ lệ số mol.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Vật dụng làm bằng nhôm và crom đều bền trong không khí và nước vì có màng oxit bảo vệ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Al +  3HCl → AlCl3 + 3/2H2Cr + 2HCl → CrCl2 + H2Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Điểm giống nhau giữa Al và Cr là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cùng tác dụng với HCl tạo ra muối có mức oxi hóa là +3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cùng tác dụng với dung dịch NaOH dư tạo ra chất Na[M(OH)4].",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cùng tác dụng với khí clo tạo ra muối có dạng MCl3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cùng bị thụ động trong dung dịch nước cường toan.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Điểm giống nhau giữa Al và Cr là cùng tác dụng với khí clo tạo ra muối có dạng MCl3.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dãy kim loại bị thụ động trong axit HNO3 đặc, nguội là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe, Al, Cr.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Fe, Al, Ag",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fe, Al, Cu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe, Zn, Cr",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy kim loại bị thụ động trong axit HNO3 đặc, nguội là Fe, Al, Cr.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Phản ứng nào sau đây không đúng? (trong điều kiện thích hợp)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2Cr + KClO3→ Cr2O3 + KCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2Cr + 3KNO3 → Cr2O3 + 3KNO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2Cr + 3H2SO4 → Cr2(SO4)3 + 3H2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2Cr + N2 → 2CrN",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Phản ứng nào sau đây không đúng là 2Cr + 3H2SO4 → Cr2(SO4)3 + 3H2.   Vì Cr phản ứng với H2SO4 loãng sinh ra muối CrSO4 và khí H2Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Ứng dụng không phải của crom là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Crom là kim loại rất cứng có thể dùng cắt thủy tinh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Crom làm hợp kim cứng và chịu nhiệt hơn, nên dùng để tạo thép cứng, không gỉ, chịu nhiệt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Crom là kim loại nhẹ, nên được sử dụng tạo các hợp kim dùng trong ngành hàng không.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Điều kiện thường, crom tạo được lớp màng oxit mịn, bền chắc nên được dùng để mạ bảo vệ thép.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong công nghiệp, từ quặng cromit (FeO.Cr2O3) người ta điều chế Cr bằng phương pháp nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tách quặng rồi thực hiện điện phân nóng chảy Cr2O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tách quặng rồi thực hiện phản ứng nhiệt nhôm Cr2O3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. tách quặng rồi thực hiện phản ứng khử Cr2O3 bởi CO.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hòa tan quặng bằng HCl rồi điện phân dung dịch CrCl3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Hãy chỉ ra các câu đúng trong các câu sau:Crom là kim loại có tính khử mạnh hơn Fe.Crom là kim loại chỉ tạo được oxit bazơ.Crom có những hợp chất giống với hợp chất giống những hợp chất của S.Trong tự nhiên crom ở dạng đơn chất.Phương pháp sản xuất crom là điện phân Cr2O3.Crom có thể cắt được thủy tinh.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1, 3, 4, 6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1, 3, 6.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1, 2, 5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1, 2, 3, 6.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Chọn phát biểu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CrO vừa có tính khử vừa có tính lưỡng tính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cr(OH)2 vừa có tính khử, vừa có tính bazơ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.CrSO4 có tính oxi hóa mạnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A và B đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Chọn phát biểu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trong môi trường axit, ion Cr3+ có tính khử mạnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Trong môi trường kiềm, ion Cr3+ có tính oxi hóa mạnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Trong dung dịch ion Cr3+  có tính lưỡng tính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong dung dịch ion Cr3+ vừa có tính oxi hóa vừa có tính khử.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho dãy các chất : SiO2, Cr(OH)3, CrO3, Zn(OH)2, NaHCO3, Al2O3. Số chất trong dãy tác dụng được với dung dịch NaOH (đặc, nóng) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Hiện tượng xảy ra khi nhỏ vài giọt dung dịch H2SO4 vào dung dịch Na2CrO4 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dung dịch chuyển từ màu vàng sang màu da cam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dung dịch chuyển từ màu da cam sang màu vàng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dung dịch chuyển từ màu vàng sang không màu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dung dịch chuyển từ không màu sang màu da cam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho vào ống nghiệm một vài tinh thể K2Cr2O7, sau đó thêm tiếp khoảng 1 ml nước và lắc đều để K2Cr2O7 tan hết, thu được dung dịch X. Thêm vài giọt dung dịch KOH vào dung dịch X, thu được dung dịch Y. Màu sắc của dung dịch X và Y lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. màu da cam và màu vàng chanh.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. màu vàng chanh và màu da cam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. màu nâu đỏ và màu vàng chanh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. màu vàng chanh và màu nâu đỏ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho phản ứng K2Cr2O7 + HCl → KCl + CrCl3 + Cl2 +  H2O. Số phân tử HCl bị oxi hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 14",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Phát biểu nào sau đây là sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cr(OH)3 tan trong dung dịch NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trong môi trường axit, Zn khử Cr3+ thành Cr.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Photpho bốc cháy khi tiếp xúc với CrO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong môi trường kiềm , Br2 oxi hóa CrO2-  thành CrO42-.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Dung dịch FeSO4 làm mất màu dung dịch nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dung dịch KMnO4 trong môi trường H2SO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dung dịch K2Cr2O7 trong môi trường H2SO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dung dịch Br2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B, C.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho các phát biểu sau:(1) Thêm lượng dư NaOH vào dung dịch K2Cr2O7 thì dung dịch chuyển từ màu da cam sang màu vàng.(2) Thêm lượng dư NaOH và Cl2 vào dung dịch CrCl2 thì dung dịch từ màu xanh chuyển thành màu vàng.(3) Thêm từ từ dung dịch NaOH vào dung dịch CrCl3 thấy xuất hiện kết tủa vàng nâu tan lại trong NaOH (dư).(4) Thên từ từ dung dịch HCl vào dung dịch Na[Cr(OH)4] thấy xuất hiện kết tủa lục xám, sau đó tan lại. Số câu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho sơ đồ phản ứng: \n\\[Cr{O_3}\\mathop \\to \\limits^{ + NaOH} X\\mathop \\to \\limits^{ + {H_2}S{O_4}} Y\\mathop \\to \\limits^{ + HCl} Z \\to X\\]\nX, Y, Z là các hợp chất chứa crom. X, Y, Z lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na2Cr2O3, Na2CrO4, CrCl3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Na2CrO4, Na2Cr2O7, Cl2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na2CrO4, Na2Cr2O7, CrCl3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaCrO2, Na2Cr2O7, CrCl3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho chất X (CrO3) tác dụng với lượng dư NaOH, thu được hợp chất Y của crom. Đem chất Y cho tác dụng với dung dịch H2SO4 loãng, dư, thu được hợp chất Z của crom. Đem chất Z tác dụng với dung dịch HCl dư, thu được khí T. Phát biểu nào sau đây không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chất Z là Na2Cr2O7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khí T có màu vàng lục",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chất X có màu đỏ thẫm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chất Y có màu da cam",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Dung dịch trong nước của chất nào dưới đây có màu da cam?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. K2Cr2O7.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. KCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. K2CrO4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. KMnO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Trong công nghiệp kim loại Cr được điều chế bằng phương pháp nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điện phân nóng chảy.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhiệt nhôm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Điện phân dung dịch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thủy luyện.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Hòa tan hết 2,16 gam hỗn hợp Cr và Fe trong dung dịch HCl (loãng), nóng thu được 896 ml khí ở đktc. Lượng crom có trong hỗn hợp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,065 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,04 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,560 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,015 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho m gam phèn crom-kali (KCr(SO4)2.12H2O) hoà tan hết vào nước được dung dịch X. Khử hết X cần vừa đủ 0,78 gam bột Zn. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,992 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 11,976 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12,375 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 14,316 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho 13,5 gam hỗn hợp các kim loại Al, Cr, Fe tác dụng với lượng dư dung dịch H2SO4 loãng nóng (trong điều kiện không có không khí) thu được dung dịch X và 7,84 lít khí H2 (đktc). Cô cạn dung dịch X (trong điều kiện không có không khí) thu được m gam muối khan. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 42,6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45,5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 48,8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 47,1.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Thêm 0,02 mol NaOH vào dung dịch chứa 0,01 mol CrCl2 rồi để trong không khí đến phản ứng hoàn toàn. Khối lượng kết tủa thu được là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,86 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,03 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1,72 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,06 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Lấy 101,05 gam hợp kim gồm có Fe, Cr và Al tác dụng với một lượng dư dung dịch kiềm, thu được 5,04 lít khí (đktc). Lấy bã rắn không tan cho tác dụng với lượng dư axit HCl (khi không có không khí) thu được 39,2 lít khí (đktc). Thành phần phần trăn khối lượng của Cr trong hợp kim là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 77,19%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12,86%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 7,72%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,43%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho 18,2 gam hỗn hợp các kim loại Fe, Cr, Cu tác dụng với lượng dư dung dịch H2SO4 loãng, nóng trong điều kiện không có không khí thu được dd Y và chất rắn Z cùng 5,6 lít H2 (đktc). Nếu cho 18,2 gam X tác dụng với lượng dư dd H2SO4 đặc, nguội thu được 1,68 lít khí SO2 (đktc). Tính thành phần phần trăm crom trong hỗn hợp?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 42,86%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 52%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 26,37%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Muối amoni đicromat bị nhiệt phân theo phương trình :\n(NH4)2Cr2O7 \\[\\mathop \\to \\limits^{t^\\circ } \\]Cr2O3 + N2 + 4H2O\nPhân hủy hoàn toàn 48 gam muối này thu được 30 gam gồm chất rắn và tạp chất. Phần trăm tạp chất trong muối là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8,5%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6,5%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7,5%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5,5%.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Để oxi hóa hoàn toàn 0,01 mol CrCl3 thành K2CrO4 bằng Cl2 khi có mặt KOH, lượng tối thiểu Cl2 và KOH tương ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,015 mol và 0,04 mol.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,015 mol và 0,08 mol.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0,03 mol và 0,08 mol.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,03 mol và 0,04 mol.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho từ từ dung dịch NaOH vào dung dịch chứa 9,02 gam hỗn hợp muối Al(NO3)3 và Cr(NO3)3 cho đến khi kết tủa thu được là lớn nhất. Tách kết tủa rồi nung đến khối lượng không đổi thu được 2,54 gam chất rắn. Khối lượng của muối Cr(NO3)3 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4,76 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4,26 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4,51 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6,39 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Thực hiện phản ứng nhiệt nhôm hỗn hợp gồm m gam Al và 4,56 gam Cr2O3 (trong điều kiện không có không khí), sau khi phản ứng kết thúc thu được hỗn hợp X. Cho toàn bộ X vào một lượng dư dung dịch HCl loãng nóng, sau khi các phản ứng xảy ra hoàn toàn thu được 2,016 lít khí H2 (đktc). Còn nếu cho toàn bộ X vào một lượng dư dung dịch NaOH đặc nóng, sau phản ứng kết thúc thì số mol NaOH đã phản ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,06 mol.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,14 mol.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,08 mol.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,16 mol.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Tiến hành phản ứng nhiệt nhôm hỗn hợp X gồm 0,03 mol Cr2O3; 0,04 mol FeO và a mol Al. Sau một thời gian phản ứng, trộn đều, thu được hỗn hợp chất rắn Y. Chia Y thành hai phần bằng nhau. Phần một phản ứng vừa đủ với 400 ml dung dịch NaOH 0,1M (loãng). Phần hai phản ứng với dung dịch HCl loãng, nóng (dư), thu được 1,12 lít khí H2 (đktc). Giả sử trong phản ứng nhiệt nhôm, Cr2O3 chỉ bị khử thành Cr. Phần trăm khối lượng Cr2O3 đã phản ứng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 33,33%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20,00%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50,00%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 66,67%",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Hoà tan hoàn toàn m gam hỗn hợp X gồm Na và K vào dung dịch HCl dư thu được dung dịch Y. Cô cạn dung dịch Y thu được (m + 31,95) gam hỗn hợp chất rắn khan. Hoà tan hoàn toàn 2m gam hỗn hợp X vào nước thu được dung dịch Z. Cho từ từ đến hết dung dịch Z vào 0,5 lít dung dịch CrCl3 1M đến phản ứng hoàn toàn thu được kết tủa có khối lượng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 54,0 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20,6 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 30,9 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 51,5 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Thực hiện phản ứng nhiệt nhôm giữa Al và Cr2O3 trong điều kiện không có không khí, sau phản ứng hoàn toàn thu được hỗn hợp X có khối lượng 43,9 gam. Chia X làm 2 phần bằng nhau. Cho phần 1 tác dụng với dung dịch NaOH (dư) thu được 1,68 lít khí (đktc). Phần 2 cho tác dụng vừa đủ với V lít dung dịch HCl 1M (loãng nóng). Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,65",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,15",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1,05",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,00",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Chia 31,2 gam hỗm hợp X gồm Cr và Zn, Ni và Al thành hai phần bằng nhau. Hòa tan hết phần 1 trong lượng dư dung dịch HCl loãng nóng thu được 7,28lít H2(đktc). Cho phần 2 tác dụng với khí Cl2 (dư ) đốt nóng , thu được 42,225 gam muối clorua . Phần tram khối lượng của crom trong hỗn hợp X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 26,04%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 66,67%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 33,33%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 39,07%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Nung nóng 46,6 gam hỗn hợp gồm Al và Cr2O3 (trong điều kiện không có không khí) đến khi phản ứng xảy ra hoàn toàn. Chia hỗn hợp thu được sau phản ứng thành hai phần bằng nhau. Phần một phản ứng vừa đủ với 300 ml dung dịch NaOH 1M (loãng). Để hòa tan hết phần hai cần vừa đủ dung dịch chứa a mol HCl. Giá trị của a là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Tiến hành phản ứng nhiệt nhôm hỗn hợp X gồm 0,03 mol Cr2O3; 0,04 mol FeO và a mol Al. Sau một thời gian phản ứng, trộn đều, thu được hỗn hợp chất rắn Y. Chia Y thành hai phần bằng nhau. Phần 1 phản ứng vừa đủ với 400 ml dung dịch NaOH 0,1M (loãng). Phần 2 phản ứng với dung dịch HCl loãng, nóng, dư thu được 1,12 lít khí H2 (đktc). Giả sử trong phản ứng nhiệt nhôm, Cr2O3 chỉ bị khử thành Cr. Phần trăm khối lượng Cr2O3 đã phản ứng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 20,00%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 33,33%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50,00%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 66,67%",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Thực hiện phản ứng nhiệt nhôm hỗn hợp Al, Fe2O3, Cr2O3 sau một thời gian thu được hỗn hợp chất rắn X. Chia X thành 2 phần bằng nhau. Hòa tan hoàn toàn phần 1 trong dung dịch H2SO4 đặc, nóng dư sau khi các phản ứng xảy ra hoàn toàn, thu được 2,016 lít khí SO2 (sản phẩm khử duy nhất, đktc). Hòa tan hết phần 2 trong 400 ml dung dịch HNO3 2M, thu được dung dịch Y và khí NO (sản phẩm khử duy nhất của N+5). Cho từ từ dung dịch NaOH 1M đến dư vào dung dịch Y thu được kết quả như hình vẽ sau:Khối lượng Cr2O3 trong hỗn hợp ban đầu là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7,29 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 30,40 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6,08 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 18,24 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

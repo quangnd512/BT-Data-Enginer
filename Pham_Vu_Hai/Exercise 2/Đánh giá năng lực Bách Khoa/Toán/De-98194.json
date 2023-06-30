@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/moi-quan-he-giua-hai-duong-thang/98194/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho d,d′ là các đường thẳng có VTCP lần lượt là u→,u'→,M∈d,M'∈d'.Khi đó d≡d'  nếu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A u→,u'→=0→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. u→,u'→=u→,MM'→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u→,u'→=u→,MM'→=0→",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. u→,u'→≠u→,MM'→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nd≡d'⇔u→,u'→,MM'→ đôi một cùng phương ⇔u→,u'→=u→,MM'→=0→\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai đường thẳng d1:x=−1+3ty=−tz=1−2t và d2:x−1−3=y−21=z−32.\nVị trí tương đối của d1 và d2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Song song.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Trùng nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Cắt nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Chéo nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐường thẳng d1 đi qua M1−1;0;1 và có VTCP u1→=3;−1;−2\nĐường thẳng d2 đi qua M21;2;3 và có VTCP u2→=−3;1;2\nTa có 3−3=−11=−22 nên u1→∥u2→    1\n−1−1−3≠0−21≠1−32 nên M1∉d2   2Từ (1) và (2), suy ra d1 và d2 song song.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Điều kiện cần và đủ để hai đường thẳng cắt nhau là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. u→,u'→≠0→u→,u'→MM'→=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. u→,u'→≠0→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u→,u'→MM'→=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u→,u'→=0→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nd cắt d'⇔u→,u'→ không cùng phương và u→,u'→,MM'→ đồng phẳng\n⇔u→,u'→≠0→u→,u'→MM'→=0\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai đường thẳng d1:x−31=y−22=z−11 và d2:x=ty=2z=2+t.\nVị trí tương đối của d1 và d2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Song song.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Trùng nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Cắt nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Chéo nhau.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐường thẳng d1 đi qua M1(3;2;1) và có VTCP u1→=1;2;1\nĐường thẳng d2 đi qua M20;2;2 và có VTCP u2→=1;0;1\nTa có u1→,u2→=2;0;−2,M1M2→=−3;0;1\nSuy ra u1→,u2→.M1M2→=−6+0−2=−8≠0Do đó d1 và d2 chéo nhau.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho đường thẳng d:x=−1+2ty=−tz=−2−t. Trong các đường thẳng sau, đường thẳng nào vuông góc với d?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. d1:x=3ty=1+tz=5t",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d2:x=2y=2+tz=1+t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. d3:x−23=y2=z−1−5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. d4:x+22=y−1=z+12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐường thẳng d1 có VTCP u→1=3;1;5, đường thẳng d có VTCP u→d=2;−1;−1\nVì u→d.u→1=3.2−1.1−5.1=0\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Công thức tính khoảng cách từ điểm A đến đường thẳng d′ đi qua điểm M′ và có VTCP u'→ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dA,d'=AM'→,u'→u'→",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dA,d'=AM'→,u'→u'→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dA,d'=AM'→,u'→u'→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dA,d'=AM'→.u'→u'→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhoảng cách từ điểm A đến đường thẳng d′ được tính theo công thức\ndA,d'=AM'→,u'→u'→\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Góc giữa hai đường thẳng có các VTCP lần lượt là u→,u'→ thỏa mãn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cosφ=u→.u'→u→.u'→",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. cosφ=u→.u'→u→.u'→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cosφ=−u→.u'→u→.u'→",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cosφ=−u→.u'→u→.u'→",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong  không  gian với   hệ  tọa  độ Oxyz,  cho đường  thẳng d có phương trình x−13=y+22=z−3−4  và d':x+14=y1=z+12  . Điểm nào sau đây không thuộc đường thẳng d nhưng thuộc đường thẳng d′?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.N(4;0;−1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.M(1;−2;3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.P(7;2;1) .",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Q(7;2;3)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Giao điểm của hai đường thẳng d:x=−3+2ty=−2+3tz=6+4t và d':x=5+t'y=−1−4t'z=20+t'có tọa độ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(5;−1;20)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(3;−2;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(3;7;18)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.(−3;−2;6)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho các điểm A(0;0;2), B(1;0;0), C(2;2;0) và D(0;m;0). Điều kiện cần và đủ của m để khoảng cách giữa hai đường thẳng AB và CD bằng 2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A m=4m=−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=−4m=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=4m=2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m=−4m=−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong không gian với hệ toạ độ Oxyz, cho đường thẳng d:x−32=y+11=z−12  và điểm M(1;2;−3). Toạ độ hình chiếu vuông góc của điểm M  lên đường thẳng d là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M′(1;2;−1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.M′(1;−2;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M′(1;−2;−1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.M′(1;2;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho 2 đường thẳng d:x−2−3=y+21=z+1−2 và d':x6=y−4−2=z−24. Mệnh đề nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.d//d′.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. d≡d'.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.d và d′  cắt nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.d và d′  chéo nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong không gian Oxyz cho điểm A(1;1;−2) và đường thẳng d:x−12=y+11=z−2 . Đường thẳng qua A và song song với d có phương trình tham số là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=1+2ty=1−tz=−2−2t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=1+2ty=1+tz=−2−2t",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=1+2ty=1+tz=2−2t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=1+2ty=1+tz=−2−2t",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong không gian Oxyz, cho đường thẳng d:x=1+ty=2−tz=1−3t. Đường thẳng Δ đi qua gốc tọa độ O, vuông góc với trục hoành Ox và vuông góc với đường thẳng d có phương trình là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Δ:x=0y=−3tz=−t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Δ:x=ty=−3tz=t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Δ:x=ty=−3tz=−t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Δ:x=0y=−3tz=t",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hai điểm A(1;−2;0),B(0;1;1), độ dài đường cao OH của tam giác OAB là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 319",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 31913",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6611",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, cho hai đường thẳng d1:x=1+ty=0z=−5+tvà  d2:x=0y=4−2t'z=5+3t'Phương trình đường vuông góc chung của d1 và d2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x−42=y−3=z−2−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=4−ty=3tz=−2+t",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x+4−2=y3=z−22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x−4−2=y3=z+22",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hình lập phương  A(0;0;0),B(1;0;0),D(0;1;0),A′(0;0;1). Gọi M,N lần lượt là trung điểm của AB,CD. Khoảng cách giữa MN và A′C là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 24",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong không gian Oxyz, đường thẳng d:x+21=y−32=z−11−1 và hai điểm A(1;2;4), B(0;0;m) cùng nằm trong một mặt phẳng khi m bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 154",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 156",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trong không gian Oxyz cho hai điểm M(−2;−2;1),A(1;2;−3) và đường thẳng d:x+12=y−52=z−1. Gọi Δ là đường thẳng qua M, vuông góc với đường thẳng d,d, đồng thời cách điểm A một khoảng bé nhất. Khoảng cách bé nhất đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.29",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 349",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Trong không gian Oxyz , cho đường thẳng d:x−32=y−41=z−21 và 2 điểm A(6;3;−2); B(1;0;−1). Gọi Δ là đường thẳng đi qua B, vuông góc với d và thỏa mãn khoảng cách từ A đến Δ là nhỏ nhất. Một vectơ chỉ phương của Δ có tọa độ :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(1;1;−3)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.(1;−1;−1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(1;2;−4)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(2;−1;−3)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/mat-cau-ngoai-tiep-noi-tiep/99428/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Khối cầu thể tích V thì bán kính là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=3V4π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R=3V4π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=12.3Vπ3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R=3V4π3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: thể tích khối cầu  V=43πR3⇒R=3V4π3\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Công thức tính diện tích mặt cầu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=πR2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=4πR2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. S=2πR2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43πR2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính diện tích mặt cầu S=4πR2\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Công thức tính bán kính mặt cầu ngoại tiếp hình chóp có cạnh bên vuông góc với đáy là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=r2+h24",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. R=r2+h22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=r2−h24",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R=r2+h24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHình chóp có cạnh bên vuông góc với đáy nội tiếp mặt cầu có bán kính R=r2+h24\nvới r là bán kính đường tròn đáy, h là chiều cao hình chóp (độ dài cạnh bên vuông góc với đáy).\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho một mặt cầu bán kính bằng 1. Xét các hình chóp tam giác đều ngoại tiếp mặt cầu trên. Hỏi thể tích nhỏ nhất của chúng bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. minV=43",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. minV=83",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. minV=93",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. minV=163",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nÁp dụng các công thức trong tứ diện đều cạnh aa\nBán kính mặt cầu nội tiếp r=a612=1⇒a=26\nThể tích tứ diện đều đó là V=a3212=83\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho một lập phương có cạnh bằng a. Tính diện tích mặt cầu nội tiếp hình lập phương đó",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=4πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=πa2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. S=13πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=4πa23",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nMặt cầu nội tiếp hình lập phương cạnh a có bán kính bằng a2\nDiện tích mặt cầu đó là S=4πR2=4πa22=πa2\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho khối cầu có bán kính R = 6. Thể tích của khối cầu bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 144π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 36π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 288π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 48π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nThể tích của khối cầu bằng V=43πR3=43π.63=288π\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp tam giác S.ABC có SAC^=SBC^=900. Khi đó tâm mặt cầu ngoại tiếp hình chóp nằm trên đường thẳng nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.SA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.SB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.SC",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.AC",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp đều S.ABCD có cạnh đáy bằng a, cạnh bên b. Công thức tính bán kính mặt cầu ngoại tiếp khối chóp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. b22b2−a22",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. b2b2−a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. b22b2−a24",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2b2b2−a22",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Ba đoạn thẳng SA, SB, SC đôi một vuông góc tạo với nhau thành một tứ diện SABC với SA = a, SB = 2a, SC = 3a . Tính bán kính mặt cầu ngoại tiếp hình tứ diện đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a62",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a36",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a142",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a144",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Hình chóp S.ABC có đáy ABC là tam giác vuông tại A có SA vuông góc với mặt phẳng (ABC)  và có SA = a, AB = b, AC = c. Mặt cầu đi qua các đỉnh A,B,C,S có bán kính r bằng :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2(a+b+c)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a2+b2+c2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12a2+b2+c2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a2+b2+c2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho tứ diện đều ABCD có cạnh a. Một mặt cầu tiếp xúc với các mặt của tứ diện có bán kính là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a612",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a66",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a63",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a68",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho lăng trụ đứng ABC.A’B’C’ có đáy là tam giác vuông cân đỉnh A, AB = AC = a, AA’ =a2. Diện tích mặt cầu ngoại tiếp tứ diện  CA′B′C′ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4πa23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4πa2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12πa2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43πa2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một hình hộp chữ nhật có độ dài ba cạnh lần lượt là 2;2;1. Tìm bán kính R của mặt cầu ngoại tiếp hình hộp chữ nhật trên.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.R = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R=32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 92",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R=9",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho mặt cầu (S1) có bán kính  R1 mặt cầu (S2) có bán kính  R2 = 2R1. Tính tỉ số diện tích của mặt cầu (S2) và (S1).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.12.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh bằng 1, mặt bên SAB là tam giác đều và nằm trong mặt phẳng vuông góc với mặt phẳng đáy. Tính thể tích V của khối cầu ngoại tiếp hình chóp đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=515π18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=515π54",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. V=43π27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=5π3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hình chóp tam giác đều S.ABC có đáy ABC là tam giác đều cạnh a, cạnh SA=2a33 . Gọi D là điểm đối xứng của B qua C. Tính bán kính R của mặt cầu ngoại tiếp hình chóp S.ABD",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=a397",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R=a357",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=a376",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. R=a137",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật, AB = a, AD = 2a, SA⊥(ABCD)  và SA = 2a. Tính thể tích khối cầu ngoại tiếp hình chóp S.ABCD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 9πa3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9πa32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 9πa38",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 36πa3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình chóp S.ABC có SA⊥(ABC);AC=b,AB=c,BAC^=α. Gọi B′,C′ lần lượt là hình chiếu vuông góc của A lên SB,SC. Tính bán kính mặt cầu ngoại tiếp khối chóp A.BCC′B′ theo b,c,α",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=2b2+c2−2bccosα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R=b2+c2−2bccosαsin2α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=b2+c2−2bccosα2sinα",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. R=2b2+c2−2bccosαsinα",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB = a;AC = BC = AD = BD =a32. Gọi M,N là trung điểm của AB,CD. Góc giữa hai mặt phẳng (ABD);(ABC) là α . Tính cosα biết mặt cầu đường kính MN tiếp xúc với cạnh AD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 23−3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3−23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho tứ diện ABCD có cạnh AD vuông góc với mặt phẳng (ABC), tam giác ABC vuông tại BB có cạnh AB=3, BC=4 và góc giữa DC và mặt phẳng (ABC) bằng 450. Tính thể tích mặt cầu ngoại tiếp tứ diện.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=12533π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=2523π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=12523π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=523π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh 22. Cạnh bên SA vuông góc với mặt phẳng đáy và SA = 3. Mặt phẳng qua A và vuông góc với SC cắt cạnh SB,SC,SD lần lượt tại M,N,P. Thể tích V của khối cầu ngoại tiếp tứ diện CMNP.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=32π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. V=642π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=108π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=125π6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác đều ABC.A’B’C’ có AA’ =2a, BC = a. Gọi M là trung điểm BB’. Bán kính mặt cầu ngoại tiếp khối chóp M.A’B’C’ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 33a8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 13a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 21a6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 23a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho mặt cầu (S) tâm O và các điểm A, B, C nằm trên mặt cầu (S) sao cho AB = 3, AC = 4, BC = 5 và khoảng cách từ O đến mặt phẳng (ABC) bằng 1. Thể tích của khối cầu (S) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 721π2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 417π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2929π6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 205π3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hai khối cầu (S1),(S2) có cùng bán kính 2 thỏa mãn tính chất: tâm của (S1) thuộc (S2) và ngược lại. Tính thể tích phần chung V của hai khối cầu tạo bởi (S1) và (S2).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16π5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho lăng trụ đứng ABC.A'B'C' có chiều cao bằng 4, đáy ABC là tam giác cân tại A với AB = AC = 2; ∠BAC=1200. Tính diện tích mặt cầu ngoại tiếp lăng trụ trên.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 642π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 16π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 32π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 322π3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Một thùng rượu vang có dạng hình tròn xoay có hai đáy là hai hình tròn bằng nhau, khoảng cách giữa hai đáy bằng 80(cm). Đường sinh của mặt xung quanh thùng là một phần đường tròn có bán kính 60(cm)(tham khảo hình minh họa bên). Hỏi thùng đó có thể đựng bao nhiêu lít rượu?(làm tròn đến hàng đơn vị)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.771",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.385",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.603",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.905",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho một hình hộp chữ nhật kích thước 4×4×h  chứa một khối cầu lớn có bán kính bằng 2 và 8 khối cầu nhỏ có bán kính bằng 1. Biết rằng các khối cầu đều tiếp xúc với nhau và tiếp xúc với các mặt của hình hộp (tham khảo hình vẽ). Thể tích của khối hộp bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 32+325",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 48+327",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 32+642",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 32+327",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hình chóp đều nn cạnh (n ≥ 3)). Cho biết bán kính đường tròn ngoại tiếp đa giác đáy là R và góc giữa mặt bên và mặt đáy bằng 600 , thể tích khối chóp bằng 334R3. Tìm n?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.n = 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.n = 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.n = 10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.n = 6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho ba hình cầu có bán kính lần lượt là R1,R2,R3 đôi một tiếp xúc nhau và cùng tiếp xúc với mặt phẳng (P). Các tiếp điểm của ba hình cầu với mặt phẳng (P) lập thành một tam giác có độ dài cạnh lần lượt là 2, 3, 4. Tính tổng R1+R2+R3:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6712",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5912",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5312",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6112",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Có 4 viên bi hình cầu bán kính bằng 1cm. Người ta đặt 3 viên bi tiếp xúc nhau và cùng tiếp xúc với mặt bàn. Sau đó đai 3 viên bi đó lại và đặt 1 viên bi thứ 4 tiếp xúc vởi cả 3 viên bi trên như hình vẽ bên dưới. Gọi O là điểm thuộc bề mặt của viên bi thứ 4 có khoảng cách đến mặt bàn là lớn nhất. Khoảng cách từ O đến mặt bàn bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 72.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6+263.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3+263.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 463.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Hai quả bóng hình cầu có kích thước khác nhau được đặt ở hai góc của một căn nhà hình hộp chữ nhật sao cho mỗi quả bóng đều tiếp xúc với hai bức tường và nền của nhà đó. Biết rằng trên bề mặt của quả bóng đều tồn tại một điểm có khoảng cách đến hai bức tường và nền nhà mà nó tiếp xúc bằng 1,2,4. Tổng độ dài đường kính của hai quả bóng đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Người ta thả một viên billiards snooker có dạng hình cầu với bán kính nhỏ hơn 4,5cm vào một chiếc cốc hình trụ đang chứa nước thì viên billiards đó tiếp xúc với đáy cốc và tiếp xúc với mặt nước sau khi dâng (tham khảo hình vẽ bên). Biết rằng bán kính của phần trong đáy cốc bằng 5,4cm và chiều cao của mực nước ban đầu trong cốc bằng 4,5cm. Bán kính của viên billiards đó bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4,2cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3,6cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2,6cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2,7cm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Một hộp đựng phấn hình hộp chữ nhật có chiều dài 30cm, chiều rộng 5cm và chiều cao 6cm. Người ta xếp thẳng đứng vào đó các viên phấn giống nhau, mỗi viên phấn là khối trụ có chiều cao h=6cm và bán kính đáy r=12cm. Hỏi có thể xếp được tối đa bao nhiêu viên phấn.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.150 viên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.151 viên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.153 viên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.154 viên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,511 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ly-thuyet-amino-acid/75826/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tên thay thế của amino axit có công thức cấu tạo CH3−CH(CH3)−CH(NH2)−COOH?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Axit 2–aminoisopentanoic.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Axit 2-amino-3-metylbutanoic.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Axit α – aminoisovaleric.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Axit β – aminoisovaleric.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cách gọi tên thay thế : Axit + (vị trí nhóm NH2: 1,2…) + amino + tên axit cacboxylic tương ứng.→ CTCT CH3−CH(CH3)−CH(NH2)−COOH có tên thay thế : Axit 2-amino-3-metylbutanoicĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hợp chất nào sau đây không phải là amino axit?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3CONH2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. HOOC CH(NH2)CH2COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2NC6H4COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3CH(NH2)CH(NH2)COOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Amino axit là những hợp chất hữu cơ tạp chức trong phân tử có chứa đồng thời 2 nhóm chức : nhóm amino (NH2) và nhóm cacboxyl (COOH)CH3CONH2 là hợp chất có nhóm NH2 nhưng không có nhóm COOH nên không phải là amino axitĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Phát biểu KHÔNG đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Trong dung dịch, H2N–CH2–COOH còn tồn tại ở dạng ion lưỡng cực H3N+–CH2–COO–.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Amino axit là hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm amino và nhóm cacboxyl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tên bán hệ thống của amino axit : axit + (vị trí nhóm NH2: 1,2…) + amino + tên axit cacboxylic tương ứng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Amino axit là những chất rắn, kết tinh, tan tốt trong nước và có vị ngọt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Phát biểu không đúng là CCách gọi tên thay thế : Tên axit + (vị trí nhóm NH2: 1,2…) + amino + tên axit cacboxylic tương ứng.Cách gọi tên bán hệ thống : axit + vị trí chữ cái Hi Lạp (α, β, γ, δ, ε, ω) + amino + tên thường của axit cacboxylic tương ứng.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "α-amino axit X có phần trăm khối lượng các nguyên tố C, H, O, N lần lượt là 32%; 6,67%; 42,66%; 18,67%. Vậy công thức cấu tạo của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3-CH(NH2)COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2N-[CH2]2-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N-CH2-COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C2H5-CH(NH2)-COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có :\\[{n_C}:{n_H}:{n_O}:{n_N} = \\frac{{32\\% }}{{12}}:\\frac{{6,67\\% }}{1}:\\frac{{42,66\\% }}{{16}}:\\frac{{18,67\\% }}{{14}}\\]\\[ \\Rightarrow {n_C}:{n_H}:{n_O}:{n_N} = 2,66:6,67:2,67:1,33\\]\\[ \\Rightarrow {n_C}:{n_H}:{n_O}:{n_N} = 2:5:2:1\\]→ CTĐGN : C2H5O2N → CTPT : C2H5O2NVậy công thức cấu tạo của X là H2N-CH2-COOHĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho các chất sau : (1) C2H6, (2) CH3-CH(NH2)-COOH, (3) CH3COOH, (4) C2H5OH. Dãy sắp xếp nhiệt độ sôi theo thứ tự giảm dần là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (2) >(3) >(4) >(1).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (3) >(4) >(1) >(2).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (4) >(3) >(2) >(1).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (2) >(3) >(1) >(4).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy sắp xếp theo thứ tự nhiệt độ sôi giảm dần là :→ (2) >(3) >(4) >(1)Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khẳng định nào sau đây không đúng về tính chất vật lí của amino axit?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tất cả đều là chất rắn ở nhiệt độ thường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tất cả đều là tinh thể màu hồng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tất cả đều tan trong nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả đều có nhiệt độ nóng chảy cao.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Amino axit là những chất rắn không màu, vị hơi ngọt, dễ tan trong nước, nhiệt độ nóng chảy caoĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Chất dùng làm gia vị thức ăn gọi là mì chính hay bột ngọt có công thức cấu tạo là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaOOC–CH2CH2CH(NH2)–COONa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HOOC–CH2CH2CH(NH2)–COONa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. NaOOC–CH2CH(NH2)–CH2COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaOOC–CH2CH(NH2)–CH2COONa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho các phát biểu sau:Aminoaxit là những chất lỏng, tan tốt trong nước và có vị ngọt.Tên bán hệ thống của aminoaxit :axit + (vị trí nhóm NH2: 1,2…) + amino + tên axit cacboxylic tương ứng.Aminoaxit là hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm amino và nhóm cacboxyl.Trong dung dịch, H2N–CH2–COOH còn tồn tại ở dạng ion lưỡng cực H3N+–CH2–COO–.Số phát biểu đúng là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "α - minoaxit X có phần trăm khối lượng các nguyên tố C, H, O, N lần lượt là 40,45%; 7,87%; 35,96%; 15,73%. Vậy công thức cấu tạo của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3-CH(NH2)COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. H2N-[CH2]2-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N-CH2-COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H5-CH(NH2)-COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Amino axit X có phân tử khối bằng 75. Tên của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lysin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. alanin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. glyxin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. valin.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho các khẳng định sau:Tất cả amin axit đều có nhiệt độ nóng chảy cao.Tất cả amino axit đều tan trong nước.Tất cả amino axit đều là chất rắn ở nhiệt độ thường.Tất cả amino axit đều có vị chua.Số đáp án đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Axit glutamic có ứng dụng gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sản xuất mì chính, bột ngọt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Điều chế xà phòng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sản xuất giấm ăn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sản xuất ống nhựa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong các chất sau, chất có nhiệt độ nóng chảy cao nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCOOCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5NH2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2NCH2COOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3NH2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho các phát biểu sau :(1) Tất cả các amino axit đều là chất rắn điều kiện thường(2) Tất cả các amino axit đều không làm đổi màu quì tím(3) Glyxin phản ứng được với tất các chất sau : dung dịch NaOH, dung dịch H2SO4(4) Tất cả các amino axit đều có khả năng trùng hợp tạo peptit(5) Có thể dùng quì tím để phân biệt các dung dịch alanin, lysin, axit glutamic(6) Trong phân tử amino axit vừa chứa liên kết cộng hóa trị, vừa chứa liên kết ionSố phát biểu đúng là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Axit glutamic là một chất dẫn truyền thần kinh, giúp kích thích thần kinh. Axit glutamic giúp phòng ngừa và điều trị các triệu chứng suy nhược thần kinh do thiếu hụt axit glutamic như mất ngủ, nhức đầu, ù tai, chóng mặt... Phát biểu đúng về axit glutamic?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mì chính là axit glutamic.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phân tử khối của axit glutamic là 117.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Axit glutamic có khả năng phản ứng với dung dịch HCl.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Axit glutamic không làm quỳ tím chuyển màu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho quỳ tím vào dung dịch axit glutamic (axit 2-amino pentan đioic), quỳ tím chuyển sang màu",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. đỏ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. chuyển sang đỏ sau đó mất màu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. mất màu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. xanh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho các chất sau:(1) ClH3NCH2COOH;(2) H2NCH(CH3)-CONH-CH2COOH;(3) CH3-NH3NO3;(4) (HOOCCH2NH3)2SO4;(5) ClH3NCH2-CONH-CH2-COOH;(6) CH3COOC6H5.Số chất trong dãy khi tác dụng với dung dịch NaOH (dư, đun nóng) thu được dung dịch chứa hai muối là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Phát biểu nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tử các amino axit có một nhóm NH2 và một nhóm COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dung dịch của các amino axit đều không làm đổi màu quỳ tím.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dung dịch của các amino axit đều làm đổi màu quỳ tím.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các amino axit đều là chất rắn ở nhiệt độ thường.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho từng chất H2N-CH2-COOH, CH3-COOH, CH3-COOCH3 lần lượt tác dụng với dung dịch NaOH (to) và với dung dịch HCl (to). Số phản ứng xảy ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các sơ đồ phản ứng:\n\\[Glyxin\\mathop \\to \\limits^{ + NaOH} X\\mathop \\to \\limits^{ + HCl\\,du} Y\\,(1)\\]\n\\[Glyxin\\mathop \\to \\limits^{ + HCl} Z\\mathop \\to \\limits^{ + NaOH\\,du} T\\,(2)\\]\nY và T lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ClH3NCH2COONa và H2NCH2COONa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2NCH2COONa và ClH3NCH2COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. ClH3NCH2COOH và H2NCH2COONa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ClH3NCH2COOH và ClH3NCH2COONa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho dãy chuyển hóa: \\[Glyxin\\mathop \\to \\limits^{ + HCl} {X_1}\\mathop \\to \\limits^{ + NaOH} {X_2}\\]. Vậy X2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. ClH3NCH2COONa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2NCH2COONa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. H2NCH2COOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ClH3NCH2COOH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Amino axit X chứa 1 nhóm NH2 và 1 nhóm COOH trong phân tử. Y là este của X với ancol đơn chức. Phân tử khối của Y bằng 89. Công thức của X, Y lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2NCH2COOH, H2NCH2COOC2H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2N[CH2]2COOH, H2N[CH2]2COOC2H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2N[CH2]2COOH, H2N[CH2]2COOCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2NCH2COOH, H2NCH2COOCH3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

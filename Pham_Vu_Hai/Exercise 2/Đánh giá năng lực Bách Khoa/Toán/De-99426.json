@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/mat-cau-khoi-cau/99426/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Số mặt phẳng tiếp diện của mặt cầu tại một điểm thuộc mặt cầu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Vô số",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nQua một điểm nằm trên mặt cầu ta vẽ được duy nhất 1 mặt phẳng tiếp diện với mặt cầu tại điểm đó.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Số tiếp tuyến vẽ được từ một điểm nằm trong mặt cầu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Vô số",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nQua một điểm nằm trong mặt cầu ta không vẽ được tiếp tuyến nào.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho mặt cầu (S) có tâm O bán kính R và đường thẳng d. Nếu d và  (S) không có điểm chung thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dO;d>R",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dO;d<R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dO;d=R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dO;d≤R",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nMặt cầu (S) và đường thẳng d không có điểm chung nếu dO;d>R.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Điểm M thuộc khối cầu tâm O bán kính R nếu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. OM>R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. OM=R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. OM<R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. OM≤R",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiểm M thuộc khối cầu tâm O bán kính R nếu OM≤R.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho mặt cầu (S) và điểm A nằm ngoài mặt cầu, các điểm B,C,D,E lần lượt là các tiếp điểm của các tiếp tuyến kẻ từ A đến mặt cầu. Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Bốn điểm B,C,D,E thẳng hàng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Bốn điểm B,C,D,E cùng thuộc một đường tròn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Bốn điểm B,C,D,E là bốn đỉnh của một hình chữ nhật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Bốn điểm B,C,D,E là bốn đỉnh của một hình vuông.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nQua một điểm nằm ngoài mặt cầu vẽ được vô số tiếp tuyến với mặt cầu. Tập hợp các tiếp điểm với mặt cầu là đường tròn nằm trên mặt cầu.\nDo đó bốn điểm B,C,D,E cùng thuộc một đường tròn.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho mặt cầu (S) cố định và điểm A di nguyển trong không gian, vị trí của A để tập hợp các tiếp điểm của tiếp tuyến với mặt cầu kẻ từ A là đường tròn lớn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.OA=R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.không có A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.OA=2R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.OA=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n+ Nếu điểm A nằm trong mặt cầu thì không vẽ được tiếp tuyến nên loại đáp án D.\n+ Nếu điểm A nằm trên mặt cầu thì vẽ được các tiếp tuyến thuộc mặt phẳng tiếp diện nên (hay nó chỉ tiếp xúc với mặt cầu) loại đáp án A.\n+ Nếu điểm A nằm ngoài mặt cầu thì vẽ được vô số tiếp tuyến với mặt cầu đi qua A nhưng các tiếp tuyến đều đồng quy tại A.\nTrong khi đó, tiếp tuyến với mặt cầu tại các điểm thuộc đường tròn lớn thì song song với nhau nên không có trường hợp nào thỏa mãn.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho mặt cầu (S) có đường kính 10 cm và mặt phẳng (P) cách tâm mặt cầu một khoảng 4 cm. Khẳng định nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(P) và (S) có vô số điểm chung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(P) và (S) theo một đường tròn bán kính 3 cm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(P) tiếp xúc với (S).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.(P) cắt (S).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Mọi đường tròn lớn của một mặt cầu đều có chung tâm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Mọi mặt phẳng kính của mặt cầu đều cùng đi qua một đường kính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Mọi đường tròn lớn của một mặt cầu đều có bán kính nhỏ hơn bán kính mặt cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Cả A, B, C đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Các tiếp tuyến tại cùng một điểm nằm trên mặt cầu có tính chất:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.trùng nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.song song",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.cùng thuộc mặt phẳng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.vuông góc với nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Điểm thuộc mặt cầu thì thuộc khối cầu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Điểm thuộc khối cầu thì thuộc mặt cầu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Điểm nằm ngoài mặt cầu thì thuộc khối cầu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Điểm nằm ngoài khối cầu thì thuộc mặt cầu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Chọn mệnh đề sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Điểm không thuộc khối cầu thì không thuộc mặt cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Điểm nằm ngoài mặt cầu thì không thuộc khối cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Điểm không thuộc mặt cầu thì không thuộc khối cầu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Điểm nằm trong mặt cầu thì thuộc khối cầu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho mặt cầu (S). Nếu (P) là mặt phẳng kính của mặt cầu (S) thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(P) tiếp xúc (S)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(P) không cắt (S)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(P) không đi qua tâm mặt cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.(P) đi qua tâm mặt cầu.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Mặt phẳng cắt mặt cầu là mặt phẳng kính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Mặt phẳng chứa đường kính của mặt cầu là mặt phẳng kính.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Mặt phẳng tiếp xúc mặt cầu là mặt phẳng kính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Mặt phẳng không đi qua điểm nào thuộc mặt cầu là mặt phẳng kính.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Có bao nhiêu mặt phẳng kính của mặt cầu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vô số",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho mặt cầu (S) và điểm A∈(S),(P) là tiếp diện của (S) tại A. Chọn mệnh đề sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Mọi đường thẳng đi qua A và nằm trong (P) đều là tiếp tuyến của (S).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Mọi đường thẳng nằm trong (P) đều tiếp xúc với (S).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Các đường thẳng nằm trong (P) không thể có với (S) hai điểm chung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đường thẳng OA vuông góc với (P) tại A.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/hien-tuong-quang-dien-thuyet-luong-tu-anh-sang-3/98669/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hiện tượng quang điện ngoài là hiện tượng electron bị bật ra khỏi bề mặt kim loại khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chiếu vào kim loại ánh sáng thích hợp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Tấm kim loại bị nhiễm điện do tiếp xúc với vật đã bị nhiễm điện khác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Kim loại bị nung nóng đến nhiệt độ rất cao.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đặt tấm kim loại vào trong một điện trường mạnh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHiện tượng ánh sáng làm bật các electron ra khỏi mặt kim loại gọi là hiện tượng quang điện (ngoài)\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Chiếu một bức xạ  đơn sắc có bước sóng λv vào một tấm kim loại có giới hạn quang điện ngoài là λ0  thì thấy có hiện tượng quang điện xảy ra (electron bứt ra khỏi kim loại). Với cc là tốc độ photon trong chân không. Khi đó, ta có mối quan hệ đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.λ0>λ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. λ⩾hcλ0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. λ<hcλ0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.λ⩽λ0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐể gây ra hiện tượng quang điện:\nλ≤λ0⇔cf≤λ0\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho biết công thoát của Kali là\nA = 3,6.10−19J. Chiếu vào Kali lần lượt bốn bức xạ\nλ1=0,4μm; λ2=0,5μm ; λ3=0,6μm; λ4=0,7μm. Những bức xạ nào có thể gây ra hiện tượng quang điện đối với Kali?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.λ3 và λ4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.λ1 và λ2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.chỉ có λ1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. λ1,λ2 và λ3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có :\nA=hcλ0→λ0=hcA=0,552μm\nĐể gây ra hiện tượng quang điện thì bức xạ chiếu đến có bước sóng nhỏ hơn  λ0 => bức xạ nào có thể gây ra hiện tượng quang điện là λ1 và λ2\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Theo thuyết lượng tử ánh sáng, phát biểu nào dưới đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Phân tử, nguyên tử phát xạ hay hấp thụ ánh sáng, cũng có nghĩa là chúng phát xạ hay hấp thụ phôtôn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Ánh sáng được tạo thành bởi các hạt gọi là phôtôn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Năng lượng của các phôtôn ánh sáng là như nhau, không phụ thuộc tần số của ánh sáng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Trong chân không, các phôtôn bay dọc theo tia sáng với tốc độ c = 3.108 m/s.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNăng lượng của photon ánh sáng:ε=hf => có phụ thuộc vào tần số của ánh sáng.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Chọn câu phát biểu sai về photon:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Ánh sáng tím có photon giống hệt nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Năng lượng của mỗi photon không đổi trong quá trình lan truyền",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Photon chuyển động dọc theo tia sáng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Trong chân không photon chuyển động với tốc độ c=3.108 m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVới mỗi ánh sáng đơn sắc có tần số f, các photon đều giống nhau\nNhận thấy ánh sáng tím có bước sóng nằm trong khoảng từ \n0,38μm−0,42μm\n=> Phương án A: Ánh sáng tím có photon giống hệt nhau là sai\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Gọi năng lượng của phôtôn ánh sáng đỏ, ánh sáng lục và ánh sáng vàng lần lượt là: εĐ, εL và εV. Sắp xếp chúng theo thứ tự năng lượng giảm dần là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.εL > εV> εĐ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. εV  > εL > εĐ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.  εL  > εĐ > εV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. εĐ  > εV  > εL.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có :  \nε=hf=hcλλD>λV>λL⇒εD<εV<εL\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong chân không, ánh sáng tím có bước sóng 0,38μm . Mỗi phôtôn của ánh sáng này mang năng lượng xấp xỉ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5,23. 10-20 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,49.10-31 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5,23.10-19 J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2,49.10-19 J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Chọn câu trả lời đúng. Giới hạn quang điện của Natri là 0,5μm. Công thoát của Kẽm lớn hơn của Natri là 1,4 lần. Giới hạn quang điện của kẽm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,7μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,36μm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,9μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,63μm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Biết công thoát của các kim loại : canxi, kali, bạc và đồng lần lượt là 2,89 eV; 2,26eV; 4,78 eV và 4,14 eV. Chiếu bức xạ có bước sóng 0,33 μm  vào bề mặt các kim loại trên. Hiện tượng quang điện ngoài xảy ra với các kim loại nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Kali và đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Kali và canxi",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Bạc và đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Canxi và bạc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một chất quang dẫn có giới hạn quang điện là 1,88μm . Lấy c = 3.108m/s. Hiện tượng quang điện trong xảy ra khi chiếu vào chất này ánh sáng có tần số nhỏ nhất là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,452.1014 Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,596.1014Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1,875.1014Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,956.1014Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Lần lượt chiếu vào catốt của một tế bào quang điện các bức xạ điện từ gồm các bức xạ có bước sóng λ1= 0,26μm  và bức xạ có bước sóng λ2= 1,2λ1  thì vận tốc ban đầu cực đại của các electron quang điện bứt ra từ catốt lần lượt là v1 và v2 với v2= 3v1/4 . Giới hạn quang điện λ0  của kim loại làm catốt nay là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,42μm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1,00 μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,90 μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,45 μm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Kim loại làm catốt của tế bào quang điện có công thoát A = 3,45eV. Khi chiếu vào 4 bức xạ điện từ có λ1 = 0,25 µm, λ2 = 0,4 µm, λ3 = 0,56 µm, λ4 = 0,2 µmthì bức xạ nào xảy ra hiện tượng quang điện",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.λ3, λ2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.λ1, λ4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.λ1, λ2, λ4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.cả 4 bức xạ trên",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

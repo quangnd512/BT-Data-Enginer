@@ -1,0 +1,856 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/the-tich-khoi-chop/99017/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho khối chóp có thể tích V, diện tích đáy là S và chiều cao h. Chọn công thức đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=Sh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=12Sh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=13Sh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V=16Sh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính thể tích khối chóp V=13Sh\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phép vị tự tỉ số k > 0 biến khối chóp có thể tích V thành khối chóp có thể tích V′. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. VV'=k",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V'V=k2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. VV'=k3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V'V=k3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nPhép vị tự tỉ số k > 0 biến khối chóp có thể tích V thành khối chóp có thể tích V′. Khi đó V'V=k3\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho khối chóp tam giác S.ABC, trên các cạnh SA,SB,SC lần lượt lấy các điểm A′,B′,C′. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. VS.A'B'C'VS.ABC=SA'SA+SB'SB+SC'SC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. VS.ABCVS.A'B'C'=SA'SA.SB'SB.SC'SC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. VS.A'B'C'VS.ABC=SA'SA=SB'SB=SC'SC",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. VS.A'B'C'VS.ABC=SA'SA.SB'SB.SC'SC",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nNếu A',B',C' là ba điểm lần lượt nằm trên các cạnh SA,SB,SC của hình chóp tam giác S.ABC. Khi đó:\nVS.A'B'C'VS.ABC=SA'SA.SB'SB.SC'SC\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Đáy của hình chóp S.ABCD là một hình vuông cạnh a. Cạnh bên SA vuông góc với mặt đáy và có độ dài là a. Thể tích khối tứ diện S.BCD bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a36",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a38",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTa có: SΔBCD=12SABCD=12a2m ;\nVS.BCD=13SA.SBCD=13a.12a2=a36\n\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có ABCD là hình thang vuông tại A và D thỏa mãn SA⊥ABCD  và AB=2AD=2CD=2a=2SA. Thể tích khối chóp S.BCD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a323",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a326",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3212",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nTa có: SABCD=12AB+CD.AD=122a+aa=3a22\nSΔABD=12AD.AB=12a.2a=a2⇒SBCD=SABCD−SABD=3a22−a2=a22SA=2a2=a2⇒VS.BCD=13SA.SBCD=13a2.a22=a326\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình chóp tam giác đều S.ABC có cạnh đáy bằng a, góc giữa cạnh bên và mặt đáy bằng 600. Tính thể tích khối chóp S.ABC?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=5a3312",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=a3312",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. V=a3512",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=a3310",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nGọi O là trọng tâm tam giác đều ABC\nVì chóp S.ABC đều nên SO⊥ABC\n⇒OA là hình chiếu vuông góc của SA lên (ABC)\n⇒SA;ABC^=SA;OA^=SAO^=600\nSO⊥ABC⇒SO⊥OA⇒ΔSAO vuông tại O\nGọi D là trung điểm của BC ta có: AD=a32⇒AO=23AD=23a32=a33\n⇒SO=AO.tan60=a33.3=a\nVì tam giác ABC đều nên SΔABC=a234\nVậy VS.ABC=13SO.SΔABC=13aa234=a3312\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp đều S.ABCD có diện tích đáy là 16cm2, diện tích một mặt bên là 83cm2. Thể tích khối chóp S.ABCD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3223cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 32133cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 32113cm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp tam giác đều S.ABC có cạnh đáy bằng a và mặt bên hợp với đáy một góc 600. Thể tích khối chóp S.ABC là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3312",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a3224",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3324",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a324",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại A,BC=2AB=2a. Cạnh bên SC vuông góc với đáy, góc giữa SA và đáy bằng 600. Thể tích khối chóp đó bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a332",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a352",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a336",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a332",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho khối chóp S.ABCD có thể tích bằng 4a3, đáy ABCD là hình bình hành. Gọi M là trung điểm của cạnh SD. Biết diện tích tam giác SAB bằng a2. Tính khoảng cách từ M tới mặt phẳng (SAB).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.4a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có SA⊥ABCD. Biết AC=a2, cạnh SC tạo với đáy một góc 600 và diện tích tứ giác ABCD là 3a22. Gọi H là hình chiếu của A trên cạnh SC. Tính thể tích khối chóp H.ABCD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a362",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a364",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a368",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3a368",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC vuông tại A và SB vuông góc với đáy. Biết SB=a, SC hợp với (SAB) một góc 300 và (SAC) hợp với đáy (ABC) một góc 600. Thể tích khối chóp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3327",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a339",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a327",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a39",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho tứ diện ABCD có các cạnh AB,AC,AD đôi một vuông góc với nhau, AB=6a,AC=7a,AD=4a. Gọi M,N,P lần lượt là trung điểm của các cạnh BC,CD,DB. Thể tích V của tứ diện AMNP là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=7a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=14a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=28a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=7a3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a. Mặt phẳng (SAB) và (SAD) cùng vuông góc với mặt phẳng (ABCD). Đường thẳng SC tạo với đáy góc 450. Gọi M,N lần lượt là trung điểm của AB và AD. Thể tích của khối chóp S.MCDN là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5a3212",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5a326",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5a328",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5a3224",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho khối lăng trụ tam giác đều ABC.A1B1C1  có tất cả các cạnh bằng a. Gọi M là trung điểm của AA1. Thể tích khối chóp M.BCA1  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3312",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a3324",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a336",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a338",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hình chóp tứ giác đều S.ABCD có chiều cao h, góc ở đỉnh của mặt bên bằng 600. Thể tích hình chóp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3h32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. h33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2h33",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. h333",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thể tích khối bát diện đều cạnh a  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a336",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a326",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a323",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình chóp S.ABC đáy ABC là tam giác vuông tại A,AB=a,AC=a3. Tam giác SBC đều nằm trong mặt phẳng vuông góc với đáy. Tính thể tích khối chóp S.ABC",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=a32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. V=a36",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=a336",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=a332",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình chóp S.ABC có AB=AC=4,BC=2,SA=43,SAB^=SAC^=300. Tính thể tích khối chóp S.ABC.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. VS. ABC=8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. VS. ABC=6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. VS. ABC=4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. VS. ABC=12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, hình chiếu vuông góc của S trên mặt đáy nằm trong hình vuông ABCD. Biết rằng SA và SC tạo với đáy các góc bằng nhau, góc giữa SB và đáy bằng 450, góc giữa SD và đáy bằng α với tanα=13. Tính thể tích khối chóp đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a326",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a336",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3312",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3212",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Một khối chóp tam giác có cạnh đáy bằng 6, 8, 10. Một cạnh bên có độ dài bằng 4 và tạo với đáy góc 600. Thể tích của khối chóp đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.83",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.483",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.163",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Khối chóp tam giác có độ dài 3 cạnh xuất phát từ một đỉnh là a,2a,3a  có thể tích lớn nhất bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông cân đỉnh B, AB=4,SA=SB=SC=12. Gọi M, N, E lần lượt là trung điểm AC, BC, AB. Trên cạnh SB lấy điểm F sao cho BFBS=23. Thể tích khối tứ diện MNEF bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8349",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 16349",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16343",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4343",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có ABCD là hình chữ nhật, AB=2a,AD=aa>0.  M là trung điểm của AB, tam giác SMC vuông tại S, SMC⊥ABCD,SM  tạo với đáy góc 600. Thể tích của khối chóp S.ABCD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a366.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a336.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a363.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho tứ diện đều ABCD có cạnh bằng 8. Ở bốn đỉnh tứ diện, nguời ta cắt đi các tứ diện đều bằng nhau có cạnh bằng x, biết khối đa diện tạo thành sau khi cắt có thể tích bằng 34 thể tích tứ diện ABCD. Giá trị của x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 323",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 343",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 243",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hình chóp đều S.ABCD có cạnh đáy bằng 2a. Khoảng cách giữa hai đường thẳng SA và CD bằng a3. Thể tích khối chóp S.ABCD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a333",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4a333",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA vuông góc với mặt phẳng đáy (ABCD) và SA=a. Điểm M thuộc cạnh SA sao cho SMSA=k. Xác định k sao cho mặt phẳng (BMC) chia khối chóp S.ABCD thành hai phần có thể tích bằng nhau.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. k=−1+32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. k=−1+52",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. k=−1+22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. k=1+54",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho tứ diện ABCD có G là điểm thỏa mãn GA→+GB→+GC→+GD→=0→. Mặt phẳng thay đổi chứa BG và cắt AC,AD lần lượt tại M và N. Giá trị nhỏ nhất của tỉ số VABMNVABCD là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 38",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 49",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 59",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho tứ diện ABCD có thể tích bằng 18. Gọi A1 là trọng tâm của tam giác BCD; (P) là mặt phẳng qua A sao cho góc giữa (P) và mặt phẳng (BCD) bằng 600. Các đường thẳng qua B,C,D song song với AA1 cắt (P) lần lượt tại B1,C1,D1. Thể tích khối tứ diện A1B1C1D1  bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 123",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 18",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 93",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho khối chóp tứ giác đều S.ABCD có cạnh đáy bằng a và có thể tích V=a336. Tìm số r>0 sao cho tồn tại điểm J nằm trong khối chóp mà khoảng cách từ J đến các mặt bên và mặt đáy đều bằng r?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. r=a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. r=a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. r=a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. r=a36",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình bình hành. Gọi M,N lần lượt là trung điểm của các cạnh AB,BC. Điểm I thuộc đoạn SA. Biết mặt phẳng (MNI) chia khối chóp S.ABCD  thành hai phần, phần chứa đỉnh S có thể tích bằng 725 lần phần còn lại. Tính tỉ số IAIS?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 53",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 35",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh bằng 6. Biết rằng các mặt bên của hình chóp có diện tích bằng nhau và một trong các cạnh bên bằng 32. Tính thể tích nhỏ nhất của khối chóp S.ABC",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thang, AD song song với BC, AD=2BC. Gọi E, F là hai điểm lần lượt nằm trên các cạnh AB và AD sao cho 3ABAE+ADAF=5  (E,F không trùng với A), Tổng giá trị lớn nhất và giá trị nhỏ nhất của tỉ số thể tích hai khối chóp S.BCDFE và S.ABCD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 54",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 43",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1712",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 76",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình thoi cạnh bằng 2, ∠BAD=600, SA=SC  và tam giác SBD vuông cân tại S. Gọi E là trung điểm của SC. Mặt phẳng (P) qua AE và cắt hai cạnh SB,SD lần lượt tại M và N. Thể tích lớn nhất V0 của khối đa diện ABCDNEM bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V0=239",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V0=8321",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V0=237",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V0=439",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB=a6, tam giác ACD đều, hình chiếu vuông góc của A lên mặt phẳng (BCD) trùng với trực tâm H của tam giác BCD, mặt phẳng (ADH) tạo với mặt phẳng (ACD) một góc 450. Tính thể tích khối tứ diện ABCD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 27a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9a34",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3a34",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho hình chóp S.ABC, đáy là tam giác ABC có AB=BC5, AC=2BC2, hình chiếu của S lên mặt phẳng (ABC) là trung điểm O của cạnh AC. Khoảng cách từ A đến mặt phẳng (SBC) bằng 2. Mặt phẳng (SBC) hợp với mặt phẳng (ABC) một góc α thay đổi. Biết rằng giá trị nhỏ nhất của thể tích khối chóp S.ABC bằng ab, trong đó a,b∈ℕ∗, a  là số nguyên tố. Tổng a+b bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Cho hình chóp đều S.ABCD có đáy ABCD là hình vuông cạnh a, cạnh bên bằng a2. Xét điểm M thay đổi trên mặt phẳng SCD sao cho tổng Q=MA2+MB2+MC2+MD2+MS2  nhỏ nhất. Gọi V1 là thể tích của khối chóp S.ABCD và V2 là thể tích của khối chóp M.ACD. Tỉ số V2V1 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 11140",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2235",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1170",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1135",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

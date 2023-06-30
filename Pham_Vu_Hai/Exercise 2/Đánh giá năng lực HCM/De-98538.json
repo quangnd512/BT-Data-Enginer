@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/song-dung-1/98538/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Quan sát sóng dừng trên một sợi dây đàn hồi, người ta đo được khoảng cách giữa 5 nút sóng liên tiếp là 100 cm. Biết tần số của sóng truyền trên dây bằng 100 Hz, vận tốc truyền sóng trên dây là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.50 m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.100 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.25 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.75 m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhoảng cách giữa 5 nút liền kề là\n4λ2=100→λ=50cm=0,5m\nVận tốc truyền sóng:\nv=λf=0,5.100=50m/s\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trên một sợi dây đàn hồi đang có sóng dừng. Biết khoảng cách ngắn nhất giữa một nút sóng và vị trí cân bằng của một bụng sóng là 0,25m. Sóng truyền trên dây với bước sóng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,5 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,5 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,0 m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2,0 m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: khoảng cách giữa nút và bụng liền kề là λ4=0,25m→λ=1m\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một sợi dây đàn hồi căng ngang, hai đầu cố định. Trên dây có sóng dừng, tốc độ truyền sóng không đổi. Khi tần số sóng trên dây là 42Hz thì trên dây có 4 điểm bụng. Tính tần số của sóng trên dây nếu trên dây có 6 điểm bụng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.63Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.28Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.84Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.36Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện để có sóng dừng trên dây hai đầu cố định: l=kλ2 (k∈N∗)\nSố bụng sóng = số bó sóng = k ;   \nSố nút sóng = k + 1\nVì hai đầu cố định là 2 nút nên ta có:\nl=kλ2=kv2f=k'λ'2=k'v2f'\n⇒f'=k'fk=63Hz\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Quan sát sóng dừng trên sợi dây AB, đầu A dao động điều hòa theo phương vuông góc với sợi dây (coi A là nút). Với đầu B tự do và tần số dao động của đầu A là 22Hz thì trên dây có 6 nút. Nếu đầu B cố định và coi tốc độ truyền sóng của dây như cũ, để vẫn có 6 nút thì tần số dao động của đầu A phải bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.44Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.20Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.33Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.24,5Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhi B tự do thì:\nl=(2k+1)λ14=(2k+1)v4f1\nKhi B cố định thì:\nl=kλ22=kv2f2\nf2=2kf12k+1\nVì trên dây có 66 nút nên k=5.\nVậy: f2=2.5.222.5+1=20(Hz)\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một sợi dây AB dài 100cm căng ngang, đầu B cố định, đầu A gắn với một nhánh của âm thoa dao động điều hòa với tần số 40Hz. Trên dây AB có một sóng dừng ổn định, A được coi là nút sóng. Tốc độ truyền sóng trên dây là 20m/s. Tìm số nút sóng và bụng sóng trên dây, kể cả A và B.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3 bụng và 4 nút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4 bụng và 4 nút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4 bụng và 5 nút",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.5 bụng và 5 nút",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nλ=vf=0.5 m=50 cm.\nTa có điều kiện để có sóng dừng trên dây hai đầu cố định:\nl=kλ2 (k∈N∗)\nSố bụng sóng = số bó sóng = k ;\nSố nút sóng = k + 1\nTrên dây có:\nk=ABλ2=2ABλ=4 bụng sóng.\n=> số nút = k + 1 = 5 nút sóng\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trên một sợi dây dài 0,9 m có sóng dừng. Kể cả hai nút ở  hai đầu dây thì trên dây có 10 nút sóng. Biết tần số của sóng truyền trên dây là 200Hz. Sóng truyền trên dây có tốc độ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.90 cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.40 m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.40 cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.90 m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có điều kiện để có sóng dừng trên dây hai đầu cố định:\nl=kλ2 (k∈N∗)\nSố bụng sóng = số bó sóng = k ; Số nút sóng = k + 1\nl=kλ2↔0,9=9λ2→λ=0,2m\ntốc độ truyền sóng trên dây:\nv=λf=0,2.200=40m/s\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một sợi dây AB dài 50cm. Đầu A dao động với tần số f=50Hz. Đầu B cố định. Trên dây AB có một sóng dừng ổn định, A được coi là nút sóng. Tốc độ truyền sóng trên dây là 1m/s. Hỏi điểm M cách A một khoảng 3,5cm là nút hay bụng thứ mấy kể từ A và trên dây có bao nhiêu nút, bao nhiêu bụng kể cả A và B.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.M là nút số 4, trên dây có 50 nút - 50 bụng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.M là bụng số 4, trên dây có 50 nút - 50 bụng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.M là nút số 4, trên dây có 50 nút - 51 bụng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.M là bụng số 4, trên dây có 51 nút - 50 bụng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong ống sáo một đầu kín một đầu hở có sóng dừng với tần số cơ bản là 110 Hz. Biết tốc độ truyền âm trong không khí là 330 m/s. Tìm độ dài của ống sáo.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,5 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,75 m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2,25 m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Sóng dừng trên một sợi dây với hai đầu cố định. Khi tần số sóng là f thì trên sợi dây có 10 nút sóng (kể cả hai đầu). Nếu tần số sóng là 43f thì trên dây có số bụng sóng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.11",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Trong giờ thực hành hiện tượng sóng dừng trên dây với hai đầu cố định, một học sinh thực hiện như sau: tăng tần số của máy phát dao động thì thấy rằng khi sóng dừng xuất hiện trên dây tương ứng với 1 bó sóng và 7 bó sóng thì tần số thu được thỏa mãn f7−f1=150(Hz) Khi trên dây xuất hiện sóng dừng với 4 nút sóng thì máy phát tần số hiện giá trị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.100 Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.75 Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.120 Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 125 Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một sợi dây đàn hồi căng ngang, đang có sóng dừng ổn định. Trên dây, A là một điểm nút, B là một điểm bụng gần A nhất, C là trung điểm của AB, với AC=10cm. Biết khoảng thời gian ngắn nhất giữa hai lần mà li độ dao động của phần tử tại B bằng biên độ dao động của phần tử tại C là 0,1s. Tốc độ truyền sóng trên dây là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0,5m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,25m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một sợi dây đàn hồi OM dài 120 cm có hai đầu cố định. Khi được kích thích dao động, trên dây hình thành hai bụng sóng (với O và M là hai nút), biên độ tại bụng là A. Tại điểm P gần O nhất dao động với biên độ A2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.10 cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.15 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.20 cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

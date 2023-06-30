@@ -1,0 +1,580 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/duong-tiem-can-cua-do-thi-ham-so/96846/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nếu limx→x0+y=+∞ thì đường thẳng x=x0  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.tiệm cận ngang",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tiệm cận đứng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.tiệm cận xiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.trục đối xứng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếulimx→x0+y=+∞ thì đường thẳng x=x0 là tiệm cận đứng của đồ thị hàm số.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Đường thẳng y=y0 là tiệm cận ngang của đồ thị hàm số y=fx  nếu:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. limx→+∞y=y0limx→−∞y=y0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. limx→0y=y0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. limx→−∞y=±∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. limx→y+0y=+∞limx→y0−y=−∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐường thẳng y=y0 là tiệm cận ngang của đồ thị hàm số y=fx nếu\nlimx→+∞y=y0limx→−∞y=y0\n \nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tiệm cận ngang của đồ thị hàm số y=x−1−3x+2 là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=−13",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐồ thị hàm số có TCN là y=−13\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hàm số y=x−2x+2 có đồ thị (C). Tìm tọa độ giao điểm I của hai đường tiệm cận của đồ thị (C)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I(−2;2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.I(−2;−2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.I(2;1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.I(−2;1)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐồ thị hàm số đã cho có hai đường tiệm cận x=−2;y=1 nên giao 2 đường tiệm cận là I(−2;1).\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Đồ thị hàm số y=ax+b2x+c có tiệm cận ngang y=2  và tiệm cận đứng x=1  thì a+c  bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa cólimx → ∞​y=limx → ∞​ax+b2x+c=a2⇒y=a2 là tiệm cận ngang của ĐTHS ⇒a2=2⇒a=4.\nVàlimx → − c2​y=limx → − c2​ax+b2x+c=∞⇒x=−c2 là tiệm cận đứng của ĐTHS ⇒−c2=1⇒c=−​2.\nVậy tổng a+c=4−2=2.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hàm số y=2018x−2 có đồ thị (H). Số đường tiệm cận của (H) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có limx → ∞y=limx → ∞2018x−2=0⇒​​y=0 là tiệm cận ngang của đồ thị hàm số.\nVà limx → 2y=limx → 22018x−2=∞ ⇒​​x=2 là tiệm cận đứng của đồ thị hàm số.\nVậy đồ thị hàm số đã cho có 2 đường tiệm cận.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hàm số y=fx  có bảng biến thiên như sau. Khẳng định nào dưới đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đồ thị hàm số có tiệm cận đứng là x=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Đồ thị hàm số có tiệm cận ngang y=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Đồ thị hàm số có tiệm cận ngang là y=2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Đồ thị hàm số có tiệm cận đứng y=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Đồ thị hàm số nào sau đây có 3 đường tiệm cận?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=x+2x2+3x+6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=x+1x2−9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=x+2x−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=x+1x2+4x+8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Số tiệm cận ngang của đồ thị hàm số y=2x−1+4x2−4 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Số đường tiệm cận của đồ thị hàm số y=x−2x2−4là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tất cả phương trình tiệm cận ngang của đồ thị hàm số y=x2+x+12x+3 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=±12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=−32,y=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đồ thị hàm số y=xx2−1 có bao nhiêu đường tiệm cận ngang:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Phương trình đường tiệm cận đứng của đồ thị hàm số y=x2−3x−4x2−16 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=−4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=4 hoặc x=−4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đồ thị hàm số y=x−3x2+x−2 có bao nhiêu đường tiệm cận đứng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Số đường tiệm cận của đồ thị hàm số y=x−12−x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Phương trình đường tiệm cận xiên của đồ thị hàm số y=x2−3x−1x+1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=x2−3x−1x+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=x+4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=x−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=x−4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Đồ thị hàm số y=4x2+4x+3−4x2+1 có bao nhiêu đường tiệm cận ngang?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hàm số y=2mx+mx−1C. Với giá trị nào của mm≠0  thì đường tiệm cận đứng, đường tiệm cận ngang của đồ thị hàm số cùng với hai trục tọa độ tạo thành một hình chữ nhật có diện tích bằng 8?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=±4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m=±2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hàm số y=x−2x2−2x+mC.. Tất cả các giá trị của m để (C) có 3 đường tiệm cận là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m<1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m≠0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m<1; m≠0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hàm số y=2x2−3x+mx−m. Để đồ thị hàm số không có tiệm cận đứng thì các giá trị của tham số m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=0;m=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không tồn tại m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số y=f(x)  thỏa mãn limx→−∞f(x)=−1  và limx→+∞f(x)=m . Có bao nhiêu giá trị thực của tham số m để đồ thị hàm số y=1f(x)+2  có duy nhất một tiệm cận ngang.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Vô số.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hàm số fx=ax+1bx+c   a,b,c∈ℝ có bảng biến thiên như sau: \n\n\nTrong các số a,b và c có bao nhiêu số dương ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hàm số y=fx có bảng biến thiên như sau:\n\n\nTổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số y=1f(x)−1  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hàm số f(x)=ax3+bx2+cx+d có đồ thị như hình vẽ bên.\n\n\nHỏi đồ thị hàm số  g(x)=(x2−3x+2)x−1x[f2(x)−f(x)] có bao nhiêu tiệm cận đứng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hàm số y=ax2+3ax+2a+1x+2. Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đồ thị hàm số luôn có tiệm cận xiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tiệm cận xiên của đồ thị hàm số luôn đi qua một điểm cố định a≠0.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Đồ thị hàm số luôn có 3 đường tiệm cận với ∀a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đồ thị hàm số có tiệm cận ngang nếu a≠0.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

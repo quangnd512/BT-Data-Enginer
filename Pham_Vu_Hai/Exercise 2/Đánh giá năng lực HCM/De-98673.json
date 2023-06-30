@@ -1,0 +1,258 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-phong-xa/98673/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Chất Iốt phóng xạ 53131I dùng trong y tế có chu kỳ bán rã 8 ngày đêm. Nếu nhận được 100g chất này thì sau 8 tuần lễ còn bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,87g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,78g",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.7,8g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.8,7g",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n  t = 8 tuần = 56 ngày = 7.T .Suy ra sau thời gian t thì khối lượng chất phóng xạ 53131I còn lại là :\nm=m0.2−tT=100.2−7= 0,78 gam .\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "22Na phân rã với chu kì T = 2,6 năm. Khối lượng ban đầu là m0. Sau 2 năm lượng 22Na phân rã bao nhiêu %?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.41,3%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.50%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.25%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.67,7%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nt = 2 năm, T = 2,6 năm\nTa có: khối lượng hạt nhân đã phân rã:\nΔm=m0(1−2−tT)→Δmm0=1−2−tT=1−2−22,6=0,4133=41,33%\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tính số hạt nhân bị phân rã sau 1s trong 1g Rađi 226Ra . Cho biết chu kỳ bán rã của 226Ra  là 1580 năm. Số Avôgađrô là NA = 6,02.1023 mol-1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,55.1010 hạt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3,40.1010 hạt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3,75.1010 hạt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3,70.1010 hạt",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSố hạt nhân nguyên tử có trong 1 gam  226Ra là :\nN0=mA.NA=1226.6,022.1023=2,6646.1021\nSuy ra số hạt nhân nguyên tử Ra phân rã sau 1 s là :\nΔN=N0(1−2−tT)=2,6646.10211−2−11580.365.86400=3,70.1010 hạt\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Pôlôni 210Po là một chất phóng xạ có chu kì bán rã 140 ngày đêm. Hạt nhân pôlôni phóng xạ sẽ biến thành hạt nhân chì (206Pb)và kèm theo một hạt a. Ban đầu có 42mg chất phóng xạ pôlôni. Khối lượng chì sinh ra sau 280 ngày đêm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.30,9 mg",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.10,35 mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.31,96 mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10,65 mg",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nmPb=ΔmPoAPo.APb​=m0APbAPo(1−2tT)​=42206210(1−2−280140)=30,9mgĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Đồng vị   1124Na là chất phóng xạ β− tạo thành hạt nhân magiê( M1224g). Ban đầu có 12gam Na và chu kì bán rã là 15 giờ. Sau 45 h thì khối lượng Mg tạo thành là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10,5 g",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.5,16 g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.51,6 g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,516 g",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNhận xét : t = 3T nên ta dùng hàm mũ 2 để giải cho nhanh bài toán :\n- Khối lượng Na bị phân rã sau t = 45 giờ = 3T :\nΔm=m0(1−2−tT)=12(1−2−3)↔Δm=10,5g\n - Suy ra khối lượng của Mg tạo thành : mcon=Δmme.AconAme=10,524.24=10,5g\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một lượng chất phóng xạ sau 12 năm thì còn lại 1/16 khối lượng ban đầu của nó. Chu kì bán rã của chất đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3 năm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4,5 năm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9 năm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.48 năm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có mm0=12tT=116=124\n→tT=4⇒T=t4=124=3 năm\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một đồng vị phóng xạ có chu kì bán rã T. Cứ sau một khoảng thời gian bằng bao nhiêu thì số hạt nhân bị phân rã trong khoảng thời gian đó bằng ba lần số hạt nhân còn lại của đồng vị ấy",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2T",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,5T",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.T",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "1124Na là chất phóng xạ β−  với chu kỳ bán rã 15 giờ. Ban đầu có một lượng 1124Na thì sau một khoảng thời gian bao nhiêu lượng chất phóng xạ trên bị phân rã 75%?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.7h30'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.15h00'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.22h30'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.30h00'",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong phòng thí nghiệm, người ta tiến hành xác định chu kì bán rã T của một chất phóng xạ bằng cách dùng máy đếm xung để đo tỉ lệ giữa số hạt bị phân rã ΔN và số hạt ban đầu N0. Dựa vào kết quả thực nghiệm đo được trên đồ thị hãy tính chu kì bán rã của chất phóng xạ này?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5,6 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.8,9 ngày",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.3,8 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.138 ngày",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Coban 2760Co là chất phóng xạ có chu kì bán rã T = 5,33 năm. Lúc đầu có 1000g Co thì sau 10,66 năm số nguyên tử coban còn tại là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. N=2,51.1024",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. N=5,42.1022",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. N=8,18.1020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. N=1,25.1021",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Chất phóng xạ pôlôni 84210Po có chu kì bán rã 138 ngày. Ban đầu có một mẫu gồm N0 hạt nhân pôlôni 84210Po. Sau bao lâu (kể từ lúc ban đầu), số hạt nhân 84210Po bị phân rã là 78N0?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.276 ngày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.414 ngày.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.552 ngày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.690 ngày.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

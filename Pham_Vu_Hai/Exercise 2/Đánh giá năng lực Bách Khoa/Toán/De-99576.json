@@ -1,0 +1,799 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/the-tich-khoi-hop-9/99576/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Công thức tính thể tích lăng trụ có diện tích đáy S và chiều cao h là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=13Sh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=12Sh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=16Sh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=Sh",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính thể tích lăng trụ có diện tích đáy S và chiều cao hh là V=Sh.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho khối lăng trụ tam giác ABC.A′B′C′ có thể tích V. Trên đáy A′B′C′ lấy điểm M bất kì. Thể tích khối chóp M.ABC tính theo V bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2V3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3V4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nVì M∈A'B'C'⇒dM;ABC=dA'B'C';ABC\n⇒VM.ABC=13dM;ABC.SABC=13V\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Mệnh đề nào dưới đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hai khối hộp chữ nhật có diện tích toàn phần bằng nhau thì có thể tích bằng nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Hai khối lăng trụ có diện tích đáy và chiều cao tương ứng bằng nhau thì có thể tích bằng nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Hai khối lập phương có diện tích toàn phần bằng nhau thì có thể tích bằng nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hai khối chóp có diện tích đáy và chiều cao tương ứng bằng nhau thì có thể tích bằng nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nDiện tích toàn phần của hình hộp chữ nhật: Stp=Sxq+2ab=2ha+b+2ab.\nThể tích hình hộp chữ nhật:V=abh.\nThể tích của lăng trụ là:V=Sd.h.\nDiện tích toàn phần của khối lập phương: Stp=6a2.\nThể tích của khối lập phương: V=a3.\nThể tích khối chóp là: V=13Sd.h.Do đó các đáp án B, C, D đúng, chỉ có A sai.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình lăng trụ đứng ABCD.A′B′C′D′ có đáy là tứ giác đều cạnh a, biết rằng BD'=a6 . Tính thể tích của khối lăng trụ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2a3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nVì A'B'C'D' là hình vuông cạnh a nên B'D'=a2\nBB'⊥A'B'C'D'⇒BB'⊥B'D'⇒ΔBB'D' vuông tại\nB'⇒BB'=BD'2−B'D'2=6a2−2a2=2a\nVậy VABCD.A'B'C'D'=BB'.SABCD=2a.a2=2a3\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Lăng trụ đứng tứ giác có đáy là hình thoi mà các đường chéo là 6cm và 8cm, biết rằng chu vi đáy bằng 2 lần chiều cao lăng trụ. Tính thể tích khối lăng trụ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 480cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 360cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 240cm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 120cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nGọiO=AC∩BD ta có: OA=3cm ; OB=4cm\nXét tam giác vuông OAB có:AB=OA2+OB2=32+42=5cm\nKhi đó chu vi đáy bằng P=4.5=20=2AA'⇒AA'=10cm\nSABCD=12AC.BD=12.6.8=24cm2\nVậy VABCD.A'B'C'D'=AA'.SABCD=10.24=240cm3\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho lăng trụ xiên tam giác ABC.A′B′C′ có đáy ABC là tam giác đều cạnh a,  biết cạnh bên là a3 và hợp với đáy ABC một góc 600. Thể tích khối lăng trụ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a338",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a338",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3a38",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a38",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nGọi H là hình chiếu vuông góc của A′  trên ABC⇒A'H⊥ABC\n⇒AH là hình chiếu vuông góc của AA′  trên ABC⇒AA';ABC^=AA';AH^=A'AH^=600\nA'H⊥ABC⇒A'H⊥AH⇒ΔA'AH vuông tại\nH⇒A'H=AA'.sin60=a3.32=3a2\nTam giác ABC đều cạnh  nên SABC=a234\nVậy VABC.A'B'C'=A'H.SABC=3a2.a234=3a338\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình lăng trụ ABCD.A′B′C′D′ có đáy ABCD là hình thoi cạnh a và góc A^=600. Chân đường cao hạ từ B′  xuống (ABCD)  trùng với giao điểm 2 đường chéo, biết BB'=a . Thể tích khối lăng trụ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a38",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3a34",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a34",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có AB=2a,AC=a,AA'=a102,BAC^=1200. Hình chiếu vuông góc của C′ lên (ABC) là trung điểm của cạnh BC. Tính thể tích khối lăng trụ ABC.A′B′C′ theo a?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a334",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a34",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3a334",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình lăng trụ ABCD.A′B′C′D′ có đáy ABCD là hình vuông cạnh bằng a. Hình chiếu vuông góc của điểm A′  trên mặt phẳng (ABCD) là trung điểm I của cạnh AB. Biết A′C tạo với mặt phẳng đáy một góc α với tanα=25. Thể tích khối chóp A′.ICD là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a36",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a336",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a333",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho khối lăng trụ tam giác ABC.A′B′C′ mà mặt bên ABB′A′  có diện tích bằng 4. Khoảng cách giữa CC′  và mặt phẳng (ABB'A')  bằng 7. Thể tích khối lăng trụ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.16",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình lăng trụ đứng ABC.A′B′C′ có đáy ABC là tam giác vuông tại B,ACB^=600, cạnh BC=a, đường chéo A′B tạo với mặt phẳng (ABC) một góc 300. Thể tích khối lăng trụ ABC.A′B′C′ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a332",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a333",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3a332",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đáy của hình lăng trụ đứng tam giác ABC.A′B′C′ là tam giác đều cạnh a=4  và biết diện tích tam giác A′BC bằng 8 . Tính thể tích khối lăng trụ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 83",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 833",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 163",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho lăng trụ đều ABC.A′B′C′, cạnh đáy bằng a, góc giữa hai mặt phẳng (A'BC) và (ABC) bằng 600. Tính thể tích khối lăng trụ đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a338",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a334",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3a338",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a334",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho khối lăng trụ ABC.A′B′C′. Gọi E là trọng tâm tam giác A′B′C′ và F là trung điểm BC. Gọi V1 là thể tích khối chóp B′.EAF và V2  là thể tích khối lăng trụ ABC.A′B′C′. Khi đó V1V2 có giá trị bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho lăng trụ ABC.A′B′C′ có đáy ABC  là tam giác đều cạnh a, và A'A=A'B=A'C=a712 . Thể tích khối lăng trụ ABC.A′B′C′ theo a là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a38",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a338",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3a338",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a334",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có đáy ABC là tam giác cân AB=AC=a;BAC^=1200 và AB′ vuông góc với (A'B'C') . Mặt phẳng (AA'C') tạo với mặt phẳng (A'B'C') một góc 300. Thể tích khối lăng trụ ABC.A′B′C′ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a333",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a338",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a332",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có độ dài tất cả các cạnh bằng a và hình chiếu vuông góc của đỉnh C trên (ABB′A′) là tâm của hình bình hành ABB′A′. Thể tích của khối lăng trụ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a322",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a324",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình lăng trụ ABCD.A′B′C′D′ có đáy ABCD là hình chữ nhật với AB=3,AD=7. Hai mặt bên (ABB'A')  và (ADD'A')  lần lượt tạo với đáy những góc 450 và 600. Tính thể tích khối hộp nếu biết cạnh bên bằng 1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. V=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình lăng trụ xiên ABC.A′B′C′ có đáy ABC là tam giác đều với tâm O. Hình chiếu của C′ trên (ABC) là O. Tính thể tích của lăng trụ biết rằng khoảng cách từ O đến CC′ là a và 2 mặt bên (ACC′A′) và (BCC′B′) hợp với nhau góc 900.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a324",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a328",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9a328",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 27a328",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho lăng trụ đứng ABC.A′B′C′ với ABC là tam giác vuông cân tại C có AB=a , mặt bên ABB′A′ là hình vuông. Mặt phẳng qua trung điểm I của AB và vuông góc với AB′ chia khối lăng trụ thành 2 phần. Tính thể tích mỗi phần?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V1=a348,V2=11a324",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V1=a324,V2=11a348",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V1=a348,V2=11a348",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V1=a324,V2=5a324",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho đa diện ABCDEF có AD,BE,CF đôi một song song. AD⊥(ABC), AD+BE+CF=5, diện tích tam giác ABC bằng 10. Thể tích đa diện ABCDEF bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.50",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 152",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 503",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 154",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hình hộp ABCD.A'B'C'D'  có thể tích bằng V. Gọi M,N,P,Q,E,F lần lượt là tâm các hình bình hành ABCD,A'B'C'D',ABB'A',BCC'B',CDD'C',DAA'D'. Thể tích khối đa diện có các đỉnh M,P,Q,E,F,N bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. V3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác đều ABC.A′B′C′có AB=a, đường thẳng A′B tạo với mặt phẳng (BCC'B') một góc 300. Tính thể tích khối lăng trụ ABC.A′B′C′.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a364",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3a34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a334",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác ABC.A′B′C′ có diện tích đáy bằng 12 và chiều cao bằng 6. Gọi M,N lần lượt là trung điểm của CB,CA và P,Q,R lần lượt là tâm các hình bình hành ABB′A′, BCC′B′, CAA′C′. Thể tích của khối đa diện PQRABMN bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.42",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.21",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Ông A dự định sử dụng hết 5m2 kính để làm một bể cá bằng kính có dạng hình hộp chữ nhật không nắp, chiều dài gấp đôi chiều rộng (các mối ghép có kích thước không đáng kể). Bể cá có dung tích lớn nhất bằng bao nhiêu (kết quả làm tròn đến hàng phần trăm)?",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hình hộp chữ nhật ABCD⋅A′B′C′D′ có M,N,P lần lượt là trung điểm các cạnh BC,C′D′,DD′ (tham khảo hình vẽ). Biết thể tích khối hộp bằng 144 , thể tích khối tứ diện AMNP bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có đáy ABC là tam giác vuông tại A. Cạnh BC=2a  và ∠ABC=600. Biết tứ giác BCC′B′ là hình thoi có ∠B'BC  nhọn. Mặt phẳng (BCC'B') vuông góc với (ABC) và mặt phẳng (ABB'A') tạo với (ABC) góc 450. Thể tích khối lăng trụ ABC.A′B′C′ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7a37",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 37a37",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 67a37",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7a321",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ có thể tích V. Gọi M là điểm thuộc cạnh BB′ sao cho MB=2MB'. Mặt phẳng α đi qua M và vuông góc với AC′ cắt các cạnh DD′, DC, BC lần lượt tại N, P, Q. Gọi V1 là thể tích của khối đa diện CPQMNC′.Tính tỉ số V1V",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 31162",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 35162",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 34162",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D, 13162",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Đề thi THPT QG - 2021 - mã 101\nCho khối hộp chữ nhật ABCD.A′B′C′D′ có đáy là hình vuông, BD=2a, góc giữa hai mặt phẳng (A′BD) và (ABCD) bằng 300. Thể tích của khối hộp chữ nhật đã cho bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 63 a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 239a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 23a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 233a3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác đều ABC.A′B′C′ có độ dài cạnh đáy AB=8, cạnh bên bằng 6 (minh họa như hình vẽ). Gọi M là trung điểm của cạnh A′C′. Khoảng cách từ B′ đến mặt phẳng (ABM) bằng bao nhiêu?",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ cạnh 2a, gọi M là trung điểm của BB′ và P thuộc cạnh DD′ sao cho DP=14DD'.  Mặt phẳng (AMP) cắt CC′ tại N. Thể tích khối đa diện  AMNPBCD bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=3a3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. V=11a33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=9a34.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cho hình lăng trụ đứng ABC.A′B′C′ có đáy ABC là tam giác vuông, AB=BC=a.. Biết rằng góc giữa hai mặt phẳng (ACC′)  và (AB′C′) bằng 600 (tham khảo hình vẽ bên). Thể tích của khối chóp B′.ACC′A′ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a33.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a36.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3a33.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cho hình hộp ABCD.A′B′C′D′. Gọi E,F lần lượt là trung điểm của B′C′ và C′D′. Mặt phẳng (AEF) chia hình hộp thành hai hình đa diện (H) và (H′) trong đó (H) là hình đa diện chứa đỉnh A′. Tính tỉ số thể tích đa diện (H) và thể tích hình đa diện (H′).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2547",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2572",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4725",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7247",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Cho lăng trụ tam giác ABC.A′B′C′ có đáy ABC là đều cạnh AB=2a2. Biết AC'=8a  và tạo với mặt đáy một góc 450. Thể tích khối đa diện ABCC′B′ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8a333.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8a363.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16a333.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 16a363.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho khối lăng trụ tam giác đều ABC.A′B′C′. Các mặt phẳng (ABC′) và (A′B′C) chia khối lăng trụ đã cho thành 4 khối đa diện. Kí hiệu H1, H2 lần lượt là khối có thể tích lớn nhất và nhỏ nhất trong bốn khối trên. Giá trị của VH1VH2 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Tính góc giữa hai mặt phẳng (ABB′A′) và (ABC)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 300",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 450",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 600",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 900",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

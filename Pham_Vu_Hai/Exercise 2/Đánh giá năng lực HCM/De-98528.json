@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/viet-phuong-trinh-dao-dong-dieu-hoa-1/98528/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Phương trình dao động điều hòa có dạng x=Acosωt. Gốc thời gian  được chọn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Lúc vật có li độ x=+A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Lúc vật đi qua vị trí cân bằng theo chiều dương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Lúc vật có li độ x=−A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Lúc vật đi qua vị trí cân bằng theo chiều âm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ phương trình dao động, ta có:\nGốc thời gian t=0:\nx=Acos0   =  A\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Phương trình dao động của một vật có dạng x=Asin(ωt+π4). Chọn kết luận đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vật dao động với biên độ A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Vật dao động với pha ban đầu 3π4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vật dao động với biên độ 2A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Vật dao động với biên độ A/2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nx=Asinωt+π4=Acosωt+π4−π2=Acosωt−π4\n- Biên độ dao động của vật là A\n- Pha ban đầu:φ=−π4\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một vật dao động điều hòa với biên độ A=8cm. Tại thời điểm t=0, vật có li độ x=−4cm  và đang đi theo chiều âm của trục Ox. Pha ban đầu của dao động bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −2π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2π3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: tại t = 0:\nx=Acosφ=−4v=−Aωsinφ<0→cosφ=−48=−12sinφ>0→φ=2π3\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một vật nhỏ dao động điều hòa dọc theo trục Ox với biên độ 5cm, chu kỳ 2s. Tại thời điểm t=0, vật đi qua vị trí cân bằng theo chiều dương. Phương trình dao động của vật là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=5cos(2πt–π/2)(cm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=5cos(2πt+π/2)(cm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=5cos(πt–π/2)(cm)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=5cos(πt+π/2)(cm)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nA=5cmT=2s→ω=2πT=πrad/s\nTại t=0 x=0v>0↔cosφ=0sinφ<0→φ=−π2\n→x=Acos(ωt + φ) = 5cos(πt - π2)cm\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một chất điểm dao động điều hoà với phương trình dạng x=cos2πt+π6cm, s. Lấy π2=10, biểu thức gia tốc tức thời của chất điểm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.a=−2πcos2πt+π6 cm/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a=40sin2πt+π6 cm/s2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a=−40cos2πt+π6 cm/s2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a=2πsin2πt+π6 cm/s2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:a=−ω2Acos(ωt+φ)=ω2Acos(ωt+φ+π)\nx = cos(2πt + π/6) cm, s→a=−(2π)2.1cos(2πt+π6)=−40cos(2πt+π6)\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho một chất điểm dao động điều hòa với tần số 1Hz, thời điểm đầu vật qua vị trí x=5cm theo chiều dương với tốc độ v=10πcm/s. Viết phương trình dao động.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x = 52sin(2πt +π4) cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "b. x=5cos(2πt−π6)cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x = 5sin(2πt +π4) cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = 52sin(2πt −π6) cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nTốc độ góc: ω=2πf=2π.1=2π(rad/s)\nBiên độ dao động:\nA2=x2+v2ω2=52+10π2π2→A=52cm\nTại t=0:x=Acosφ=5v=−Aωsinφ>0→cosφ=552sinφ<0→φ=−π4\n⇒x=52cos2πt−π4cm=52sin2πt−π4+π2=52sin2πt+π4cm\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một vật dao động điều hoà dọc theo trục Ox nằm ngang, gốc O và mốc thế năng ở vị trí cân bằng. Thời gian vật đi từ VTCB đến A hết 0,5s và đi hết quãng đường 4cm Chọn t=0 lúc vật qua vị trí cân bằng theo chiều dương. Phương trình dao động của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=2cosπt−π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=4cos2πt−π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=2cosπt+π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=4cosπt−π2cm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Vật nặng dao động điều hòa với ω=105rad/s. Chọn gốc tọa độ trùng với vị trí cân bằng của vật. Biết rằng tại thời điểm ban đầu vật đi qua li độ x=2cm với vận tốc v=2015cm/s. Phương trình dao động của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=4cos105t+π3cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=22cos105t+π3cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=4cos105t−π3cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=5sin105t+π2cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một vật dao động điều hòa với biên độ A=8cm và ω=πrad/s. Tại thời điểm ban đầu vật qua vị trí có li độ x0= 4cm theo chiều âm. Phương trình dao động của vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=8cosπt−π3cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=8cosπt−2π3(cm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=8cosπt+π3cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=8cosπt+2π3cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một vật dao động điều hòa trên quỹ đạo dài 8cm với chu kì T=2s. Chọn gốc thời gian là lúc vật đi qua vị trí cân bằng theo chiều dương. Phương trình dao động của vật là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=8cos2πt−π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=4cosπt+π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=8cos2πt+π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=4cosπt−π2cm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đồ thị vận tốc của một vật cho ở hình bên, phương trình nào dưới đây là phương trình dao động của vật:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x=6cosπt+π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=6cosπtcm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=6cosπt−π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=6sinπtcm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một vật nhỏ dao động theo phương trình x=Acos(ωt+φ)(cm) Tại thời điểm ban đầu, vật đi qua vị trí có li độ x<0, hướng ra xa vị trí cân bằng. Giá trị của φ thỏa mãn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.π2<φ<π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. π2<φ<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −π<φ<−π2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0<φ<π2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

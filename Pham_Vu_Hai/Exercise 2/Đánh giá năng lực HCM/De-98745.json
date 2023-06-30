@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cong-suat-tieu-thu-cua-mach-dien-xoay-chieu-he-so-cong-suat1/98745/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Công suất của một đoạn mạch R, L, C nối tiếp không phụ thuộc vào:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Độ tự cảm L của mạch điện.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Pha ban đầu φ của dòng điện qua mạch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Chu kì T của điện áp hai đầu đoạn mạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Dung kháng ZC của mạch điện.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: Công suất\nP=UIcosφ=UIRZ=UZIR=I2R\n=> Công suất không phụ thuộc vào pha ban đầu của dòng điện qua mạch.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một mạch điện RLC nối tiếp có C=1/(ω2L). Nếu ta tăng dần giá trị của C thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Công suất của mạch tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Công suất của mạch giảm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Công suất của mạch không đổi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Công suất của mạch tăng lên rồi giảm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTheo đầu bài, ta có:\nC=1/(ω2L)↔ZL=ZC\nkhi đó công suất trong mạch đạt giá trị cực đại:\nPmax=U2R\n+ Khi tăng dần giá trị của C => tổng trở của mạch tăng => công suất của mạch giảm\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đoạn mạch RLC nối tiếp có hệ số công suất lớn nhất. Hệ thức nào sau đây không đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.P=U.I",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T=2πL.C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Z=R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. U=UL=UC",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có, mạch RLC mắc nối tiếp có hệ số công suất lớn nhất khi:\nZL=ZC\nKhi đó, ta có:\n+ ω=1LC→T=2πω=2πLC\n+ Công suất cực đại:Pmax=UI\n+ Tổng trở khi đó:Z=R\n+ U=UR\n=> Phương án D - sai\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Đoạn mạch  điện xoay chiều có điện áp ở hai đầu u=100cos100πt+π/2(V) và dòng điện xoay chiều qua mạch i=2cos(100πt+π/6)(A). Công suất tiêu thụ của mạch điện là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.200 W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.100 W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.50 W",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.86,6 W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Độ lệch pha giữa u và i:\nφ=π2−π6=π3(rad)\n+ Công suất tiêu thụ của mạch điện:\nP=UIcosφ=1002.22.cosπ3=50W\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Đoạn mạch nối tiếp có R=80Ω; L=0,4/π(H) và C=10−4/π(F). Mắc mạch điện vào nguồn 220V–50Hz. Công suất toả nhiệt của đoạn mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.605 W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.484W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.176W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.387,2W",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Cảm kháng:\nZL=ωL=2πfL=2π.50.0,4π=40Ω\n+ Dung kháng:\nZC=1ωC=12πfC=12π.50.10−4π=100Ω\n+ Tổng trở của mạch:\nZ=R2+(ZL−ZC)2=802+(40−100)2=100Ω\n+ Cường độ dòng điện hiệu dụng trong mạch:\nI=UZ=220100=2,2(A)\n+ Công suất tỏa nhiệt :\nP=I2R=2,22.80=387,2W\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Mạch điện RLC nối tiếp được mắc vào mạng điện 100V–50Hz. Cho biết công suất của mạch điện là 30W và hệ số công suất là 0,6. Giá trị của R là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.60Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 333Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 120Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 100Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nCông suất tiêu thụ của mạch điện:\nP=UIcosφ→I=PUcosφ=30100.0,6=0,5(A)\nTổng trở :Z=UI=1000,5=200Ω\nHệ số công suất :\ncosφ=RZ=0,6→R=cosφ.Z=0,6.200=120Ω\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một mạch điện nối tiếp có R=60Ω,C=10−3/8πF được mắc vào mạng điện xoay chiều 220 V – 50Hz. Hệ số công suất của mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Mạch điện xoay chiều RLC nối tiếp. Hai đầu đoạn mạch có một điện áp xoay chiều có tần số và điện áp hiệu dụng không đổi. Dùng vôn kế có điện trở rất lớn, lần lượt đo điện áp ở hai đầu đoạn mạch, hai đầu tụ điện và hai đầu cuộn dây thì số chỉ của vôn kế tương ứng là U, UC­ và UL. Biế U = UC = 2UL. Hệ số công suất của mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cosφ=0,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cosφ=3/2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. cosφ=2/2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cosφ=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đoạn mạch điện xoay chiều không phân nhánh gồm cuộn dây có độ tự cảm L, điện trở thuần R và tụ điện có điện dung C. Khi dòng điện có tần số góc  1LC chạy qua đoạn mạch thì hệ số công suất của đoạn mạch này.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.phụ thuộc điện trở thuần của đoạn mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.bằng 0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.phụ thuộc tổng trở của đoạn mạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.bằng 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Đặt điện áp u=62cosωt  V ( không đổi) vào hai đầu đoạn mạch gồm cuộn dây mắc nối tiếp với tụ điện. Điện áp hiệu dụng hai đầu cuộn dây là 10V và sớm pha hơn điện áp hai đầu mạch là 1,56rad.Hệ số công suất của mạch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,40.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,60.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,86",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Đặt điện áp u=2202cos(100πt)V vào hai đầu đoạn mạch AB gồm ba phần tử điện trở thuần R, cuộn cảm thuần có độ tự cảm L và tụ điện có điện dung C ghép nối tiếp. Biết R=100Ω,L=3πH. Khi thay đổi điện dung C của tụ điện thì cường dòng điện sớm pha hơn uu một góc π3rad. Công suất tiêu thụ của đoạn mạch AB là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2422W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 242W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 121W",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1212W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một máy pha cà phê có công suất 1200 W được mắc vào một nguồn điện có điện áp hiệu dụng là 220 V. Giả sử máy đang được sử dụng đúng định mức công suất và coi hệ số công suất của mạch điện bằng 1. Khi này, dòng điện trong mạch có cường độ hiệu dụng gần nhất với giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.7A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.4A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

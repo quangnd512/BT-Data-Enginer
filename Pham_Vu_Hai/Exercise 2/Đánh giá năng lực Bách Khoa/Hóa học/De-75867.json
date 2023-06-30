@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/carbon/75867/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đâu không phải là dạng thù hình của cacbon?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kim cương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Than chì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fuleren",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khí cacbon monooxit",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khí cacbon monooxit là hợp chất của cacbon, không phải là dạng thù hình của C.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "C không thể có số oxi hóa nào sau đây ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. +4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. +6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Số oxi hóa không thể có của C là +6Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chọn câu trả lời đúng: Trong các phản ứng hoá học, cacbon",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.chỉ thể hiện tính khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.vừa thể hiện tính khử vừa thể hiện tính oxi hóa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.chỉ thể hiện tính oxi hoá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. không thể hiện tính khử và tính oxi hoá.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong các phản ứng hoá học, cacbon vừa thể hiện tính khử vừa thể hiện tính oxi hóa.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Câu nào đúng trong các câu sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kim cương là chất tinh thể trong suốt,  không màu, dẫn điện, dẫn nhiệt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Than chì mềm do có cấu trúc lớp, các lớp lân cận liên kết với nhau bằng lực tương tác yếu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Than gỗ, than xương chỉ có khả năng hấp phụ các chất khí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong các hợp chất của cacbon, nguyên tố cacbon chỉ có các số oxi hoá -4 và +4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A sai vì kim cương không dẫn điệnC sai vì than gỗ, than xương hấp phụ các chất khí và cả chất tan trong dung dịchD sai còn có +2 ví dụ như COĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tính oxi hóa của cacbon thể hiện ở phản ứng nào trong các phản ứng sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[C + {O_2}\\mathop \\to \\limits^{t^\\circ } C{O_2}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[C + 4HN{O_3}\\](đặc) \\[\\mathop \\to \\limits^{t^\\circ } C{O_2} + 4N{O_2} + 4{H_2}O\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[2C + Ca\\mathop \\to \\limits^{t^\\circ } Ca{C_2}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[C + C{O_2}\\mathop \\to \\limits^{t^\\circ } 2CO\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nC thể hiện tính oxi hóa khi tác dụng với chất có tính khử như H2; hầu hết các kim loại  (Na, Ca, Al, Zn…)\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tính khử của cacbon thể hiện ở phản ứng nào trong các phản ứng sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[C + ZnO\\mathop  \\to \\limits^{t^\\circ } Zn + CO\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[C + 2{H_2}\\mathop  \\to \\limits^{t,xt} C{H_4}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[2C + Ca\\mathop  \\to \\limits^{t^\\circ } Ca{C_2}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[3C + 4Al\\mathop  \\to \\limits^{t^\\circ } A{l_4}{C_3}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:C thể hiện tính khử khi tác dụng với các chất có tính oxi hóa như : CO2; ZnO (các oxit sau Mg); HNO3 (đặc); H2SO4 (đặc)Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Dãy các chất đều tác dụng được với cacbon là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. O2, CuO, CO2, HNO3 (đặc), H2SO4 (đặc)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. O2, Na2O, CO2, Al,  H2SO4 (đặc)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. O2, H2, CO2, Al, HCl, KClO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. O2, Na2O, CO2, HNO3 (đặc), H2SO4 (đặc)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho các chất:\nO2 (1), CO2 (2), H2 (3), Fe2O3 (4), SiO2 (5), HCl (6), CaO (7), H2SO4 đặc (8), HNO3 (9), H2O (10), KCl (11).\nCacbon  phản ứng trực tiếp được với bao nhiêu chất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 10.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho luồng khí C dư qua hỗn hợp các oxit CuO, Fe2O3, ZnO, MgO nung nóng ở nhiệt độ cao. Sau phản ứng, hỗn hợp chất rắn còn lại là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu, Fe, ZnO, MgO.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu, Fe, Zn, Mg.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cu, Fe, Zn, MgO.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cu, FeO, ZnO, MgO.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Than được dùng làm chất độn cao su, sản xuất mực in, xi đánh giầy là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. than chì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. than muội",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. than gỗ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. than cốc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một dạng thù hình của cacbon có tính chất rất cứng, dùng để chế tạo mũi khoan, dao cắt thủy tinh là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. kim cương",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. than cốc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. fuleren",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. than đá",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Thể tích khí NO2 thoát ra ở đktc khi cho 0,12 gam cacbon tác dụng hết với HNO3 đặc nguội (coi phản ứng xảy ra hoàn toàn) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,896 lít",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,672 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,448 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0.336 lít",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Đốt một mẩu than chì chứa tạp chất lưu huỳnh trong oxi. Cho hỗn hợp khí thoát ra tác dụng với lượng dư dung dịch brom, thấy dung dịch brom nhạt màu. Cho khí thoát ra khỏi dung dịch brom đi qua nước vôi trong dư thấy có vẩn đục. Hỗn hợp khí thoát ra là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CO2, SO2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CO, CO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CO, SO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CO2, H2S",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đốt một mẩu than chì chứa tạp chất lưu huỳnh trong oxi. Cho hỗn hợp khí thoát ra tác dụng với lượng dư dung dịch brom, thấy có 0,32 gam brom đã tham gia phản ứng. Cho khí thoát ra khỏi dung dịch brom tác dụng với lượng dư nước vôi trong, thu được 10 gam kết tủa. Phần trăm khối lượng của cacbon trong than chì là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 98,89%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 95,98%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 94,94%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 92,89%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho 3,60 gam cacbon tác dụng với 8,10 gam nhôm. Khối lượng nhôm cacbua tạo thành nếu hiệu suất của phản ứng 70% là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5,76 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7,56 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 10,08 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 10,80 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một số loại khẩu trang y tế chứa hoạt chất bột màu đen có khả năng lọc không khí. Chất đó là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. muối ăn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. đá vôi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. than hoạt tính",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. thạch cao",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một loại than đá chứa 2% lưu huỳnh dùng cho một nhà máy nhiệt điện. Nếu nhà máy đốt hết 100 tấn than trong một ngày đêm thì khối lượng SO2 do nhà máy xả vào khí quyển trong một năm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1460 tấn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1250 tấn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1530 tấn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1420 tấn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Khi đốt cháy than đá thu được hỗn hợp khí trong đí khi X( không màu, không mùi, độc) X là khí nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.NO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CO",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CO2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Đốt cháy hỗn hợp lưu huỳnh và cacbon (thể tích không đáng kể) trong bình kín đựng oxi dư, thu được hỗn hợp ba khí (CO2, SO2, O2). Sau đó đưa bình về nhiệt độ ban đầu thì áp suất trong bình so với trước khi đốt sẽ thay đổi như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có thể tăng hoặc giảm phụ thuộc vào lượng S và C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không đổi.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các nhận định sau: 1. Kim cương có cấu trúc tinh thể, rất cứng2. Than chì: cấu trúc thành từng lớp, có màu đen, mềm, thường dùng làm bút chì, pin3. Than hoạt tính có khả năng hấp phụ tốt4. Than chì có cấu trúc tinh thể5. Than gỗ, than hoạt tính là cacbon vô định hìnhCác nhận định đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,2,3,5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1,2,3,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2,3,4,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,2,3,4,5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hơi nước đi qua than nóng đỏ, sau phản ứng thu được V lít (ở đktc) hỗn hợp khí X gồm CO, CO2 và H2. Dẫn toàn bộ hỗn hợp X  qua dung dịch Ca(OH)2 thu được 2 gam kết tủa và khối lượng dung dịch sau phản ứng giảm 0,68 gam so với khối lượng dung dịch Ca(OH)2 ban đầu; khí còn lại thoát ra gồm CO và H2 có tỉ khối hơi so với H2 là 3,6. Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,688.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3,136.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2,912.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3,360.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

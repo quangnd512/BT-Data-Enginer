@@ -1,0 +1,580 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/thi-qua-khu-don/74358/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Choose the best answer.________ TV last night?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Did you watch",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Do you watch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Have you watched",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Were you watching",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrạng từ: “last night” (tối qua) =>thì quá khứ đơnCông thức: Did + S + V?=>Did you watch TV last night?Tạm dịch: Có phải tối qua bạn xem TV đúng không?Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "We _______ in here last summer.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. been",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. are",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. have been",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. were",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrạng từ: “last summer” (mùa hè năm ngoái)\nCông thức: S + Ved/V2\n=>We were in here last summer.\nTạm dịch: Chúng tôi đã ở đây vào mùa hè năm ngoái.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "My father _______ a new car two days ago.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. has bought",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. buys",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. bought",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. buy",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrạng từ: “ago” (cách đây)\nCông thức: S + Ved/V2\n=>My father bought  a new car two days ago.\nTạm dịch: Bố của tôi đã mua xe ô tô mới cách đây 2 ngày.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "They _______ to the zoo yesterday.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Go",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. went",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. have gone",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. gone",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrạng từ: “yesterday” (hôm qua)\nCông thức: S + Ved/V2\n=>They went to the zoo yesterday.\nTạm dịch: Hôm qua họ đã đi đến vườn thú.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "She ______ born in 2000.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. had been",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. is",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. was",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. has been",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrạng từ: “in 2000” (năm 2000)\nCông thức: S + Ved/V2\n=>She was born in 2000.\nTạm dịch: Cô ấy sinh năm 2000.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Did you ever _______ of such a thing?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hear",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. hears",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. heard",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. heart",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCấu trúc thì quá khứ đơn thể nghi vấn: Did + S + V(nguyên thể)?\nCâu trên là câu nghi vấn ở thì quá khứ đơn nên chỗ trống cần một động từ được chia ở dạng nguyên thể.\nhear (v): nghe\nheard ( động từ cột thứ 2, 3 trong bảng động từ bất quy tắc)\nheart (n): trái tim\n=>Did you ever hear of such a thing?  \nTạm dịch: Bạn đã bao giờ nghe nói về một điều như vậy chưa?\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "What _____ you ______ last night? – I _____ my homework.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. did/do/did",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. did/did/did",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. did/do/done",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. did/do/do",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "I ________ his car to work while he was sleeping.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. drive",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. drove",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. driving",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. driven",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "We ________ and _________ lunch at the cafeteria with them.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. talked/ have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. talked/ had",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. talk/ had",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. talked/ have",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "I __________ an English course to improve all the skills.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. not joined",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. joined",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. did joined",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. join",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "We _______ in the grocery store and ________ some sandwiches.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. stopped/bought",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. stop/buy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. stop/bought",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. stopped/buy",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "He _______ some eggs to make cakes.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. buys",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. buy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. buied",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. bought",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "When he was a student, he________ the bus to go to school.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. used to take",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. uses to take",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. is used to taking",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. used to taking",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "I haven’t seen her since she ________ to London.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. has moved",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. moved",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. was moving",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. is moved",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "He _______ off his hat and ________ into the room.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. take/ went",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. take/ go",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. taken/ go",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. took/ went",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "I ________  my knife to someone, but I can’t remember who was now.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lended",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. have lent",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lent",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. lend",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "The man _______ the door and _________ pieces of paper.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. open/ thrown",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. opened/ threw",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. opened/ thrown",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. open/ throw",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "You smell awful! It’s about time you ______ a bath.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. will have",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. had",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. to have",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "There _____ not any eggs in the packet when I ______ to the kitchen.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. was/come",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. were/ come",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. was/ came",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. were/ came",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "I __________ what teacher _________ in the last lesson.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. didn’t understand/said",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. didn’t understood/said",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. understand/say",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. understood/say",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Our school football team _______ the match with Nguyen Du school last Saturday.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. wins",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. won",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. scores",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. scored",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Mozart ________ more than 600 pieces of music.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. is writing",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. has written",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. wrote",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. writes",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "_______ you attend yoga class when I _________at home?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Did/ stay",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Didn't/ didn't stayed",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Did/ didn’t stay",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Were/ stayed",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "She ________ go to school on skis last winter because the snow was too thick.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. has to",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. had to",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. had",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. has",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Peter ______ three goals for out team and made it a hat trick.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. scores",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. scored",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. plays",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. played",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

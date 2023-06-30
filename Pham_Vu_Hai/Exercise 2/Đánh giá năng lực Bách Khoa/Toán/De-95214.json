@@ -1,0 +1,442 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cong-thuc-bien-doi-luong-giac/95214/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.tanπ2−α=cotα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tan−α=−tanα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tanπ+α=−tanα",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.tanπ−α=−tanα",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrong các đáp án chỉ có đáp án C sai, công thức đúng:\n tan(π+α) = tanα\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cosa+cosb=2cosa+b2.cosa−b2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.sina−sinb=2cosa+b2.sina−b2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.cosa−cosb=2sina+b2.sina−b2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.sina+sinb=2sina+b2.cosa−b2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: \ncosa−cosb=−2sina+b2.sina−b2\n\nVậy C sai.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong các khẳng định sau, khẳng định nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sin 2a = 2 sina",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cos 2a = cos4a – sin4a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (sin a + cos a)2 = 1 + 2 sin 2a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cos 2a = 1 – 2cos2a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nCos 2a = cos2a – sin2a\n= (cos2a – sin2a) (cos2a + sin2a)\n= (cos4a – sin4a)\nVậy B đúng.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chocosα=m  . Tính sin2α2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1+m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1−m2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1−m5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nsin2α2=1−cosα2=1−m2\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho sinα+cosα=34,π2<α<π  . Tính cosα−sinα",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.234",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.±234",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−304",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−234",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nsinα+cosα=34→cosα=34−sinα\nLại có: sin2α+cos2α=1\n⇒sin2α+34−sinα2=1\n⇒2sin2α−32sinα−716=0\n\n ⇒sinα=3+238 (vì với π2<α<π  thì sinα>0 )\n⇒cosα=34−sinα=34−3+238=3−238\n⇒cosα−sinα=−234\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "sin4xcos5x − cos4xsin5x có kết quả là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sinx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −sinx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. −sin9x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sin9x",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nsin4xcos5x − cos4xsin5x = sin(4x − 5x) = sin(−x)\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho cosα=34;sinα>0 . Tính cos2α,sinα",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sinα=74;cos2α=18",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.sinα=−74;cos2α=18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sinα=54;cos2α=114",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.sinα=74;cos2α=−18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho cosα=34;sinα>0;sinβ=34;cosβ<0 . Tính cosα+β",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −378",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.−78",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.378",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.78",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Thu gọn biểu thức sinα+sin2α1+cosα+cos2α  ta được kết quả:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.cotα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tanα2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.sin2α",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.tanα",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Thu gọn sin2α+sin2β+2sinαsinβ.cosα+β ta được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sin2α+β",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.cos2α+β",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tan2α+β",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.sinα+β",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tính 2sinα+3cosα4sinα−5cosα  biết tanα=3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.97",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.35",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Biết cosα+β=0 thì sinα+2β bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sinα",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cosα",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tính sinα+sinβcosα+βcosα−sinβsinα+β",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.  tan(α + β)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. cot(α + β)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sin(α + β)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cos(α + β)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Giá trị của biểu thức cos5x2cos3x2+sin7x2sinx2−cosxcos2x bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Biết rằng sin4x+cos4x=mcos4x+nm,n∈Q . Tính tổng S = m + n.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S = 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.S=54",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=74",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "biểu thức B=tanα1+cos2αsinα−sinα được",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tanα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cotα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2sinα",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2cosα",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Khi A=cosB+cosCsinB+sinC thì tam giác ABC là tam giác gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tam giác đều",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tam giác cân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tam giác vuông",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tam giác thường",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Nếu sin2α+β=3sinβ;cosα≠0;cosα+β≠0 thì tanα+β bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.sinα+sinβ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2 tanα",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2 cotα",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm giá trị nhỏ nhất của biểu thức sin6α+cos6α",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

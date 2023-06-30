@@ -1,0 +1,442 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/protein-1/75834/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Sự kết tủa protein bằng nhiệt độ được gọi là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. sự trùng ngưng protein.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sự ngưng tụ protein.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. sự phân hủy protein.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sự đông tụ protein.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sự kết tủa protein bằng nhiệt độ được gọi là sự đông tụ protein.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Khi nấu canh cua, xuất hiện các mảng riêu cua nổi lên được giải thích là do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. các chất bẩn trong cua chưa được làm sạch hết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. do NaCl làm đông tụ protein trong cua.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. do sự đông tụ của protein bằng nhiệt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cả A, B và C đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong thịt cua chứa protein hòa tan, khi đun nóng, các protein này bị đông tụ tạo thành các mảng riêu cua nổi lên.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Khi nói về peptit và protein, phát biểu nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Protein có phản ứng màu biure với Cu(OH)2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Liên kết của nhóm CO với nhóm NH giữa hai đơn vị α-amino axit được gọi là liên kết peptit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thủy phân hoàn toàn protein đơn giản thu được các α -amino axit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các protein đều tan trong nước tạo thành dung dịch keo.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A đúng vì protein là là những chuỗi polipeptit liên kết với nhau → số liên kết peptit lớn → có phản ứng màu biureB đúng (xem lại lí thuyết peptit)C đúng vì : protein là những polipeptit cao phân tử có phân tử khối từ vài chục nghìn đến vài triệu. Các đơn vị tạo thành chuỗi polipeptit là các α -amino axit.D sai vì các protein dạng sợi (keratin, miozin,…) không tan trong nướcĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Khi nhỏ axit HNO3 đậm đặc vào dd lòng trắng trứng đun nóng hỗn hợp thấy xuất hiện:...(1)..., cho đồng (II) hiđroxit vào dd lòng trắng trứng thấy màu..(2)...xuất hiện",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1) kết tủa màu vàng, (2) xanh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (1) kết tủa màu xanh, (2) vàng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (1) kết tủa màu trắng, (2) tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (1) kết tủa màu vàng, (2) tím",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi nhỏ axit HNO3 đậm đặc vào dd lòng trắng trứng đun nóng hỗn hợp thấy xuất hiện kết tủa màu vàng, cho đồng (II) hiđroxit vào dd lòng trắng trứng thấy màu tím xuất hiện.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho các loại hợp chất sau: (1) đipeptit; (2) polipeptit;  (3) protein;  (4) lipit;  (5) đisaccarit. Có bao nhiêu hợp chất tác dụng với Cu(OH)2 trong dung dịch NaOH ở nhiệt độ thường?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các chất tác dụng với Cu(OH)2 trong dung dịch NaOH ở nhiệt độ thường là:+ (2) polipeptit;  (3) protein : phản ứng màu biure+ (5) đisaccarit : tạo phức Cu(II) màu xanhĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khi đun nóng protein trong dung dịch axit hoặc kiềm hoặc dưới tác dụng của các men, protein bị thủy phân thành (1)..., cuối cùng thành (2)...",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1) Phân tử protein nhỏ hơn; (2) aminoaxit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (1) chuỗi polipeptit ; (2) hỗn hợp các α-aminonaxit",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (1) chuỗi polipeptit ; (2) aminoaxit",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (1) aminoaxit ; (2) chuỗi polipeptit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi đun nóng protein trong dung dịch axit hoặc kiềm hoặc dưới tác dụng của các men, protein bị thủy phân thành chuỗi polipeptit, cuối cùng thành hỗn hợp các α-aminoaxit.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Mô tả hiện tượng nào dưới đây không chính xác?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đun nóng dung dịch lòng trắng trứng thấy hiện tượng đông tụ lại, tách ra khỏi dung dịch .",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trộn lẫn lòng trắng trứng, dung dịch NaOH và một ít CuSO4 thấy xuất hiện màu đỏ gạch đặc trưng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Nhỏ vài giọt axit nitric đặc vào dung dịch lòng trắng trứng thấy kết tủa màu vàng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đốt cháy một mẫu lòng trắng trứng thấy xuất hiện mùi khét như mùi tóc cháy.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho các phát biểu sau về protit:(1) Protein là hợp chất cao phân tử thiên nhiên có cấu trúc phức tạp.(2) Protein chỉ có trong cơ thể người và động vật.(3) Protein bền đối với nhiệt, đối với axit và kiềm.(4) Chỉ các protein có cấu trúc dạng hình cầu mới có khả năng tan trong nước tạo dung dịch keo.Những phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (4).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (2), (3), (4).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (1), (3), (4).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (1), (2), (3).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Thuốc thử nào dưới đây dùng để phân biệt các dung dịch: etylenglicol, anbumin, glucozơ ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cu(OH)2/OH-.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dung dịch I2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AgNO3/NH3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Phát biểu nào sau đây là sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vắt chanh vào một cốc sữa, ta thấy hiện tượng đông tụ protein xuất hiện.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phân tử các protein do các mạch polipeptit tạo nên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khi cho Cu(OH)2/OH- vào dung dịch lòng trắng trứng, ta thấy có phức chất màu tím.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Protein rất ít tan trong nước lạnh nhưng lại dễ tan trong nước nóng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một trong những điểm khác nhau cơ bản của protid (protein) so với lipit và glucozơ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. protid (protein) luôn có nhóm hiđroxyl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. protid (protein) luôn là chất hữu cơ no.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. protid (protein) luôn chứa N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. protid (protein) có khối lượng phân tử lớn hơn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Khi nói về protein, phát biều nào sau đây là sai",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Protein là những polipeptit cao phân tử có phân từ khối vài chục nghìn đến vài triệu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Thành phần phân tử của protein luôn có nguyên tố N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tất cả các protein đề tan trong nước tạo dung dịch keo",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Protein có phản ứng màu biure",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Khi nấu canh cua thấy các màng \"gạch cua\" nổi lên là do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự đông tụ lipit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sự đông tụ protein.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. phản ứng màu biure.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. phản ứng thủy phân protein.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Khi nói về peptit và protein, phát biểu nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tất cả các protein đều tan trong nước tạo thành dung dịch keo.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Thủy phân hoàn toàn protein đơn giản thu được các α - amino axit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Protein có phản ứng màu biure với Cu(OH)2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Liên kết của nhóm CO với nhóm NH giữa hai đơn vị α - amino axit được gọi là liên kết peptit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Khi nói về peptit và protein, phát biểu nào sau đây là sai ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một số protein tan trong nước tạo thành dung dịch keo.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trong protein không chứa nguyên tố nitơ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Liên kết của nhóm CO với nhóm NH giữa hai đơn vị α-amino axit gọi là liên kết peptit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thủy phân hoàn toàn protein đơn giản thu được các α-amino axit.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong cơ thể, protein chuyển hóa thành",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. axit béo.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. β-amino axit.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.α-amino axit.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. glucozo.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Lòng trắng trứng là chất dịch không màu hoặc màu trắng ngà bên trong một quả trứng (trứng gà, trứng vịt). Lòng trắng trứng là nguồn thực phẩm giàu protein, bị đông tụ khi đun nóng hoặc tác dụng với axit, bazơ và một số muối. Lòng trắng trứng chứa loại protein nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. abumin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. fibroin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. hemoglobin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. plasma",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Dung dịch albumin của lòng trắng trứng dễ bị thủy phân trong dung dịch chất nào sau đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCl",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. NaCl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaNO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. KNO3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tiến hành thí nghiệm phản ứng màu biure theo các bước sau đây:Bước 1: Cho vào ống nghiệm 0,5 ml dung dịch protein 10% (lòng trắng trứng gà hoặc trứng vịt), cho tiếp 1 - 2 ml nước cất, lắc đều ống nghiệm.Bước 2: Cho tiếp 1 - 2 ml dung dịch NaOH 30% (đặc) và 1 - 2 giọt dung dịch CuSO4 2% vào rồi lắc ống nghiệm.Bước 3: Để yên ống nghiệm 2 - 3 phút.Cho các phát biểu sau:(1) Sau bước 1 ta thu được dung dịch protein.(2) Thí nghiệm này có thể tiến hành ở điều kiện thường và không cần đun nóng.(3) Sau bước 2, dung dịch ban đầu xuất hiện màu xanh tím.(4) Sau bước 3, màu xanh tím đậm dần rồi biến mất.(5) Phản ứng màu biure xảy ra thuận lợi trong môi trường kiềm.(6) Có thể thay lòng trắng trứng gà hoặc vịt bằng dầu ăn.Số phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

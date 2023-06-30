@@ -1,0 +1,281 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-loai-quang-pho-1/75940/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Máy quang phổ là dụng cụ dùng để:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tích một chùm sáng phức tạp thành những thành phần đơn sắc.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đo bước sóng các vạch phổ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tiến hành các phép phân tích quang phổ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quan sát và chụp quang phổ của các vật.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Máy quang phổ dùng để phân tích thành phần của một chùm sáng bất kìĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ống chuẩn trực trong máy quang phổ lăng kính có tác dụng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tập trung ánh sáng chiếu vào lăng kính.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tạo chùm sáng song song.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Phân tích chùm sáng tới thành nhiều chùm sáng đơn sắc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tăng cường độ ánh sáng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ống chuẩn trực có tác dụng biến chùm ánh sáng đi vào khe hẹp F thành chùm tia song song nhờ một thấu kính hội tụĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chùm tia sáng ló ra khỏi lăng kính của một máy quang phổ, trước khi đi qua thấu kính buồng tối là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tập hợp nhiều chùm song song, mỗi chùm có một màu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chùm tia hội tụ gồm nhiều màu đơn sắc khác nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tập hợp nhiều chùm tia song song màu trắng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chùm phân kì gồm nhiều màu đơn sắc khác nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chiếu ánh sáng trắng do một nguồn nóng sáng phát ra vào khe hẹp F của một máy quang phổ lăng kính thì trên tấm kính ảnh (hoặc tấm kính mờ) của buồng ảnh sẽ thu được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Ánh sáng trắng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một dải có màu từ đỏ đến tím nối liền nhau một cách liên tục.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các vạch màu sáng, tối xen kẽ nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bảy vạch sáng từ đỏ đến tím, ngăn cách nhau bằng những khoảng tối.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Quang phổ liên tục của một nguồn sáng J",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Là quang phổ gồm những 7 màu riêng rẽ từ đỏ đến tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Là quang phổ gồm những vạch sáng trên nền tối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Là quang phổ gồm những dải màu biến thiên liên tục từ đỏ đến tím",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Là quang phổ gồm những vạch tối trên nền sáng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Quang phổ liên tục là quang phổ gồm những dải màu biến thiên liên tục từ đỏ đến tímĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Quang phổ liên tục phát ra bởi hai vật khác nhau thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hoàn toàn giống nhau ở mọi nhiệt độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giống nhau, nếu mỗi vật ở một nhiệt độ phù hợp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hoàn toàn khác nhau ở mọi nhiệt độ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giống nhau, nếu chúng có cùng nhiệt độ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có, quang phổ liên tục không phụ thuộc vào cấu tạo nguồn sáng mà phụ thuộc vào nhiệt độ của nguồnĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong nghiên cứu phổ vạch của một vật bị kích thích phát quang dựa vào vị trí của các vạch, người ta biết:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Nhiệt độ của vật đó.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Các hợp chất hóa học tồn tại trong vật đó.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phương pháp kích thích vật dẫn đến phát quang.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các nguyên tố hóa học cấu thành vật đó",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Phát biểu nào sau đây là đúng khi nói về quang phổ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quang phổ liên tục của nguồn sáng nào thì phụ thuộc thành phần cấu tạo của nguồn sáng ấy.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mỗi nguyên tố hóa học ở trạng thái khí hay hơi nóng sáng dưới áp suất thấp cho một quang phổ vạch riêng, đặc trưng cho nguyên tố đó.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Để thu được quang phổ hấp thụ thì nhiệt độ của đám khí hay hơi hấp thụ phải cao hơn nhiệt độ của nguồn sáng phát ra quang phổ liên tục.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quang phổ hấp thụ là quang phổ của ánh sáng do một vật rắn phát ra khi vật đó được nung nóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Phát  biểu nào sau đây là sai  khi nói về quang phổ vạch phát xạ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mỗi nguyên tố hóa học ở trạng thái khí hay hơi nóng sáng dưới áp suất thấp cho một quang phổ vạch riêng, đặc trưng cho nguyên tố đó.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quang phổ vạch phát xạ là một dải sáng có màu biến đổi liên tục từ đỏ đến tím.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Quang phổ vạch phát xạ bao gồm một hệ thống những vạch màu riêng rẽ nằm trên một nền tối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quang phổ vạch phát xạ của các nguyên tố khác nhau thì  khác nhau về số lượng vạch quang phổ, vị trí các vạch, màu sắc các vạch và độ sáng tỉ đối của các vạch đó.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Khi nói về quang phổ, phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các chất rắn bị nung nóng thì phát ra quang phổ vạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Mỗi nguyên tố hóa học có một quang phổ vạch đặc trưng của nguyên tố ấy.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các chất khí ở áp suất lớn bị nung nóng thì phát ra quang phổ vạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quang phổ liên tục của nguyên tố nào thì đặc trưng cho nguyên tố đó.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Phát biểu nào sau đây là đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chất khí hay hơi ở áp suất thấp được kích thích bằng nhiệt hay bằng điện cho quang phổ liên tục.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chất khí hay hơi được kích thích bằng nhiệt hay bằng điện luôn cho quang phổ vạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quang phổ liên tục của nguyên tố nào thì đặc trưng cho nguyên tố ấy.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quang phổ vạch của nguyên tố nào thì đặc trưng cho nguyên tố ấy..",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một nguồn sáng phát ra đồng thời 4 bức xạ có bước sóng lần lượt là 265nm; 486nm; 720nm; 974nm. Dùng nguồn sáng này chiếu vào khe F của máy quang phổ lăng kính, số vạch màu quang phổ quan sát được trên tấm kính ảnh (tấm kính mờ) của buồng tối là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

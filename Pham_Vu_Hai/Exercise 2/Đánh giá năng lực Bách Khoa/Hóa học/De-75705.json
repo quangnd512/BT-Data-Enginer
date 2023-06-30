@@ -1,0 +1,626 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/su-dien-li-1/75705/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Saccarozơ là chất không điện li vì :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tử saccarozơ không có tính dẫn điện",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Phân tử saccarozơ không có khả năng phân li thành ion trong dung dịch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phân tử saccrozơ không có khả năng hiđrat hoá với dung môi nước",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các lí do trên",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Saccarozơ là chất không điện li vì :+ Phân tử saccarozơ không có tính dẫn điện.+ Phân tử saccarozơ không có khả năng phân li thành ion trong dung dịch.+ Phân tử saccrozơ không có khả năng hiđrat hoá với dung môi nước.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nước đóng vai trò gì trong quá trình điện li các chất tan trong nước?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Môi trường điện li.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dung môi không phân cực.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Dung môi phân cực.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tạo liên kết hiđro với các chất tan.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong phân tử H2O, liên kết O−H là liên kết cộng hóa trị có cực, cặp e chung lệch về phía oxi=>oxi tích điện âm, ở H tích điện dương.Khi quá trình điện li xảy ra tương tác giữa các phân tử nước có cực và các ion chuyển động không ngừng  làm cho các chất điện li dễ dàng tan trong nước=>nước đóng vai trò dung môi phân cực.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chất nào là chất điện li mạnh trong các chất sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HNO3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. HClO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HF",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta thấy axit HNO3 là axit mạnh phân li hoàn toàn nên là chất điện li mạnh.Phương trình phân li:HNO3 → H+ + NO3−Còn lại HClO, CH3COOH, HF là các axit yếu nên là chất điện li yếuPhương trình phân li: HClO ⇆ H+ + ClO− CH3COOH ⇆ H+ + CH3COO− HF ⇆ H+ + F−Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Các dung dịch sau đây có cùng nồng độ 0,10 mol/l, dung dịch nào dẫn điện kém nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HF",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.HI",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HBr",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có tính axit: HF < HCl < HBr < HI→ Do đó khả năng phân li ra ion: HF < HCl < HBr < HI→ Tính dẫn điện của các dung dịch: HF < HCl < HBr < HIVậy HF dẫn điện kém nhấtĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Dung dịch nào dưới đây dẫn điện tốt nhất ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaCl 2,0.10-3 M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NaCl 2,0.10-2 M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaCl 1,0.10-1 M",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. NaCl 1,0.10-3 M",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cùng là muối NaCl điện li mạnh, dung dịch nào chứa nhiều ion nhất là dung dịch dẫn điện tốt nhấtĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong số những chất sau : H2S; FeCl3; Cl2; CO2; Ba(OH)2 có bao nhiêu chất khi tan trong nước là chất điện li?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cl2; CO2 tan trong nước tạo thành HCl, HClO và H2CO3 là chất điện li nhưng không phải là Cl2 và CO2 ban đầu do đó không phải là chất điện li.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong dung dịch axit axetic (bỏ qua sự phân li của H2O) có những phần tử nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H+, CH3COO-.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H+, CH3COO-, H2O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3COOH, H+, CH3COO-, H2O.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3COOH, CH3COO-, H+.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Phương trình điện li viết đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaCl → Na2++ Cl2-",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ca(OH)2 → Ca2+ + 2OH-",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H2OH → C2H5+ + OH-",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3COOH → CH3COO- + H+",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Ion Na+.nH2O được hình thành khi :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hoà tan NaCl vào nước.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hoà tan NaCl vào dung dịch axit vô cơ loãng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nung NaCl ở nhiệt độ cao.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hoà tan NaCl vào rượu etylic.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Dãy chất nào sau đây, trong nước đều là chất điện li mạnh?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2SO4, Cu(NO3)2, CaCl2, H2S",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HCl, H3PO4, Fe(NO3)3, NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HNO3, CH3COOH, BaCl2, KOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2SO4, MgCl2, Al2(SO4)3, Ba(OH)2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Dãy chất nào sau đây, trong nước đều là chất điện li yếu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2S, H2SO3, H2SO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2CO3, H3PO4, CH3COOH, Ba(OH)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2S, CH3COOH, HClO",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H2CO3, H2SO3, HClO, Al2(SO4)3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hòa tan các chất sau vào nước để được các dung dịch riêng rẽ: NaCl, CaO, SO3, C6H12O6, CH3COOH, C2H5OH, Al2(SO4)3. Trong các dung dịch tạo ra có bao nhiêu dung dịch có khả năng dẫn điện?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Chọn câu đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có hợp chất ion mới bị điện li khi hoà tan trong nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Độ điện li chỉ phụ thuộc vào bản chất chất điện li.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Độ điện li của chất điện li yếu có thể bằng 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Với chất điện li yếu, độ điện li bị giảm khi nồng độ tăng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Khi pha loãng dd axit axetic, không thay đổi nhiệt độ, thấy độ điện li của nó tăng. Ý kiến  nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hằng số phân li của axit (Ka) giảm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ka tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ka không đổi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không xác định được.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho các chất sau tan trong nước: Na2CO3, CH3COOCH3, HCOOH, MgCl2, HF. Số chất điện li mạnh và điện li yếu lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2; 2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3; 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1; 4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3: 1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho các nhận xét sau:(1) Những chất điện li mạnh là các axit mạnh như HCl, HNO3, H2SO4…; các bazơ mạnh như NaOH, KOH, Ba(OH)2… và hầu hết các muối.(2) Dãy các chất H2S, H2CO3, H2SO3 là các chất điện li yếu.(3) Muối là hợp chất khi tan trong nước chỉ phân li ra cation kim loại và anion gốc axit.(4) Nước cất có khả năng dẫn điện tốt do nước có thể phân li ra ion H+ và OH-.Số nhận xét đúng là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Tiến hành thí nghiệm như hình vẽ: Ban đầu trong cốc chứa nước vôi trong. Sục rất từ từ CO2 vào cốc cho tới dư. Hỏi độ sáng của bóng đèn thay đổi như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giảm dần đến tắt rồi lại sáng tăng dần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tăng dần rồi giảm dần đến tắt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tăng dần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giảm dần đến tắt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Kết luận nào sau đây không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự điện li là sự phân li ra ion của các chất khi tan trong nước hoặc ở trạng thái nóng chảy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dung dịch các chất điện li dẫn được điện",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chất khi tan trong nước hoặc ở trạng thái nóng chảy phân li thành ion gọi là chất điện li",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chất điện li mạnh là chất tan hoàn toàn trong nước",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Có 4 dung dịch: Natri clorua, rượu etylic (C2H5OH), axit axetic (CH3COOH), kali sunfat đều có nồng độ 0,1 mol/l. Khả năng dẫn điện của các dung dịch đó tăng dần theo thứ tự nào trong các thứ tự sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaCl < C2H5OH < CH3COOH < K2SO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5OH < CH3COOH < NaCl < K2SO4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H5OH < CH3COOH < K2SO4 < NaCl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3COOH < NaCl < C2H5OH < K2SO4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Hòa tan 6 gam NaOH vào 44 gam nước được dung dịch A có khối lượng riêng bằng 1,12 g/ml. Cần lấy bao nhiêu ml A để có số mol ion OH– bằng 2.10–3 mol",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,2 ml",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,4 ml",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,6 ml",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,8 ml",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tính thể tích dung dịch Ba(OH)2 0,5M có chứa số mol ion OH– bằng số mol ion H+ có trong 200 ml dung dịch H2SO4 1M?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,2 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,1 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,4 lít",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,8 lít",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Các dung dịch sau đây có cùng nồng độ 0,10 mol/lít, dung dịch có độ dẫn điện nhỏ nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. KCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3COOK.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3COOH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. HCl.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho 500 ml dung dịch NaOH 0,2M; NaAlO2 0,1M vào 500 ml dung dịch Ba(OH)2 0,1M; Ba(AlO2)2 0,1M thu được dung dịch A. Nồng độ ion OH- và AlO2- trong dung dịch A lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,2M; 0,15M.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,3M; 0,2M.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,2M; 0,3M.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,3M và 0,15M.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Dung dịch BaCl2 2M có nồng độ mol/l của anion là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4M",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,5M",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Hòa tan 6g NaOH vào 44g nước được dd A có khối lượng riêng bằng 1,12g/ml. Cần lấy bao nhiêu ml A để có số mol ion OH– bằng 2.10–3 mol",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,2ml",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,4ml",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,6ml",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,8ml",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "A là dung dịch HCl nồng độ 0,01M. Nồng độ của các ion trong dung dịch khi pha loãng A 100 lần là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. [H+] = [Cl-] = 0,01M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. [H+] = [Cl-] =1,0.10-4M",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. [H+] = [Cl-] = 1,0M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. [H+] = 0,01M; [Cl-] = 1,0.10-4M",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho các nhận xét sau:(1) Những chất điện li mạnh là các axit mạnh như HCl, HNO3, H2SO4…; các bazơ mạnh như NaOH, KOH, Ba(OH)2… và hầu hết các muối.(2) Dãy các chất H2S, H2CO3, H2SO3 là các chất điện li yếu.(3) Muối là hợp chất khi tan trong nước chỉ phân li ra cation kim loại và anion gốc axit.(4) Nước cất có khả năng dẫn điện tốt do nước có thể phân li ra ion H+ và OH-.Số nhận xét đúng là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.  1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

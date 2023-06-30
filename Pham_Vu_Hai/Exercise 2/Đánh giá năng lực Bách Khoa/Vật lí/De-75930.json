@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/khuc-xa-anh-sang/75930/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong hiện tượng khúc xạ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mọi tia sáng truyền qua mặt phân cách giữa hai môi trường trong suốt đều bị đổi hướng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Góc khúc xạ luôn nhỏ hơn góc tới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khi ánh sáng truyền từ môi trường chiết quang kém sang môi trường chiết quang hơn thì góc khúc xạ lớn hơn góc tới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khi ánh sáng truyền từ môi trường chiết quang kém sang môi trường chiết quang hơn thì góc khúc xạ nhỏ hơn góc tới",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong hiện tượng khúc xạ ánh sáng:+ Nếu n >1: (môi trường khúc xạ  (mt 2) chiết quang hơn môi trường tới (mt1))sini >sinr → i >r: tia khúc xạ gần pháp tuyến hơn so với tia tới+ Nếu n < 1: (môi trường khúc xạ  (mt 2) chiết quang kém môi trường tới (mt1))sini < sinr → i < r: tia khúc xạ xa pháp tuyến hơn so với tia tớiĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Khi chiếu tia sáng từ không khí đến mặt nước thì :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có hiện tượng khúc xạ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chỉ có hiện tượng phản xạ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. đồng thời có hiện tượng phản xạ và khúc xạ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. không có hiện tượng phản xạ và khúc xạ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi chiếu sáng từ không khí đến mặt nước thì đồng thời có hiện tượng phản xạ và khúc xạĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong trường hợp sau đây, tia sáng không truyền thẳng khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Truyền qua mặt phân cách giữa hai môi trường trong suốt có cùng chiết suất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia tới vuông góc với mặt phân cách giữa hai môi trường trong suốt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tia tới có hướng đi qua tâm của một quả cầu trong suốt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Truyền xiên góc từ không khí vào kim cương",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong các trường hợp trên, tia sáng không truyền thẳng khi truyền xiên góc từ không khí vào kim cương.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chiếu chùm tia sáng đơn sắc từ không khí tới mặt phân cách của môi trường trong suốt có chiết suất n. Biết tia tới hợp với mặt phân cách góc 300. Khi đó tia khúc xạ hợp với mặt phân cách góc 600. Chiết suất n có giá trị bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\frac{2}{{\\sqrt 3 }}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[\\sqrt 6 \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[\\sqrt 3 \\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[\\sqrt 2 \\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:Góc tới: \\[i = 90^\\circ  - 30^\\circ  = 60^\\circ \\]Góc khúc xạ: \\[r = 90^\\circ  - 60^\\circ  = 30^\\circ \\]Theo định luật khúc xạ ánh sáng, ta có: \\[{n_1}\\sin i = {n_2}{\\mathop{\\rm sinr}\\nolimits} \\]\\[ \\Rightarrow n = \\frac{{\\sin 60^\\circ }}{{\\sin 30^\\circ }} = \\sqrt 3 \\]Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tốc độ ánh sáng trong không khí là v1; trong nước là v2. Một tia sáng chiếu từ nước ra ngoài không khí với góc tới là i, có góc khúc xạ là r. Kết luận nào dưới đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{v_1} >{v_2};i >r\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{v_1} >{v_2};i < r\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[{v_1} < {v_2};i >r\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{v_1} < {v_2};i < r\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có tốc độ ánh sáng trong không khí lớn hơn tốc độ ánh sáng trong nước:v1 >v2(1)Tia sáng truyền từ nước ra ngoài không khí. Áp dụng định luật khúc xạ ánh sáng ta có:nsini = sinr ⇒ I < r (2)Từ (1) và (2) ta có:\\[{v_1} >{v_2};i < r\\]Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tia sáng đi từ không khí khi tới gặp mặt phân cách giữa không khí và môi trường trong suốt có chiết suất n = 1,5. Phải điều chỉnh góc tới đến giá trị nào thì góc tới gấp hai lần góc khúc xạ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 370",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 450",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 41,40",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 82.80",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Theo định luật khúc xạ ánh sáng, ta có:\\[{n_1}\\sin i = {n_2}\\sin r\\]Theo đề bài: i = 2r\\[1\\sin i = 1,5\\sin \\frac{i}{2}\\]\\[ \\leftrightarrow 2\\sin \\frac{i}{2}\\cos \\frac{i}{2} = 1,5\\sin \\frac{i}{2}\\]Do i = 2r nên i ≠ 0\\[ \\to \\left( 1 \\right) \\leftrightarrow 2\\cos \\frac{i}{2} = 1,5\\]\\[ \\to \\cos \\frac{i}{2} = \\frac{3}{4}\\]\\[ \\to \\frac{i}{2} = 41,4^\\circ \\]\\[ \\to i = 82,8^\\circ \\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong các nhận định sau về hiện tượng khúc xạ, nhận định không đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tia khúc xạ nằm trong mặt phẳng chứa tia tới và pháp tuyến.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tia khúc xạ nằm ở môi trường thứ 2 tiếp giáp với môi trường chứa tia tới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khi góc tới bằng 0, góc khúc xạ cũng bằng 0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Góc khúc xạ luôn bằng góc tới.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tốc độ truyền của ánh sáng trong môi trường nào sau đây là chậm nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. kim cương (n = 2,42)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. thủy tinh flint (n = 1,69)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dầu oliu (n = 1,47)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. nước (n = 1,33)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một cái máng nước sâu 30 cm rộng 40 cm có hai thành bên thẳng đứng. Lúc máng cạn nước thì bóng râm của thành A kéo dài tới đúng chân thành B đối diện. Người ta đổ nước vào máng đến một độ cao h thì bóng của thành A ngắn bớt đi 7 cm so với trước. Biết chiết suất của nước là\n\\[n = \\frac{4}{3}h = ?\\]",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6  cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12 cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 7 cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một dây cọc dài được cắm thẳng đứng xuống một bể nước chiết suất \\[\\frac{4}{3}\\]. Phần cọc nhô ra ngoài mặt nước là 30cm, bóng của nó trên mặt nước dài 40cm và dưới đáy bể nước dài 190cm. Chiều sâu của lớp nước là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2 m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 20 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 21,3 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,8 m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một thợ lặn dưới nước nhìn thấy Mặt Trời ở độ cao 600 so với đường chân trời. Độ cao thực của Mặt Trời (tạo một góc bao nhiêu độ so với đường chân trời) là bao nhiêu? Biết chiết suất của nước là 4/3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 540",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 41,80",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 48,20",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 280",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một người nhìn thấy con cá ở trong nước. Hỏi muốn đâm trúng con cá thì người đó phải phóng mũi lao vào chỗ nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đúng vào chỗ người đó nhìn thấy con cá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ở phía trên chỗ người đó nhìn thấy con cá",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ở phía dưới chỗ người đó nhìn thấy con cá",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cả A , B, C đều sai.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Kẻ trộm giấu viên kim cương dưới đây một bể bơi, Anh ta đặt chiếc bè mỏng đồng chất hình tròn bán kính R trên mặt nước, tâm của bè nằm trên đường thẳng đứng đi qua viên kim vương. Mặt nước yên lặng và mức nước là 1,8m. Chiết suất của nước bằng 1,33. Giá trị nhỏ nhất của R để người ngoài bể bơi không nhìn thấy viên kim cương là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,35 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2,05 m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1,80 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,39 m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

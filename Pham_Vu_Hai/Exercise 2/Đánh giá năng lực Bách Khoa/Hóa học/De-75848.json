@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/luu-huynh/75848/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong số các câu sau đây, câu nào không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Lưu huỳnh là một chất rắn màu vàng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lưu huỳnh không tan trong nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Lưu huỳnh nóng chảy ở nhiệt độ tương đối thấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Lưu huỳnh không tan trong dung môi hữu cơ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Câu không đúng là : Lưu huỳnh không tan trong dung môi hữu cơ.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tính chất hóa học đặc trưng của lưu huỳnh là gì ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tính oxi hóa và tính khử.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tính oxi hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tính khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tính khử mạnh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Tính chất hóa học đặc trưng của lưu huỳnh là tính oxi hóa và tính khửĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Dãy đơn chất nào sau đây vừa có tính oxi hóa, vừa có tính khử ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cl2, O3, S.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S, Cl2, Br2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Na, F2, S.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Br2, O2, Ca.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy đơn chất vừa có tính oxi hóa, vừa có tính khử là S, Cl2, Br2.     Loại A vì O3 chỉ có tính oxi hóa, loại C vì F2 chỉ có tính oxi hóa, loại D vì Ca chỉ có tính khử.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chỉ ra câu trả lời khôngđúng về khả năng phản ứng của S?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S vừa có tính oxi hoá vừa có tính khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hg phản ứng với S ngay nhiệt độ thường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ở nhiệt độ thích hợp, S tác dụng với hầu hết các phi kim và thể hiện tính oxi hóa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ở nhiệt độ cao, S tác dụng với nhiều kim loại và thể hiện tính oxi hoá.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Câu không đúng là: Ở nhiệt độ thích hợp, S tác dụng với hầu hết các phi kim và thể hiện tính oxi hóa.Vì S phản ứng với oxi thể hiện tính khử: S + O2 \\[\\mathop  \\to \\limits^{t^\\circ } \\]SO2Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hơi thủy ngân rất độc, do đó phải thu hồi thủy ngân rơi vãi bằng cách",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Nhỏ nước brom lên giọt thủy ngân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhỏ nước ozon lên giọt thủy ngân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Rắc bột lưu huỳnh lên giọt thủy ngân.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Rắc bột photpho lên giọt thủy ngân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Hơi thủy ngân rất độc, do đó phải thu hồi thủy ngân rơi vãi bằng cách rắc bột lưu huỳnh lên giọt thủy ngân.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Lưu huỳnh tác dụng với kim loại và hiđro là thể hiện",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tính oxi hóa",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tính khử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cả tính oxi hóa và khử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tính kim loại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Lưu huỳnh tác dụng với kim loại và hiđro là thể hiện tính oxi hóaVí dụ: \\[\\mathop S\\limits^0  + \\mathop {Fe}\\limits^0 \\mathop  \\to \\limits^{t^\\circ } Fe\\mathop S\\limits^{ - 2} \\]Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Fe tác dụng với lượng dư chất nào sau đây tạo ra hợp chất sắt (II) ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Cl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dung dịch HNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. O2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Lưu huỳnh tác dụng với axit sunfuric đặc, nóng:  S + 2H2SO4  → 3SO2 + 2H2O. Trong phản ứng này, tỉ lệ số nguyên tử lưu huỳnh bị khử : số nguyên tử lưu huỳnh bị oxi hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 : 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1 : 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3 : 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2 : 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho các phản ứng hóa học sau: (a) S + O2 \\[\\mathop  \\to \\limits^{t^\\circ } \\]SO2;  (b) S + 3F2 \\[\\mathop  \\to \\limits^{t^\\circ } \\]SF6;  (c) S + Hg \\[\\mathop  \\to \\limits^{t^\\circ } \\]HgS;  (d) S + 6HNO3 đặc \\[\\mathop  \\to \\limits^{t^\\circ } \\]H2SO4 + 6NO2 + 2H2O. Số phản ứng trong đó S thể hiện tính khử là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Đun nóng một hỗn hợp gồm 6,4 gam bột lưu huỳnh và 15 gam bột kẽm trong môi trường kín không có không khí. Chất nào còn dư sau phản ứng và có khối lượng là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Zn; 2g",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Zn; 8,45g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S; 2g",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S; 3,2g",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho 2,8 gam Fe tác dụng với S dư, sau phản ứng thu được 3,3 gam FeS. Hiệu suất phản ứng giữa Fe và S là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 70%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 75%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 80%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 85%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đun nóng hỗn hợp gồm 28 gam bột sắt và 3,2 gam bột lưu huỳnh đến khi phản ứng hoàn toàn thu được hỗn hợp X. Cho hỗn hợp X phản ứng hoàn toàn với dung dịch HCl thu được hỗn hợp khí Y và dung dịch Z. Thành phần phần trăm theo thể tích của hỗn hợp khí Y là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 55% và 45%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 60% và 40%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20% và 80%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. kết quả khác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Lưu huỳnh có các số oxi hóa nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -1; 0; +4; +2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -2; +6; +4; 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. -2; -4; +6; 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. -2; -4; +6; +8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Ở điều kiện thường, kim loại nào sau đây phản ứng với bột lưu huỳnh?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hg",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cr",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Lưu huỳnh là một phi kim phổ biến, không mùi, không vị, nhiều hóa trị. Lưu huỳnh, trong dạng gốc của nó là chất rắn kết tinh màu vàng chanh. Trong tự nhiên, nó có thể tìm thấy ở dạng đơn chất hay trong các khoáng chất sulfua và sulfat. Nó là một nguyên tố thiết yếu cho sự sống và được tìm thấy trong hai axít amin.  Sử dụng thương mại của nó chủ yếu  trong  các  phân  bón nhưng  cũng  được  dùng  rộng  rãi  trong thuốc  súng, diêm, thuốc trừ sâu và thuốc diệt nấm. Trong phản ứng hóa học, 1 nguyên tử lưu huỳnh (S) chuyển thành ion sunfua (S2–) bằng cách :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. nhường đi hai electron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nhận thêm hai electron.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. nhường đi một electron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. nhận thêm một electron.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

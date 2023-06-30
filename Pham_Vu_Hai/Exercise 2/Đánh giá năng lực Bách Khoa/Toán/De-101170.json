@@ -1,0 +1,632 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tich-phan-tich-phan-tung-phan/101170/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho tích phân I=abfx.g'xdx, nếu đặt u=f(x)dv=g'(x)dxthì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=fx.g'xab−∫abf'x.gxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=fx.gxab−∫abfx.gxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=fx.gxab−∫abf'x.gxdx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I=fx.g'xab−∫abfx.g'xdx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐặt u=f(x)dv=g'(x)dx⇔du=f'(x)dxv=g(x) khi đó\nI=fx.gxab−∫abf'x.gxdx\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho f(x),g(x) là hai hàm số có đạo hàm liên tục trên đoạn [0;1] và thỏa mãn điều kiện ∫01gx.f'xdx=1,∫01g'x.fxdx=2. Tính tích phân I=∫01fx.gx'dx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I = 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I = -1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho tích phân I=0πx2cosxdx và u=x2;dv=cosxdx. Khẳng định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=x2sinx|0π−0πxsinxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=x2sinx|0π+20πxsinxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=x2sinx|0π+20πxsinxdx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I=x2sinx|0π−20πxsinxdx",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hàm số y=f(x) thỏa mãn ∫01x+1.f'xdx=10 và 2f1−f0=2. Tính 2f1−f0=2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I = -12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I = 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I = 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I = -8",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐặt u=x+1;dv=f'(x)dx thì du=dx;v=f(x)\nTa có:\n∫01(x+1)f'(x)dx=10⇔(x+1)f(x)01−∫01f(x)dx=10=2f(1)−f(0)−∫01f(x)dx⇒∫01f(x)dx=−8.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hàm số y=f(x) thỏa mãn hệ thức ⇒∫f(x)sinxdx=−f(x).cosx+∫πx.cosxdx. Hỏi y=f(x) là hàm số nào trong các hàm số sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. fx=−πxlnπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f(x)=πxlnπ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. fx=πx.lnπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. fx=-πx.lnπ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho Fx=x2 là nguyên hàm của hàm số f(x)e2x và f(x) là hàm số thỏa mãn điều kiện f0=0,f1=2e2.Tính tích phân I=∫01f'xe2xdx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I = 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I = -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I = 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho tích phân I=12x+lnxx+13dx=a+b.ln2−c.ln3 với a,b,c∈R, tỉ số ca bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 24",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 36",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tích phân:  I=1e2x(1−lnx) dx bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. e2−12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. e2+12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. e2−34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. e2−32",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tính tích phân I=1exlnxdx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=3e2+14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=e2+14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I=e2-14",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tính tích phân I=210001lnx(x+1)2dx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=−ln210001+21000+ln210011+21000",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. I=−1000ln21+21000+ln210001+21000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=ln210001+21000−1001ln21+21000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I=1000ln21+21000−ln210001+21000",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Biết rằng∫e2xcos3xdx=e2xacos3x+bsin3x+c, trong đó a,b,c là các hằng số, khi đó tổng a+b có giá trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −113",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −513",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 513",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 113",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Biết rằng 01xcos2xdx=14asin2+bcos2+c với a,b,c∈Z. Mệnh đề nào sau đây là đúng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a+b+c=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a−b+c=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a+2b+c=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2a+b+c=−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Giả sử tích phân I=04xln2x+12017dx=a+bcln3. Với phân số bc tối giản. Lúc đó :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. b+c=127075",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. b+c=127073",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. b+c=127072",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. b+c=127071",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Có bao nhiêu số nguyên dương n sao cho nlnn−∫1nlnxdx có giá trị không vượt quá 2017",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2018",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4034",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4036",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Biết {π40x.cos2xdx=a+bπ, với a,b là các số hữu tỉ. Tính S=a+2b.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S = 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=38",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Biết tích phân I=01xe2xdx=ae2+b (a,b là các số hữu tỉ). Khi đó tổng a+b là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho tích phân I=0π2exsinx. Gọi a,ba,b là các số nguyên thỏa mãn I=eπ2+ab. Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a−b=−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a+b=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a+b=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a−b=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho I=01x+x2+15dx=a+bln3+cln5 với a,b,c ∈ℝ. Tính tổng a+b+c.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 52",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. -13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hàm số f(x) là hàm số chẵn và liên tục trên [-1;1] thỏa mãn:∫-11fxdx=8615 và f(10=5. Khi đó ∫01xf'xdx bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3215",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 8615",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −1115",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1615",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Nếu 0πfxsinxdx=20,0πxfx'sinxdx=5 thì I=0π2fxcosxdx bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -30",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -50",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số y=f(x) liên tục trên đoạn [1;3] thỏa mãn f(4−x)=f(x),∀x∈1;3 và ∫13xfxdx=-2. Giá trị 2∫13fxdx bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. -2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hàm số f(x) có fπ2=2 và f'(x)=xsinx. Giả sử rằng ∫0π2cosx.fxdx=ab−π2c (với a,b,c là các số nguyên dương, ab tối giản). Khi đó a+b+c bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 27",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho f(x) liên tục trên R và f2=1, ∫01f(2x)dx=2. Tích phân ∫01xf'xdx",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho tích phân I=∫0π4x2xsinx+cosx2dx=m−πm+π, giá trị của m bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho tích phân I=∫π4π2ln3sinx+cosxsin2xdx=m.ln2+n.ln3−π4, tổng m+n",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. bằng 12.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. bằng 10.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. bằng 8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. bằng 6.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hàm số f(x) có f(2)=0 và f'(x)=x+72x−3, ∀x∈(32;+∞) . Biết rằng ∫47fx2dx=ab(a,b∈ℤ,b>0,ab là phân số tối giản). Khi đó a+b bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 250",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 251",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 133",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 221",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho hàm số f(x) liên tục trên −12;2 thỏa mãn f(0)=2, ∫01f'x2dx=12−16ln2,∫01fxx+12dx=4ln2−2. Tính ∫01f(x)dx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5+8ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3-8ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5-8ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7-8ln2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hàm số f(x) liên tục trên R thỏa mãn điều kiện x.f(x3)+f(x2−1)=ex2, ∀x∈ℝ. Khi đó giá trị của ∫-10fxdx là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3(1-e)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3(e-1)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,741 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/phuong-trinh-logarit/95282/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Giá trị của x thỏa mãn log12(3−x)=2  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=3+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=-114",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=3-2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=114",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nPhương trình tương đương với:\n3−x=122⇔x=114\nVậy x=114\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tập nghiệm của phương trình log2x2−1=log22x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1+22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. {2;41}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1−2;1+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1+2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Giải phương trình log32x−1=2 , ta có nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x = 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x = 25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nlog32x−1=2⇔2x−1=32⇔2x=10⇔x=5\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Giải phương trình log4x−1=3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x = 63",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x = 65",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x = 82",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = 80",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện: x≥1\nlog4x−1=3⇔x−1=43⇔x=65\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tìm tập nghiệm S của phương trình log2x−1+log2x+1=3.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S = {-3;3}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S = {3}",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=−10;10",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Giải phương trình log4(x+1)+log4(x−3)=3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=1±217",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=1+217",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x = 33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Giải phương trình log3x+2+log9x+22=54",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=358−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=354−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=34−2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tìm tập nghiệm S của phương trình log2(x2−4x+3)=log2(4x−4)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. {1;7}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. {7}",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. {1}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. {3;7}",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hai số thực dương a và b thỏa mãn log4a=log6b=log9a+b. Tính tỉ số ab.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −1+52.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. −1-52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1+52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho x > 0; x≠1 thỏa mãn biểu thức 1log2x+1log3x+...+1log2017x=M . Khi đó x bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=2017!M−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=2018!M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=2016!M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=2017!M",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tìm tập nghiệm của phương trình log3x+1log9x=3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 13;9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. {3;9}",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tập hợp nghiệm của phương trình log3950+6x2=log3350+2x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. {0;1}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0;2.350",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. {0}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Giải phương trình log22x−1.log42x+1−2=1 Ta có nghiệm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=log23 và x=log25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x = 1 và x = -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=log23 và x=log254",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x = 1 và x = 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Phương trình log43.2x−1=x−1 có hai nghiệm là x1;x2 thì tổng x1+x2  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. log26−42",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6+42",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho phương trình log3x.log5x=log3x+log5x. Khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phương trình có một nghiệm hữu tỉ và một nghiệm vô tỉ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phương trình có một nghiệm duy nhất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phương trình vô nghiệm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tổng các nghiệm của phương trình là một số chính phương",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Tìm tất cả các giá trị thực của m để phương trình 2log2|x|+log2|x+3|=m  có 3 nghiệm thực phân biệt.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m∈0;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m∈0;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m∈−∞;2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m∈2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho a, b, x là các số thực dương khác 1 thỏa: 4loga2x+3logb2x=8logax.logbx (1) Mệnh đề (1) tương đương với mệnh đề nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a=b2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a=b2 hoặc a3=b2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a3=b2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = ab",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Tìm tập hợp tất cả các giá trị của tham số m để phương trình log2x−log2(x−2)=m có nghiệm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1≤m<+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1<m<+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0≤m<+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0<m<+∞",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Phương trình sau đây có bao nhiêu nghiệm x2−4log2x+log3x+log4x+...+log19x−log202x=0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tổng tất cả các nghiệm của phương trình log37−3x=2−x bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho 0≤x≤2020 và log2(2x+2)+x−3y=8y. Có bao nhiêu cặp số (x;y) nguyên thỏa mãn các điều kiện trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2019",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2018",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Có bao nhiêu số nguyên a∈−2019;2019 để phương trình 1lnx+5+13x−1=x+a có hai nghiệm phân biệt?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2022",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2014",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2015",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hàm số fx=log2cosx. Phương trình f'(x)=0 có bao nhiêu nghiệm trong khoảng 0;2020π?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1009",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1010",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2019",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Hỏi có bao nhiêu giá trị m  nguyên trong đoạn [-2017;2017] để phương trình logmx=2log(x+1)   có nghiệm duy nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4014",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2018",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4015",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Gọi x1,x2 là các nghiệm của phương trình log13x2−3+1log3x+3=0. Khi đó tích x1.x2 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 33+1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Số nghiệm của phương trình log3x2−2x=log5x2−2x+2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Giải phương trình:∫02t−log2xdt=2log22x (ẩn x)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x∈(0;+∞)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x∈{1}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x∈{1;4}",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x∈{1;2}",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Hỏi phương trình 2log3cotx=log2cosx có bao nhiêu nghiệm trong khoảng 0;2017π.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1009 nghiệm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1008 nghiệm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2017 nghiệm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2018 nghiệm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Tìm m để phương trình mln(1−x)−lnx=m có nghiệm x∈0;1",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m∈(0;+∞)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m∈(1;e)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m∈(−∞;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m ∈(−∞;−1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Số nghiệm của phương trình log3x2−x2=log5x2−x2+2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Chu kì bán rã của nguyên tố phóng xạ Poloni 210 là 138 ngày (nghĩa là sau 138 ngày khối lượng của nguyên tố đó chỉ còn một nửa). Biết ban đầu có m (gam) Poloni 210. Sau ít nhất bao nhiêu ngày thì khối lượng Poloni 210 còn lại bằng 110 khối lượng ban đầu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 460 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 458 ngày",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 459 ngày",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 456 ngày",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Có bao nhiêu giá trị nguyên dương của tham số m nhỏ hơn 2020 để phương trình log2(m+m+2x)=2x  có nghiệm thực?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2018",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2019",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

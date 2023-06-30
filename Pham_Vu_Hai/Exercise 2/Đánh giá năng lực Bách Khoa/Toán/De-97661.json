@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-tiep-tuyen-cua-do-thi-va-su-tiep-xuc-cua-ham-so/97661/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hệ số góc của tiếp tuyến của đồ thị hàm số y=x44+x22−1 tại điểm có hoành độ x=−1  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có y'=x3+x\n⇒ Hệ số góc của tiếp tuyến với đồ thị hàm số tại điểm có hoành độ x=−1  là k=y'(−1)=−2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Đồ thị hàm số nào sau đây có tiếp tuyến tại giao điểm của đồ thị và trục tung có hệ số góc âm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=5x+1x+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=2x+1x+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=13x3+x2+4x+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=1x+1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐối với hàm số y=5x+1x+1 thì y'=4x+12>0,∀x≠−1\n⇒ Hệ số góc của tiếp tuyến luôn dương.\nĐối với hàm số: y=2x+1x+1 thì y'=1x+12>0,∀x≠−1\n⇒ Hệ số góc của tiếp tuyến luôn dương.\nĐối với hàm số\ny=13x3+x2+4x+1=>y'=x2+2x+4=(x+1)2+3>0,∀x\n⇒ Hệ số góc của tiếp tuyến luôn dương.\nXét hàm số y=1x+1 Có giao điểm của đồ thị hàm số với trục tung là: A(0;1)\nCó y'=−1x+12<0 ∀x≠1⇒y'0<0⇒ Hệ số góc của tiếp tuyến tại A có hệ số âm.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Biết đồ thị các hàm số y=x3+54x−2 và y=x2+x−2  tiếp xúc nhau tại điểm M(x0;y0) Tìm x0.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x0=32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x0=12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x0=−52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x0=34.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nHoành độ tiếp điểm của hai đồ thị hàm số là nghiệm của hệ phương trình:\nf(x)=g(x)f'(x)=g'(x)⇔x3+54x−2=x2+x−23x2+54=2x+1\n⇔x3−x2+14x=03x2−2x+14=0x=0x=12x=12x=16⇔x=12\nVậy x=12 là hoành độ điểm tiếp xúc.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Viết phương trình tiếp tuyến của đồ thị hàm số y=−2x3+4x+2 tại điểm có hoành độ bằng 0.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=−2x3+4x+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=4x+2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=2x.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=2x+2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nBước 1:  Gọi tiếp điểm của tiếp tuyến với đồ thị hàm số là A(0;2).\nBước 2: Phương trình tiếp tuyến tại điểm A có dạng y=y'0x−0+2.\nTa cóy'=−6x2+4⇒y'0=4. Do đó phương trình tiếp tuyến là y=4x+2.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Viết phương trình tiếp tuyến của đồ thị hàm số y=−x4+6x2−5 tại điểm cực tiểu của nó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=−5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=x+5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:y'=−4x3+12x⇒y'=0⇔x=0 hoặcx=3 hoặc x=−3\nTa có bảng biến thiên\n\n\nQuan sát bảng biến thiên ta thấy tiếp điểm là (0;−5) và y'0=0.\nVậy phương trình đường tiếp tuyến tại điểm cực tiểu của đồ thị hàm số là y=−5\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Có bao nhiêu tiếp tuyến với đồ thị C:y=x4−2x2đi qua gốc tọa độ O?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nGiả sử x0;y0 là điểm thuộc đồ thị hàm số (C) có tiếp tuyến đi qua gốc tọa độ O\nTa có: y'=4x3−4x\nTa có phương trình đường thẳng tiếp tuyến tại điểm x0;y0\ny=4x03−4x0x−x0+y0⇔y=4x03−4x0x−x0+x04−2x02\nThay (0;0) vào phương trình trên ta được:\n0=(4x03−4x0)(0−x0)+x04−2x02\n⇔−3x04+2x02=0⇔x02(−3x02+2)=0⇔x0=0x0=±23Vậy có ba điểm có tiếp tuyến đi qua gốc tọa độ.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tiếp tuyến của đồ thị hàm số y=x33−2x2+x+2 song song với đường thẳng y=−2x+5 có phương trình là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2x+y−103=0 và 2x+y−2=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2x+y+43=0 và 2x+y+2=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2x+y−4=0 và 2x+y−1=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=2x+y−3=0 và 2x+y+1=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Giả sử tiếp tuyến của đồ thị hàm số y=2x3−6x2+18x+1 song song với đường thẳng d:12x−y=0  có dạng y=ax+b. Khi đó tổng a+b  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.15",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.−27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.11",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hàm số y=x3−3x2+5x−2 có đồ thị (C). Viết phương trình tiếp tuyến của đồ thị (C) có hệ số góc nhỏ nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=2x−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=2x−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=−2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=−2x+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hàm số: y=x3−x2+1. Tìm điểm nằm trên đồ thị hàm số sao cho tiếp tuyến tại điểm đó có hệ số góc nhỏ nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0;1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 23;2327",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13;2427",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13;2527",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hàm số y=x4−2(m+1)x2+m+2 có đồ thị (C). Gọi Δ là tiếp tuyến với đồ thị (C) tại điểm thuộc (C) có hoành độ bằng 1. Với giá trị nào của tham số mm thì Δ vuông góc với đường thẳng d:y=−14x−2016",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hàm số y=2x−1x−1   C Tìm điểm M thuộc (C) sao cho tiếp tuyến tại M và hai trục tọa độ tạo thành tam giác cân.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. M−2;53 hoặc M0;1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. M(2;3) hoặc M(0;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. M−2;53 hoặc M3;52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. M(2;3) hoặc M3;52",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hàm số y=fx=x33−mx2−6mx−9m+12 có đồ thị hàm số (Cm). Khi tham số m thay đổi, các đồ thị (Cm) đều tiếp xúc với một đường thẳng cố định. Đường thẳng này có phương trình:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=−9x+9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=−9x+15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=9x+9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=9x+30",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hàm số y=f(x)=x3+6x2+9x+3 C Tồn tại hai tiếp tuyến của (C) phân biệt và có cùng hệ số góc k, đồng thời đường thẳng đi qua các tiếp điểm của hai tiếp tuyến đó cắt các trục Ox,Oy tương ứng tại A và B sao cho OA=2017.OB. Hỏi có bao nhiêu giá trị của k thỏa mãn yêu cầu bài toán?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tìm tất cả các giá trị của tham số m để đường thẳng y=−2x+m  cắt đồ thị (H) của hàm số y=2x+3x+2  tại hai điểmA, B phân biệt sao cho P=k12018+k22018 đạt giá trị nhỏ nhất (với k1,k2 là hệ số góc của tiếp tuyến tại A, B của đồ thị (H).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. m=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hàm số Cm:y=x3+mx2−9x−9m. Tìm mm để (Cm) tiếp xúc với Ox:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=±3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=±4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=±1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=±2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Gọi S là tập hợp các giá trị nguyên của m để mọi tiếp tuyến của đồ thị hàm số y=x3−(m−1)x2+(m−1)x+5 đều có hệ số góc dương. Số phần tử của tập S là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vô số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hàm số y=2x−2x−2 có đồ thị là(C), Mlà điểm thuộc (C) sao cho tiếp tuyến của (C) tại Mcắt hai đường tiệm cận của (C) tại hai điểm A, B thỏa mãn AB=25. Gọi S là tổng các hoành độ của tất cả các điểm Mthỏa mãn bài toán. Tìm giá trị của S.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tìm tập hợp S tất cả các giá trị của tham số thực m để đồ thị hàm số y=x4−2m2x2+m4+3  có ba điểm cực trị đồng thời ba điểm cực trị đó cùng với gốc tọa độ O tạo thành một tứ giác nội tiếp.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=−13;0;13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=−1;1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=−13;13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=−12;12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hàm số y=x4−2mx2+m, có đồ thị (C) với m là tham số thực. Gọi A là điểm thuộc đồ thị (C) có hoành độ bằng 1. Tìm m để tiếp tuyến Δ với đồ thị (C) tại A cắt đường tròn γ:x2+y−12=4 tạo thành một dây cung có độ dài nhỏ nhất",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1613",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −1316",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1316",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. −1613",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số y=16x4−73x2 có đồ thị hàm số (C). Có bao nhiêu điểm A thuộc (C) sao cho tiếp tuyến của (C) tại A cắt (C) tại hai điểm phân biệt Mx1; y1, Nx2; y2  M, N≠A thỏa mãn y1−y2=4(x1−x2)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

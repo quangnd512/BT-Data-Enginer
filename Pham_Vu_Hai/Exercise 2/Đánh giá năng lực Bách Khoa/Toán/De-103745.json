@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cap-so-nhan-b/103745/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho cấp số nhân (un), biết:  u1 = −2, u2 = 8 . Lựa chọn đáp án đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. q = −4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. q = 4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. q = −12.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. q = 10.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nVì (un) là cấp số nhân nên q=u2u1=8−2=−4\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho cấp số nhân (un), biết: u1 = 3, u5 = 48 . Lựa chọn đáp án đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. u3 = 12.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. u3 = −12.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u3 = 16.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u3 = −16.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTa có:\nu5=u1.q4\n⇔48=3.q4\n⇔q4=16⇔q2=4\n⇒u3=u1.q2=3.4=12\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho  cấp số nhân(un), biết: u1 = −2, u2 = 8 . Lựa chọn đáp án đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S5 = −512",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. u5 = 256",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u5 = −512",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. q = 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTa có: u1=−2,u2=8\n⇒q=u2u1=8−2=−4\nDo đó: u5=u1.q4=−2.−44=−512\nVà S5=u11−q51−q=−21−−451−−4=−410\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho  cấp số nhân(un)có u1=−1;q=−110. Số 110103 là số hạng thứ bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. số hạng thứ 103",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. số hạng thứ 104",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. số hạng thứ 105",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đáp án khác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTa có:\nun=u1.qn−1\n⇔110103=−1.−110n−1\n⇔−110n−1=−110103=−110103\n \n⇔ n – 1 = 103\n⇔ n = 104\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho cấp số nhân (un), biết:  u5 = 3, u6 = −6 . Lựa chọn đáp án đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. u7 = 12.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. u7 = −12.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. u7 = −2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u7 = 18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTa có:\nu62=u5.u7\nu7=u62u5=−623=12\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Tìm số hạng đầu và công bội của cấp số nhân (un) có công bội q > 0 . Biết u2 = 4; u4 = 9 .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. u1=−83;q=32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. u1=83;q=32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. u1=−53;q=32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. u1=53;q=32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTrả lời:\nTa có:\nu2=4=u1.q và u4=9=u1.q3\n⇒u4u2=u1.q3u1.q\n⇒94=q2\n⇒q=32q>0\n⇒u1=83\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Số đo bốn góc của một tứ giác lồi lập thành một cấp số nhân, biết rằng số đo của góc lớn nhất gấp 8  lần số đo của góc nhỏ nhất. Tìm góc lớn nhất:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1900",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1910",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1920",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1930",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho cấp số nhân (un) có u1 = −3 và q = −2. Tính tổng 10 số hạng đầu tiên của cấp số nhân đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S10 = −511.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S10 = −1025.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S10 = 1025.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S10 = 1023.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Ba số dương lập thành cấp số nhân, tích của số hạng thứ nhất và số hạng thứ ba bằng 36. Một cấp số cộng có n số hạng, công sai d = 4, tổng các số hạng bằng 510. Biết số hạng đầu của cấp số cộng bằng số hạng thứ 2 của cấp số nhân. Khi đó nn bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Dân số của thành phố A hiện nay là 3 triệu người. Biết rằng tỉ lệ tăng dân số hàng năm của thành phố A là 2%. Dân số của thành phố A sau 3 năm nữa sẽ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3183624",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2343625",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2343626",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2343627",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Chu kì bán rã của nguyên tố phóng xạ poloni 210 là 138 ngày (nghĩa là sau 138 ngày khối lượng của nguyên tố đó chỉ còn một nửa). Khi đó khối lượng còn lại của 20 gam poloni 210 sau 7314 ngày là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,22.10-15",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2,21.10-15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2,20.10-15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,23.10-15",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tính tổng Sn = 1 + 11 + 111 + … + 11 …11 (có 10 chữ số 1)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1011−10081",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1010−10081",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 109−10081",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 108−10081",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tính tổng Sn=1+2a+3a2+4a3+...+n+1an(a≠1là số cho trước)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. n+1an+2−n+2an+1+11−a2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. n+1an+2+n+2an+1+11−a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n+1an+2−n+2an+1−11−a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n+1an+2+n+2an+1−11−a2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tìm tất cả các giá trị của tham số mm để phương trình sau có ba nghiệm phân biệt lập thành một cấp số nhân: x3 − 7x2 + 2(m2 + 6m)x – 8 = 0.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m = −7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m = 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = −1 hoặc m = 7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m = 1 hoặc m = −7.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

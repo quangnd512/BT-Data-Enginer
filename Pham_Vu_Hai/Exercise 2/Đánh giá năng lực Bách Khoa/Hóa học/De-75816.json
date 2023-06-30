@@ -1,0 +1,649 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-ester/75816/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Thuỷ  phân este có công thức phân tử  C4H8O2 trong môi trường axit, thu được 2 sản phẩm hữu cơ X, Y. Từ X có thể điều chế trực tiếp ra Y. Công thức cấu tạo của este là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Metyl propionat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Etyl axetat",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Isopropyl fomat",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Propyl fomat",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:RCOOR’ + H–OH \\[\\mathop  \\to \\limits^{t^\\circ } \\]RCOOH + R’OH- Từ X có thể điều chế trực tiếp ra Y=>C2H5OH (X) + O2 → CH3COOH (Y) + H2O=>CH3COOC2H5 + H–OH \\[\\mathop  \\to \\limits^{t^\\circ } \\]C2H5OH (X) + CH3COOH (Y) Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho 3,7 gam este X no, đơn chức, mạch hở tác dụng hết với dung dịch KOH, thu được muối và 2,3 gam rượu etylic. Công thức của este là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5COOC2H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5COOCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HCOOC2H5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3COOC2H5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[{n_{{C_2}{H_5}OH}} = 0,05mol\\]- Thủy phân este đơn chức :  - Este no đơn chức có CTPT : CnH2nO2 , có \\[{M_{este}} = \\frac{{3,7}}{{0,05}} = 74g/mol\\]=>Meste = 14n + 32 = 74 =>n = 3- X thủy phân thu được rượu etylic =>X có dạng RCOOC2H5M este  = R + 73 = 74 =>R = 1Vậy CTCT là HCOOC2H5. Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Khi cho X (C3H6O2) tác dụng với dung dịch NaOH đun nóng thu được CH3COONa. Công thức cấu tạo của X  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COOCH3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C2H5COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HCOOC3H7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HCOOC2H5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi cho X tác dụng với NaOH sinh ra muối là CH3COONa. Vậy X có thể là axit cacboxylic hoặc este.Mà X có CTPT là C3H6O2. Vậy X là CH3COOCH3Ta có phương trình như sau:CH3COOCH3 + NaOH → CH3COONa + CH3OHĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Este X có đặc điểm sau:- Đốt cháy hoàn toàn X tạo thành CO2 và H2O có số mol bằng nhau- Thủy phân X trong môi trường axit thu được chất Y ( tham gia phản ứng tráng gương) và chất Z (có số nguyên tử cacbon bằng một nửa số cacbon trong X)Có các phát biểu sau :(1) Chất X thuộc loại este no, đơn chức(2) Chất Y tan vô hạn trong nước(3) Đun  Z với dung dịch H2SO4 đặc ở 170oC thu được anken(4) Trong điều kiện thường Z ở trạng thái lỏng(5) X có thể hòa tan Cu(OH)2 tạo ra dung dịch màu xanhSố phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:- Đốt cháy hoàn toàn X tạo thành CO2 và H2O có số mol bằng nhau nên X là este no đơn chức mạch hở → (1) đúng→ X là CnH2nO2- Thủy phân X trong môi trường axit thu được chất Y ( tham gia phản ứng tráng gương) và chất Z (có số nguyên tử cacbon bằng một nửa số cacbon trong X) → Y là HCOOH và Z là CH3OH→ X là HCOOCH3(2) đúng, HCOOH có liên kết hidro nên tan vô hạn trong nước(3) sai, CH3OH không tách nước tạo được anken(4) đúng(5) sai, HCOOCH3 có thể phản ứng được với Cu(OH)2 ở nhiệt độ cao nhưng không tạo ra dung dịch màu xanh lam=>có 3 phát biểu đúng Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Hỗn hợp X gồm etyl axetat và n-propyl axetat. Đun nóng hỗn hợp X với NaOH (vừa đủ) thu được 13,12 gam muối và 8,76 gam hỗn hợp rượu Y. Vậy % khối lượng của etyl axetat trong hỗn hợp X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 56,85%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45,47%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 39,8%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 34,1%",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[\\left\\{ {\\begin{array}{*{20}{c}}{etyl\\,axetat:C{H_3}COO{C_2}{H_5}\\left( {a\\,mol} \\right)}\\\\{n - propyl\\,axetat:C{H_3}COO{C_3}{H_7}\\left( {b\\,mol} \\right)}\\end{array}} \\right.\\]\\[\\mathop  \\to \\limits^{ + NaOH,t^\\circ } \\left\\{ {\\begin{array}{*{20}{c}}{12,12g\\,C{H_3}COONa:\\left( {a + b} \\right)mol}\\\\{8,76\\left\\{ {\\begin{array}{*{20}{c}}{{C_2}{H_5}OH:a\\,mol}\\\\{{C_3}{H_7}OH:b\\,mol}\\end{array}} \\right.}\\end{array}} \\right.\\]Lập hpt: \\[\\left\\{ {\\begin{array}{*{20}{c}}{82a + 82b = 13,12}\\\\{46a + 60b = 8,76}\\end{array} \\to } \\right.\\left\\{ {\\begin{array}{*{20}{c}}{a = 0,06}\\\\{b = 0,1}\\end{array}} \\right.\\]\\[\\% C{H_3}COO{C_2}{H_5} = \\frac{{0,06.88}}{{0,06.88 + 0,1.102}} \\times 100\\%  = 34,1\\% \\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đun 20,4 gam một hợp chất hữu cơ đơn chức A với 300 ml dung dịch NaOH 1M thu được muối B và hợp chất hữu cơ C. Khi cho C tác dụng với Na dư cho 2,24 lít khí H2 (đktc). Biết rằng khi đun nóng muối B với NaOH (xt CaO, t˚) thu được khí K có tỉ khối đối với O2 bằng 0,5. C là hợp chất đơn chức khi bị oxi hóa bởi CuO (t˚) cho sản phẩm D không phản ứng với dung dịch AgNO3 /NH3 dư CTCT của A là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COOCH2CH2CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3COOCH(CH3)CH3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.HCOOCH(CH3)CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3COOCH2CH3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\\[ - A\\mathop  \\to \\limits^{NaOH} \\left\\langle {\\begin{array}{*{20}{c}}{B\\mathop  \\to \\limits^{NaO{H_{\\left( r \\right)}}} K\\left( {{d_{K/{O_2}}} = 0,5} \\right)}\\\\{C\\mathop  \\to \\limits^{Na} 2,24\\,lit\\,{H_2}}\\end{array}} \\right.\\]\\[C\\mathop  \\to \\limits^{CuO,t^\\circ } D\\left( {k\\,trang\\,guong} \\right)\\]- C + Na →H2 =>C là ancol. Oxi hóa C ra D không tráng gương=>C là ancol bậc 2=>A là este đơn chức. B là muối NaMK = 32 . 0,5 =16 =>K: CH4 =>Gốc R trong K là –CH3.A:CH3COOR′\\[C{H_3}COOR'\\mathop  \\to \\limits^{ + NaOH} \\left\\{ {\\begin{array}{*{20}{c}}{C{H_3}COONa}\\\\{R'OH\\mathop  \\to \\limits^{Na} R'ONa + {H_2}}\\end{array}} \\right.\\]\\[{n_{{H_2}}} = \\frac{{2,24}}{{22,4}} = 0,1\\,mol \\Rightarrow {n_{ancol}} = 0,2\\,mol\\]\\[{n_{este}} = {n_{ancol}} = 0,2\\,mol\\]\\[{n_{NaOH}} = 0,1.3 = 0,3\\,mol\\]nNaOH>neste =>NaOH dư, este hếtMeste=102=>MR’= 43(-C3H7: gốc ancol bậc 2)=>Este: CH3COOCH(CH3)2Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Hỗn hợp X gồm hai este đơn chức. Cho 0,5 mol X tác dụng với dung dịch AgNO3/ NH3 dư thu được 43,2 gam Ag. Cho 10,56 gam X tác dụng với dung dịch KOH vừa đủ thu được hỗn hợp hai muối của hai axit đồng đẳng liên tiếp và 6,192 gam hỗn hợp hai ancol no đơn chức đồng đẳng liên tiếp, mạch hở. Công thức của hai este là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCOOC3H7 và CH3COOC2H5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. HCOOC2H5 và CH3COOC3H7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HCOOC2H5 và CH3COOCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HCOOCH3 và CH3COOC2H5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho 20,4 gam este no, đơn chức, mạch hở X tác dụng hết với dung dịch NaOH, thu được muối và 9,2 gam ancol etylic.Tên của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. etyl fomat.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. metyl axetat.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. etyl axetat.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. etyl propionat.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đun 13,2 gam một hợp chất hữu cơ đơn chức X với dung dịch NaOH dư thu được muối Y và hợp chất hữu cơ Z. Khi cho Z tác dụng với Na dư cho 1,68 lít khí H2 (đktc). Biết rằng khi đun nóng muối Y với NaOH (xt CaO, t˚) chỉ thu được chất vô cơ. Z là hợp chất đơn chức khi bị oxi hóa bởi CuO (t˚) cho sản phẩm E phản ứng với dung dịch AgNO3 /NH3 dư thì thu được Ag.CTCT của X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COOCH2CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5COOCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HCOOCH2CH2CH3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. HCOOCH(CH3)CH3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "X và Y là 2 este mạch hở có công thức phân từ C5H8O2. Thuỷ phân X và Y trong dung dịch NaOH đun nóng thu được hỗn hợp sản phẩm trong đó có chứa hai chất hữu cơ tương ứng Z và T. Đem Z tác dụng với dung dịch AgNO3 trong NH3 dư  thu được chất E. Lấy E tác dụng với NaOH thu được chất T. Công thức cấu tạo thu gọn của X, Y có thể lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCOOCH=C(CH3)-CH3 và CH2=C(CH3)COOCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3COOCH2CH=CH2 và CH3COOCH=CHCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH2=CHCOOC2H5 và CH3COOCH=CH-CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3COOCH=CH-CH3 và C2H5COOCH=CH2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Hỗn hợp X gồm phenyl axetat và axit axetic có tỉ lệ mol tương ứng là 1: 2. Cho 0,3 mol hỗn hợp X phản ứng vừa đủ với dung dịch hỗn hợp KOH 1,5M, NaOH 2,5M thu được x gam hỗn hợp muối. Giá trị của x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 33,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 21,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 28,7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 38,6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho 27,6 gam hợp chất thơm X có CT C7H6O3 tác dụng với 800 ml dd NaOH 1M được dd Y. Trung hòa Y cần 100 ml dd H2SO4 1M được dd Z. Khối lượng chất rắn thu được khi cô cạn dd Z là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 31,1 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 56,9 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 58,6 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 62,2 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Đốt cháy 1,7 gam este X cần 2,52 lít oxi (đktc), chỉ sinh ra CO2 và H2O với tỉ lệ số mol 2 : 1. Đun nóng 0,01 mol X với dung dịch NaOH thấy 0,02 mol NaOH tham gia phản ứng. X không có chức ete, không phản ứng với Na trong điều kiện bình thường và không khử được AgNO3/NH3 ngay cả khi đun nóng. Biết Mx< 140 đvC. Hãy xác định công thức cấu tạo của X?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCOOC6H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3COOC6H5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H5COOC6H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H3COOC6H5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Hỗn hợp X gồm 2 este đơn chức. Cho 0,3 mol hỗn hợp X tác dụng vừa đủ với dung dịch NaOH, Thu được dung dịch Y. Cô cạn dung dịch Y thu được hỗn hợp Z gồm hai muối khan. Đốt cháy hoàn toàn Z thu được 55 gam CO2; 26,5 gam Na2CO3 và m gam H2O. Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 17,1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 15,3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8,1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 11,7",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho các chất sau: CH3COOH; HCOOC2H3; CH3COOC2H3; HCOOC6H5; HCOOC(CH3)=CH2; HCOOCH=CHCH3. Số chất mà khi thủy phân cho 2 sản phẩm đều tráng bạc là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Este nào dưới đây thủy phân thu được 2 muối và 1 ancol?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C6H5OOCCH=CH2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3OOC-COOC2H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3COOCH2CH2OCOC2H5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3OCO-COOC3H7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "X là este của glixerol và axit hữu cơ Y. Đốt cháy hoàn toàn 0,1 mol X rồi hấp thụ tất cả sản phẩm cháy vào dung dịch Ca(OH)2dư thu được 60g kết tủa. X có công thức cấu tạo là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (HCOO)3C3H5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (CH3COO)3 C3H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (C17H33COO)3 C3H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (C17H33COO)3 C3H5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một este X mạch hở có khối lượng m gam. Khi thủy phân hoàn toàn m gam X bằng dung dịch KOH lấy dư, sau khi phản ứng kết thúc thu được m1 gam một ancol Y (Y không có khả năng phản ứng với Cu(OH)2) và 18,20 gam hỗn hợp muối của hai axit cacboxylic đơn chức. Đốt cháy hoàn toàn m1 gam Y bằng oxi dư, thu được 13,2 gam CO2 và 7,20 gam H2O. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10,6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 16,2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 11,6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 14,6",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho 21,8 gam chất hữu cơ X mạch hở chỉ chứa một loại nhóm chức tác dụng với 1 lít dung dịch NaOH 0,5M thu được 24,6 gam muối và 0,1 mol ancol. Lượng NaOH dư được trung hoà vừa hết bởi 0,5 lít dung dịch HCl 0,4M. Công thức cấu tạo của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (HCOO)3C3H5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (CH3COO)2C2H4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (CH3COO)3C3H5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C3H5(COOCH3)3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Hợp chất hữu cơ X có công thức C5H6O4. X tác dụng với NaOH trong dung dịch theo tỉ lệ mol tương ứng 1 : 2, tạo ra muối của axit cacboxylic no Y và ancol Z. Dẫn Z qua CuO, nung nóng, thu được andehit T khi tham gia phản ứng tráng bạc, tạo Ag theo tỉ lệ mol tương ứng 1 : 4. Biết Y không có đồng phân nào khác. Phát biểu nào sau đây đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Axit Y có tham gia phản ứng tráng bạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ancol Z không hòa tan Cu(OH)2 để tạo dung dịch màu xanh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Andehit T là chất đầu tiên trong dãy đồng đẳng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ancol Z không no có 1 liên kết C=C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Thủy phân hoàn toàn 27g este E bằng 1 lượng vừa đủ dung dịch NaOH, rồi ô cạn chỉ thu được hơi nước và hỗn hợp X gồm 2 muối (đều có khối lượng phân tử  >100). Đốt cháy hoàn toàn lượng muối trên cần dùng 1,75 mol O2  , thu được 0,2 mol Na2CO3 ; 1,4 mol CO2 và 0,7 molH2O. Công thức của este là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (COOC6H5)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.CH3( COOC6H5)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (CH2COOC6H5)2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (CH2COOCH2C6H5)2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Este X có công thức phân tử C6H10O4. Xà phòng hóa hoàn toàn X bằng dung dịch NaOH, thu được ba chất hữu cơ Y, Z, T. Biết Y tác dụng với Cu(OH)2 tạo dung dịch màu xanh lam. Nung nóng Z với hỗn hợp rắn gồm NaOH và CaO, thu được CH4. Phát biều nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X có hai công thức cấu tạo phù hợp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Y có mạch cacbon phân nhánh.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. T có khả năng tham gia phản ứng tráng bạc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Z không làm mất màu dung dịch brom.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Đốt cháy hoàn toàn một lượng este X đơn chức thấy thể tích CO2 thu được bằng thể tích của O2 cần dùng và gấp 1,5 lần thể tích hơi nước (ở cùng đk nhiệt độ, áp suất). Biết X tham gia phản ứng tráng gương. CTCT của X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCOOC≡CH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HCOOCH=CHCH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HCOOCH=CH2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. HCOOCH2CH3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Hỗn hợp CH3COOC2H5 , CH3COOC2H3 và C2H3COOCH3. Hỗn hợp X có tỉ khối hơi so với H2 là dX/H2 = 43,5. Đốt cháy hoàn toàn x mol X ; sau phản ứng thu được hỗn hợp sản phẩm Y. Hấp thụ Y vào dung dịch Ca(OH)2 dư thì sau phản ứng thu được 24 gam kết tủa. Giá trị của x là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,06",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,08",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,15",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Đốt cháy hoàn toàn m gam hỗn hợp X gồm metyl acrylic, vinyl fomat, metyl metacrylat. Toàn bộ sản phẩm cháy cho qua dung dịch Ca(OH)2 dư, sau phản ứng thu được 22,5 gam kết tủa và khối lượng dung dịch X bị giảm đi 9,45 gam so với ban đầu.Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4,65",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5,18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.6,72",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8,96",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 5,4 gam hỗn hợp X gồm axit acrylic, axit oleic, vinyl axetat, metyl acrylat cần vừa đủ V lít O2(đktc). Hấp thụ toàn bộ sản phẩm chát vào nước vôi trong dư, sau khi phản ứng hoàn toàn thu được 30 gam kết tủa. Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8,512.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8,736.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 8,064.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8,96.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Hỗn hợp X gồm axit metacrylic, axit oleic, vinyl fomat, metyl metacrylat. Đốt cháy hoàn toàn 5,4 gam hỗn hợp X cần vừa đủ V lít khí O2 (đktc). Hấp thụ toàn bộ sản phẩm cháy vào dung dịch Ba(OH)2 dư, sau phản ứng hoàn toàn thu được 59,1 gam kết tủa. Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8,736",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,896",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3,360",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,24",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Đốt cháy hoàn toàn m gam hỗn hợp A gồm 3 este X, Y, Z (đều mạch hở và chỉ chứa chức este, X có khối lượng nhỏ nhất trong A) thu được số mol CO2 lớn hơn số mol H2O là 0,25 mol. Mặt khác, m gam A phản ứng vừa đủ với dung dịch NaOH thu được 22,2 gam hai ancol hơn kém nhau 1 nguyên tử cacbon và hỗn hợp T gồm hai muối. Đốt cháy hoàn toàn T cần vừa đủ 0,275 mol O2, thu được CO2, 0,35 mol Na2CO3 và 0,2 mol H2O. Phần trăm khối lượng của X trong A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 28,92%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 22,07%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 28,43%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 42,65%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

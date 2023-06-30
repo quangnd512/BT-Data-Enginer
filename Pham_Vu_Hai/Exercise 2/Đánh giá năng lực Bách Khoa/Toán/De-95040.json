@@ -1,0 +1,902 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/gioi-han-cua-day-so-1/95040/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Biết limun=3. Chọn mệnh đề đúng trong các mệnh đề sau.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.lim3un−1un+1=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. lim3un−1un+1=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lim3un−1un+1=2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.lim3un−1un+1=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: lim3un−1un+1=3limun−1limun+1=3.3−13+1=84=2\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hai dãy số un,vn thỏa mãn  un≤vn với mọi n và limun=0 thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limun=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.limun>limvn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limun<limvn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limun<0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐịnh lý: Cho hai dãy sốunvàvnNếuun≤vnvới mọi n và limvn=0 thì limun=0\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho n∈N∗ nếu |q|<1 thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limqn=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.limq=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limn.q=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limnq=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐịnh lý: Nếuq<1thì limqn=0\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho cấp số nhân lùi vô hạn uncông bội q. Đặt S=u1+u2+...+un+... thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.S=u11−q",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.S=u1q−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.S=1−qun",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=u11−qn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức tính tổng cấp số nhân lùi vô hạn: S=u1+u2+...+un+...=u11−q\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Gọi S là tổng của cấp số nhân lùi vô hạn un có công bội qq<1. Khẳng định nào sau đây đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.S=u11−q",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.S=u11+q",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.S=1u1−q",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=u1q−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nS=u1+u2+...=u11+q+q2+...=u11−q\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho un=1−4n5n. Khi đó lim unbằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.15.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−45.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.45.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−15.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimun=lim1−4n5n=lim1n−45=−45=−45.\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho un=n2−3n1−4n3.  Khi đó lim unbằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.−14.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.34.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−34.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho un=3n+5n5n. Khi đó lim unbằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.35",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Giá trị limn3−2n+1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.+∞",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "lim2n+3n2 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho cấp số nhân un=12n,∀n≥1. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.S=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.S=12n",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.S=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho các dãy số un=1n,n≥1 và vn=n2,n≥1. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limun.vn=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limun.vn=+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.limun.vn=−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limun.vn=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Giới hạn lim2n+1−3.5n+53.2n+9.5n bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−13",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Giới hạn lim2−5n3n+122−25n5 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.−32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Giới hạn limn2−3n−5−9n2+32n−1bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.-1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Giới hạn lim2n2−n+42n4−n2+1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Giới hạn limn2−n−n bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Giới hạn limn2−n+1−n2+1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.−12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Giá trị limsinn!n2+1 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tính giới hạn limn2−3n32n3+5n−2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.-32",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "limn+12n−3 bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.-13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Bạn Bách thả 1 quả bóng cao su từ độ cao 12m so với mặt đất. Mỗi lần chạm đất quả bóng lại nảy lên độ cao bằng 23 độ cao của lần rơi trước. Giả sử quả bóng luôn chuyển động vuông góc với mặt đất. Tổng số quãng đường quả bóng đã di chuyển (từ lúc thả bóng cho tới khi quả bóng không nảy nữa) gần nhất với kết quả nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.36m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.62m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.60m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.56m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho dãy số unvới un=1−12+12−13+....+1n−1n+1. Khi đó lim un bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho dãy số (un) với un=11.3+13.5+...+12n−1.2n+1\nKhi đó lim un bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho dãy số (un)với un=2n+11−3nn3+5n−13 Khi đó lim un bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.-25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho dãy số (un) xác định bởi  u1=2un+1=un+12,n≥1 Khi đó mệnh đề nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Dãy (un) là dãy giảm tới 1 khi n→+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Dãy (un) là dãy tăng tới 1 khi n→+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Không tồn tại giới hạn của dãy (un)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Cả 3 đáp án trên đều sai",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho các số thực a, b thỏa mãn a<1,  b<1. Tìm giới hạn I=lim1+a+a2+...+an1+b+b2+...+bn.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1−a1−b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1−b1−a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho tam giác đều ABC cạnh a. Tam giác A1B1C1 có đỉnh là trung điểm các cạnh của tam giác ABC, tam giác A2B2C2 có các đỉnh là trung điểm các cạnh của tam giác A1B1C1,…, tam giác AnBnCnAnBnCn có các đỉnh là trung điểm các cạnh của tam giác An−1Bn−1Cn−1…. Goi P,P1,P2,...,Pn,... là chu vi của các tam giác ABC,A1B1C1,A2B2C2,...,AnBnCn,... Tìm tổng P,P1,P2,...,Pn,...",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.9a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Dãy số (un) nào sau đây có giới hạn khác số 1 khi n dần đến vô cùng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.un=2017−n2018n2018−n2017",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.un=nn2+2018−n2+2016",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.u1=2017un+1=12(un+1),n=1,2,3...",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.un=11.2+12.3+13.4+...+1nn+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Tính giới hạn: lim1−1221−132...1−1n2.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Với n là số nguyên dương, đặt  Sn=112+21+123+32+...+1nn+1+n+1n. Khi đó limSn bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.12+2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cho dãy số (un) xác định bởi u1=0 và un+1=un+4n+3, ∀n≥1 Biết\nlimun+u4n+u42n+...+u42018nun+u2n+u22n+...+u22018n=a2019+bcvới a, b, c là các số nguyên dương và b<2019. Tính giá trị S=a+b−c.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.S=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.S=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.S=2017",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.S=2018",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Tìm tất cả các giá trị của tham số m sao cho phương trình x3−3x2+2m−2x+m−3=0 có ba nghiệm x1, x2, x3  thỏa mãn x1<−1<x2<x3.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m>−5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m<−5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.m≤−5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m<−6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Tính lim12+22+32+...+n22nn+76n+5",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.16",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.126",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Đặt fn=n2+n+12+1..\nXét dãy số (un) sao cho un=f1.f3.f5...f(2n−1)f2.f4.f6...f(2n)  Tính limnun.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limnun=2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limnun=13.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limnun=3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limnun=12.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Tính limn4n2+3−8n3+n3",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.23",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Tìm số hữu tỉ biểu diễn số 0,111111… chu kỳ (1).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.19",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.111",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.113",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Cho hình vuông A1B1C1D1 có cạnh bằng a và có diện tích S1. Nối bốn trung điểm A2,B2,C2,D2  ta được hình vuông thứ hai có diện tích S2. Tiếp tục như thế, ta được hình vuông A3B3C3D3 có diện tích S3,…  Tính tổng S1+S2+…  bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.a22100−12100",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2a2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.a22100",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.a2299−1298",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Người ta dự định xây dựng một tòa tháp 11 tầng tại một ngôi chùa nọ theo cấu trúc: diện tích của mặt sàn tầng trên bằng một nửa diện tích mặt sàn tầng dưới, biết diện tích mặt đáy tháp là 15 m2. Yêu cầu là nền tháp lát gạch hoa kích thước 30x30 (cm). Số lượng gạch hoa cần mua để lát sàn tháp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 333 viên gạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 334 viên gạch",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 332 viên gạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 335 viên gạch",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

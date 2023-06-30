@@ -1,0 +1,442 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-bang-chung-tien-hoa/74139/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong nghiên cứu lịch sử phát triển của sinh giới, hóa thạch có vai trò là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Xác định tuổi của hoá thạch bằng đồng vị phóng xạ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bằng chứng gián tiếp về lịch sử phát triển của sinh giới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Xác định tuổi của hoá thạch có thể xác định tuổi của quả đất",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bằng chứng trực tiếp về lịch sử phát triển của sinh giới.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nVai trò của hóa thạch là bằng chứng trực tiếp về lịch sử phát triển của sinh giới.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Loại bằng chứng nào sau đây có thể giúp chúng ta xác định được loài nào xuất hiện trước, loài nào xuất hiện sau trong lịch sử phát sinh và phát triển của sự sống trên Trái Đất ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bằng chứng sinh học phân tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bằng chứng giải phẫu so sánh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bằng chứng hóa thạch",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Bằng chứng tế bào học",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nBằng chứng hóa thạch cho biết loài nào xuất hiện trước loài nào xuất hiện sauĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Bằng chứng nào sau đây không trực tiếp cho thấy mối quan hệ tiến hóa giữa các loài sinh vật?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Di tích của xương đai hông, xương đùi và xương chày được tìm thấy ở cá voi hiện nay.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Xác voi ma mút được tìm thấy trong các lớp băng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Những đốt xương khủng long được tìm thấy trong các lớp đất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Xác sâu bọ được tìm thấy trong các lớp hổ phách.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nB - C - D - là hóa thạch.Di tích của xương đai hông, xương đùi và xương chày được tìm thấy ở cá voi hiện nay là cơ quan thoái hóa, là bằng chứng giải phẫu so sánh.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cơ quan tương đồng là những cơ quan:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cùng nguồn gốc, đảm nhận những chức phận giống nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có nguồn gốc khác nhau nhưng đảm nhận những chức phận giống nhau , có hình thái tương tự nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cùng nguồn gốc, nằm ở những vị trí tương ứng trên cơ thể, có thể thực hiện các chức năng khác nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Có nguồn gốc khác nhau , nằm ở những vị trí tương ứng trên cơ thể có kiểu cấu tạo giống nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCơ quan tương đồng là cơ quan có cùng nguồn gốc nhưng thực hiện các chức năng khác nhauĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cặp cấu trúc nào dưới đây là cơ quan tương đồng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cánh của chim và cánh của côn trùng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Gai của cây hoa hồng và gai của cây xương rồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cánh của dơi và chi trước của ngựa.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Mang của cá và mang của tôm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nĐáp án C, cánh dơi và chân trước của ngựa đều có nguồn gốc từ chi trước của thú.A sai: cánh chim có nguồn gốc chi trước, cánh côn trùng có nguồn gốc từ biểu bì.B sai: gai hoa hồng có nguồn gốc biểu bì, gai xương rồng có nguồn gốc là lá.D  sai, cá là động vật có xương sống, còn tôm thì không có xương sống, 2 cơ quan mang của 2 loài này là khác nguồn gốc.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Ý nghĩa của các cơ quan tương đồng với việc nghiên cứu tiến hóa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phản ánh sự tiến hóa đồng quy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phản ánh sự tiến hóa phân li",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Phản ánh nguồn gốc chung các loài",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cho biết các loài đó sống trong điều kiện giống nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nCác loài có cấu tạo cơ thể khác xa nhau nhưng cùng thực hiện chức năng tương tự nhau → tiến hóa đồng quyTiến hóa phân ly: cấu tạo cơ thể giống nhau nhưng thực hiện các chức năng khác nhauĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cấu tạo khác nhau của cơ quan tương đồng là do",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sự tiến hóa trong quá trình phát triển loài",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chọn lọc tự nhiên đã diễn ra theo những hướng khác nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chúng có nguồn gốc khác nhau nhưng phát triển trong các điều kiện như nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chúng thực hiện các chức năng khác nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cơ quan tương tự là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những cơ quan có nguồn gốc khác nhau tuy đảm nhiệm những chức năng khác nhau nhưng vẫn có hình thái tương tự",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Những cơ quan có nguồn gốc khác nhau nhưng đảm nhiệm những chức năng giống nhau nên có kiểu hình thái tương tự",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Những cơ quan có nguồn gốc giống nhau nhưng đảm nhiệm những chức năng giống nhau nên có hình thái tương tự.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Những cơ quan có nguồn gốc khác nhau tuy đảm nhiệm những chức năng giống nhưng có hình thái khác nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cơ quan thoái hoá là cơ quan",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phát triển không đầy đủ ở cơ thể trưởng thành.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Thay đổi cấu tạo phù hợp với chức năng mới",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Thay đổi chức năng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Biến mất hoàn toàn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ruột thừa ở người; hạt ngô trên bông cờ của ngô hay cây đu đủ đực có quả. Đây là bằng chứng về",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cơ quan thoái hóa",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cơ quan tương đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phôi sinh học",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cơ quan tương tự",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cá và gà khác hẳn nhau, nhưng có những giai đọan phôi thai tương tự nhau, chứng tỏ chúng cùng tổ tiên xa thì gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bằng chứng giải phẫu so sánh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bằng chứng phôi sinh học.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Bằng chứng địa lí - sinh học.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bằng chứng sinh học phân tử.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Nói về bằng chứng phôi sinh học so sánh, phát biểu nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phôi sinh học so sánh nghiên cứu những đặc điểm khác nhau trong giai đoạn đầu, giống nhau ở giai đoạn sau trong quá trình phát triển phôi của các loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phôi sinh học so sánh chỉ nghiên cứu những đặc điểm giống nhau trong quá trình phát triển phôi của các loài động vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phôi sinh học so sánh chỉ nghiên cứu những đặc điểm khác nhau trong quá trình phát triển phôi của các loài động vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phôi sinh học so sánh nghiên cứu những đặc điểm giống nhau và khác nhau trong quá trình phát triển phôi của các loài động vật.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Người và tinh tinh khác nhau nhưng thành phần axit amin ở chuỗi β Hb như nhau chứng tỏ cùng một nguồn gốc thì gọi là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bằng chứng sinh học phân tử",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Bằng chứng giải phẫu so sánh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bằng chứng đại lí sinh học",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bằng chứng phôi sinh học",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Ý nào sau đây không phải là bằng chứng sinh học phân tử?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giữa các loài sự có thống nhất về cấu tạo và chức năng của mã di truyền.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giữa các loài có sự thống nhất về cấu tạo và chức năng của axit nuclêic.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Giữa các loài sự thống nhất về cấu tạo và chức năng của prôtêin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giữa các loài sự thống nhất về cấu tạo và chức năng của các gen.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Bằng chứng cho thấy bào quan ti thể trong tế bào sinh vật nhân chuẩn có lẽ có nguồn gốc từ sinh vật nhân sơ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khi nuôi cấy, ti thể trực phân hình thành khuẩn lạc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có thể nuôi cấy ti thể và tách chiết ADN dễ dàng như đối với vi khuẩn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cấu trúc hệ gen của ti thể và hình thức nhân đôi của ti thể giống như vi khuẩn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ti thể rất mẫn cảm với thuốc kháng sinh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Bằng chứng tiến hóa nào cho thấy sự đa dạng và thích nghi của sinh giới ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hóa thạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phôi sinh học so sánh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tế bào học và sinh học phân tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giải phẫu học so sánh",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Bằng chứng tiến hóa nào là phù hợp nhất để sử dụng giải thích nguồn gốc tổ tiên chung của các loài trên trái đất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bằng chứng giải phẫu so sánh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hóa thạch",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cơ quan tương đồng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Bằng chứng tế bào học và sinh học phân tử",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Sự giống nhau nào trong các bằng chứng tiến hóa sau không được quy định bởi sự giống nhau về kiểu gen:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các cơ quan thoái hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Các cơ quan tương đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự giống nhau của các cơ quan tương tự.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cơ quan tương đồng và cơ quan thoái hóa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cặp cơ quan nào dưới đây là cơ quan tương đồng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đuôi cá mập và đuôi cá voi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngà voi và sừng tê giác.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vòi voi và vòi bạch tuộc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cánh dơi và tay người.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,741 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/polymer/75836/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho các polime : PS, cao su isopren, rezit, xenlulozơ, tinh bột, glicogen, PVC, cao su lưu hóa. Có bao nhiêu polime có cấu trúc mạng không gian ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nCác polime có cấu trúc mạng không gian là rezit, cao su lưu hóa\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nhận xét về tính chất vật lí chung của polime nào dưới đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hầu hết là những chất rắn, không bay hơi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đa số nóng chảy ở một khoảng nhiệt độ rộng, hoặc không nóng chảy mà bị phân hủy khi đun nóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đa số không tan trong các dung môi thông thường, một số tan trong dung môi thích hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hầu hết polime đều đồng thời có tính dẻo, tính đàn hồi và có thể kéo thành sợi dai, bền",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nNhận xét không đúng là: Hầu hết polime đều đồng thời có tính dẻo, tính đàn hồi và có thể kéo thành sợi dai, bền.\nSai vì tính dẻo và tính đàn hồi không cùng đồng thời với nhau.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Xét về mặt cấu tạo thì số lượng polime thu được khi trùng hợp buta-1,3-đien là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nXét về mặt cấu tạo thì khi trùng hợp buta-1,3-đien theo 2 kiểu trùng hợp 1,2 và trùng hợp 1,4\nTrùng hợp 1,2 : nCH2=CH-CH=CH2 → (-CH2-CH(CH=CH2)-)n\nTrùng hợp 1,4 : nCH2=CH-CH=CH2 → (-CH2-CH=CH-CH2)-)n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Để tạo ra cao su Buna-S, cao su Buna-N, người ta phải thực hiện phản ứng gì ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phản ứng trùng hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phản ứng đồng trùng hợp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Phản ứng trùng ngưng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phản ứng đồng trùng ngưng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nĐể tạo ra cao su buna-S, người ta tiến hành đồng trùng hợp buta-1,3-đien và stiren.\nĐể tạo ra cao su buna-N, người ta tiến hành đồng trùng hợp buta-1,3-đien và acrilonitrin.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho các chất sau :\n1) CH3CH(NH2)COOH          \n2) HOOC–CH2–CH2–COOH            \n3) HO–CH2–COOH\n4) HCHO và C6H5OH            \n5) HO–CH2–CH2–OH và p-C6H4(COOH)2\n6) H2N[CH2]6NH2 và HOOC(CH2)4COOH\nCác trường hợp có thể tham gia phản ứng trùng ngưng là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1, 3, 4, 5, 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1, 2, 3, 4, 5, 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1, 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1, 3, 5, 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nCác chất có thể tham gia phản ứng trùng ngưng là phân tử phải có ít nhất 2 nhóm chức có khả năng phản ứng\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho một polime sau : \n(–NH–CH2–CO–NH–CH(CH3)–CO–NH–CH2–CH2–CO–)n.\nSố loại phân tử monome tạo thành polime trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\n\nCác monome tạo nên mạch trên là NH2–CH2–COOH; NH2–CH(CH3)–COOH; NH2–CH2–CH2–COOH\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho các polime sau: nilon 6-6; poli (vinyl clorua); poli (metyl metacrylat); teflon; tơ lapsan; polietilen; polibutadien. Số polime được điều chế bằng phản ứng trùng ngưng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Polime nào sau đây được điều chế bằng phản ứng trùng ngưng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nilon-6,6.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tơ olon.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Polietilen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cao su Buna.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho dãy các polime sau: polietilen, xenlulozơ, nilon-6,6, amilozơ, nilon-6, tơ nitron, polibutađien, tơ visco, tơ lapsan. Số polime tổng hợp có trong dãy là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho các chất sau: etilen, vinyl clorua, metyl axetat, metyl acrylat, glyxin. Số chất có thể tham gia phản ứng trùng hợp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tơ nào dưới đây được điều chế bằng phương pháp trùng ngưng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nilon-6,6.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tơ visco.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tơ axetat.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tơ nitron.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Phát biểu nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tơ nitron được điều chế bằng phản ứng trùng ngưng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sợi bông, tơ tằm đều thuộc loại tơ thiên nhiên.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cao su lưu hóa có cấu trúc mạch không phân nhánh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tơ nilon-6,6 được điều chế bằng phản ứng trùng hợp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho các polime sau: polietilen, poli(vinyl clorua), cao su lưu hóa, nilon-6,6, amilopectin, xenlulozơ. Số polime có cấu trúc mạch không phân nhánh là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho các polime sau: polietilen, poliacrilonitrin, tơ visco, nhựa novolac, xenlulozơ, cao su buna-N, tơ nilon-6,6. Số polime tổng hợp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Số lượng mắt xích của 1 đoạn mạch tơ nilon-6 là 120. Khối lượng phân tử của đoạn mạch này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13560",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 15200",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 13673",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15720",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một loại cao su Buna-S có tỉ lệ kết hợp của 2 loại monome là 1 : 1. Phân tử khối trung bình của loại cao su này là 12640000 đvC. Hệ số polime hóa trung bình của loại cao su này bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 100000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.80000",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 90000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 95000",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một phân tử cao su buna-S gồm 4000 mắt xích và có phân tử khối bằng 1048000 đvC. Tỉ lệ số phân tử buta-1,3-đien và stiren trong loại cao su trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1:2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3:1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1:3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1:1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một polime X được xác định có phân tử khối là 39062,5 đvC với hệ số trùng hợp để tạo nên polime này là 625. Polime X là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. PP",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. PVC",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. PE",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. PS",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cứ 25,2 gam cao su buna-S phản ứng hết với 300 gam dung dịch Br2 6,4%. Tỉ lệ mắt xích butađien và stiren trong cao su buna-S là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3:5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1:3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2:3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1:2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Khi clo hóa PVC ta thu được một loại tơ clorin chứa 66,67% clo. Hỏi trung bình 1 phân tử clo tác dụng với bao nhiêu mắt xích PVC ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Khi tiến hành đồng trùng hợp acrilonitrin và buta-1,3-đien thu được một loại cao su buna-N chứa 15,73% N về khối lượng. Tỉ lệ số mol acrilonitrin và buta-1,3-đien trong cao su buna-N là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2 : 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2 : 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1 : 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3 : 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cao su lưu hóa chứa 2% lưu huỳnh về khối lượng. Giả thiết nguyên tử S thay thế cho nguyên tử H ở nhóm metylen (-CH2-) trong mạch cao su. Trung bình khoảng bao nhiêu mắt xích cao su isopren có 1 cầu nối đisunfua -S-S- ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 46",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.40",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 56",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 23",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Đồng trùng hợp đimetyl buta–1,3–đien với acrilonitrin(CH2=CH–CN) theo tỉ lệ tương ứng x : y, thu được một loại polime. Đốt cháy hoàn toàn một lượng polime này, thu được hỗn hợp khí và hơi (CO2, H2O, N2) trong đó có 57,69% CO2 về thể tích. Tỉ lệ x : y  khi tham gia trùng hợp là bao nhiêu ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\frac{x}{y} = \\frac{1}{3}\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[\\frac{x}{y} = \\frac{2}{3}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[\\frac{x}{y} = \\frac{3}{2}\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[\\frac{x}{y} = \\frac{3}{5}\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Khi tiến hành phản ứng trùng ngưng giữa axit ađipic và hexametylenđiamin ta thu được một tơ nilon-6,6 chứa 12,39% nitơ về khối lượng. Tỷ lệ số mắt xích giữa axit ađipic và hexametylenđiamin trong mẫu tơ trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2 : 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1 : 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1 : 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3 : 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Khi cho một loại cao su buna-S tác dụng với brom (tan trong CCl4) người ta nhận thấy cứ 1,05 g cao su đó có thể tác dụng hết với 0,80 g brom. Tỉ lệ giữa số mắt xích butađien và số mắt xích stiren trong loại cao su nói trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 : 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3 : 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2 : 3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2 : 1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Khi clo hoá PVC, tính trung bình cứ k mắt xích trong mạch PVC phản ứng với một phân tử clo. Sau khi clo hoá, thu được một polime chứa 63,96% clo (về khối lượng). Giá trị của k là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cứ 5,668 g cao su buna – S phản ứng vừa hết với 3,462 g Br2 trong CCl4. Hỏi tỉ lệ butađien và stiren trong cao su buna – S là bao nhiêu ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2/3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1/2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3/5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1.3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Tiến hành clo hoá poli(vinyl clorua) thu được một loại polime X dùng để điều chế tơ clorin. Trong X có chứa 66,18% clo theo khối lượng. Vậy, trung bình có bao nhiêu mắt xích PVC phản ứng được với một phân tử clo?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Khối lượng phân tử của 1 loại tơ capron bằng 16950 đvC, của tơ enang bằng 21590 đvC. Số mắt xích trong công thức phân tử của mỗi loại tơ trên lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 150 và 170.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 170 và 180.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 120 và 160.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 200 và 150.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Một loại cao su lưu hoá chứa 1,714% lưu huỳnh. Hỏi cứ khoảng bao nhiêu mắt xích isopren có một cầu nối đisunfua –S–S–, giả thiết rằng S đã thay thế cho H ở nhóm metylen trong mạch cao su.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 52.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 25.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 46.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 54.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Tiến hành phản ứng đồng trùng hợp giữa stiren và buta – 1,3 – đien (butađien), thu được polime X. Cứ 2,834 gam X phản ứng vừa hết với 1,731 gam Br2. Tỉ lệ số mắt xích (butađien : stiren) trong loại polime trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1:1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1:2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2:3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1:3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Khối lượng của một đoạn mạch tơ nilon-6,6 là 27346 đvC và của một đoạn mạch tơ capron là 17176 đvC. Số lượng mắt xích trong đoạn mạch nilon-6,6 và capron nêu trên lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 113 và 152.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 121 và 114.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 121 và 152.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 113 và 114.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

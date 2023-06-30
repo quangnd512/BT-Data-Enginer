@@ -1,0 +1,419 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/nguyen-ham-tung-phan/101652/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Chọn công thức đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.∫udv=uv+∫vdu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.∫udv=uv−∫vdu",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.∫udv=∫uv−∫vdu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.∫udv=∫uvdv−∫vdu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCông thức đúng là ∫udv=uv−∫vdu\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong phương pháp nguyên hàm từng phần, nếu u=gxdv=hxdx thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. du=g'xdxv=∫h(x)dx",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. du=gxdxv=∫h(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. du=∫gxdxv=h(x)dx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. du=g'xdxv=h(x)dx",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: u=gx⇒du=g'xdx\ndv=hxdx⇒v=∫hxdx\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Ta có −x+aex là một họ nguyên hàm của hàm số f(x)=xex, khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a = -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a = 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Biết Fx=ax+b.ex là nguyên hàm của hàm số y=(2x+3).ex. Khi đó b-a là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tính I=∫cosxdx ta được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2xsinx−cosx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2xsinx+cosx+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. xsinx+cosx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. xsinx-cosx+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hàm số y=f(x) thỏa mãn f'x=x+1ex và ∫f'(x)dx=(ax+b)ex+c với a,b,c là các hằng số. Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a + b = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a + b = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a + b = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a + b = 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Gọi F(x) là một nguyên hàm của hàm số y=x.cosx mà F(0)=1. Phát biểu nào sau đây đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. F(x) là hàm chẵn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. F(x) là hàm lẻ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. F(x) là hàm tuần hoàn với chu kì 2π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. F(x) không là hàm chẵn cũng không là hàm lẻ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tính ∫x3ln3xdx",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 14x4ln3x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −14x4ln3x−116x4+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −14x4ln3x+116x4+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 14x4ln3x-116x4+C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho F(x) là một nguyên hàm của hàm số fx=xcos2x thỏa mãn F(0)=0. Tính F(π)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fπ=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fπ=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fπ=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fπ=0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tìm nguyên hàm F(x) của fx=2x−1ex. biết F(0)=1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fx=2x+ln2−1exln2−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fx=1ln2−12ex+1ex−1ln2−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Fx=2x+ln2exln2−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fx=2ex",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Nguyên hàm của hàm số f(x)=cos2xln(sinx+cosx)dx là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=121+sin2xln1+sin2x−14sin2x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=141+sin2xln1+sin2x−12sin2x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=141+sin2xln1+sin2x−14sin2x+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I=141+sin2xln1+sin2x+14sin2x+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tính I=∫lnx+x2+1dx ta được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. xlnx+x2+1−x2+1+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. lnx+x2+1−x2+1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. xlnx+x2+1+x2+1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. lnx+x2+1+x2+1+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Tính I=∫e2xcos3xdx ta được:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. e2x132sin3x+3cos3x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. e2x133sin3x−2cos3x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. e2x132sin3x−3cos3x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. e2x133sin3x+2cos3x+C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Biết rằng xex là một nguyên hàm của hàm số f(−x) trên khoảng −∞;+∞. Gọi F(x) là một nguyên hàm của f'xex  thỏa mãn F(0)=1, giá trị của F(−1) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 72",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5−e2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7−e2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 52",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Nguyên hàm của hàm số y=x2+xexx+e−xdx là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fx=xex+1−lnxex+1+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Fx=ex+1−lnxex+1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fx=xex+1−lnxe−x+1+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fx=xex+1+lnxex+1+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hàm số f(x) có đạo hàm liên tục trên R và f0=1, F(x)=f(x)−ex−x  là một nguyên hàm của f(x). Họ các nguyên hàm của f(x) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x+1ex+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x+1ex-x+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x+2ex-x+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x+1ex+x+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hàm số f(x) có đạo hàm liên tục trên R và f1=0, F(x)=[f(x)]2020 là một nguyên hàm của 2020x.ex. Họ các nguyên hàm của f2020(x) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2020x−2ex+C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. xex+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2020x+2ex+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x−2ex+C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho Fx=∫x+1f'xdx. Tính I=∫f(x)dx theo F(x).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I=x+1fx−2Fx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=Fx−x+1fx",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=x+1fx+C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. I=x+1fx−Fx+C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

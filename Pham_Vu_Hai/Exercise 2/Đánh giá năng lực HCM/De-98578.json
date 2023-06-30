@@ -1,0 +1,2098 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-phan-tich-du-kien-so-lieu/98578/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Sử dụng một nguồn điện xoay chiều có biểu thức điện áp là: u(t)=U0.cos 100πt(V)u(t)=U0.cos 100πt(V), cấp cho một đoạn mạch điện gồm điện trở, tụ điện và cuộn cảm thuần mắc nối tiếp như hình vẽ:\n\nĐiện áp hiệu dụng đo được như sau:\n\nHệ số công suất của đoạn mạch là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nUAM=URUMN=ULUNB=UC=100V\n+ Điện áp hai đầu AB:\nUAB2=UR2+UL−UC2\n⇔UR2+UL−1002=1002  1\n+ Điện áp hai đầu AN:\nUAN2=UR2+UL2⇔UR2+UL2=1002  2\n+ Lấy (1)−(2) ta được:\nUL2−200UL+1002−UL2=0⇒UL=50V\nThay vào (2) ta được:\nUR2+502=1002⇒UR=503V\nHệ số công suất của đoạn mạch:\ncosφ=URUAB=503100=32\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một học sinh tiến hành một thí nghiệm, trong đó, bạn ấy treo một quả bóng khối lượng m bằng một sợi dây và quay đều nó chuyển động theo một đường tròn. Qủa bóng được đẩy ra khỏi tâm của vòng tròn chuyển động bằng một lực li tâm FT. Lực được mô tả bằng công thức FT=mv2R, với m là khối lượng, v là tốc độ của quả bóng và R là bán kính chuyển động của nó.\n\nTại một thời điểm trong thí nghiệm của học sinh, m bằng một giá trị nhất định x; v bằng một giá trị nhất định y và R bằng một giá trị nhất định z. Lực kết quả tính được là 20 N (đơn vị của lực). Chúng ta có thể dự đoán lực là bao nhiêu nếu học sinh chọn giảm một nửa vận tốc, tăng gấp đôi khối lượng và giữa nguyên giá trị của bán kính?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.20N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.10N",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.40N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Trước tiên, chúng ta bỏ qua các biến vì chúng là thông tin không cần thiết.\nTa có: FT=mv2R\nGiảm một nửa vận tốc => v'=v2\nTăng gấp đôi khối lượng => m’ = 2m\nBán kính R giữ nguyên\nSuy ra: FT'=2mv22R=12.mv2R=FT2=202=10N\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một học sinh tiến hành một thí nghiệm, trong đó, bạn ấy treo một quả bóng khối lượng m bằng một sợi dây và quay đều nó chuyển động theo một đường tròn. Qủa bóng được đẩy ra khỏi tâm của vòng tròn chuyển động bằng một lực li tâm FT. Lực được mô tả bằng công thức FT=mv2R, với m là khối lượng, v là tốc độ của quả bóng và R là bán kính chuyển động của nó.\n\nMối quan hệ giữa lực trong sợi dây và khối lượng của quả cầu là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Mối quan hệ tuyến tính tích cực",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Mối quan hệ tuyến tính phủ định",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Mối quan hệ tiêu cực, theo cấp số nhân",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Không có mối quan hệ rõ ràng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCâu trả lời đúng là nó là một mối quan hệ tích cực, tuyến tính.\nNhư chúng ta có thể thấy trong phương trình, F tỉ lệ thuận với m không có số mũ liên quan. Điều này có nghĩa là nếu chúng ta tăng gấp đôi khối lượng thì lực cũng tăng lên gấp đôi.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một học sinh tiến hành một thí nghiệm, trong đó, bạn ấy treo một quả bóng khối lượng m bằng một sợi dây và quay đều nó chuyển động theo một đường tròn. Qủa bóng được đẩy ra khỏi tâm của vòng tròn chuyển động bằng một lực li tâm FT. Lực được mô tả bằng công thức FT=mv2R, với m là khối lượng, v là tốc độ của quả bóng và R là bán kính chuyển động của nó.\n\nBiết rằng sợi dây có chiều dài 1m, quả bóng được quay đều với tốc độ 60 vòng/phút. Thời gian để quả bóng quay hết một vòng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.3,14s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.6,28s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ đầu bài ta có: Tốc độ góc ω =60 vòng/phút = 60.2π60=2πrad/s\nMặt khác: ω =2πT\nSuy ra, thời gian quả bóng quay hết một vòng là:\nT=2πω=2π2π=1s\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một học sinh tiến hành một thí nghiệm, trong đó, bạn ấy treo một quả bóng khối lượng m bằng một sợi dây và quay đều nó chuyển động theo một đường tròn. Qủa bóng được đẩy ra khỏi tâm của vòng tròn chuyển động bằng một lực li tâm FT. Lực được mô tả bằng công thức FT=mv2R, với m là khối lượng, v là tốc độ của quả bóng và R là bán kính chuyển động của nó.\n\nChuyển động tròn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chuyển động có quỹ đạo là một đường tròn",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Chuyển động có hướng không đổi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Chuyển động có chiều chuyển động luôn không đổi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Chuyển động có gia tốc bằng 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nChuyển động tròn là chuyển động có quỹ đạo là một đường tròn\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một học sinh đang thực hiện một thí nghiệm khoa học cho lớp học của mình. Học sinh tạo ra một đoạn đường dốc có bốn bề mặt khác nhau: thảm, kính, gỗ và nhựa. Đường dốc được giữ ở một góc không đổi và một quả bóng được phép lăn xuống đường dốc. Học sinh kiểm tra từng vật liệu bằng cách thả một quả bóng ở các khoảng cách khác nhau từ cuối đoạn đường nối và ghi lại thời gian để quả bóng đi hết quãng đường.\n\nMột vật trượt trên một mặt phẳng, khi tốc độ của vật tăng thì hệ số ma sát giữa vật và mặt phẳng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.không đổi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.giảm xuống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.tăng tỉ lệ với tôc độ của vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.tăng tỉ lệ bình phương tốc độ của vật.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhi tốc độ của vật tăng thì hệ số ma sát giữa vật và mặt phẳng luôn không đổi.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một học sinh đang thực hiện một thí nghiệm khoa học cho lớp học của mình. Học sinh tạo ra một đoạn đường dốc có bốn bề mặt khác nhau: thảm, kính, gỗ và nhựa. Đường dốc được giữ ở một góc không đổi và một quả bóng được phép lăn xuống đường dốc. Học sinh kiểm tra từng vật liệu bằng cách thả một quả bóng ở các khoảng cách khác nhau từ cuối đoạn đường nối và ghi lại thời gian để quả bóng đi hết quãng đường.\n\nCác biến độc lập trong thí nghiệm này là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Thời gian quả bóng đi xuống đoạn đường nối",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Chất liệu của bề mặt và thời gian bóng đi xuống đoạn đường nối từ độ cao thả",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Không có biến độc lập",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Bề mặt vật liệu và độ cao mà quả bóng được thả",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một học sinh đang thực hiện một thí nghiệm khoa học cho lớp học của mình. Học sinh tạo ra một đoạn đường dốc có bốn bề mặt khác nhau: thảm, kính, gỗ và nhựa. Đường dốc được giữ ở một góc không đổi và một quả bóng được phép lăn xuống đường dốc. Học sinh kiểm tra từng vật liệu bằng cách thả một quả bóng ở các khoảng cách khác nhau từ cuối đoạn đường nối và ghi lại thời gian để quả bóng đi hết quãng đường.\n\nBề mặt nào gây ra ít ma sát nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Nhựa dẻo",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Cốc thủy tinh",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Thảm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Gỗ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một học sinh đang thực hiện một thí nghiệm khoa học cho lớp học của mình. Học sinh tạo ra một đoạn đường dốc có bốn bề mặt khác nhau: thảm, kính, gỗ và nhựa. Đường dốc được giữ ở một góc không đổi và một quả bóng được phép lăn xuống đường dốc. Học sinh kiểm tra từng vật liệu bằng cách thả một quả bóng ở các khoảng cách khác nhau từ cuối đoạn đường nối và ghi lại thời gian để quả bóng đi hết quãng đường.\n\nNếu quả cầu được thả trên mặt kính đi được quãng đường 50cm thì sau bao lâu (tính bằng giây) quả cầu sẽ đến đích?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2,75 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6,25 giây",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.3,75 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4,5 giây",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một học sinh đang thực hiện một thí nghiệm khoa học cho lớp học của mình. Học sinh tạo ra một đoạn đường dốc có bốn bề mặt khác nhau: thảm, kính, gỗ và nhựa. Đường dốc được giữ ở một góc không đổi và một quả bóng được phép lăn xuống đường dốc. Học sinh kiểm tra từng vật liệu bằng cách thả một quả bóng ở các khoảng cách khác nhau từ cuối đoạn đường nối và ghi lại thời gian để quả bóng đi hết quãng đường.\n\nBề mặt chậm nhất mà học sinh đã kiểm tra là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Cốc thủy tinh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Thảm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Nhựa dẻo",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Gỗ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một học sinh đang làm một thí nghiệm liên quan đến lực, quãng đường, công và thời gian thực hiện công. Học sinh đưa ra bảng sau:\n\n\n\n\nLực (F)\n\n\nQuãng đường đi (s)\n\n\nCông (A)\n\n\nThời gian (t)\n\n\n\n\n3 N\n\n\n1 m\n\n\n3 J\n\n\n10 s\n\n\n\n\n4 N\n\n\n10 m\n\n\n40 J\n\n\n20 s\n\n\n\n\n1,5 N\n\n\n7 m\n\n\n10,5 J\n\n\n1 s\n\n\n\n\nBạn ấy cũng cho biết rằng:\nCông suất P=At. Công suất được đo bằng Oát (W).\nNếu công suất W bằng công suất cần thiết để thắp sáng bóng đèn được gắn vào thì bóng đèn sẽ sáng. Nếu công suất nhiều hơn W, một bóng đèn gắn liền sẽ cháy sáng hơn.\nNếu học sinh làm một thí nghiệm với lực 6 N và cách nhau 1m thì học sinh đó sẽ thực hiện được một công bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.5,5J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,3W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một học sinh đang làm một thí nghiệm liên quan đến lực, quãng đường, công và thời gian thực hiện công. Học sinh đưa ra bảng sau:\n\n\n\n\nLực (F)\n\n\nQuãng đường đi (s)\n\n\nCông (A)\n\n\nThời gian (t)\n\n\n\n\n3 N\n\n\n1 m\n\n\n3 J\n\n\n10 s\n\n\n\n\n4 N\n\n\n10 m\n\n\n40 J\n\n\n20 s\n\n\n\n\n1,5 N\n\n\n7 m\n\n\n10,5 J\n\n\n1 s\n\n\n\n\nBạn ấy cũng cho biết rằng:\nCông suất P=At. Công suất được đo bằng Oát (W).\nNếu công suất W bằng công suất cần thiết để thắp sáng bóng đèn được gắn vào thì bóng đèn sẽ sáng. Nếu công suất nhiều hơn W, một bóng đèn gắn liền sẽ cháy sáng hơn.\nTheo bảng thì 1J bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.N/m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.N.W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.N.m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.N/W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một học sinh đang làm một thí nghiệm liên quan đến lực, quãng đường, công và thời gian thực hiện công. Học sinh đưa ra bảng sau:\n\n\n\n\nLực (F)\n\n\nQuãng đường đi (s)\n\n\nCông (A)\n\n\nThời gian (t)\n\n\n\n\n3 N\n\n\n1 m\n\n\n3 J\n\n\n10 s\n\n\n\n\n4 N\n\n\n10 m\n\n\n40 J\n\n\n20 s\n\n\n\n\n1,5 N\n\n\n7 m\n\n\n10,5 J\n\n\n1 s\n\n\n\n\nBạn ấy cũng cho biết rằng:\nCông suất P=At. Công suất được đo bằng Oát (W).\nNếu công suất W bằng công suất cần thiết để thắp sáng bóng đèn được gắn vào thì bóng đèn sẽ sáng. Nếu công suất nhiều hơn W, một bóng đèn gắn liền sẽ cháy sáng hơn.\nNếu học sinh đang cố gắng thắp sáng một bóng đèn 2W, trường hợp nào sau đây sẽ xảy ra?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Công A = 40J trong 20 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Công A = 60J trong 30 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Công A = 2J trong 1 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Cả ba trường hợp trên",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một học sinh đang làm một thí nghiệm liên quan đến lực, quãng đường, công và thời gian thực hiện công. Học sinh đưa ra bảng sau:\n\n\n\n\nLực (F)\n\n\nQuãng đường đi (s)\n\n\nCông (A)\n\n\nThời gian (t)\n\n\n\n\n3 N\n\n\n1 m\n\n\n3 J\n\n\n10 s\n\n\n\n\n4 N\n\n\n10 m\n\n\n40 J\n\n\n20 s\n\n\n\n\n1,5 N\n\n\n7 m\n\n\n10,5 J\n\n\n1 s\n\n\n\n\nBạn ấy cũng cho biết rằng:\nCông suất P=At. Công suất được đo bằng Oát (W).\nNếu công suất W bằng công suất cần thiết để thắp sáng bóng đèn được gắn vào thì bóng đèn sẽ sáng. Nếu công suất nhiều hơn W, một bóng đèn gắn liền sẽ cháy sáng hơn.\nHọc sinh đã thử lại thí nghiệm, nhưng lần này bạn ấy đã di chuyển vật trên quãng đường 40m nhưng theo hình tròn nên cuối cùng lại trở về vị trí cũ. Học sinh nghĩ rằng khoảng cách sẽ là 0m vì bạn ấy không thay đổi vị trí, do đó không thể thắp sáng một bóng đèn vì không có nguồn điện nào được tạo ra.\nĐiều này có đúng không?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Không. Vì công không liên quan gì đến việc bạn ấy đã đi bao xa mà liên quan đến lực mà bạn ấy đã sử dụng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Không. Vì thí nghiệm không đề cập đến quãng đường thực hiện được mà chỉ có khoảng cách di chuyển.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Có. Vì khoảng cách sẽ là 0m, công và công suất cũng sẽ bằng 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đúng. Vì bóng đèn không thể hoạt động nếu học sinh di chuyển theo hình tròn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một học sinh quan tâm đến việc xác định mối quan hệ giữa cường độ dòng điện, điện áp và điện trở trong mạch điện một chiều, chẳng hạn như mối quan hệ giữa pin được nối với bóng đèn. Học sinh đã xây dựng mạch điện như hình 1 bằng điện trở 2Ω2Ω.\n\nDòng điện chạy qua mạch có thể được tính bằng phương trình V=I.R với V là điện áp của pin, I là dòng điện qua mạch, R là điện trở của biến trở.\nHọc sinh đã sử dụng một điện trở 2Ω và pin có nhiều điện áp khác nhau để thu được kết quả trong bảng 1. Các dòng điện trong bảng không được tính bằng công thức V=I.R nhưng thay vào đó được đo trực tiếp từ mạch bằng ampe kế. Điều quan trọng cần lưu ý là dòng điện đo được sẽ chỉ chính xác bằng dòng điện tính toán nếu hệ thống không chứa điện trở trong.\n\n\n\n\nBảng 1\n\n\n\n\nThí nghiệm\n\n\nĐiện áp (V)\n\n\nDòng điện (A)\n\n\nCông suất (W)\n\n\n\n\n1\n\n\n10\n\n\n?\n\n\n?\n\n\n\n\n2\n\n\n20\n\n\n9,99\n\n\n199,8\n\n\n\n\n3\n\n\n30\n\n\n14,48\n\n\n434,4\n\n\n\n\n4\n\n\n40\n\n\n18,79\n\n\n751,6\n\n\n\n\nDựa trên công thức được cung cấp trong đoạn văn và dữ liệu từ các thí nghiệm, nếu điện áp tăng, dòng điện……",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.vẫn như cũ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.giảm xuống 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.giảm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.tăng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một học sinh quan tâm đến việc xác định mối quan hệ giữa cường độ dòng điện, điện áp và điện trở trong mạch điện một chiều, chẳng hạn như mối quan hệ giữa pin được nối với bóng đèn. Học sinh đã xây dựng mạch điện như hình 1 bằng điện trở 2Ω2Ω.\n\nDòng điện chạy qua mạch có thể được tính bằng phương trình V=I.R với V là điện áp của pin, I là dòng điện qua mạch, R là điện trở của biến trở.\nHọc sinh đã sử dụng một điện trở 2Ω và pin có nhiều điện áp khác nhau để thu được kết quả trong bảng 1. Các dòng điện trong bảng không được tính bằng công thức V=I.R nhưng thay vào đó được đo trực tiếp từ mạch bằng ampe kế. Điều quan trọng cần lưu ý là dòng điện đo được sẽ chỉ chính xác bằng dòng điện tính toán nếu hệ thống không chứa điện trở trong.\n\n\n\n\nBảng 1\n\n\n\n\nThí nghiệm\n\n\nĐiện áp (V)\n\n\nDòng điện (A)\n\n\nCông suất (W)\n\n\n\n\n1\n\n\n10\n\n\n?\n\n\n?\n\n\n\n\n2\n\n\n20\n\n\n9,99\n\n\n199,8\n\n\n\n\n3\n\n\n30\n\n\n14,48\n\n\n434,4\n\n\n\n\n4\n\n\n40\n\n\n18,79\n\n\n751,6\n\n\n\n\nTrong thí nghiệm 1, cường độ dòng điện chạy qua mạch là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Một học sinh quan tâm đến việc xác định mối quan hệ giữa cường độ dòng điện, điện áp và điện trở trong mạch điện một chiều, chẳng hạn như mối quan hệ giữa pin được nối với bóng đèn. Học sinh đã xây dựng mạch điện như hình 1 bằng điện trở 2Ω2Ω.\n\nDòng điện chạy qua mạch có thể được tính bằng phương trình V=I.R với V là điện áp của pin, I là dòng điện qua mạch, R là điện trở của biến trở.\nHọc sinh đã sử dụng một điện trở 2Ω và pin có nhiều điện áp khác nhau để thu được kết quả trong bảng 1. Các dòng điện trong bảng không được tính bằng công thức V=I.R nhưng thay vào đó được đo trực tiếp từ mạch bằng ampe kế. Điều quan trọng cần lưu ý là dòng điện đo được sẽ chỉ chính xác bằng dòng điện tính toán nếu hệ thống không chứa điện trở trong.\n\n\n\n\nBảng 1\n\n\n\n\nThí nghiệm\n\n\nĐiện áp (V)\n\n\nDòng điện (A)\n\n\nCông suất (W)\n\n\n\n\n1\n\n\n10\n\n\n?\n\n\n?\n\n\n\n\n2\n\n\n20\n\n\n9,99\n\n\n199,8\n\n\n\n\n3\n\n\n30\n\n\n14,48\n\n\n434,4\n\n\n\n\n4\n\n\n40\n\n\n18,79\n\n\n751,6\n\n\n\n\nNếu học sinh đó không biết điện trở trong biến trở, bạn ấy có thể sử dụng công thức nào để tính gần đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=I.V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R=VI",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. R=IV",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không có sự lựa chọn nào khác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Một học sinh quan tâm đến việc xác định mối quan hệ giữa cường độ dòng điện, điện áp và điện trở trong mạch điện một chiều, chẳng hạn như mối quan hệ giữa pin được nối với bóng đèn. Học sinh đã xây dựng mạch điện như hình 1 bằng điện trở 2Ω2Ω.\n\nDòng điện chạy qua mạch có thể được tính bằng phương trình V=I.R với V là điện áp của pin, I là dòng điện qua mạch, R là điện trở của biến trở.\nHọc sinh đã sử dụng một điện trở 2Ω và pin có nhiều điện áp khác nhau để thu được kết quả trong bảng 1. Các dòng điện trong bảng không được tính bằng công thức V=I.R nhưng thay vào đó được đo trực tiếp từ mạch bằng ampe kế. Điều quan trọng cần lưu ý là dòng điện đo được sẽ chỉ chính xác bằng dòng điện tính toán nếu hệ thống không chứa điện trở trong.\n\n\n\n\nBảng 1\n\n\n\n\nThí nghiệm\n\n\nĐiện áp (V)\n\n\nDòng điện (A)\n\n\nCông suất (W)\n\n\n\n\n1\n\n\n10\n\n\n?\n\n\n?\n\n\n\n\n2\n\n\n20\n\n\n9,99\n\n\n199,8\n\n\n\n\n3\n\n\n30\n\n\n14,48\n\n\n434,4\n\n\n\n\n4\n\n\n40\n\n\n18,79\n\n\n751,6\n\n\n\n\nDựa vào bảng 1, nếu dùng pin 50V trong mạch thì cường độ dòng điện chạy qua mạch là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.20,20 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.30,35 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5,29 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.23,23 A",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một học sinh quan tâm đến việc xác định mối quan hệ giữa cường độ dòng điện, điện áp và điện trở trong mạch điện một chiều, chẳng hạn như mối quan hệ giữa pin được nối với bóng đèn. Học sinh đã xây dựng mạch điện như hình 1 bằng điện trở 2Ω2Ω.\n\nDòng điện chạy qua mạch có thể được tính bằng phương trình V=I.R với V là điện áp của pin, I là dòng điện qua mạch, R là điện trở của biến trở.\nHọc sinh đã sử dụng một điện trở 2Ω và pin có nhiều điện áp khác nhau để thu được kết quả trong bảng 1. Các dòng điện trong bảng không được tính bằng công thức V=I.R nhưng thay vào đó được đo trực tiếp từ mạch bằng ampe kế. Điều quan trọng cần lưu ý là dòng điện đo được sẽ chỉ chính xác bằng dòng điện tính toán nếu hệ thống không chứa điện trở trong.\n\n\n\n\nBảng 1\n\n\n\n\nThí nghiệm\n\n\nĐiện áp (V)\n\n\nDòng điện (A)\n\n\nCông suất (W)\n\n\n\n\n1\n\n\n10\n\n\n?\n\n\n?\n\n\n\n\n2\n\n\n20\n\n\n9,99\n\n\n199,8\n\n\n\n\n3\n\n\n30\n\n\n14,48\n\n\n434,4\n\n\n\n\n4\n\n\n40\n\n\n18,79\n\n\n751,6\n\n\n\n\nĐoạn văn và bảng 1 trình bày kết quả với pin lý tưởng, không có bất kỳ điện trở bên trong nào. Nếu pin được sử dụng là pin thật có điện trở trong thì dòng điện đo được của hệ sẽ thay đổi như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Không đổi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Giảm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Tăng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Không xác định được",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Một học sinh quan tâm đến việc xác định mối quan hệ giữa cường độ dòng điện, điện áp và điện trở trong mạch điện một chiều, chẳng hạn như mối quan hệ giữa pin được nối với bóng đèn. Học sinh đã xây dựng mạch điện như hình 1 bằng điện trở 2Ω2Ω.\n\n\n\nDòng điện chạy qua mạch có thể được tính bằng phương trình V=I.R với V là điện áp của pin, I là dòng điện qua mạch, R là điện trở của biến trở.\nHọc sinh đã sử dụng một điện trở 2Ω và pin có nhiều điện áp khác nhau để thu được kết quả trong bảng 1. Các dòng điện trong bảng không được tính bằng công thức V=I.R nhưng thay vào đó được đo trực tiếp từ mạch bằng ampe kế. Điều quan trọng cần lưu ý là dòng điện đo được sẽ chỉ chính xác bằng dòng điện tính toán nếu hệ thống không chứa điện trở trong.\n\n\n\n\nBảng 1\n\n\n\n\nThí nghiệm\n\n\nĐiện áp (V)\n\n\nDòng điện (A)\n\n\nCông suất (W)\n\n\n\n\n1\n\n\n10\n\n\n?\n\n\n?\n\n\n\n\n2\n\n\n20\n\n\n9,99\n\n\n199,8\n\n\n\n\n3\n\n\n30\n\n\n14,48\n\n\n434,4\n\n\n\n\n4\n\n\n40\n\n\n18,79\n\n\n751,6\n\n\n\n\nDựa vào kết quả trong bảng 1, công suất của thí nghiệm 1 có thể là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.202,1 W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.142,1 W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.49,8 W",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0 W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Một nhà vật lý thực hiện một loạt các thí nghiệm để xác định độ lớn tương đối của điện tích trên bốn hạt. Một hạt đã cho được coi là có độ lớn điện tích hơn hạt khác nếu nó đẩy ra (hoặc hút vào) một điện tích dương xa hơn hạt kia.\nMột hạt đẩy điện tích thử nghiệm có điệnt tích dương, trong khi một hạt kéo (hoặc hút vào) điện tích thử nghiệm có điện tích âm. Đây được gọi là dấu hiệu của phí. Độ lớn của điện tích không liên quan đến dấu.\nThí nghiệm được tiến hành trên một trục hoành có tổng số đo là 20m: từ -10m ở bên trái đến +10m ở bên phải, với số đo ở giữa là 0m.\nThí nghiệm 1:\nHạt A đặt ở vị trí -5m trên trục hoành. Điện tích thử có độ lớn điện tích riêng và nằm ở vị trí +3m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nThí nghiệm 2:\nHạt B được đặt ở vị trí -8m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí 0m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến -7,5m.\nThí nghiệm 3:\nHạt C đặt ở vị trí 0m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +8m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +10m.\nThí nghiệm 4:\nHạt D được đặt ở vị trí -5,5m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +2,5m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nCó thể suy ra từ thí nghiệm rằng……",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hạt A và hạt D có cùng dấu và độ lớn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Hạt A và hạt B có cùng dấu và độ lớn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tất cả các hạt được đặt cách điện tích thử một khoảng bằng nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Tất cả các hạt đều có mật độ điện tích bằng nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Một nhà vật lý thực hiện một loạt các thí nghiệm để xác định độ lớn tương đối của điện tích trên bốn hạt. Một hạt đã cho được coi là có độ lớn điện tích hơn hạt khác nếu nó đẩy ra (hoặc hút vào) một điện tích dương xa hơn hạt kia.\nMột hạt đẩy điện tích thử nghiệm có điệnt tích dương, trong khi một hạt kéo (hoặc hút vào) điện tích thử nghiệm có điện tích âm. Đây được gọi là dấu hiệu của phí. Độ lớn của điện tích không liên quan đến dấu.\nThí nghiệm được tiến hành trên một trục hoành có tổng số đo là 20m: từ -10m ở bên trái đến +10m ở bên phải, với số đo ở giữa là 0m.\nThí nghiệm 1:\nHạt A đặt ở vị trí -5m trên trục hoành. Điện tích thử có độ lớn điện tích riêng và nằm ở vị trí +3m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nThí nghiệm 2:\nHạt B được đặt ở vị trí -8m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí 0m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến -7,5m.\nThí nghiệm 3:\nHạt C đặt ở vị trí 0m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +8m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +10m.\nThí nghiệm 4:\nHạt D được đặt ở vị trí -5,5m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +2,5m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nKết quả của thí nghiệm 1 và 2 cho thấy……",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hạt A có độ lớn điện tích nhỏ hơn hạt B",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Hạt A có mật độ điện tích nhỏ hơn hạt B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Hạt A có độ lớn điện tích lớn hơn hạt B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hạt A có cùng độ lớn điện tích với hạt B",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Một nhà vật lý thực hiện một loạt các thí nghiệm để xác định độ lớn tương đối của điện tích trên bốn hạt. Một hạt đã cho được coi là có độ lớn điện tích hơn hạt khác nếu nó đẩy ra (hoặc hút vào) một điện tích dương xa hơn hạt kia.\nMột hạt đẩy điện tích thử nghiệm có điệnt tích dương, trong khi một hạt kéo (hoặc hút vào) điện tích thử nghiệm có điện tích âm. Đây được gọi là dấu hiệu của phí. Độ lớn của điện tích không liên quan đến dấu.\nThí nghiệm được tiến hành trên một trục hoành có tổng số đo là 20m: từ -10m ở bên trái đến +10m ở bên phải, với số đo ở giữa là 0m.\nThí nghiệm 1:\nHạt A đặt ở vị trí -5m trên trục hoành. Điện tích thử có độ lớn điện tích riêng và nằm ở vị trí +3m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nThí nghiệm 2:\nHạt B được đặt ở vị trí -8m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí 0m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến -7,5m.\nThí nghiệm 3:\nHạt C đặt ở vị trí 0m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +8m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +10m.\nThí nghiệm 4:\nHạt D được đặt ở vị trí -5,5m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +2,5m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nNếu đặt đồng thời hạt C và D trên trục, cùng với kết quả của thí nghiệm thì điều gì có khả năng xảy ra?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chúng sẽ hút nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Chúng sẽ đẩy nhau",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Không có phản ứng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hiệu ứng tổng hợp của điện tích tương đối của chúng sẽ dịch chuyển một điện tích thử nghiệm ở vị trí từ 0m đến +7m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Một nhà vật lý thực hiện một loạt các thí nghiệm để xác định độ lớn tương đối của điện tích trên bốn hạt. Một hạt đã cho được coi là có độ lớn điện tích hơn hạt khác nếu nó đẩy ra (hoặc hút vào) một điện tích dương xa hơn hạt kia.\nMột hạt đẩy điện tích thử nghiệm có điệnt tích dương, trong khi một hạt kéo (hoặc hút vào) điện tích thử nghiệm có điện tích âm. Đây được gọi là dấu hiệu của phí. Độ lớn của điện tích không liên quan đến dấu.\nThí nghiệm được tiến hành trên một trục hoành có tổng số đo là 20m: từ -10m ở bên trái đến +10m ở bên phải, với số đo ở giữa là 0m.\nThí nghiệm 1:\nHạt A đặt ở vị trí -5m trên trục hoành. Điện tích thử có độ lớn điện tích riêng và nằm ở vị trí +3m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nThí nghiệm 2:\nHạt B được đặt ở vị trí -8m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí 0m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến -7,5m.\nThí nghiệm 3:\nHạt C đặt ở vị trí 0m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +8m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +10m.\nThí nghiệm 4:\nHạt D được đặt ở vị trí -5,5m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +2,5m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nKết quả của thí nghiệm 3 và 4 cho thấy……",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hạt D có cùng điện tích với hạt C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Hạt D có điện tích lớn hơn hạt C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Hạt D có điện tích trái dấu với hạt C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hạt D có điện tích nhỏ hơn hạt C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Một nhà vật lý thực hiện một loạt các thí nghiệm để xác định độ lớn tương đối của điện tích trên bốn hạt. Một hạt đã cho được coi là có độ lớn điện tích hơn hạt khác nếu nó đẩy ra (hoặc hút vào) một điện tích dương xa hơn hạt kia.\nMột hạt đẩy điện tích thử nghiệm có điệnt tích dương, trong khi một hạt kéo (hoặc hút vào) điện tích thử nghiệm có điện tích âm. Đây được gọi là dấu hiệu của phí. Độ lớn của điện tích không liên quan đến dấu.\nThí nghiệm được tiến hành trên một trục hoành có tổng số đo là 20m: từ -10m ở bên trái đến +10m ở bên phải, với số đo ở giữa là 0m.\nThí nghiệm 1:\nHạt A đặt ở vị trí -5m trên trục hoành. Điện tích thử có độ lớn điện tích riêng và nằm ở vị trí +3m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nThí nghiệm 2:\nHạt B được đặt ở vị trí -8m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí 0m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến -7,5m.\nThí nghiệm 3:\nHạt C đặt ở vị trí 0m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +8m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +10m.\nThí nghiệm 4:\nHạt D được đặt ở vị trí -5,5m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +2,5m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nBiểu thức nào sau đây biểu thị thứ tự điện tích của bốn hạt, từ cao nhất đến thấp nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.A, B, C, D",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.D, A, C, B",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.B, D, A, C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.B, D, C, A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Một nhà vật lý thực hiện một loạt các thí nghiệm để xác định độ lớn tương đối của điện tích trên bốn hạt. Một hạt đã cho được coi là có độ lớn điện tích hơn hạt khác nếu nó đẩy ra (hoặc hút vào) một điện tích dương xa hơn hạt kia.\nMột hạt đẩy điện tích thử nghiệm có điệnt tích dương, trong khi một hạt kéo (hoặc hút vào) điện tích thử nghiệm có điện tích âm. Đây được gọi là dấu hiệu của phí. Độ lớn của điện tích không liên quan đến dấu.\nThí nghiệm được tiến hành trên một trục hoành có tổng số đo là 20m: từ -10m ở bên trái đến +10m ở bên phải, với số đo ở giữa là 0m.\nThí nghiệm 1:\nHạt A đặt ở vị trí -5m trên trục hoành. Điện tích thử có độ lớn điện tích riêng và nằm ở vị trí +3m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nThí nghiệm 2:\nHạt B được đặt ở vị trí -8m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí 0m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến -7,5m.\nThí nghiệm 3:\nHạt C đặt ở vị trí 0m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +8m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +10m.\nThí nghiệm 4:\nHạt D được đặt ở vị trí -5,5m trên trục hoành. Điện tích thí nghiệm có cùng độ lớn điện tích với lần thí nghiệm trước và nằm ở vị trí +2,5m trên cùng trục đó. Kết quả của thí nghiệm là điện tích thí nghiệm dịch chuyển đến +7,5m.\nHạt nào mang điện tích âm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hạt B",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Hạt C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Hạt D",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hạt A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Một con lắc đồng hồ gồm một thanh thẳng, nhẹ, đầu dưới có gắn một vật nặng, đầu trên có thể q quay tự do quanh một trục cố định nằm ngang. Chu kì dao động nhỏ T của con lắc phụ thuộc vào cấu tạo của nó và gia tốc trọng trường g nơi đặt đồng hồ theo biểu thức: T=2πIMgd, trong đó M là khối lượng của con lắc, d là khoảng cách từ khối tâm của con lắc đến trục quay và g = 9,8 m/s2. I được  gọi là quán tính của chuyển động quay (hay mômen quán tính) của con lắc đối với trục quay. Đối với các đồng hồ quả lắc thông thường, các thông số này được điều chỉnh (khi chế tạo đồng hồ) để chu kì dao động của con lắc đúng bằng 2 giây.\nTrong thời gian một tiết học (45 phút), số chu kì dao động con lắc đồng hồ trên thực hiện là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.720",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.90",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1350",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Một con lắc đồng hồ gồm một thanh thẳng, nhẹ, đầu dưới có gắn một vật nặng, đầu trên có thể q quay tự do quanh một trục cố định nằm ngang. Chu kì dao động nhỏ T của con lắc phụ thuộc vào cấu tạo của nó và gia tốc trọng trường g nơi đặt đồng hồ theo biểu thức: T=2πIMgd, trong đó M là khối lượng của con lắc, d là khoảng cách từ khối tâm của con lắc đến trục quay và g = 9,8 m/s2. I được  gọi là quán tính của chuyển động quay (hay mômen quán tính) của con lắc đối với trục quay. Đối với các đồng hồ quả lắc thông thường, các thông số này được điều chỉnh (khi chế tạo đồng hồ) để chu kì dao động của con lắc đúng bằng 2 giây.\nĐơn vị của mômen quán tính I trong hệ thống đo lường chuẩn quốc tế (SI) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.kg.m2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.kg.m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.kg/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.kg/s2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Một con lắc đồng hồ gồm một thanh thẳng, nhẹ, đầu dưới có gắn một vật nặng, đầu trên có thể q quay tự do quanh một trục cố định nằm ngang. Chu kì dao động nhỏ T của con lắc phụ thuộc vào cấu tạo của nó và gia tốc trọng trường g nơi đặt đồng hồ theo biểu thức: T=2πIMgd, trong đó M là khối lượng của con lắc, d là khoảng cách từ khối tâm của con lắc đến trục quay và g = 9,8 m/s2. I được  gọi là quán tính của chuyển động quay (hay mômen quán tính) của con lắc đối với trục quay. Đối với các đồng hồ quả lắc thông thường, các thông số này được điều chỉnh (khi chế tạo đồng hồ) để chu kì dao động của con lắc đúng bằng 2 giây.\nDo có ma sát với không khí cũng như ở trục quay nên khi ở chế độ hoạt động bình thường (chạy đúng giờ), cơ năng của con lắc bị tiêu hao 0,965.10−3J trong mỗi chu kì dao động. Năng lượng cần bổ sung cho con lắc trong một tháng (30 ngày) xấp xỉ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.144 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1250 J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.3891 J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.415 J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Một con lắc đồng hồ gồm một thanh thẳng, nhẹ, đầu dưới có gắn một vật nặng, đầu trên có thể q quay tự do quanh một trục cố định nằm ngang. Chu kì dao động nhỏ T của con lắc phụ thuộc vào cấu tạo của nó và gia tốc trọng trường g nơi đặt đồng hồ theo biểu thức: T=2πIMgd, trong đó M là khối lượng của con lắc, d là khoảng cách từ khối tâm của con lắc đến trục quay và g = 9,8 m/s2. I được  gọi là quán tính của chuyển động quay (hay mômen quán tính) của con lắc đối với trục quay. Đối với các đồng hồ quả lắc thông thường, các thông số này được điều chỉnh (khi chế tạo đồng hồ) để chu kì dao động của con lắc đúng bằng 2 giây.\nCon lắc được chế tạo có thông số kỹ thuật là tích Md bằng 0,02 kg.m và có chu kì là 2s. Momen quán tính của con lắc đối với trục quay tính theo đơn vị trong hệ thống đo lường chuẩn quốc tế (SI) xấp xỉ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2,00",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,50",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,02",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Một con lắc đồng hồ gồm một thanh thẳng, nhẹ, đầu dưới có gắn một vật nặng, đầu trên có thể q quay tự do quanh một trục cố định nằm ngang. Chu kì dao động nhỏ T của con lắc phụ thuộc vào cấu tạo của nó và gia tốc trọng trường g nơi đặt đồng hồ theo biểu thức: T=2πIMgd, trong đó M là khối lượng của con lắc, d là khoảng cách từ khối tâm của con lắc đến trục quay và g = 9,8 m/s2. I được  gọi là quán tính của chuyển động quay (hay mômen quán tính) của con lắc đối với trục quay. Đối với các đồng hồ quả lắc thông thường, các thông số này được điều chỉnh (khi chế tạo đồng hồ) để chu kì dao động của con lắc đúng bằng 2 giây.\nCách bổ sung năng lượng để duy trì dao động của con lắc đồng hồ là sử dụng pin (loại nhỏ, thường là pin tiểu AA). Một pin AA có điện áp 1,5V cung cấp một điện lượng vào khoảng 1000 mAh (mili-ampe giờ). Năng lượng do pin cung cấp được tính bằng tích số của hai thông số này. Giả sử ngày lắp pin loại trên là ngày 1 tháng 1. Pin này sẽ cạn năng lượng (và do đó cần phải thay pin mới để đồng hồ hoạt động bình thường) vào khoảng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tháng 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tháng 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Tháng 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tháng 9",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Bạn An đang thực hiện thí nghiệm với vật nặng 5kg buộc vào sợi dây 3m buộc trên trần nhà như hình vẽ:\n\nAn hạ vật xuống và để nó lắc lư tự do. Bạn ấy đo khoảng thời gian để quả nặng trở lại vị trí ban đầu (giả sử không có lực nào ngoài trọng lực tác dụng lên con lắc). Đây cũng được gọi là một dao động.\nThí nghiệm 1:\nAn đã lập bảng sau để đo dao động của con lắc đầu tiên.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 2:\nAn thực hiện lại thí nghiệm, lần này sử dụng quả nặng 6kg.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 3:\nAn thực hiện nlại thí nghiệm, lần này sử dụng một quả nặng 3kg và một sợi dây dài 5m.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n4,486\n\n\n8,972\n\n\n13,457\n\n\n\n\n Thời gian mỗi dao động trong thí nghiệm 3 dài hơn bao nhiêu so với thí nghiệm 1?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,682",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3,14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,111",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,012",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Bạn An đang thực hiện thí nghiệm với vật nặng 5kg buộc vào sợi dây 3m buộc trên trần nhà như hình vẽ:\n\nAn hạ vật xuống và để nó lắc lư tự do. Bạn ấy đo khoảng thời gian để quả nặng trở lại vị trí ban đầu (giả sử không có lực nào ngoài trọng lực tác dụng lên con lắc). Đây cũng được gọi là một dao động.\nThí nghiệm 1:\nAn đã lập bảng sau để đo dao động của con lắc đầu tiên.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 2:\nAn thực hiện lại thí nghiệm, lần này sử dụng quả nặng 6kg.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 3:\nAn thực hiện nlại thí nghiệm, lần này sử dụng một quả nặng 3kg và một sợi dây dài 5m.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n4,486\n\n\n8,972\n\n\n13,457\n\n\n\n\nNếu An tái hiện lại thí nghiệm 3 bằng sợi dây dài 5m và quả nặng 20kg thì 2 dao động sẽ kéo dài bao lâu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2, 243",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6,729",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.35,888",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.8,972",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Bạn An đang thực hiện thí nghiệm với vật nặng 5kg buộc vào sợi dây 3m buộc trên trần nhà như hình vẽ:\n\nAn hạ vật xuống và để nó lắc lư tự do. Bạn ấy đo khoảng thời gian để quả nặng trở lại vị trí ban đầu (giả sử không có lực nào ngoài trọng lực tác dụng lên con lắc). Đây cũng được gọi là một dao động.\nThí nghiệm 1:\nAn đã lập bảng sau để đo dao động của con lắc đầu tiên.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 2:\nAn thực hiện lại thí nghiệm, lần này sử dụng quả nặng 6kg.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 3:\nAn thực hiện nlại thí nghiệm, lần này sử dụng một quả nặng 3kg và một sợi dây dài 5m.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n4,486\n\n\n8,972\n\n\n13,457\n\n\n\n\n Phương trình nào sau đây có thể là phương trình cho khoảng thời gian của một dao động trong thí nghiệm 1? (L đại diện cho chiều dài của sợi dây)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T=2π2L9,81",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T=2Lπ9,81",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T=2πma9,81",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T=2πL9,81",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Bạn An đang thực hiện thí nghiệm với vật nặng 5kg buộc vào sợi dây 3m buộc trên trần nhà như hình vẽ:\n\nAn hạ vật xuống và để nó lắc lư tự do. Bạn ấy đo khoảng thời gian để quả nặng trở lại vị trí ban đầu (giả sử không có lực nào ngoài trọng lực tác dụng lên con lắc). Đây cũng được gọi là một dao động.\nThí nghiệm 1:\nAn đã lập bảng sau để đo dao động của con lắc đầu tiên.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 2:\nAn thực hiện lại thí nghiệm, lần này sử dụng quả nặng 6kg.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 3:\nAn thực hiện nlại thí nghiệm, lần này sử dụng một quả nặng 3kg và một sợi dây dài 5m.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n4,486\n\n\n8,972\n\n\n13,457\n\n\n\n\nNếu An tái tạo lại thí nghiệm 2 với một quả nặng 300kg thì mỗi dao động sẽ kéo dài bao lâu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,474",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.347,4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.62,384",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.34,74",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Bạn An đang thực hiện thí nghiệm với vật nặng 5kg buộc vào sợi dây 3m buộc trên trần nhà như hình vẽ:\n\nAn hạ vật xuống và để nó lắc lư tự do. Bạn ấy đo khoảng thời gian để quả nặng trở lại vị trí ban đầu (giả sử không có lực nào ngoài trọng lực tác dụng lên con lắc). Đây cũng được gọi là một dao động.\nThí nghiệm 1:\nAn đã lập bảng sau để đo dao động của con lắc đầu tiên.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 2:\nAn thực hiện lại thí nghiệm, lần này sử dụng quả nặng 6kg.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 3:\nAn thực hiện nlại thí nghiệm, lần này sử dụng một quả nặng 3kg và một sợi dây dài 5m.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n4,486\n\n\n8,972\n\n\n13,457\n\n\n\n\nTrong thí nghiệm 3, 2,5 dao động sẽ kéo dài bao lâu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.13,457",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.16,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.11, 215",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Bạn An đang thực hiện thí nghiệm với vật nặng 5kg buộc vào sợi dây 3m buộc trên trần nhà như hình vẽ:\n\nAn hạ vật xuống và để nó lắc lư tự do. Bạn ấy đo khoảng thời gian để quả nặng trở lại vị trí ban đầu (giả sử không có lực nào ngoài trọng lực tác dụng lên con lắc). Đây cũng được gọi là một dao động.\nThí nghiệm 1:\nAn đã lập bảng sau để đo dao động của con lắc đầu tiên.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 2:\nAn thực hiện lại thí nghiệm, lần này sử dụng quả nặng 6kg.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n3,474\n\n\n6,949\n\n\n10,424\n\n\n\n\n Thí nghiệm 3:\nAn thực hiện nlại thí nghiệm, lần này sử dụng một quả nặng 3kg và một sợi dây dài 5m.\n\n\n\n\nSố lần dao động\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\nThời gian\n\n\n4,486\n\n\n8,972\n\n\n13,457\n\n\n\n\nNếu An dừng thí nghiệm 3 sau 10 giây thì con lắc đã trải qua bao nhiêu dao động?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2,23",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Dao động điều hòa là chuyển động lặp đi lặp lại quanh vị trí cân bằng, tuân theo quy luật hình sin. Lực tổng hợp tác dụng lên vật dọc theo phương chuyển động luôn hướng về vị trí cân bằng nên có tên gọi là lực hồi phục hay lực kéo về.\nĐể đơn giản, ta xét một vật (coi là chất điểm) có khối lượng m dao động điều hòa dọc theo trục Ox. Khi vật có tọa độ x, lực hồi phục tác dụng lên vật có biểu thức đại số F = -kx, với k là hệ số đặc trưng cho khả năng phục hồi vị trí cân bằng của vật. Ví dụ, con lắc lò xo có độ cứng càng lớn thì kéo vật về vị trí cân bằng càng nhanh, độ cứng k của lò xo chính là hệ số hồi phục của con lắc này.\nTại gốc tọa độ O (có tọa độ x = 0), lực tác dụng lên vật F = 0 nên O là vị trí cân bằng của vật, x được gọi là li độ hay đọ dời của vật tính từ vị trí cân bằng.\nHệ số hồi phục k có đơn vị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.N.m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.N/m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.N.m2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.N/m",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Dao động điều hòa là chuyển động lặp đi lặp lại quanh vị trí cân bằng, tuân theo quy luật hình sin. Lực tổng hợp tác dụng lên vật dọc theo phương chuyển động luôn hướng về vị trí cân bằng nên có tên gọi là lực hồi phục hay lực kéo về.\nĐể đơn giản, ta xét một vật (coi là chất điểm) có khối lượng m dao động điều hòa dọc theo trục Ox. Khi vật có tọa độ x, lực hồi phục tác dụng lên vật có biểu thức đại số F = -kx, với k là hệ số đặc trưng cho khả năng phục hồi vị trí cân bằng của vật. Ví dụ, con lắc lò xo có độ cứng càng lớn thì kéo vật về vị trí cân bằng càng nhanh, độ cứng k của lò xo chính là hệ số hồi phục của con lắc này.\nTại gốc tọa độ O (có tọa độ x = 0), lực tác dụng lên vật F = 0 nên O là vị trí cân bằng của vật, x được gọi là li độ hay đọ dời của vật tính từ vị trí cân bằng.\nĐể xác định hệ số hồi phục đối với hệ cơ dao động điều hòa, người ta đưa vật rời khỏi vị trí cân bằng một đoạn x rồi đo lực phục hồi F tác dụng lên vật. Phép đo cho biết với ly độ x = 5cm thì lực hồi phục tác dụng lên vật có độ lớn F = 3,2N. Hệ số hồi phục của cơ hệ này tính ra đơn vị ở câu 1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.64",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.100",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.200",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 40:",
+            "Câu hỏi": "Dao động điều hòa là chuyển động lặp đi lặp lại quanh vị trí cân bằng, tuân theo quy luật hình sin. Lực tổng hợp tác dụng lên vật dọc theo phương chuyển động luôn hướng về vị trí cân bằng nên có tên gọi là lực hồi phục hay lực kéo về.\nĐể đơn giản, ta xét một vật (coi là chất điểm) có khối lượng m dao động điều hòa dọc theo trục Ox. Khi vật có tọa độ x, lực hồi phục tác dụng lên vật có biểu thức đại số F = -kx, với k là hệ số đặc trưng cho khả năng phục hồi vị trí cân bằng của vật. Ví dụ, con lắc lò xo có độ cứng càng lớn thì kéo vật về vị trí cân bằng càng nhanh, độ cứng k của lò xo chính là hệ số hồi phục của con lắc này.\nTại gốc tọa độ O (có tọa độ x = 0), lực tác dụng lên vật F = 0 nên O là vị trí cân bằng của vật, x được gọi là li độ hay đọ dời của vật tính từ vị trí cân bằng.\nDo tính chất của lực phục hồi, gia tốc của vật cũng tỷ lệ với ly độ x theo hệ thức a = -px. Đại lượng p thỏa mãn hệ thức nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. k=mp2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. k=mp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. p=mk",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. p=mk2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 41:",
+            "Câu hỏi": "Mary đang thực hiện một thí nghiệm liên quan đến quang phổ điện từ. Cô ấy quan sát một số loại sóng khác nhau và ghi lại bước sóng, tần số và tốc độ của chúng.\n\n\n\n\nLoại bức xạ\n\n\nBước sóng (m)\n\n\nTần số (Hz)\n\n\nTốc độ (m/s)\n\n\n\n\nSóng vô tuyến\n\n\n103\n\n\n104\n\n\n299,792,458\n\n\n\n\nSóng vi sóng\n\n\n10-2\n\n\n108\n\n\n299,792,458\n\n\n\n\nTia hồng ngoại\n\n\n10-5\n\n\n1012\n\n\n299,792,458\n\n\n\n\nÁnh sáng nhìn thấy\n\n\n0,5 x 10-6\n\n\n1015\n\n\n299,792,458\n\n\n\n\nTia cực tím\n\n\n10-8\n\n\n1016\n\n\n299,792,458\n\n\n\n\nTia X\n\n\n10-10\n\n\n1018\n\n\n299,792,458\n\n\n\n\nTia gamma\n\n\n10-12\n\n\n1020\n\n\n299,792,458\n\n\n\n\nMột loại bức xạ mới được phát hiện trên phổ điện từ có tần số cao hơn tia gamma. Tốc độ của nó có thể là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.9,792,458 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.299,792,458 m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.602,792,458 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.150,792,458 m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 42:",
+            "Câu hỏi": "Mary đang thực hiện một thí nghiệm liên quan đến quang phổ điện từ. Cô ấy quan sát một số loại sóng khác nhau và ghi lại bước sóng, tần số và tốc độ của chúng.\n\n\n\n\nLoại bức xạ\n\n\nBước sóng (m)\n\n\nTần số (Hz)\n\n\nTốc độ (m/s)\n\n\n\n\nSóng vô tuyến\n\n\n103\n\n\n104\n\n\n299,792,458\n\n\n\n\nSóng vi sóng\n\n\n10-2\n\n\n108\n\n\n299,792,458\n\n\n\n\nTia hồng ngoại\n\n\n10-5\n\n\n1012\n\n\n299,792,458\n\n\n\n\nÁnh sáng nhìn thấy\n\n\n0,5 x 10-6\n\n\n1015\n\n\n299,792,458\n\n\n\n\nTia cực tím\n\n\n10-8\n\n\n1016\n\n\n299,792,458\n\n\n\n\nTia X\n\n\n10-10\n\n\n1018\n\n\n299,792,458\n\n\n\n\nTia gamma\n\n\n10-12\n\n\n1020\n\n\n299,792,458\n\n\n\n\nMột loại bức xạ mới được phát hiện với các phép đo giữa sóng vi sóng và bức xạ hồng ngoại. Giá trị có thể có nhất của tần số là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1012Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 107Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1010Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 108Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 43:",
+            "Câu hỏi": "Mary đang thực hiện một thí nghiệm liên quan đến quang phổ điện từ. Cô ấy quan sát một số loại sóng khác nhau và ghi lại bước sóng, tần số và tốc độ của chúng.\n\n\n\n\nLoại bức xạ\n\n\nBước sóng (m)\n\n\nTần số (Hz)\n\n\nTốc độ (m/s)\n\n\n\n\nSóng vô tuyến\n\n\n103\n\n\n104\n\n\n299,792,458\n\n\n\n\nSóng vi sóng\n\n\n10-2\n\n\n108\n\n\n299,792,458\n\n\n\n\nTia hồng ngoại\n\n\n10-5\n\n\n1012\n\n\n299,792,458\n\n\n\n\nÁnh sáng nhìn thấy\n\n\n0,5 x 10-6\n\n\n1015\n\n\n299,792,458\n\n\n\n\nTia cực tím\n\n\n10-8\n\n\n1016\n\n\n299,792,458\n\n\n\n\nTia X\n\n\n10-10\n\n\n1018\n\n\n299,792,458\n\n\n\n\nTia gamma\n\n\n10-12\n\n\n1020\n\n\n299,792,458\n\n\n\n\nMột sân bóng đá dài khoảng 100m. Sóng nào có bước sóng gần với chiều dài của sân bóng nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng vô tuyến",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Ánh sáng nhìn thấy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vi sóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hồng ngoại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 44:",
+            "Câu hỏi": "Mary đang thực hiện một thí nghiệm liên quan đến quang phổ điện từ. Cô ấy quan sát một số loại sóng khác nhau và ghi lại bước sóng, tần số và tốc độ của chúng.\n\n\n\n\nLoại bức xạ\n\n\nBước sóng (m)\n\n\nTần số (Hz)\n\n\nTốc độ (m/s)\n\n\n\n\nSóng vô tuyến\n\n\n103\n\n\n104\n\n\n299,792,458\n\n\n\n\nSóng vi sóng\n\n\n10-2\n\n\n108\n\n\n299,792,458\n\n\n\n\nTia hồng ngoại\n\n\n10-5\n\n\n1012\n\n\n299,792,458\n\n\n\n\nÁnh sáng nhìn thấy\n\n\n0,5 x 10-6\n\n\n1015\n\n\n299,792,458\n\n\n\n\nTia cực tím\n\n\n10-8\n\n\n1016\n\n\n299,792,458\n\n\n\n\nTia X\n\n\n10-10\n\n\n1018\n\n\n299,792,458\n\n\n\n\nTia gamma\n\n\n10-12\n\n\n1020\n\n\n299,792,458\n\n\n\n\nBước sóng tỉ lệ nghịch với biến nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tốc độ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Phương hướng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tần số",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Kích thước",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 45:",
+            "Câu hỏi": "Mary đang thực hiện một thí nghiệm liên quan đến quang phổ điện từ. Cô ấy quan sát một số loại sóng khác nhau và ghi lại bước sóng, tần số và tốc độ của chúng.\n\n\n\n\nLoại bức xạ\n\n\nBước sóng (m)\n\n\nTần số (Hz)\n\n\nTốc độ (m/s)\n\n\n\n\nSóng vô tuyến\n\n\n103\n\n\n104\n\n\n299,792,458\n\n\n\n\nSóng vi sóng\n\n\n10-2\n\n\n108\n\n\n299,792,458\n\n\n\n\nTia hồng ngoại\n\n\n10-5\n\n\n1012\n\n\n299,792,458\n\n\n\n\nÁnh sáng nhìn thấy\n\n\n0,5 x 10-6\n\n\n1015\n\n\n299,792,458\n\n\n\n\nTia cực tím\n\n\n10-8\n\n\n1016\n\n\n299,792,458\n\n\n\n\nTia X\n\n\n10-10\n\n\n1018\n\n\n299,792,458\n\n\n\n\nTia gamma\n\n\n10-12\n\n\n1020\n\n\n299,792,458\n\n\n\n\nMột sóng vô tuyến AM  có tần số xấp xỉ 106 Hz. Bước sóng có thể có cho sóng này là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10−12m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 103m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10−2m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 101m",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 46:",
+            "Câu hỏi": "Các hạt nhân của các nguyên tử được cấu tạo từ các hạt sơ cấp gồm proton mang điện tích dương và các nơtron không mang điện gọi chung là các nuclôn. Trong tự nhiên, có nhiều hạt nhân tự động phóng ra các tia gọi là tia phóng xạ và biến đổi thành một hạt nhân khác. Một trong các loại tia phóng xạ đó là tia β− gồm các hạt electron. Các quá trình biến đổi hạt nhân trên luôn tuân theo các định luật bảo toàn của các đại lượng như: điện tích, số nuclôn, năng lượng và động lượng.\nNhận định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Bên trong hạt nhân có chứa các hạt electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Các hạt electron có thể được phóng ra từ bên trong hạt nhân.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Bên trong hạt nhân, các hạt proton tự biến đổi thành electron.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Các hạt nơtron trong hạt nhân tự biến đổi thành electron.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 47:",
+            "Câu hỏi": "Các hạt nhân của các nguyên tử được cấu tạo từ các hạt sơ cấp gồm proton mang điện tích dương và các nơtron không mang điện gọi chung là các nuclôn. Trong tự nhiên, có nhiều hạt nhân tự động phóng ra các tia gọi là tia phóng xạ và biến đổi thành một hạt nhân khác. Một trong các loại tia phóng xạ đó là tia β− gồm các hạt electron. Các quá trình biến đổi hạt nhân trên luôn tuân theo các định luật bảo toàn của các đại lượng như: điện tích, số nuclôn, năng lượng và động lượng.\nNhận định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Bên trong hạt nhân không có lực đẩy giữa các hạt mang điện dương.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tồn tại một loại lực hút đủ mạnh bên trong hạt nhân thắng lực đẩy Culông.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Có lực hút tĩnh điện bên trong hạt nhân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hạt nhân bền vững không nhờ vào một lực nào.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 48:",
+            "Câu hỏi": "Các hạt nhân của các nguyên tử được cấu tạo từ các hạt sơ cấp gồm proton mang điện tích dương và các nơtron không mang điện gọi chung là các nuclôn. Trong tự nhiên, có nhiều hạt nhân tự động phóng ra các tia gọi là tia phóng xạ và biến đổi thành một hạt nhân khác. Một trong các loại tia phóng xạ đó là tia β− gồm các hạt electron. Các quá trình biến đổi hạt nhân trên luôn tuân theo các định luật bảo toàn của các đại lượng như: điện tích, số nuclôn, năng lượng và động lượng.\nGiả thiết trong một phóng xạ, động năng của electron được phóng ra là E, nhiệt lượng do phóng xạ này tỏa ra xấp xỉ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.E",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2E",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.E/2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 49:",
+            "Câu hỏi": "Sử dụng một nguồn điện xoay chiều có biểu thức điện áp là: , cấp cho một đoạn mạch điện gồm điện trở, tụ điện và cuộn cảm thuần mắc nối tiếp như hình vẽ.\n\nĐiện áp hiệu dụng đo được như sau:\n\n\n\n\nĐiện áp\n\n\nUAB\n\n\nUAN\n\n\nUNB\n\n\n\n\nGiá trị (V)\n\n\n100\n\n\n100\n\n\n100\n\n\n\n\n U0 có giá trị bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.100V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1002V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.60V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.80V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 50:",
+            "Câu hỏi": "Sử dụng một nguồn điện xoay chiều có biểu thức điện áp là: , cấp cho một đoạn mạch điện gồm điện trở, tụ điện và cuộn cảm thuần mắc nối tiếp như hình vẽ.\n\nĐiện áp hiệu dụng đo được như sau:\n\n\n\n\nĐiện áp\n\n\nUAB\n\n\nUAN\n\n\nUNB\n\n\n\n\nGiá trị (V)\n\n\n100\n\n\n100\n\n\n100\n\n\n\n\nBiểu thức nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. UAB=UAM+UMN+UNB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. UAB2=UAM2+UMN2+UNB2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. UAB2=UAM2+UMN+UNB2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. UAB2=UAM2+UMN−UNB2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 51:",
+            "Câu hỏi": "Sử dụng một nguồn điện xoay chiều có biểu thức điện áp là: , cấp cho một đoạn mạch điện gồm điện trở, tụ điện và cuộn cảm thuần mắc nối tiếp như hình vẽ.\n\nĐiện áp hiệu dụng đo được như sau:\n\n\n\n\nĐiện áp\n\n\nUAB\n\n\nUAN\n\n\nUNB\n\n\n\n\nGiá trị (V)\n\n\n100\n\n\n100\n\n\n100\n\n\n\n\nHệ số công suất của đoạn mạch là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 32",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 52:",
+            "Câu hỏi": "Máy tách hạt hoạt động bằng cách sử dụng từ trường và điện trường hướng vuông góc. Khi một hạt mang điện được phóng vào thiết bị tách hạt, một lực điện không đổi được tác dụng lên hạt tỷ lệ với điện tích của hạt. Ngoài ra, từ trường tác dụng lên hạt một lực ngược hướng với lực điện và tỷ lệ với điện tích và vận tốc của hạt. Một hạt sẽ đi qua bộ phân tách hạt chỉ khi lực từ trường và lực điện đối nghịch có độ lớn bằng nhau vì chúng sẽ không gây ra sự thay đổi thực về hướng của hạt.\nTheo thông tin của đoạn văn, máy tách hạt có thể tách các hạt bằng đặc tính vật lý nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Điện tích",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Vận tốc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Khối lượng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Vận tốc, điện tích và khối lượng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 53:",
+            "Câu hỏi": "Máy tách hạt hoạt động bằng cách sử dụng từ trường và điện trường hướng vuông góc. Khi một hạt mang điện được phóng vào thiết bị tách hạt, một lực điện không đổi được tác dụng lên hạt tỷ lệ với điện tích của hạt. Ngoài ra, từ trường tác dụng lên hạt một lực ngược hướng với lực điện và tỷ lệ với điện tích và vận tốc của hạt. Một hạt sẽ đi qua bộ phân tách hạt chỉ khi lực từ trường và lực điện đối nghịch có độ lớn bằng nhau vì chúng sẽ không gây ra sự thay đổi thực về hướng của hạt.\nChúng ta có thể suy ra điều gì nếu một neutron (hạt không mang điện tích) được bắn vào thiết bị tách hạt với vận tốc thấp?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Nó sẽ đi qua máy tách hạt",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Nó sẽ bị đẩy lùi khỏi bộ tách hạt theo hướng ngược lại với hướng nó được phóng đi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Nó sẽ di chuyển theo hướng của lực từ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Nó sẽ di chuyển theo hướng của lực điện",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 54:",
+            "Câu hỏi": "Máy tách hạt hoạt động bằng cách sử dụng từ trường và điện trường hướng vuông góc. Khi một hạt mang điện được phóng vào thiết bị tách hạt, một lực điện không đổi được tác dụng lên hạt tỷ lệ với điện tích của hạt. Ngoài ra, từ trường tác dụng lên hạt một lực ngược hướng với lực điện và tỷ lệ với điện tích và vận tốc của hạt. Một hạt sẽ đi qua bộ phân tách hạt chỉ khi lực từ trường và lực điện đối nghịch có độ lớn bằng nhau vì chúng sẽ không gây ra sự thay đổi thực về hướng của hạt.\nPhát biểu nào sau đây về cường độ điện trường và cường độ từ trường là phù hợp với thông tin được cung cấp trong đoạn văn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Để bộ tách hạt hoạt động, tỷ số giữa cường độ điện trường và cường độ từ trường phải thay đổi theo thời gian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Để bộ tách hạt hoạt động, điện trường phải luôn mạnh hơn từ trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Để bộ tách hạt hoạt động, tỉ số giữa cường độ điện trường và cường độ từ trường phải không đổi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Để bộ tách hạt hoạt động, từ trường phải luôn mạnh hơn điện trường.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 55:",
+            "Câu hỏi": "Một vật thực hiện đồng thời hai dao động điều hòa cùng phương, cùng tần số với phương trình lần lượt là: x1=3cos10πt+5π6cm và x2=3cos10πt+π6cm (t tính bằng s).\nPhương trình dao động tổng hợp của hai dao động trên là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=3cos10πt−π2cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=3cos10πt+π2cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=3cos10πt−2π3cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=3cos10πt+2π3cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 56:",
+            "Câu hỏi": "Một vật thực hiện đồng thời hai dao động điều hòa cùng phương, cùng tần số với phương trình lần lượt là: x1=3cos10πt+5π6cm và x2=3cos10πt+π6cm (t tính bằng s).\nChu kì và tần số của dao động lần lượt là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T=0,2s;f=5Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. T=5s;f=0,2Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T=0,1s;f=10Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T=2s;f=0,5Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 57:",
+            "Câu hỏi": "Một vật thực hiện đồng thời hai dao động điều hòa cùng phương, cùng tần số với phương trình lần lượt là: x1=3cos10πt+5π6cm và x2=3cos10πt+π6cm (t tính bằng s).\nQuãng đường vật đi được sau 2s là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,2m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.120 m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 58:",
+            "Câu hỏi": "Đặt điện áp xoay chiều u=602cos100πt+π3V vào hai đầu đoạn mạch nối tiếp gồm điện trở thuần R=20Ω, cuộn dây thuần cảm có độ tự cảm L=0,1πH và tụ điện có điện dung thay đổi được. Điều chỉnh điện dung C=10−3πF.\nTổng trở của đoạn mạch có giá trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 20Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 10Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 202Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 102Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 59:",
+            "Câu hỏi": "Đặt điện áp xoay chiều u=602cos100πt+π3V vào hai đầu đoạn mạch nối tiếp gồm điện trở thuần R=20Ω, cuộn dây thuần cảm có độ tự cảm L=0,1πH và tụ điện có điện dung thay đổi được. Điều chỉnh điện dung C=10−3πF.\nBiểu thức cường độ dòng điện chạy qua đoạn mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. i=3cos100πt+π3A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. i=3cos100πtA",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. i=32cos100πt+π3A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. i=32cos100πtA",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 60:",
+            "Câu hỏi": "Đặt điện áp xoay chiều u=602cos100πt+π3V vào hai đầu đoạn mạch nối tiếp gồm điện trở thuần R=20Ω, cuộn dây thuần cảm có độ tự cảm L=0,1πH và tụ điện có điện dung thay đổi được. Điều chỉnh điện dung C=10−3πF.\n\n\nĐiều chỉnh điện dung của tụ điện để điện áp hiệu dụng giữa hai bản tụ điện đạt giá trị cực đại. Giá trị cực đại đó là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 305V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 20V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 205V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 61:",
+            "Câu hỏi": "Trong thí nghiệm Yâng về giao thoa của ánh sáng đơn sắc, hai khe hẹp cách nhau 1mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2,5m, bề rộng miền giao thoa là 1,25cm. Khoảng cách giữa 5 vân sáng liên tiếp là 6mm.\nBước sóng của ánh sáng dùng trong thí nghiệm này là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,76μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,60μm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,40μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,48μm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 62:",
+            "Câu hỏi": "Trong thí nghiệm Yâng về giao thoa của ánh sáng đơn sắc, hai khe hẹp cách nhau 1mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2,5m, bề rộng miền giao thoa là 1,25cm. Khoảng cách giữa 5 vân sáng liên tiếp là 6mm.\nVị trí cách vân sáng trung tâm 5,25mm là vân tối thứ mấy?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vân tối thứ 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Vân tối thứ 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vân tối thứ 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Vân tối thứ 3,5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 63:",
+            "Câu hỏi": "Trong thí nghiệm Yâng về giao thoa của ánh sáng đơn sắc, hai khe hẹp cách nhau 1mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2,5m, bề rộng miền giao thoa là 1,25cm. Khoảng cách giữa 5 vân sáng liên tiếp là 6mm.\nTổng số vân sáng và vân tối trong miền giao thoa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.17",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 64:",
+            "Câu hỏi": "Đồng vị 1124Na là chất phóng xạ β− và tạo thành đồng vị của magie. Ban đầu có 240mg 1124Na. Sau 105 giờ, độ phóng xạ của nó giảm đi 128 lần. Cho biết số Avogadro NA=6,02.1023mol−1\nPhương trình phản ứng hạt nhân có dạng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1124N→−10e+1224Mg",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1124N→10e+1224Mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1124N→0−1e+1125Mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1124N→01e+1123Mg",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 65:",
+            "Câu hỏi": "Đồng vị 1124Na là chất phóng xạ β− và tạo thành đồng vị của magie. Ban đầu có 240mg 1124Na. Sau 105 giờ, độ phóng xạ của nó giảm đi 128 lần. Cho biết số Avogadro NA=6,02.1023mol−1\n\nChu kì bán rã là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.13h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.14h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.15h",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 66:",
+            "Câu hỏi": "Đồng vị 1124Na là chất phóng xạ β− và tạo thành đồng vị của magie. Ban đầu có 240mg 1124Na. Sau 105 giờ, độ phóng xạ của nó giảm đi 128 lần. Cho biết số Avogadro NA=6,02.1023mol−1\n\nĐộ phóng xạ ban đầu của mẫu là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 7,7.1015Bq",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 7,7.1016Bq",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 7,7.1014Bq",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7,7.1013Bq",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 67:",
+            "Câu hỏi": "Cho mạch điện RLC mắc nối tiếp có biến trở R=10Ω,L=0,2πH,C=10−3πF. Điện áp hai đầu đoạn mạch là u=602cos100πt+π3V\n\nĐiện áp hiệu dụng hai đầu đoạn mạch có giá trị:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 602V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 60V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1202V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 68:",
+            "Câu hỏi": "Cho mạch điện RLC mắc nối tiếp có biến trở R=10Ω,L=0,2πH,C=10−3πF. Điện áp hai đầu đoạn mạch là u=602cos100πt+π3V\n\n\nTổng trở của đoạn mạch có giá trị:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 102Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 10Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 20Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 202Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 69:",
+            "Câu hỏi": "Cho mạch điện RLC mắc nối tiếp có biến trở R=10Ω,L=0,2πH,C=10−3πF. Điện áp hai đầu đoạn mạch là u=602cos100πt+π3V\n\n\nBiểu thức cường độ dòng điện trong mạch là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. i=6cos100πt+π6A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. i=62cos100πt+π6A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. i=32cos100πt+π12A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. i=6cos100πt+π12A",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 70:",
+            "Câu hỏi": "Cho mạch điện RLC mắc nối tiếp có biến trở R=10Ω,L=0,2πH,C=10−3πF. Điện áp hai đầu đoạn mạch là u=602cos100πt+π3V\n\n\nBiểu thức hiệu điện thế giữa hai đầu đoạn mạch MB là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. uMB=60cos100πt+7π12V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. uMB=602cos100πt+7π12V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. uMB=60cos100πt−7π12V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. uMB=60cos100πt+π12V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 71:",
+            "Câu hỏi": "Dao động điều hòa là chuyển động lặp đi lặp lại quanh vị trí cân bằng, tuân theo quy luật hình sin.Phương trình tổng quát của dao động điều hòa có dạng: x=Acosωt+φ ( x:cm, t:s). Trong đó: x là li độ của dao động; A là biên độ dao động; ωωlà tốc độ góc; φφ là pha ban đầu, xác định trạng thái ban đầu của vật −π≤φ≤π\nVận tốc của dao động điều hòa là đạo hàm bậc nhất của li độ. Gia tốc của dao động điều hòa là đạo hàm bậc hai của li độ. Đối với dao động cơ điều hòa, chu kì dao động là quãng thời gian ngắn nhất để một trạng thái của dao động lặp lại như cũ và được xác định bằng công thức: T=2πω=tN, với N là số dao động thực hiện được trong thời gian t.\nPhương trình vận tốc và phương trình gia tốc trong dao động điều hòa có dạng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. v=−ωAsinωt+φ;a=ω2Acosωt+φ+π",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. v=ω2Acosωt+φ+π2;a=ω2Acosωt+φ+π",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. v=−ωAsinωt+φ;a=ω2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. v=−ωAsinωt+φ;a=ωAcosωt+φ+π",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 72:",
+            "Câu hỏi": "Dao động điều hòa là chuyển động lặp đi lặp lại quanh vị trí cân bằng, tuân theo quy luật hình sin.Phương trình tổng quát của dao động điều hòa có dạng: x=Acosωt+φ ( x:cm, t:s). Trong đó: x là li độ của dao động; A là biên độ dao động; ωωlà tốc độ góc; φφ là pha ban đầu, xác định trạng thái ban đầu của vật −π≤φ≤π\nVận tốc của dao động điều hòa là đạo hàm bậc nhất của li độ. Gia tốc của dao động điều hòa là đạo hàm bậc hai của li độ. Đối với dao động cơ điều hòa, chu kì dao động là quãng thời gian ngắn nhất để một trạng thái của dao động lặp lại như cũ và được xác định bằng công thức: T=2πω=tN, với N là số dao động thực hiện được trong thời gian t.\n\nXét một chất điểm dao động điều hòa trên quỹ đạo dài 8cm, thực hiện 300 dao động trong thời gian 1 phút. Chất điểm dao động với chu kì là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,1s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,2s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.2s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 73:",
+            "Câu hỏi": "Dao động điều hòa là chuyển động lặp đi lặp lại quanh vị trí cân bằng, tuân theo quy luật hình sin.Phương trình tổng quát của dao động điều hòa có dạng: x=Acosωt+φ ( x:cm, t:s). Trong đó: x là li độ của dao động; A là biên độ dao động; ωωlà tốc độ góc; φφ là pha ban đầu, xác định trạng thái ban đầu của vật −π≤φ≤π\nVận tốc của dao động điều hòa là đạo hàm bậc nhất của li độ. Gia tốc của dao động điều hòa là đạo hàm bậc hai của li độ. Đối với dao động cơ điều hòa, chu kì dao động là quãng thời gian ngắn nhất để một trạng thái của dao động lặp lại như cũ và được xác định bằng công thức: T=2πω=tN, với N là số dao động thực hiện được trong thời gian t.\n\nVẫn xét chất điểm dao động điều hòa ở câu 2. Chọn gốc tọa độ ở vị trí cân bằng, mốc thời gian khi vật qua li độ x = 2cm theo chiều dương. Phương trình dao động của  vật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=4cos10πt+π3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=4cos10πt−π3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x=2cos10πt+π6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=2cos10πt−π6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 74:",
+            "Câu hỏi": "Chu kì của con lắc đơn được định nghĩa là khoảng thời gian cần thiết để con lắc dao động từ đầu này sang đầu kia và quay lại. Trong nghiên cứu về chu kì của một con lắc đơn giản, hai học sinh phát biểu ý kiến của mình:\nHọc sinh 1: Chu kì của con lắc phụ thuộc vào hai yếu tố: khối lượg dao động của con lắc (vật dao động ở cuối con lắc) và chiều dài của con lắc. Độ cao lúc đầu thả con lắc không ảnh hưởng đến chu kì T.\nHọc sinh 2: Chu kì của con lắc T chỉ phụ thuộc vào chiều dài của con lắc. Sự thay đổi khối lượng và độ cao lúc đầu thả con lắc không ảnh hưởng đến thời gian con lắc dao động ngang.\nHai học sinh đã thực hiện một loạt các thí nghiệm để đo chu kì của một con lắc đơn giản bằng cách sử dụng các khối lượng và độ dài khác nhau. Các học sinh không đo chiều cao như một yếu tố. Kết quả của các thí nghiệm có thể được thể hiện trong bảng dưới đây:\n\n\n\n\nMass (kg)\n\n\nChiều dài(m)\n\n\nThời gian (s)\n\n\n\n\n6 kg\n\n\n0,25 m\n\n\n1 s\n\n\n\n\n6 kg\n\n\n1 m\n\n\n2 s\n\n\n\n\n10 kg\n\n\n4 m\n\n\n4 s\n\n\n\n\n10 kg\n\n\n9 m\n\n\n6 s\n\n\n\n\n14 kg\n\n\n9 m\n\n\n6 s\n\n\n\n\nTheo dữ liệu được cung cấp, chúng ta dự đoán điều gì xảy ra nếu một thí nghiệm so sánh chu kì của con lắc làm bằng vật nặng trên dây dài một mét và con lắc làm bằng quả bóng tennis trênn dây dài ba mét?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Chu kì của con lắc quả bóng tennis sẽ giống với chu kì của con lắc quả cầu chì.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Chu kì của con lắc quả bóng tennis sẽ ngắn hơn chu kì của con lắc quả cầu chì.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Chu kì của con lắc quả bóng tennis sẽ dài hơn chu kì của con lắc quả cầu chì.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Chưa đủ thông tin để dự đoán",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 75:",
+            "Câu hỏi": "Chu kì của con lắc đơn được định nghĩa là khoảng thời gian cần thiết để con lắc dao động từ đầu này sang đầu kia và quay lại. Trong nghiên cứu về chu kì của một con lắc đơn giản, hai học sinh phát biểu ý kiến của mình:\nHọc sinh 1: Chu kì của con lắc phụ thuộc vào hai yếu tố: khối lượg dao động của con lắc (vật dao động ở cuối con lắc) và chiều dài của con lắc. Độ cao lúc đầu thả con lắc không ảnh hưởng đến chu kì T.\nHọc sinh 2: Chu kì của con lắc T chỉ phụ thuộc vào chiều dài của con lắc. Sự thay đổi khối lượng và độ cao lúc đầu thả con lắc không ảnh hưởng đến thời gian con lắc dao động ngang.\nHai học sinh đã thực hiện một loạt các thí nghiệm để đo chu kì của một con lắc đơn giản bằng cách sử dụng các khối lượng và độ dài khác nhau. Các học sinh không đo chiều cao như một yếu tố. Kết quả của các thí nghiệm có thể được thể hiện trong bảng dưới đây:\n\n\n\n\nMass (kg)\n\n\nChiều dài(m)\n\n\nThời gian (s)\n\n\n\n\n6 kg\n\n\n0,25 m\n\n\n1 s\n\n\n\n\n6 kg\n\n\n1 m\n\n\n2 s\n\n\n\n\n10 kg\n\n\n4 m\n\n\n4 s\n\n\n\n\n10 kg\n\n\n9 m\n\n\n6 s\n\n\n\n\n14 kg\n\n\n9 m\n\n\n6 s\n\n\n\n\n\nTrong một trận động đất, một số đèn chùm trong biệt thự bắt đầu lắc lư. Một số đèn chùm khá nhỏ trong khi những chiếc khác, chẳng hạn như một chiếc được tìm thấy trong phòng ăn lại rất lớn. Tuy nhiên, tất cả các đèn chùm treo cùng một khoảng cách chính xác với trần nhà. Hai học sinh dự đoán điều gì sẽ xảy ra?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Học sinh 1: Mọi chiếc đèn chùm sẽ có chu kì lắc lư chính xác như nhau. Học sinh 2: Mọi chiếc đèn chùm sẽ có chu kì dao động chính xác như nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Học sinh 1: Mỗi chiếc đèn chùm sẽ hiển thị một khoảng thời gian lắc lư khác nhau. Học sinh 2: Mọi chiếc đèn chùm sẽ có chu kì dao động chính xác như nhau.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Cả học sinh 1 và học sinh 2: Mọi chiếc đèn chùm sẽ có chu kì dao động chính xác như nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Cả học sinh 1 và học sinh 2: Mỗi chiếc đèn chùm sẽ hiển thị một khoảng thời gian lắc lư khác nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 76:",
+            "Câu hỏi": "Chu kì của con lắc đơn được định nghĩa là khoảng thời gian cần thiết để con lắc dao động từ đầu này sang đầu kia và quay lại. Trong nghiên cứu về chu kì của một con lắc đơn giản, hai học sinh phát biểu ý kiến của mình:\nHọc sinh 1: Chu kì của con lắc phụ thuộc vào hai yếu tố: khối lượg dao động của con lắc (vật dao động ở cuối con lắc) và chiều dài của con lắc. Độ cao lúc đầu thả con lắc không ảnh hưởng đến chu kì T.\nHọc sinh 2: Chu kì của con lắc T chỉ phụ thuộc vào chiều dài của con lắc. Sự thay đổi khối lượng và độ cao lúc đầu thả con lắc không ảnh hưởng đến thời gian con lắc dao động ngang.\nHai học sinh đã thực hiện một loạt các thí nghiệm để đo chu kì của một con lắc đơn giản bằng cách sử dụng các khối lượng và độ dài khác nhau. Các học sinh không đo chiều cao như một yếu tố. Kết quả của các thí nghiệm có thể được thể hiện trong bảng dưới đây:\n\n\n\n\nMass (kg)\n\n\nChiều dài(m)\n\n\nThời gian (s)\n\n\n\n\n6 kg\n\n\n0,25 m\n\n\n1 s\n\n\n\n\n6 kg\n\n\n1 m\n\n\n2 s\n\n\n\n\n10 kg\n\n\n4 m\n\n\n4 s\n\n\n\n\n10 kg\n\n\n9 m\n\n\n6 s\n\n\n\n\n14 kg\n\n\n9 m\n\n\n6 s\n\n\n\n\n\nTheo số liệu, mối quan hệ biểu kiến giữa khối lượng m và chu kì T là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hai biến có mối tương quan phi tuyến tính thuận",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Hai biến có mối tương quan phi tuyến tính âm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Hai biến có mối tương quan tuyến tính thuận",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hai biến không liên quan với nhau",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 77:",
+            "Câu hỏi": "Hình 1 cho thấy phổ điện từ, hay phổ năng lượng của ánh sáng phát ra từ trời. Trục trên cùng hiển thị mỗi loại sóng điện từ dưới dạng tần số (tính bằng Hz), trong đó tần số cao tương ứng với sóng ánh sáng năng lượng cao. Trục dưới cùng hiển thị bước sóng (tính bằng mét) của mỗi loại ánh sáng, trong đó bước sóng ngắn tương ứng với sóng ánh sáng năng lượng cao hơn. Có một tấm lót để hiển thị ánh sáng nhìn thấy, trong đó ánh sáng tím năng lượng cao hơn thường có bước sóng khoảng 400nm và 700nm tương ứng với ánh sáng đỏ năng lượng thấp hơn. Ánh sáng nhìn thấy, như thể hiện trong hình thường được đo bằng nanomet (nm).\n\nHình 1\nMột nhà khoa học nghiên cứu các loại bức xạ điện từ phát ra từ mặt trời đã tổng hợp dữ liệu về cường độ ánh sáng ở các bước sóng khác nhau. Người ta thấy rằngít hơn 1% bức xạ từ mặt trời có bước sóng ngắn hơn 100nm hoặc dài hơn 2500nm. Cường độ của bức xạ ở bước sóng giữa được vẽ trên hình 2.\n\nHình 2\nLoại ánh sáng dồi dào nhất được phát ra từ mặt trời là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Ánh sáng nhìn thấy màu đỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Ánh sáng nhìn thấy màu xanh lục",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Tia cực tím",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hồng ngoại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 78:",
+            "Câu hỏi": "Hình 1 cho thấy phổ điện từ, hay phổ năng lượng của ánh sáng phát ra từ trời. Trục trên cùng hiển thị mỗi loại sóng điện từ dưới dạng tần số (tính bằng Hz), trong đó tần số cao tương ứng với sóng ánh sáng năng lượng cao. Trục dưới cùng hiển thị bước sóng (tính bằng mét) của mỗi loại ánh sáng, trong đó bước sóng ngắn tương ứng với sóng ánh sáng năng lượng cao hơn. Có một tấm lót để hiển thị ánh sáng nhìn thấy, trong đó ánh sáng tím năng lượng cao hơn thường có bước sóng khoảng 400nm và 700nm tương ứng với ánh sáng đỏ năng lượng thấp hơn. Ánh sáng nhìn thấy, như thể hiện trong hình thường được đo bằng nanomet (nm).\n\nHình 1\nMột nhà khoa học nghiên cứu các loại bức xạ điện từ phát ra từ mặt trời đã tổng hợp dữ liệu về cường độ ánh sáng ở các bước sóng khác nhau. Người ta thấy rằngít hơn 1% bức xạ từ mặt trời có bước sóng ngắn hơn 100nm hoặc dài hơn 2500nm. Cường độ của bức xạ ở bước sóng giữa được vẽ trên hình 2.\n\nHình 2\n\nNhư bạn có thể biết, tiếp xúc với tia cực tím rất nguy hiểm vì nó đủ năng lượng để phân hủy DNA, dẫn đến ung thư. Giả sử rằng tất cả các loại bức xạ có năng lượng mạnh hơn tia tử ngoại cũng đều gây ung thư, thì loại ánh sáng nào sau đây cũng có khả năng gây ung thư?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tia gamma và tia X",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Ánh sáng nhìn thấy và tia X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Ánh sáng nhìn thấy và tia tử ngoại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tia gamma và sóng vô tuyến",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 79:",
+            "Câu hỏi": "Hình 1 cho thấy phổ điện từ, hay phổ năng lượng của ánh sáng phát ra từ trời. Trục trên cùng hiển thị mỗi loại sóng điện từ dưới dạng tần số (tính bằng Hz), trong đó tần số cao tương ứng với sóng ánh sáng năng lượng cao. Trục dưới cùng hiển thị bước sóng (tính bằng mét) của mỗi loại ánh sáng, trong đó bước sóng ngắn tương ứng với sóng ánh sáng năng lượng cao hơn. Có một tấm lót để hiển thị ánh sáng nhìn thấy, trong đó ánh sáng tím năng lượng cao hơn thường có bước sóng khoảng 400nm và 700nm tương ứng với ánh sáng đỏ năng lượng thấp hơn. Ánh sáng nhìn thấy, như thể hiện trong hình thường được đo bằng nanomet (nm).\n\nHình 1\nMột nhà khoa học nghiên cứu các loại bức xạ điện từ phát ra từ mặt trời đã tổng hợp dữ liệu về cường độ ánh sáng ở các bước sóng khác nhau. Người ta thấy rằngít hơn 1% bức xạ từ mặt trời có bước sóng ngắn hơn 100nm hoặc dài hơn 2500nm. Cường độ của bức xạ ở bước sóng giữa được vẽ trên hình 2.\n\nHình 2\n\nHình 2 cho thấy một lượng đáng kể bức xạ được tạo ra bởi mặt trời với bước sóng 2000nm. Đó là loại bức xạ nào và bước sóng của nó là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng vô tuyến; 2.10-4m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Hồng ngoại; 2.10-6m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Sóng vô tuyến; 2.10-6m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hồng ngoại; 2.10-4m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 80:",
+            "Câu hỏi": "Hình 1 cho thấy phổ điện từ, hay phổ năng lượng của ánh sáng phát ra từ trời. Trục trên cùng hiển thị mỗi loại sóng điện từ dưới dạng tần số (tính bằng Hz), trong đó tần số cao tương ứng với sóng ánh sáng năng lượng cao. Trục dưới cùng hiển thị bước sóng (tính bằng mét) của mỗi loại ánh sáng, trong đó bước sóng ngắn tương ứng với sóng ánh sáng năng lượng cao hơn. Có một tấm lót để hiển thị ánh sáng nhìn thấy, trong đó ánh sáng tím năng lượng cao hơn thường có bước sóng khoảng 400nm và 700nm tương ứng với ánh sáng đỏ năng lượng thấp hơn. Ánh sáng nhìn thấy, như thể hiện trong hình thường được đo bằng nanomet (nm).\n\nHình 1\nMột nhà khoa học nghiên cứu các loại bức xạ điện từ phát ra từ mặt trời đã tổng hợp dữ liệu về cường độ ánh sáng ở các bước sóng khác nhau. Người ta thấy rằngít hơn 1% bức xạ từ mặt trời có bước sóng ngắn hơn 100nm hoặc dài hơn 2500nm. Cường độ của bức xạ ở bước sóng giữa được vẽ trên hình 2.\n\nHình 2\n\nCâu nào liệt kê đúng các loại bức xạ điện từ khác nhau theo thứ tự năng lượng tăng dần?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Sóng vô tuyến, tia hồng ngoại, ánh sáng nhìn thấy, tia gamma",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Tia hồng ngoại, ánh sáng nhìn thấy, yia cực tím, tia hồng ngoại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Sóng vô tuyến, ánh sáng nhìn thấy, tia gamma, tia X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tia hồng ngoại, tia X, ánh sáng nhìn thấy, tia cực tím",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 81:",
+            "Câu hỏi": "Hình 1 cho thấy phổ điện từ, hay phổ năng lượng của ánh sáng phát ra từ trời. Trục trên cùng hiển thị mỗi loại sóng điện từ dưới dạng tần số (tính bằng Hz), trong đó tần số cao tương ứng với sóng ánh sáng năng lượng cao. Trục dưới cùng hiển thị bước sóng (tính bằng mét) của mỗi loại ánh sáng, trong đó bước sóng ngắn tương ứng với sóng ánh sáng năng lượng cao hơn. Có một tấm lót để hiển thị ánh sáng nhìn thấy, trong đó ánh sáng tím năng lượng cao hơn thường có bước sóng khoảng 400nm và 700nm tương ứng với ánh sáng đỏ năng lượng thấp hơn. Ánh sáng nhìn thấy, như thể hiện trong hình thường được đo bằng nanomet (nm).\n\nHình 1\nMột nhà khoa học nghiên cứu các loại bức xạ điện từ phát ra từ mặt trời đã tổng hợp dữ liệu về cường độ ánh sáng ở các bước sóng khác nhau. Người ta thấy rằngít hơn 1% bức xạ từ mặt trời có bước sóng ngắn hơn 100nm hoặc dài hơn 2500nm. Cường độ của bức xạ ở bước sóng giữa được vẽ trên hình 2.\n\nHình 2\n\nLoại ánh sáng nào sau đây được phát ra trong các bức xạ quang phổ lớn hơn 0,5Wm2.nm?\n\nI. Ánh sáng khả kiến\nII. Tia gamma\nIII. Tia hồng ngoại",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I, II và III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.I",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.I và III",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.III",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 82:",
+            "Câu hỏi": "Biểu đồ dưới đây mô tả vị trí của ba chiếc ô tô khác nhau trong khoảng thời gian 15 giây.\n\nTại thời điểm cả ba ô tô gặp nhau, ô tô nào đi nhanh nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Xe 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Xe 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Xe 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Cả 3 xe di chuyển với tốc độ như nhau",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 83:",
+            "Câu hỏi": "Biểu đồ dưới đây mô tả vị trí của ba chiếc ô tô khác nhau trong khoảng thời gian 15 giây.\n\nVận tốc của ô tô 1 tại thời điểm t = 7s là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1 m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0 m/s",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 84:",
+            "Câu hỏi": "Biểu đồ dưới đây mô tả vị trí của ba chiếc ô tô khác nhau trong khoảng thời gian 15 giây.\n\nNếu ô tô 3 tiếp tục đi với vận tốc hiện tại lúc t = 15s thì vị trí của ô tô sẽ ở đâu vào thời điểm t = 20s?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-30m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.-34m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.26m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.30m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 85:",
+            "Câu hỏi": "Bức xạ vật đen là năng lượng được giải phóng dưới dạng ánh sáng từ bất kì vật thể nào có nhiệt độ khác 0K hoặc khoảng hơn -273,15 độ C). Một ví dụ hàng ngày về bức xạ vật đen là bếp điện. Khi bếp điện ở chế độ cài đặt cao nhất, năng lượng được bơm vào mặt bếp và một phần năng lượng sẽ được giải phóng dưới dạng ánh sáng, khiến bếp phát sáng màu cam. Đây là bức xạ vật đen ở  bước sóng ánh sáng tương ứng với màu cam.\nQuang phổ nhìn thấy được của các bước sóng ánh sáng là từ 400nm (năng lượng cao) đến khoảng 750nm (năng lượng thấp). Bước sóng của ánh sáng tương quan với năng lượng của ánh sáng đó, trong khi cường độ đề cập đến lượg ánh sáng. Ví dụ, mặt bếp có màu cam rất sáng không có năng lượng trên mỗi photon ánh sáng khác với mặt bếp có màu cam mờ, miễn là chúng có cùng một bóng râm. Thay vào đó, mặt bếp sáng hơn chỉ phát ra nhiều phôton hơn.\nDựa vào thông tin trong đoạn văn, tại sao chúng ta không nhìn thấy những đồ vật thông thường ví dụ  như bàn ghế tỏa ánh sáng giống như bếp nấu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vật ở nhiệt độ phòng cần được làm lạnh để có bức xạ vật đen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Các vật thể ở nhiệt độ phòng không thể hiện bức xạ vật đen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Các vật thể ở nhiệt độ phòng thể hiện bức xạ vật đen ở bước sóng nhỏ hơn 400nm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Các vật thể ở nhiệt độ phòng thể hiện bức xạ vật đen ở bước sóng lớn hơn 750nm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 86:",
+            "Câu hỏi": "Bức xạ vật đen là năng lượng được giải phóng dưới dạng ánh sáng từ bất kì vật thể nào có nhiệt độ khác 0K hoặc khoảng hơn -273,15 độ C). Một ví dụ hàng ngày về bức xạ vật đen là bếp điện. Khi bếp điện ở chế độ cài đặt cao nhất, năng lượng được bơm vào mặt bếp và một phần năng lượng sẽ được giải phóng dưới dạng ánh sáng, khiến bếp phát sáng màu cam. Đây là bức xạ vật đen ở  bước sóng ánh sáng tương ứng với màu cam.\nQuang phổ nhìn thấy được của các bước sóng ánh sáng là từ 400nm (năng lượng cao) đến khoảng 750nm (năng lượng thấp). Bước sóng của ánh sáng tương quan với năng lượng của ánh sáng đó, trong khi cường độ đề cập đến lượg ánh sáng. Ví dụ, mặt bếp có màu cam rất sáng không có năng lượng trên mỗi photon ánh sáng khác với mặt bếp có màu cam mờ, miễn là chúng có cùng một bóng râm. Thay vào đó, mặt bếp sáng hơn chỉ phát ra nhiều phôton hơn.\nCho đồ thị:\n\nĐồ thị trên hiển thị lượng ánh sáng do một vật phát ra dưới dạng bức xạ vật đen ở các bước sóng khác nhau. Nếu màu tím tương ứng với bước sóng khoảng 400nm và màu đỏ tương ứng với bước sóng khoảng 600nm. Làm thế nào chúng ta có thể mô tả bức xạ vật đen của vật trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Bức xạ vật đen có bóng chính xác giữa tím và đỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Bức xạ vật đen có bóng gần với màu tím",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Bức xạ vật đen không nhìn thấy được",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Bức xạ vật đen có bóng gần với màu đỏ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 87:",
+            "Câu hỏi": "Chất bán dẫn (tiếng Anh: Semiconductor) là chất có độ dẫn điện ở mức trung gian giữa chất dẫn điện và chất cách điện. Chất bán dẫn hoạt động như một chất cách điện ở nhiệt độ thấp và có tính dẫn điện ở nhiệt độ phòng. Ứng dụng thực tế đầu tiên của chất bán dẫn là vào năm 1904 với máy Cat’s-whisker detector (tạm dịch là “máy dò râu mèo”) với một diode bán dẫn tinh khiết. Sau đó nhờ việc phát triển của thuyết vật lý lượng tử người ta đã tạo ra bóng bán dẫn năm 1947 và mạch tích hợp đầu tiên năm 1958.\nVì chất bán dẫn không được bày bán một cách phổ thông trong các cửa hàng giống như các thiết bị điện, nên nó có thể khó hình dung với nhiều người, nhưng trong thực tế, nó được sử dụng trong rất nhiều thiết bị hiện nay. Ví dụ:\nCảm biến nhiệt độ được trong điều hòa không khí được làm từ chất bán dẫn. Nồi cơm điện có thể nấu cơm một cách hoàn hảo là nhờ hệ thống điều khiển nhiệt độ chính xác có sử dụng chất bán dẫn. Bộ vi xử lý của máy tính CPU cũng được làm từ các nguyên liệu chất bán dẫn.\nNhiều sản phẩm tiêu dùng kỹ thuật số như điện thoại di động, máy ảnh, TV, máy giặt, tủ lạnh và bóng đèn LED cũng sử dụng chất bán dẫn.\nNgoài lĩnh vực điện tử tiêu dùng, chất bán dẫn cũng đóng một vai trò trung tâm trong hoạt động của các máy ATM, xe lửa, internet, truyền thông và nhiều thiết bị khác trong cơ sở hạ tầng xã hội, chẳng hạn như trong mạng lưới y tế được sử dụng để cung cấp dịch vụ chăm sóc sức khỏe người cao tuổi, vv… Thêm vào đó, hệ thống hậu cần hiệu quả sẽ giúp tiết kiệm năng lượng, thúc đẩy việc bảo tồn môi trường toàn cầu.\nCác thiết bị bán dẫn chủ yếu hoạt động dựa trên hiện tượng nào dưới đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Quang điện ngoài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Quang – phát quang.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Quang điện trong.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Cộng hưởng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 88:",
+            "Câu hỏi": "Chất bán dẫn (tiếng Anh: Semiconductor) là chất có độ dẫn điện ở mức trung gian giữa chất dẫn điện và chất cách điện. Chất bán dẫn hoạt động như một chất cách điện ở nhiệt độ thấp và có tính dẫn điện ở nhiệt độ phòng. Ứng dụng thực tế đầu tiên của chất bán dẫn là vào năm 1904 với máy Cat’s-whisker detector (tạm dịch là “máy dò râu mèo”) với một diode bán dẫn tinh khiết. Sau đó nhờ việc phát triển của thuyết vật lý lượng tử người ta đã tạo ra bóng bán dẫn năm 1947 và mạch tích hợp đầu tiên năm 1958.\nVì chất bán dẫn không được bày bán một cách phổ thông trong các cửa hàng giống như các thiết bị điện, nên nó có thể khó hình dung với nhiều người, nhưng trong thực tế, nó được sử dụng trong rất nhiều thiết bị hiện nay. Ví dụ:\nCảm biến nhiệt độ được trong điều hòa không khí được làm từ chất bán dẫn. Nồi cơm điện có thể nấu cơm một cách hoàn hảo là nhờ hệ thống điều khiển nhiệt độ chính xác có sử dụng chất bán dẫn. Bộ vi xử lý của máy tính CPU cũng được làm từ các nguyên liệu chất bán dẫn.\nNhiều sản phẩm tiêu dùng kỹ thuật số như điện thoại di động, máy ảnh, TV, máy giặt, tủ lạnh và bóng đèn LED cũng sử dụng chất bán dẫn.\nNgoài lĩnh vực điện tử tiêu dùng, chất bán dẫn cũng đóng một vai trò trung tâm trong hoạt động của các máy ATM, xe lửa, internet, truyền thông và nhiều thiết bị khác trong cơ sở hạ tầng xã hội, chẳng hạn như trong mạng lưới y tế được sử dụng để cung cấp dịch vụ chăm sóc sức khỏe người cao tuổi, vv… Thêm vào đó, hệ thống hậu cần hiệu quả sẽ giúp tiết kiệm năng lượng, thúc đẩy việc bảo tồn môi trường toàn cầu.\nNăng lượng kích hoạt là năng lượng cần thiết để giải phóng 1 electron liên kết thành 1 electron dẫn, giá trị đó của Ge là 0,66 eV. Lấy e=1,6.10−19  C;  h=6,625.10−34  J;  c=3.108  m/s. Giới hạn quang dẫn của Ge là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,88  μm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1,88  nm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3,01.10−25  m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "d. 3,01.10−15  m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 89:",
+            "Câu hỏi": "Chất bán dẫn (tiếng Anh: Semiconductor) là chất có độ dẫn điện ở mức trung gian giữa chất dẫn điện và chất cách điện. Chất bán dẫn hoạt động như một chất cách điện ở nhiệt độ thấp và có tính dẫn điện ở nhiệt độ phòng. Ứng dụng thực tế đầu tiên của chất bán dẫn là vào năm 1904 với máy Cat’s-whisker detector (tạm dịch là “máy dò râu mèo”) với một diode bán dẫn tinh khiết. Sau đó nhờ việc phát triển của thuyết vật lý lượng tử người ta đã tạo ra bóng bán dẫn năm 1947 và mạch tích hợp đầu tiên năm 1958.\nVì chất bán dẫn không được bày bán một cách phổ thông trong các cửa hàng giống như các thiết bị điện, nên nó có thể khó hình dung với nhiều người, nhưng trong thực tế, nó được sử dụng trong rất nhiều thiết bị hiện nay. Ví dụ:\nCảm biến nhiệt độ được trong điều hòa không khí được làm từ chất bán dẫn. Nồi cơm điện có thể nấu cơm một cách hoàn hảo là nhờ hệ thống điều khiển nhiệt độ chính xác có sử dụng chất bán dẫn. Bộ vi xử lý của máy tính CPU cũng được làm từ các nguyên liệu chất bán dẫn.\nNhiều sản phẩm tiêu dùng kỹ thuật số như điện thoại di động, máy ảnh, TV, máy giặt, tủ lạnh và bóng đèn LED cũng sử dụng chất bán dẫn.\nNgoài lĩnh vực điện tử tiêu dùng, chất bán dẫn cũng đóng một vai trò trung tâm trong hoạt động của các máy ATM, xe lửa, internet, truyền thông và nhiều thiết bị khác trong cơ sở hạ tầng xã hội, chẳng hạn như trong mạng lưới y tế được sử dụng để cung cấp dịch vụ chăm sóc sức khỏe người cao tuổi, vv… Thêm vào đó, hệ thống hậu cần hiệu quả sẽ giúp tiết kiệm năng lượng, thúc đẩy việc bảo tồn môi trường toàn cầu.\nMột chất quang dẫn có giới hạn quang dẫn là 0,78  μm số f1=4,5.1014Hz;f2=5,0.1013Hz;f3=6,5.1013Hz  và f4=6,0.1014Hz. Cho c=3.108m/s. Hiện tượng quang dẫn xảy ra với các chùm bức xạ có tần số",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.f1 và f2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.f2 và f3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.f3 và f4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.f1 và f4.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 90:",
+            "Câu hỏi": "Sử dụng một nguồn điện xoay chiều có biểu thức điện áp là: u(t)=U0.cos 100πt(V)u(t)=U0.cos 100πt(V), cấp cho một đoạn mạch điện gồm điện trở, tụ điện và cuộn cảm thuần mắc nối tiếp như hình vẽ:\n\nĐiện áp hiệu dụng đo được như sau:\n\nU0 có giá trị bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.100V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1002 V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.60V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.80V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 91:",
+            "Câu hỏi": "Sử dụng một nguồn điện xoay chiều có biểu thức điện áp là: u(t)=U0.cos 100πt(V)u(t)=U0.cos 100πt(V), cấp cho một đoạn mạch điện gồm điện trở, tụ điện và cuộn cảm thuần mắc nối tiếp như hình vẽ:\n\nĐiện áp hiệu dụng đo được như sau:\n\n\nBiểu thức nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. UAB=UAM+UMN+UNB",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. UAB2=UAM2+UMN2+UNB2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. UAB2=UAM2+UMN+UNB2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "d. UAB2=UAM2+UMN−UNB2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

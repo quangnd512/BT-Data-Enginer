@@ -1,0 +1,1385 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/top-5-de-thi-danh-gia-nang-luc-truong-dh-bach-khoa-ha-noi-nam-2022-co-dap-an/76925/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Vừa qua, một sinh viên năm cuối Trường Đại học RMIT đã góp phần giải quyết một thách thức rất lớn, cản trở việc số hóa bệnh án tiếng Việt lâu nay. Phối hợp sát sao cùng với Bệnh viện Bệnh nhiệt đới và Đơn vị Ngiên cứu lâm sàng Đại học Oxford (OUCRU) tại TP.Hồ Chí Minh, Phùng Minh Tuấn đã phát triển thành công một tập hợp đầu cuối để nhận diện chữ viết trên bản quét bệnh án tiếng Việt – công nghệ giàu tiềm năng hỗ trợ chủ trương đẩy mạnh số hóa bệnh án mà Chính phủ phát động từ năm 2019. Cậu sinh viên đang học năm cuối tại Khoa học và Công nghệ ở RMIT chia sẻ rằng “công nghệ nhận diện chữ viết đã tiến bộ rất nhiều nhưng hầu hết những phương pháp hiện có được phát triển để đọc tiếng Anh và hiện nay có rất ít hay gần như không có phần mềm riêng cho tiếng Việt”.\n“Nhận diện chữ viết tay tiếng Việt về cơ bản thách thức hơn với tiếng Anh nhiều vì sự hiện diện của các lớp ký tự, âm điệu và dấu câu phức tạp”, Tuấn cho hay. Cậu bạn mất hơn ba tháng thử-sai-thử để tìm ra cách hiệu quả nhất có thể chuyển hình ảnh của một bệnh án giấy thành phiên bản điện tử.\n“Chúng tôi áp dụng quy trình giảm nhiễm, chia nhỏ chữ viết xuống cấp độ từ và áp dụng mô hình ngôn ngữ Bigram để tăng xác suất chỉnh sửa có thể cho những từ chung quanh. Quan trọng hơn là chúng tôi phối hợp và thực hiện một cấu trúc học máy bao hàm mạng lưới thần kinh nhân tạo ResNet để chiết xuất hình dạng chữ và BiLSTM để lên mẫu tần suất chữ, và CTC cho nhiệm vụ sao chép cuối cùng. Tại điểm này, tín hiệu đầu ra cuối cùng dạng chuỗi song hành cùng bộ từ vựng giúp kết quả chính xác hơn”.\nGiảng viên Khoa Khoa học và Công nghệ tại Đại học RMIT đồng thời là thầy trực tiếp hướng dẫn Tuấn – Tiến sĩ Đinh Ngọc Minh nhấn mạnh vào kết quả đầy hứa hẹn của công trình này. Ông cho biết tập hợp có thể đóng vai trò thiết yếu hỗ trợ công cuộc số hóa các cơ sở y tế và bệnh viện ở Việt Nam, giúp họ sẵn sàng hơn trong việc chuyển sang sử dụng hệ thống quản lý bệnh án điện tử hiện đại. “Công trình mà Tuấn đề xuất có thể đẩy mạnh quy trình số hóa hệ thống bệnh án”, Tiến sĩ Minh cho hay. “Với sự trợ giúp của máy móc trong xử lý toàn bộ bệnh án, các cơ sở y tế có thể cần chuyển sang hệ thống điện tử mà không phải thay đổi quy trình đột ngột”.\n“Hệ thống như vậy sẽ còn cho phép các cơ sở y tế ở vùng hẻo lánh hay cán bộ y tế không có điều kiện tiếp cận máy tính tiếp tục với hệ thống giấy tờ hiện tại và có thể số hóa dễ dàng sau đó.” Tiến sĩ Minh tin rằng việc có thể chia sẻ bệnh án của bệnh nhân dễ dàng giữa các phòng ban sẽ giúp giảm bớt những xét nghiệm không cần thiết và tối ưu hóa điều trị,và dần cải thiện chất lượng chăm sóc y tế. “Và quan trọng nhất là công trình của Tuấn có thể tạo nên bộ dữ liêu ghi chép y khoa số hóa cho các giải pháp học máy y khoa tiềm năng khác nhau”, ông nói. “Thực tế, các bên hợp tác cùng chúng tôi là Bệnh viện Bệnh nhiệt đới và OUCRU dự kiến dùng dữ liệu tạo ra được để phát triển hệ thống chuyên gia chẩn đoán, cải tiến quy trình điều trị và giảm thiểu lỗi trong thực hành y khoa”.\nVới công trình này, Tuấn đã có được vị trí thực tập tại OUCRU và công trình của bạn còn được thuyết trình tại Hội thảo khoa học quốc tế hạng A – the ACIS2020, Hội thảo AHT, cũng như Triển lãm trực tuyến các công trình của sinh viên RMIT.\nTheo Đại học RMIT\nÝ nào sau đây thể hiện rõ nhất nội dung chính của bài đọc trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sinh viên Việt giải mã thành công chữ viết tay của bác sĩ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ứng dụng công nghệ trí tuệ nhân tạo vào số hóa bệnh án tiếng Việt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Những thách thức trong quá trình số hóa chữ viết tay của bác sĩ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một số công trình sinh viên nghiên cứu khoa học nổi bật trong lĩnh vực y tế.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nChọn A\nÝ nghĩa chính của các đoạn trong bài:\nĐoạn 1: Giới thiệu nghiên cứu nhận diện chữ viết tiếng Việt của Phùng Minh Tuấn.\nĐoạn 2: Những khó khăn khi thực hiện dự án.\nĐoạn 3: Giải pháp công nghệ được áp dụng trong dự án.\nĐoạn 4-6: Tiềm năng ứng dụng và định hướng phát triển của dự án trong tương lai.\nTổng hợp ý các đoạn, ta có ý của toàn bài là: “Sinh viên Việt giải mã thành công chữ viết tay của bác sĩ”."
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Dựa vào đoạn 1 (dòng 1-10), thông tin nào sau đây là KHÔNG chính xác?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chính phủ Việt Nam có chủ trương khuyến khích các dự án số hóa bệnh án.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nghiên cứu của Phùng Minh Tuấn được thực hiện với sự hỗ trợ của các đơn vị y tế.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hiện tại người ta chưa phát triển được phần mềm nhận diện chữ viết tay.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tại Việt Nam, việc khó nhận diện được chữ viết tay đang cản trở số hóa bệnh án.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nThông tin tại dòng 8-10: Hiện tại chưa có nhiều phần mềm nhận diện chữ viết tay tiếng Việt, tuy nhiên phần mềm nhận diện chữ viết tay tiếng Anh đã khá phát triển.\nChọn C."
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cụm từ “thử-sai-thử” ở dòng 13 mô tả điều gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quá trình đánh giá tác động của các yếu tố khác nhau lên đối tượng nghiên cứu để thiết lập môi trường nghiên cứu tối ưu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Quá trình thu thập nhận xét của các nhà nghiên cứu trong lĩnh vực chuyên ngành để điều chỉnh định hướng nghiên cứu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quá trình thu thập dữ liệu từ nhiều nguồn khác nhau để đánh giá độ chính xác của từng nguồn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quá trình tuần tự thử triển khai các giả thuyết, loại bỏ dần các giả thuyết không đúng cho đến khi xác định được giải pháp tốt nhất.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n“thử-sai-thử” là quá trình tiến hành thử bước từng giả thuyết trong quá trình nghiên cứu, nếu kết quả không đạt được như mong muốn, tiến hành thử tiếp giả thuyết khác.\nChọn D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Vì sao nhận diện chữ viết tiếng Việt lại phức tạp hơn nhận diện chữ viết tiếng Anh?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Do tiếng Anh có ít ngôn ngữ địa phương hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Do kí tự, âm điệu, dấu câu của tiếng Việt đa dạng hơn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Do ngữ pháp tiếng Việt phức tạp hơn với nhiều các diễn đạt hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Do chữ viết tay của tiếng Việt lộn xộn hơn chữ viết tay tiếng Anh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nThông tin tại dòng 12: “… vì sự hiện diện của các lớp ký tự, âm điệu và dấu câu phức tạp”.\nChọn B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cụm từ “BiLSTM” ở dòng 18 chỉ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một mô hình ngôn ngữ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một mạng lưới thần kinh nhân tạo.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Một hàm tính toán xác suất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một bột từ vựng thường gặp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nChọn B\nThông tin tại dòng 17-19: “… một cấu trúc học máy bao hàm mạng lưới thần kinh nhân tạo ResNet để chiết suất hình dạng chữ và BiLSTM để lên mẫu tần suất chữ, và CTC cho nhiệm vụ sao chép cuối cùng”. ResNet, BiLSTM, CTC là ba đối tượng tương đương trong câu. ResNet là một mạng lưới thần kinh nhân tạo\n⇒ BiLSTM cũng là mạng lưới thần kinh nhân tạo."
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Theo đoạn 4 (dòng 22-29), Tiến sĩ Đinh Ngọc Minh cho rằng ý nghĩa quan trọng nhất của công trình nghiên cứu của Phùng Minh Tuấn đối với quá trình số hóa bệnh viện là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tránh thay đổi đột ngột quy trình vận hành.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Giảm chi phí triển khai hệ thống bệnh án điện tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tăng tỉ lệ bác sĩ sử dụng bệnh án điện tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giảm thời gian bệnh nhân chờ đợi bệnh án.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nChọn A\nThông tin tại dòng 26-27: “Công trình mà Tuấn đề xuất có thể đẩy mạnh quy trình số hóa hệ thống bệnh án”."
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Theo đoạn 5 (dòng 30-39), vì sao nghiên cứu của Phùng Minh Tuấn có thể giúp giảm bớt các xét nghiệm không cần thiết?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Do các bác sĩ có thể giảm được thời gian kê đơn, tăng thời gian chuẩn đoán bệnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Do trí tuệ nhân tạo có thể hỗ trợ chuẩn đoán bệnh chính xác hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Do các cơ sở y tế hẻo lánh có thể tiếp cận với các công nghệ hiện đại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Do dữ liệu số hóa có thể liên thông giữa các bộ phận trong bệnh viện.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ý chính của đoạn 5 (dòng 29-38) là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các cơ sở y tế ở vùng hẻo lánh ứng dụng của nghiên cứu nhận diện chữ viết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Kế hoạch phát triển hệ thống chuyên gia chẩn đoán và cải tiến quy trình điều trị của OURU.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Những ứng dụng tiềm năng của công trình nghiên cứu nhận diện chữ viết của Phùng Tuấn Minh.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Vai trò của dữ liệu ghi chép y khoa số hóa trong việc giảm thiểu lỗi trong thực hành y khoa.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "BÀI ĐỌC 2\nThí sinh đọc Bài đọc 2 và trả lời các câu hỏi 9 – 16.\n\n\n\nThời gian vừa qua, tình trạng ô nhiễm không khí ở Hà Nội liên tục tăng lên, ảnh hưởng trực tiếp đến sức khỏe của người dân. Một trong những nguồn phát tán gây ô nhiễm không khí đã được thành phố chỉ ra chính là khói thải từ việc sử dụng bếp than tổ ong.\nTheo số liệu khảo sát của Sở TN&MT Hà Nội, năm 2017, thành phố tiêu thụ trung bình khoảng 528,2 tấn than/ ngày, tương đương với việc phát thải 1.870 tấn khí CO2 vào bầu không khí. Theo nghiên cứu, đốt bếp than sẽ thải ra môi tường các chất khí độc hại như CO, SO2, NOx và bụi mịn PM2.5.\nHít phải các loại khí độc này lâu dài sẽ gây ra các bệnh về hô hấp, ảnh hưởng chức năng phổ, gây tổn thương hệ thần kinh và suy giảm khả năng miễn dịch. Ngoài ra, bếp than tổ ong đặt bừa bãi trên vỉa hè, dưới lòng đường… cũng gây cản trở các hoạt động giao thông của người dân và tiềm ẩn nguy cơ mất an toàn về phòng cháy, chữa cháy.\nTrước thực trạng này, nhằm giảm thiểu tác động tiêu cực đến môi trường trên địa bàn, UBND TP.Hà Nội đã ban hành Chỉ thị số 15/CT-UBND ngày 30/10/2019, đặt mục tiêu hết năm 2020 phải xóa bỏ hoàn toàn việc sử dụng than tổ ong làm nhiên liệu trong sinh hoạt, kinh doanh dịch vụ… trên địa bàn thành phố. Với sự vào cuộc tích cực của các cấp chính quyền, tình trạng sử dụng bếp than tổ ong trên địa bàn Thủ đô đã giảm mạnh, nhiều nơi đã xóa bỏ được hoàn toàn loại bếp này.\nTheo báo cáo của Sở TN&MT Hà Nội, tính đến quý 3/2020, TP.Hà Nội còn khoảng 11.081 bếp than tổ ong, sau khi đã loại bỏ được 43.411 bếp (giảm 79,66% so với năm 2017). Theo đánh giá, việc giảm bếp than tổ ong giúp giảm tiếp xúc với các chất ô nhiễm không khí từ nấu ăn cho 160.000 gia đình ở Hà Nội. Trong đó, quận Hoàn Kiếm và huyện Thạch Thất đã xóa bỏ hoàn toàn việc sử dụng than tổ ong trong sinh hoạt và kinh doanh dịch vụ. Trong khi đó, 5 quận, huyện vẫn còn số lượng bếp than ở mức cao nhất lần lượt là Hoàng Mai, Hai Bà Trưng, Ba Đình, Đống Đa, và huyện Đan Phượng.\nKhảo sát nhanh của Chi cục Bảo vệ môi trường (thuộc Sở TN&MT Hà Nội) phối hợp cùng Trung tâm Sống và Học tập vì Môi trường và Cộng đồng thực hiện tại 10 điểm sản xuất than, bếp than tổ ong tại các quận Tây Hồ, Hai Bà Trưng, Thanh Xuân… cho thấy, từ tháng 9 – 11/2020, số lượng than tổ ong tiêu thụ trong một ngày từ các xưởng giảm mạnh, trung bình hiện nay dưới 1.000 viên/ngày / xưởng, có những xưởng chỉ khoảng 500 viên/ ngày. Các xưởng sản xuất than hiện đều đã cắt giảm nhân lực hoặc chuyển đổi – đa dạng hóa các hình thức kinh doanh nhỏ lẻ khác.\nTrên thực tế, dù đa phần người dân đều nhận thức được sự nguy hại đến sức khỏe từ bếp than tổ ong. Tuy nhiên, do lợi ích kinh tế “siêu rẻ”, một bộ phận hộ gia đình, hộ kinh doanh vẫn “ưu ái” sử dụng. Đi sâu vào các ngõ nhỏ, khu tập thể cũ, chợ dân sinh, chợ tạm… những chiếc bếp than tổ ong vẫn hiện diện. Hình ảnh người dân, các hộ kinh doanh sử dụng bếp than tổ ong làm phương tiện đun nấu vẫn xuất hiện. Theo khảo sát, những cơ sở và hộ gia đình vẫn sản xuất than tổ ong đang gặp khó khăn trong việc chuyển đổi nghề nghiệp và đảm bảo nguồn thu nhập, nên rất cần có sự hướng dẫn, hỗ trợ từ phía chính quyền địa phương.\nNhằm giảm thiểu tác động tiêu cực đến môi trường trên địa bàn thành phố, mới đây, ngày 6/1/2021, UBND TP. Hà Nội đã có văn bản chỉ đạo triển khai các biện pháp cải thiện chỉ số chất lượng không khí (AQI). Theo đó, UBND TP. Hà Nội giao UBND các quận, huyện, thị xã tổ chức kiểm tra, không để tái diễn việc sử dụng bếp than tổ ong, hạn chế đốt rơm rạ, phụ phẩm cây trồng và chất thải không đúng nơi quy định; tăng cường rà soát, kiểm soát, kiểm soát các cơ sở sản xuất bếp, than tổ ong và nhiên liệu than cấp thấp, có hình thức vận động, hỗ trợ các cơ sở sản suất này chuyển đổi loại hình kinh doanh sản xuất.\n(Theo Lương Thụy Bình, Hà Nội quyết “xóa” than tổ ong để giảm ô nhiễm, Báo Khoa học & Đời sống, ngày 25/01/2021)\n\n\nÝ nào sau đây thể hiện rõ nhất nội dung chính của bài đọc trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thực trạng ô nhiễm không khí tại Hà Nội và các biện pháp xử lí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ảnh hưởng của việc sử dụng bếp than tổ ong đến ô nhiễm không khí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kế hoạch cải thiện chất lượng môi trường tại Hà Nội trong năm 2020 – 2021.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hà Nội xóa bỏ bếp than tổ on để giảm ô nhiễm không khí.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Theo đoạn 3 (dòng 9-13), hít phải các khí độc từ đốt than KHÔNG ảnh hưởng trực tiếp đến hệ cơ quan nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hệ hô hấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hệ tuần hoàn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hệ miễn dịch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hệ thần kinh.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Theo đoạn trích, số lượng bếp than tổ ong ở Hà Nội năm 2017 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 11.081",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 43.411",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 54.492",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 160.000",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Theo đoạn 5 (dòng 20-26), thông tin nào sau đây là chính xác?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hiện tại, số lượng bếp than tổ ong tại Hoàn Kiếm nhiều hơn tại Thạch Thất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hiện tại, số lượng bếp than tổ ong tại Thạch Thất nhiều hơn tại Đan Phượng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hiện tại, số lượng bếp than tổ ong tại Hoàn Kiếm nhiều hơn tại Hoàng Mai.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hiện tại, số lượng bếp than tổ ong tại Hoàn Kiếm tương đương Thạch Thất.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Theo đoạn 6 (dòng 27-33), trong tháng 9/2020, tổng lượng than tổ ong tiêu thụ trong ngày tại tất cả các địa điểm được khảo sát vào khoảng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khoảng 500 viên/ ngày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khoảng 1.000 viên/ ngày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khoảng 5.000 viên/ ngày.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khoảng 10.000 viên/ ngày.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Theo đọan 7 (dòng 34-41), đâu là nguyên nhân chính khiến bếp than tổ ong chưa bị loại bỏ hoàn toàn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Người dân chưa nhận thức được mức độ nguy hại đối với sức khỏe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bếp than tổ ong phù hợp với không gian nhỏ hẹp tại các khu tập thể cũ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chi phí sử dụng than tổ ong thấp hơn các phương tiện đun nấu khác.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Người dân cần thời gian thay đổi thói quen đã hình thành từ lâu.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Theo đoạn 8 (dòng 42-49), phương án nào sau đây KHÔNG phải là một trong những biện pháp cải thiện chất lượng không khí theo chỉ đạo của UBND TP.Hà Nội?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hạn chế đốt rơm rạ và phụ phẩm cây trồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cấm sử dụng than tổ ong.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Hỗ trợ cơ sở sản xuất than chuyển đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các phương án đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Dựa vào đoạn trích, ta có thể đánh giá như thế nào về nỗ lực loại bỏ bếp than tổ ong của TP.Hà Nội?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đã có những tiến triển tích cực, tuy nhiên cần các biện pháp bổ dung.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đã thành công, sắp tới cần duy trì để tránh hiện tượng tái sử dụng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đã có những tiến triển tích cực, sẽ hoàn thành mục tiêu trong tương lai gần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vẫn còn gặp nhiều khó khăn, cần các biện pháp quyết liệt hơn trong tương lai.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thí sinh đọc Bài đọc 3 và trả lời các câu hỏi 17 – 26\nBÀI ĐỌC 3\n\nChạm một mẩu băng dính vào đầu bút chì. Sau khi được bóc ra, trên bề mặt băng dính sẽ còn sót lại một vài mảnh graphite (chì). Gấp đôi mẩu băng dính lại rồi tách nó ra để chia những mảnh graphite thành hai lớp. Cứ gấp đôi và mở ra như vậy 10 đến 20 lần, nếu kĩ thuật của bạn đủ tốt, thì xin chúc mừng bạn – bạn vừa tạo ra graphene – vật liệu mỏng nhất và gần như bền nhất được biết tới trên thế giới hiện nay.\nKĩ thuật gấp băng dính trên chính là những gì hai nhà khoa học Andre Geim và Konstantin Novoselov đã làm để phân lập graphene – một lớp carbon có độ dày đúng bằng đường kính nguyên tử vào năm 2004. Sáu năm sau, họ đã giành được giải Nobel cho công trình này một cách hoàn toàn xứng đáng.\nNhững đặc tính phi thường của graphene khiến nó ngày càng phổ biến: graphene giúp tai nghe tạo ra âm thanh tốt hơn, điện thoại tản nhiệt tốt hơn, mặt đường cứng và bền hơn, thậm chí cả bao bì dầu gội cũng trở nên thân thiện với môi trường hơn.\nGraphene không chỉ là vật liệu mỏng nhất và bền thứ hai trên thế giới – chỉ đứng sau một dạng carbon một chiều tên là carbyne – mà còn siêu nhẹ và trong suốt. Nó có thể rất dẻo hoặc rất cứng, tùy thuộc vào cách xử lý. Graphene vừa là một trong những chất dẫn nhiệt và dẫn điện tốt nhất. Nó đồng thời hút nước rất tốt nhưng lại chặn tất cả những tạp chất khác khiến nó thành một màng lọc hay tấm chắn vật chất siêu hạng. Và, như Geim và Novoselov đã chứng minh, graphene không khó chế tạo.\nGustavo Dudamel, giám đốc âm nhạc của Los Angeles Philharmonic, nói một cách say mê về chiếc tai nghe GQ do một công ty khởi nghiệp của Canada có tên là Ora sản xuất: “Tôi có thể nghe rõ từng chi tiết âm nhạc – điều mà tôi chỉ từng trải qua khi đứng trên bục sân khấu trước cả một dàn nhạc giao hưởng”.\nKhai thác độ cứng, độ nhẹ và đặc tính giảm chấn của graphene – khả năng dừng dao động ngay lập tức khi dòng điện ngừng đi qua nó – Ora đang sử dụng graphene oxide để tạo ra màng cho tai nghe và loa. Bản thân Novoselov cũng ca ngợi công ty  hết lời vì đã giúp “graphene chính thức ra khỏi phòng thí nghiệm và bước vào thế giới âm thanh”.\nAri Pinkas, người đồng sáng lập Ora giải thích rằng, từ trước đến nay, các nhà thiết kế loa luôn phải thỏa hiệp giữa độ cứng, độ nhẹ và độ giảm chấn. Nhưng giờ đây với graphene, họ không phải quan tâm đến điều đó nữa. “Trong gần hai thập kỉ, các đặc tính lý thuyết của graphene khiến người ta xem nó như một vật liệu “trời cho” đối với màng ngăn của loa” – anh nói.\nSức mạnh của Graphene cũng thu hút sự quan tâm trong ngành xây dựng. Có tới 8% lượng khí thải CO2 trên thế giới đến từ sản xuất bê tông. Việc bổ sung graphene có thể cắt giảm lượng khí thải đó, vì nó sẽ giúp bê tông cứng hơn, do đó cần sử dụng ít bê tông hơn.\nCây cầu thay thế cho chiếc cầu cao tốc bị sập trong vụ tai nạn kinh hoàng xảy ra vài năm trước tại Genoa, Ý được xây bằng nhựa đường có chứa bột graphene do Directa Plus, một công ty khởi nghiệp của Ý sản xuất. Graphene giúp nhiệt được phân phối đều hơn trên toàn bộ mặt đường. Do vậy, ngay cả khi bị đóng băng, những điểm lạnh nhất trên mặt được cũng ít có khả năng nứt vỡ tạo thành hàng loạt ổ gà. “Chất phụ gia này có thể giúp tăng tuổi thọ mặt đường lên gấp ba: từ sáu đến bảy năm lên 18 đến 21 năm”, Giulio Cesareo, đồng sáng lập kiêm Giám đốc điều hành Directa Plus tuyên bố.\nDirecta Plus cũng hợp tác với Lukoil đến từ Nga và OMV đến từ Áo để làm sạch đất và nước đã bị ô nhiễm do tràn dầu ở Romania. Vì graphene có thể chặn hầu hết các chất lỏng trong khi chi cho nước đi qua, bột graphene được sử dụng trong các tấm lọc để hấp thụ dầu tràn. Khi bão hòa, người ta có thể vắt dầu từ bột này ra và sử dụng lại một cách hiệu quả. Cesareo cho biết: “Chúng tôi đã tách được 400 tấn dầu thô để gửi trở lại nhà máy lọc dầu”.\nViệc Graphene có thể được sử dụng như một tấm chắn vật chất linh hoạt còn tiện dụng trong thế giới bao bì. Gần đây, Toraphene – một công ty khởi nghiệp tại Anh – vừa công bố một dạng nhựa sinh học có khả năng phân hủy hoàn toàn, đồng thời hoàn toàn thích hợp để sản xuất thương mại. Loại vật liệu cùng tên là sự kết hợp của graphene với polyme tự nhiên từ thực vật, đang được bắt đầu sử dụng trong việc sản xuất các túi đi chợ.\nCuối cùng chúng ta đến Skeleton Technologies – công ty của Estonia và Đức này hiện đang phối hợp với một số nhà sản xuất ô tô lớn nhất châu Âu để nghiên cứu lưu trữ năng lượng trong pin làm từ graphene.\nNếu bạn xếp các lớp graphene bình thường, phẳng thì chúng sẽ nhanh chóng kết hợp với nhau thành than chì (graphite). Vì vậy, Skeleton đã phát triển một phương pháp độc quyền để chế tạo graphene cong và sử dụng chúng trong các siêu tụ điện.\nLợi ích lớn nhất của graphene cong là giúp xử lý tải cao điểm khiến pin lithium-ion tiêu chuẩn quá nóng và xuống cấp theo thời gian; kết hợp cả hai loại pin này cho phép bộ pin nhỏ hơn 30% và tuổi thọ lâu gấp đôi. Theo Skeleton, các siêu tụ điện của họ có thể giúp duy trì sự ổn định của lưới điện trước tình trạng năng lượng tái tạo đang ngày càng trở nên phố biến hơn.\n\n\nÝ nào sau đây thể hiện rõ nhất nội dung chính của bài đọc trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những tính năng ưu việt của graphite và tiềm năng ứng dụng trong cuộc sống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Graphene – Từ phát minh đoạt giải Nobel đến những sản phẩm kì diệu.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Những đặc tính phi thường của graphene – vật liệu mỏng nhất thế giới.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ứng dụng graphene trong chế tạo siêu tụ điện và xi măng siêu tính năng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Dựa vào thông tin tại đoạn 1 (dòng 1-5), mệnh đề nào sau đây là chính xác?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Graphite được tạo thành từ các lớp graphene.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Graphene được tạo thành từ các lớp graphite.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Graphite được tạo thành từ các khối graphene.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Graphene được tạo thành từ các khối graphite.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Hai nhà khoa học Andre Geim và Konstantin Novoselov được trao giải Nobel có công trình phân lập graphene vào năm nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2004",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2006",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2008",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2010",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Theo đoạn 4 (dòng 13-18), phương án nào sau đây KHÔNG phải là một tính chất của graphene?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dẫn điện, dẫn nhiệt tốt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cho ánh sáng đi xuyên qua.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mỏng nhất trong các loại vật liệu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Gustavo Dudamel.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Chiếc tai nghe sử dụng graphene được nhắc tới trong bài có tên là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ora.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Los Angeles và Philharmonic.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. GQ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Gustavo Dudamel.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Từ “thỏa hiệp” ở dòng 29 mang ý nghĩa:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dung hòa giữa các yếu tố.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Lựa chọn yếu tố ưu tiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Loại bỏ yếu tố ít quan trọng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thỏa thuận giữa cá bên liên quan.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Trong đoạn 8 (dòng 33-36), câu “Việc bổ sung graphene có thể giúp cắt giảm lượng khí thải đó, vì nó sẽ giúp bê tông cứng hơn, do đó cần sử dụng ít bê tông hơn.” Minh họa tốt nhất cho ý nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bê tông chứa graphene là loại bê tông cứng nhất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Graphene giúp giảm lượng bê tông cần sử dụng trong xây dựng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Việc sản xuất bê tông chứa graphene tạo ra ít khí thải hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Graphene có thể được sử dụng để bổ sung cho bê tông.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Ý chính của đoạn 10 (dòng 45-50) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ứng dụng graphene trong chế tạo màng lọc dầu tràn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hợpt ác của Directa Plus với Lukoil và OMV.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 400 tấn dầu thô được gửi trở lại nhà máy lọc dầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Graphene có thể chặn hầu hết các chất lỏng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Phương án nào sau đây KHÔNG phải là một đặc tính của Toraphene?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Có thành phần từ graphene.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có thể phân hủy hoàn toàn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Có thành phần từ thực vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Có chi phí sản xuất cao.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Theo đoạn cuối, nhược điểm của pin lithium-ion là gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Xuống thấp ở nhiệt độ cao.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Giá thành cao.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kích thước nhỏ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thiếu ổn định.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Thí sinh đọc Bài đọc 4 và trả lời các câu hỏi 27 – 35.\nBÀI ĐỌC 4\n\nKhi nghĩ đến Siberia, điều gì xuất hiện trong tâm trí bạn? Một vùng đất phủ tuyết trắng dày đặc với những rừng cây lá thông. Nếu bạn hỏi những tổ tiên từng săn bắn, hái lượm của chúng ta – người Neanderthals – họ sẽ kể cho bạn về một Siberia hoàn toàn khác, với những đồng cỏ xanh mướt trải dài tận chân trời. Vùng đồng cỏ này được gọi là “thảo nguyên ma-mút”. Tuy nhiên, sự biến mất của những loài ăn cỏ khổng lồ như voi ma-mút khỏi vùng thảo nguyên này đã góp phần vào sự hình thành nên lãnh nguyên Bắc cực băng tuyết mà chúng ta thấy ngày nay.\nXuyên suốt Kỷ băng hà lớn nhất và gần đây nhất của Trái đất (kỷ Pleistocene), thảo nguyên ma-mút từng là hệ sinh thái rộng lớn nhất. Bạn có thể gọi nó là “Kỷ cỏ” cũng được! Khi ấy, thảo nguyên ma-mút là một vùng đồng bằng phủ cỏ xanh mướt, khô ráo, kéo dài từ vùng đảo Bắc cực đến Trung Quốc và từ Tây Ban Nha đến Canada. Hệ sinh thái đồng cỏ được duy trì tốt này là nơi sinh sống của nhiều loài động vật như bò rừng, tuần lộc, voi ma-mút, sói, và hổ. Bạn có thể ví nó như phiên bản siêu lạnh của vùng thảo nguyên châu Phi.\nHệ sinh thái thảo nguyên ma-mút chỉ phụ thuộc một phần vào khí hậu. Các loài động vật ăn cỏ duy trì thảm thực vật bằng cách dẫm đạp lên những cây bụi và rêu – về cơ bản, có thể xem chúng như những chiếc máy xén cỏ của tự nhiên vậy. Chúng còn là những người làm vườn hiệu quả khi góp phần phát tán hạt giống và làm giàu cho đất bằng những đống phân giàu dưỡng chất. Chính vì vậy, kể cả khi trải qua thời kỳ lạnh giá nhất của kỷ Bằng hà, hệ sinh thái này vẫn duy trì được một lượng khổng lồ các loài ăn cỏ cỡ lớn.\nẤy thế nhưng, sau 100.000 năm sống sót trước những thay đổi khốc liệt của khí hậu, thảo nguyên ma-mút và nhiều loài đặc trưng bỗng biến mất khỏi bề mặt Trái đất. Ngày nay, phía Bắc Siberia, Alaska và Yukon (Canada) là những nơi duy nhất có những đặc điểm gần với hệ sinh thái thảo nguyên này. Bởi những khu vực nói trên đã chống chịu lại được những biến đổi khí hậu đang diễn ra trên hành tinh của chúng ta, một số nhà nghiên cứu tin rằng thảo nguyên ma-mút hẳn cũng có thể tồn tại qua kỷ Pleistocene.\nGiả thuyết hàng đầu hiện nay là khi khí hậu trở nên ấm hơn vào cuối kỷ Băng hà cuối cùng, tức xấp xỉ 14.500 năm trước, loài người đã tiến xa hơn về phía Bắc. Được trang bị những ngọn giáo sắc lẻm, họ sớm leo lên đỉnh của chuỗi thức ăn.\nNhững loài động vật ngây thơ không có khả năng phòng vệ trước loài săn mồi mới này. Không lâu sau, dân số loài ăn cỏ ở vùng thảo nguyên ma-mút nhanh chóng sụt giảm, nhiều loài thậm chí tuyệt chủng. Điều đó đã tạo nên hiệu ứng domino mà đỉnh điểm là hình thành nên một hệ sinh thái hoàn toàn mới. Trước đây, những loài ăn cỏ khổng lồ thường xuyên dẫm đạp lên các loài thực vật bên dưới khi chúng di chuyển. Khi không còn những con thú này nữa, cỏ ở thảo nguyên ma-mút cũng mất khả năng cạnh tranh với những cây bụi mọc quanh năm, những đám rêu phát triển chậm, và những cây thông rụng lá của lãnh nguyên Bắc cực. Hàng triệu hecta đồng cỏ sinh trưởng mạnh với đất đai màu mỡ đã bị thay thế bằng thảm thực vật sinh trưởng yếu, phát triển chậm. Những loài còn sót lại, như voi ma-mút và tê giác lông rậm, không thể thích ứng với thảm thực vật mới này và không thể sống sót qua những mùa đông lạnh giá.\nSố lượng động vật hiện nay ở Bắc cực thấp hơn ít nhất 100 lần so với trước đây, bởi hệ sinh thái mới chỉ có thể nuôi sống một số lượng sinh vật giới hạn. Hơn thế nữa, hiện tượng băng tan ở Bắc cực vì biến đổi khí hậu đang đẩy một lượng lớn carbon vào bầu khí quyển. Các nhà khoa học tin rằng khôi phục lại hệ sinh thái đồng cỏ ở Bắc cực có thể đảo ngược xu hướng này.\nNhằm giải thích tầm quan trọng của việc khôi phục hệ sinh thái đồng cỏ, Giám đốc của Trạm khoa học Đông Bắc nước Nga, Sergei Zimov, đã thành lập Công viên Pleistocene ở phía Bắc Siberia. Ông dự định mang những vùng đồng cỏ trở lại bằng cách tái giới thiệu những loài ăn cỏ cỡ lớn vào các khu vực đã rào lại bên trong công viên theo một kế hoạch cụ thể.\nHiện tại, công viên đang trải rộng hơn 20km vuông và là nhà của 8 loài ăn cỏ chính: tuần lộc, nai sừng tấm, bò rừng, ngưak Yukutian, bò Kalmykian, bò xạ hương, bò Tây Tạng, và cừu. Với việc dự án đảo ngược tuyệt chủng đối với voi ma-mút lông rậm đang được tiến hành, Zimov hi vọng một ngày nào đó sẽ đưa được chúng vào công viên. Hiện không có loài họ hàng gần nào, hay phần thi thể đóng băng nào còn sót lại của các loài động vật đã tuyệt chủng khác từng sống trong khu vực này. Chính vì vậy, những động vật như hổ răng kiếm đã vĩnh viễn không còn cơ hội quay lại nữa.\n(Theo Minh T.T, Sự biến mất của loài voi ma-mút đã ảnh hưởng đến hệ sinh thái của Trái Đất ra sao? Báo VnReview, ngày 17/01/2021).\n\nÝ nào sau đây thể hiện rõ nhất nội dung chính của bài đọc trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Loài người là nguyên nhân gây ra sự tuyệt chủng của voi ma-mút.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ảnh hưởng của sự tuyệt chủng của voi ma-mút đến hệ sinh thái Trái đất.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Vai trò của thảo nguyên ma-mút đối với đa dạng sinh thái ở Bắc bán cầu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dự án đảo ngược tuyệt chủng đối với voi ma-mút lông rậm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Theo đoạn 1 (dòng 1-7), mô tả nào sau đây về vùng Siberia hiện nay là KHÔNG chính xác?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Là vùng đất hết sức lạnh giá.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Có nhiều rừng cây lá kim.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Được bao phủ bởi đồng cỏ xanh mướt.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Không còn các loài ăn cỏ lớn như voi ma-mút.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Thông qua đoạn 2 (dòng 8-14), tác giả muốn khẳng định điều gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các loài ăn cỏ thường dẫm đạp lên cây bụi và rêu dẫn khiến thảo nguyên không phát triển được.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trong tự nhiên cũng tồn tại các loại máy xén cỏ khác nhau.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Các loài ăn cỏ đóng vai trò quan trọng giúp hệ sinh thái thảo nguyên duy trì và phát triển.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Các loài động vật không phát triển được trong thời kỳ lạnh giá nhất của kỷ Băng hà.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Tại đoạn 4 (dòng 22-28), tác giả cân nhắc đến các địa phương “Bắc Siberrial, Alaska và Yukon” nhằm minh họa điều gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chứng minh hệ sính thái thảo nguyên có thể sống sót sau kỉ Pleistocene.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Liệt kê một số vùng đất có khí hậu khắc nghiệt nhất trên Trái đất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chứng minh một số vùng đất có thể ít bị ảnh hưởng hơn của biến đổi khí hậu.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Liệt kê một số vùng thảo nguyên còn sót lại cần được bảo vệ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Theo đoạn 5 (dòng 29-31), thông tin nào sau đây là KHÔNG chính xác?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Khí hậu là yếu tố quyết định luông di cư của con người.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nhiệt độ Trái đất ấm lên giúp loài người leo lên đỉnh chuỗi thức ăn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Loài người ban đầu sinh sống quanh các vùng gần Xích đạo.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khí hậu Trái đất đã có sự biến đổi lớn vào khỏang 14.500 năm trước.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cụm từ “loài săn mồi mới này” ở dòng 32-33 chỉ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Loài hổ răng kiếm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Loài voi ma-mút.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Loài người.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Loài tê giác lông rậm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cụm từ “hiệu ứng domino” ở dòng 34 được tác giả sử dụng để miêu tả quá trình nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Số lượng các loài ăn cỏ lớn tăng khiến cây bụi và rêu tăng dẫn đến diện tích đồng cỏ giảm xuống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Số lượng các loài ăn cỏ lớn tăng khiến cây bụi và rêu giảm dẫn đến diện tích đồng cỏ giảm xuống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Số lượng các loài ăn cỏ lớn giảm khiến cây bụi và rêu giảm dẫn đến diện tích đồng cỏ tăng lên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số lượng các loài ăn cỏ lớn giảm khiến cây bụi và rêu tăng dẫn đến diện tích đồng cỏ giảm xuống.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Theo đoạn 7 (dòng 44-48), vì sao lượng động vật tại Bắc cực lại thấp hơn so với trước đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Vì khí hậu ngày càng nóng lên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vì lượng carbon trong khí quyển tăng lên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Vì băng ở Bắc cực đang tan nhanh hơn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vì hệ sinh thái cung cấp được ít thức ăn hơn.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Công viên Pleistocene KHÔNG có loài động vật nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Bò Kalmykian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ngựa Yukutian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hổ răng kiếm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Nai sừng tấm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho hàm số y=4−m6−x+36−x+m . Có bao nhiêu giá trị nguyên của m trong khoảng (-10;10) sao cho hàm số đồng biến trên khoảng (-8;5)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Biết giá trị lớn nhất của hàm số y=fx=2x3−15x+m−5+9x  trên [0;3] bằng 60. Tính tổng tất cả các giá trị của tham số thực m.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 48",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 62",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Tính chiều dài nhỏ nhất của cái thang để nó có thể dựa vào tường và bắc qua cột đỡ cao 4m. Biết cột đỡ song song và cách tường 0,5m, mặt phẳng chứa tường vuông góc với mặt đất, bỏ qua độ dày của cột đỡ.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 532.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 552.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 332.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 352",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Áp suất không khí P là một đại lượng được tính theo công thức P=Poexi  trong đó x là độ cao, Po=760 mmHg  là áp suất ở mực nước biển, i là hệ số suy giảm. Biết rằng, ở độ cao 1000m thì áp suất của không khí là 672,72 mmHg. Hỏi áp suất của không khí ở độ cao 15 km gần nhất với số nào trong các số sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 121",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 122",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 123",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 124",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 40:",
+            "Câu hỏi": "Ông A có số tiền là 100 triệu đồng gửi tiết kiệm theo thể thức lãi kép, có hai loại kỳ hạn. Loại kỳ hạn 12 tháng với lãi suất là 12%/ năm và loại kỳ hạn 1 tháng với lãi suất 1%/tháng. Ông A muốn gửi 10 năm. Theo anh chị, kết luận nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Gửi theo kỳ hạn 1 tháng có kết quả nhiều hơn kỳ hạn 1 năm là 16.186.000 đồng sau 10 năm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cả hai loại kỳ hạn đều có cùng số tiền như nhau sau 10 năm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Gửi theo kỳ hạn 1 tháng có kết quả nhiều hơn kỳ hạn 1 năm là 19.454.000 đồng sau 10 năm.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Gửi theo kỳ hạn 1 tháng có kết quả nhiều hơn kỳ hạn 1 năm là 15.584.000 đồng sau 10 năm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 41:",
+            "Câu hỏi": "Cho phương trình 4−x−m.log2x2−2x+3+22x−x2.log122x−m+2=0  với m là tham số. Tổng tất cả các giá trị của tham số m để phương trình đã cho có ba nghiệm phân biệt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 42:",
+            "Câu hỏi": "Cho hình lăng trụ đều ABC.A’B’C’ có độ dài tất cả các cạnh bằng a. Gọi M là trung điểm AB và N là điểm thuộc cạnh AC sao cho CN = 2AN. Thể tích của khối đa diện lồi có các đỉnh là các điểm A, M, N, A’, B’ và C’ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 53a312.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a336.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 53a336.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3a312.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 43:",
+            "Câu hỏi": "Cho hình nón tròn xoay có chiều cao h = 20 (cm), bán kính đáy r. Một thiết diện đi qua đỉnh của hình nón có chu vi là 40+1041(cm)  và khoảng cách từ tâm đáy đến mặt phẳng chứa thiết diện là 12 (cm). Tính thể tích của khối nón.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=12500π3cm3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. V=π3cm3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=4167πcm3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=500π3cm3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 44:",
+            "Câu hỏi": "Một sợi dây được quấn đối xứng đúng 10 vòng quanh một ống trụ tròn đều có bán kính R=2πcm  .\n\n\n\n\nBiết rằng sợi dây dài 50cm. Hãy tính diện tích xung quanh của ống trụ đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 80cm2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 100cm2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60cm2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120cm2.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 45:",
+            "Câu hỏi": "Một cốc hình trụ có bán kính đáy bằng 3cm, chiều cao 20cm, trong cốc đang có một ít nước, khoảng cách giữa đáy cốc và mặt nước là 12cm. Một con quạ muốn uống nước được trong cốc thì mặt nước phải cách miệng cốc không quá 6cm. Con quạ thông minh đã mổ những viên sỏi hình cầu có bán kính 0,8cm thả vào cốc để mực nước dâng lên. Hỏi để uống được nước, con quạ cần thả ít nhất bao nhiêu viên sỏi?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 26",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 27",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 28",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 29",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 46:",
+            "Câu hỏi": "Cho hàm số y=f(x) có đồ thị trên [-2;6] như hình vẽ bên. Biết các miền A, B, C có diện tích lần lượt là 32; 2; 3 (đvdt). Tính  ∫−22f2x+2+1dx?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 452",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 41",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 37",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 412",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 47:",
+            "Câu hỏi": "Một thùng rượu có bán kính các đáy là 30cm, thiết diện vuông góc với trục và cách đều hai đáy có bán kính là 40cm, chiều cao thùng rượu là 1m. Biết rằng mặt phẳng chứa trục và cắt mặt xung quanh thùng rượu là các đường parabol, hỏi thể tích của thùng rượu là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 425162 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 212581 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 212,6 lít.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 425,2 lít.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 48:",
+            "Câu hỏi": "Gọi z1 là nghiệm phức có phần ảo âm của phương trình z2−2z+5=0.  Hỏi điểm biểu diễn của   là điểm nào trong các điểm M, N, P, Q ở hình bên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điểm N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điểm M.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điểm Q.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Điểm P.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 49:",
+            "Câu hỏi": "Cho số phức z thỏa mãn −2−3i3−2iz+1=2 . Giá trị lớn nhất của môđun số phức z là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 50:",
+            "Câu hỏi": "Trong không gian Oxyz, cho mặt phẳng P:4y−z+3=0  và hai đường thẳng Δ1:x−11=y+24=z−23,Δ2:x+45=y+79=z1 . Đường thẳng d vuông góc với mặt phẳng (P) và cắt cả hai đường thẳng Δ1,Δ2  có phương trình là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=1y=−2+4tz=2−t.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x=2y=2+4tz=5−t.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=6y=11+4tz=2−t.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=−4y=−7+4tz=−t.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 51:",
+            "Câu hỏi": "Trong không gian với hệ tọa độ Oxyz, gọi (P) là mặt phẳng đi qua điểm M(1;4;9), cắt các tia Ox, Oy, Oz tại A, B, C sao cho biểu thức OA + OB + OC có giá trị nhỏ nhất. Mặt phẳng (P) đi qua điểm nào dưới đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (12;0;0).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (6;0;0).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (0;6;0).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (0;0;12).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 52:",
+            "Câu hỏi": "Cho đường thẳng Δ:x−22=y−12=z+3−3  và hai điểm A(1; -1; -1), B(-2;-1;1). Gọi C, D là hai điểm di động trên đường thẳng   sao cho tâm mặt cầu tiếp xúc với các mặt của tứ diện ABCD luôn nằm trên tia Ox. Tính độ dài đoạn thẳng CD.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CD=17",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CD=31711",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CD=121717",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CD=13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 53:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy là tam giác ABC vuông cân tại A, SA vuông góc với mặt phẳng đáy, SA=a62,AB=a . Gọi M là trung điểm của BC. Góc giữa đường thẳng SM và mặt phẳng (ABC) có số đo bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 45o.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 30o.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60o.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 90o.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 54:",
+            "Câu hỏi": "Cho tứ diện ABCD có ABC^=ADC^=BCD^=90o ,BC=2a,CD=a,   góc giữa đường thẳng AB và mặt phẳng (BCD) bằng 60o . Tính khoảng cách giữa hai đường thẳng AC và BD",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a631.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a631.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a331.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a331.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 55:",
+            "Câu hỏi": "Hằng ngày mực nước của con kênh lên xuống theo thủy triều. Độ sâu h của mực nước trong kênh được tính tại thời điểm t trong một ngày bởi công thức h=3cosπt8+π4+12.  Mực nước của kênh cao nhất khi",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. t=13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. t=14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. t=15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. t=16",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 56:",
+            "Câu hỏi": "Có bao nhiêu cách chia 20 chiếc bút chì giống nhau cho ba bạn Thắng, Lộ, Long sao cho mỗi bạn được ít nhất một chiếc bút chì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 153",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 210",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 190",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 171",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 57:",
+            "Câu hỏi": "Một chiếc ô tô với hai động cơ độc lập đang gặp trục trặc kĩ thuật. Xác suất để động cơ 1 hỏng là 0,5. Xác suất để động cơ 2 hỏng là 0,4. Biết rằng xe không thể chạy được chỉ khi cả hai động cơ bị hỏng. Tính xác suất để xe đi được.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 58:",
+            "Câu hỏi": "Cho (un)  là cấp số cộng thỏa mãn u50+u51=100.  Tổng 100 số hạng đầu của cấp số cộng (un) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1000.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5000.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 50000.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 10000.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 59:",
+            "Câu hỏi": "Cho đoạn thẳng AB=2100cm  . Gọi M1  là trung điểm của AB. Gọi Mk+1  là trung điểm của MkBk=1,2,...,99 . Tính độ dài đoạn thẳng M1M100 .",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 299−1.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 297+1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 299−2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 298.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 60:",
+            "Câu hỏi": "Một người thợ được yêu cầu trang trí trên một bức tường hình vuông kích thước 5m x 5m bằng cách vẽ một hình vuông mới với các đỉnh là trung điểm các cạnh của hình vuông ban đầu, tô kín màu lên hai tam giác đối diện bằng cách sử dụng hai màu xanh (phần chấm) và hồng (phần tô màu). Quá trình vẽ và tô theo quy luật đó được lặp lại 6 lần. Tính số tiền mua sơn để người thợ đó hoàn thành công việc trang trí theo yêu cầu trên gần nhất với con số nào trong bốn đáp án dưới đây, biết tiền sơn màu xanh để sơn kín 1m2 là 100000 đồng và tiền sơn màu hồng đắt gấp 1,5 so với tiền sơn màu xanh.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1540000 đồng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1570000 đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1650000 đồng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1480000 đồng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

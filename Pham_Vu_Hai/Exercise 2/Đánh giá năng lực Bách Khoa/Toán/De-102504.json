@@ -1,0 +1,350 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tim-min-max-lien-quan-den-so-phuc/102504/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho số phức z thỏa mãn điều kiện z−2+2i=1. Tìm giá trị lớn nhất của |z|",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. maxz=22+1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. maxz=22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. maxz=22+2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. maxz=22-1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nÁp dụng bất đẳng thức chứa dấu giá trị tuyệt đối ta có:\n1=z−2+2i=z−2−2i≥z−2−2i=z−22⇒z≤1+22\nVậy maxz=1+22Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho số phức z thỏa mãn |z-2-2i|=1. Số phức z−i có mô đun nhỏ nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1−5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5+2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nz−i=z−2−2i+i+2≥z−2−2i−i+2=1−5=5−1\nVậy z−i≥5−1 nên minz−i=5−1\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho số phức z có |z|=2 thì số phức w=z+3i có mô đun nhỏ nhất và lớn nhất lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2 và 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1 và 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2 và 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1 và 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Xác định số phức z thỏa mãn z−2−2i=2 mà |z| đạt giá trị lớn nhất.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z=1+i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z=3+i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z=3+3i",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. z=1+3i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSử dụng bất đẳng thức chứa dấu giá trị tuyệt đối ta có:\n2=|z−2−2i|≥|z|−|−2−2i|=|z|−22⇒|z|≤32\nSuy ra max|z|=32\nKiểm tra các đáp án đã cho chỉ có đáp án C thỏa mãn.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho số phức z thoả |z-3+4i| =2 và w=2z+1-i. Khi đó |w| có giá trị lớn nhất là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 16+74",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2+130",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4+74",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4+130",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho số phức z thỏa mãn |z-1-2i|=4. Gọi M,m lần lượt là giá trị lớn nhất, giá trị nhỏ nhất của |z+2+i|. Tính S=M2+m2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S = 34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S = 82",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S = 68",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S = 36",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho số phức z có điểm biểu diễn nằm trên đường thẳng 3x-4y-3=0, |z| nhỏ nhất bằng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 35",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 45",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho số phức z thỏa mãn |z+3|+|z-3|=10. Giá trị nhỏ nhất của |z| là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho z1,z2 thỏa mãn z1−z2=1 và z1+z2=3. Tính maxT=z1+z2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 10",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tìm giá trị nhỏ nhất của |z|, biết rằng z thỏa mãn điều kiện 4+2i1−iz−1=1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tìm giá trị lớn nhất của |z|, biết rằng z thỏa mãn điều kiện −2−3i3−2iz+1=1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong số các số phức z thỏa mãn điều kiện |z-4+3i|=3, gọi z0 là số phức có mô đun lớn nhất. Khi đó z0 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong các số phức z thỏa mãn |z+3+4i|, gọi z0 là số phức có mô đun nhỏ nhất. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không tồn tại số phức",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z0=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z0=7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. z0=3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Xét các số phức z,w thỏa mãn |z|=2, |iw-2+5i|=1. Giá trị nhỏ nhất của z2−wz−4 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 229−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 229−5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Xét các số phức z,w thỏa mãn |z|=1 và |w|=2. Khi z+iw¯−6−8i đạt giá trị nhỏ nhất, |z-w| bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2215.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 295",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

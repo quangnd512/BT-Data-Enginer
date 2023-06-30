@@ -1,0 +1,742 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-ve-diem-bieu-dien-so-phuc/102501/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tìm điểm M biểu diễn số phức z=i−2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. M(1;-2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. M(2;-1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. M(-2;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. M(2;1)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nz=i-2=-2+i nên điểm biểu diễn là M(−2;1) \nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trên mặt phẳng tọa độ, điểm M là điểm biểu diển của số phức z (như hình vẽ bên). Điểm nào trong hình vẽ là điểm biểu diển của số phức 2z?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điểm N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điểm Q.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điểm E.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Điểm P.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiểm M(1;1) biểu diễn số phức z=1+i⇒2z=2+2i\nDo đó điểm biểu diễn số phức 2z là (2;2) (điểm E).\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Gọi A là điểm biểu diễn của số phức ]z=-1+6i và B là điểm biểu diễn của số phức z'=-1-6i. Mệnh đề nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hai điểm A và B đối xứng với nhau qua trục hoành.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hai điểm A và B đối xứng nhau qua trục tung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hai điểm A và B đối xứng nhau qua gốc tọa độ O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hai điểm A và B đối xứng nhau qua đường thẳng y = x.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Gọi M và N lần lượt là điểm biểu diễn của các số phức z1;z2 khác 0. Khi đó khẳng định nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z2=ON",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z1−z2=MN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z1+z2=MN",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. z1=OM",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: z1+z2=MN  là khẳng định sai vì dựa vào đồ thị ta có: z1−z2=MN\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Số phức z được biểu diễn trên trên mặt phẳng như hình vẽ.\n\nHỏi hình nào biểu diễn cho số phức w=iz¯",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho số phức z thỏa mãn (1+i)z=3-i. Hỏi điểm biểu diễn của z là điểm nào trong các điểm M,N,P,Q ở hình bên ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điểm P",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điểm Q",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Điểm M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điểm N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n1+iz=3−i⇒z=3−i1+i=3−i1−i1+i1−i=2−4i12+12=1−2i⇒Q1;−2\nlà điểm biểu diễn z.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho số phức z thỏa mãn (2-i)z=7-i. Hỏi điểm biểu diễn của z là điểm nào trong các điểm M,N,P,Q ở hình dưới.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điểm P",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điểm Q",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điểm M",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Điểm N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho số phức z=2+5i. Tìm số phức w=iz+z¯",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. w=7-3i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. w=-3-3i",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. w=3+7i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. w=-7-7i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho số phức  z  thỏa mãn z=22 và điểm A trong hình vẽ bên là điểm biểu diễn của z. Biết rằng trong hình vẽ bên, điểm biểu diễn của số phức z=22 là một trong bốn điểm M,N,P,Q. Khi đó điểm biểu diễn của số phức w  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điểm Q",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điểm M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điểm N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điểm P",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Số phức z thỏa mãn z+z=0. Khi đó:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. z là số thuần ảo",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Môđun của z bằng 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. z là số thực nhỏ hơn hoặc bằng 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Phần thực của z là số âm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong mặt phẳng phức gọi A,B,C lần lượt là các điểm biểu diễn của các số phức z1=3+2i;z2=3−2i;z3=−3−2i. Khẳng định nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. B và C đối xứng với nhau qua trục tung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Trọng tâm của tam giác ABC là G(1;23).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. A và B đối xứng với nhau qua trục hoành.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A,B,C nằm trên đường tròn tâm tại gốc tọa độ và bán kính bằng 13.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Biết rằng điểm biểu diễn số phức z là điểm M ở hình bên dưới. Modun của z bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Gọi A và B lần lượt là điểm biểu diễn của số phức z1=3−2i và z2=1+4i. Trung điểm của đoạn thẳng AB có tọa độ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1;-3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (2;3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2;1)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. (4;2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong mặt phẳng phức, tập hợp các điểm biểu diễn các số phức z thỏa mãn z.z¯=1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. một đường thẳng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. một đường tròn.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. một elip.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. một điểm.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho các số phức z1=2,z2=−4i,z3=2−4i có điểm biểu diễn tương ứng trên mặt phẳng tọa độ Oxy là A, B, C. Diện tích tam giác ABC bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong mặt phẳng phức, tập hợp các điểm biểu diễn các số phức z thỏa mãn z.z¯=1 là đường tròn có bán kính là:",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hai số phức z1=3+i,z2=−1+2i. Trong mặt phẳng tọa độ, điểm biểu diễn cho số phức w=2z1−z2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P(7;−1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Q(5;−1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. M(7;0)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. N(5;0)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Hỏi có bao nhiêu số phức thỏa mãn đồng thời các điều kiện z−i=5 và z2 là số thuần ảo?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho ba điểm A,B,C lần lượt biểu diễn các số phức sau z1=1+i;z2=z12;z3=m−i. Tìm các giá trị thực của m sao cho tam giác ABC vuông tại B.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m = -3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m = 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tập điểm biểu diễn số phức z thỏa mãn z2=z2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cả mặt phẳng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường thẳng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Một điểm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hai đường thẳng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho các số phức z thỏa mãn |z+1+i| = |z-1+2i|. Tập hợp các điểm biểu diễn các số phức z trên mặt phẳng tọa độ là một đường thẳng. Viết phương trình đường thẳng đó",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4x+6y-3=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4x-6y-3=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4x+6y+3=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4x-6y+3=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho số phức z thỏa mãn 1+z2 là số thực. Tập hợp điểm MM biểu diễn số phức z là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đường tròn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường thẳng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hai đường thẳng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Một điểm duy nhất",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho số phức z thay đổi, luôn có |z|=2. Khi đó tập hợp điểm biểu diễn số phức w=1−2iz¯+3i là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đường tròn x2+(y−3)2=25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đường tròn x2+(y+3)2=20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đường tròn x2+(y−3)2=20",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đường tròn (x−3)2+y2=25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho các số phức z thỏa mãn |z|=4. Biết rằng tập hợp các điểm biểu diễn số phức w=(3+4i)z+i là một đường tròn. Tính bán kính r của đường tròn đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. r = 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. r = 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. r = 20",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. r = 22",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Tập  hợp các điểm trong mặt phẳng  tọa  độ  biểu diễn  số  phức  z   thoả  mãn  điều  kiện 2z−i=z−z¯+2i  là hình gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một đường thẳng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Một đường Parabol.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Một đường Elip.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một đường tròn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Trên mặt phẳng tọa độ Oxy, tìm tập hợp các điểm biểu diễn các số phức z thỏa mãn điều kiện z−2+z+2=10.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đường tròn x−22+y+22=100.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Elip x225+y24=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đường tròn x−22+y+22=10.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Elip x225+y221=1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Cho số phức z=m+3+m2−m−6i với m∈ℝ. Gọi (P) là tập hợp điểm biểu diễn số phức z trong mặt phẳng tọa độ. Diện tích hình phẳng giới hạn bởi (P) và trục hoành bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1256",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 176",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 556",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Trên mặt phẳng tọa độ Oxy, gọi M là điểm biểu diễn hình học của số phức z=-1+2i và α là góc lượng giác có tia đầu Ox, tia cuối OM. Tính tan2α",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. −34",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −43",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 43",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho các số phức z1=3−2i,z2=1+4i và z3=−1+i có biểu diễn hình học trong mặt phẳng tọa độ Oxy lần lượt là các điểm A,B,C. Diện tích tam giác ABC bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 217.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 413",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 9",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Trong mặt phẳng phức, gọi A, B, C, D lần lượt là các điểm biểu diễn các số phức z1=−1+i, z2=1+2i,z3=2−i,z4=−3i. Gọi S diện tích tứ giác ABCD. Tính S.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=172",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. S=192",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=232",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. S=212",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho các số phức z thỏa mãn |z|=2 và điểm A trong hình vẽ là điểm biểu diễn của z. Biết rằng trong hình vẽ, điểm biểu diễn số phức w=−4z là một trong bốn điểm M, N, P, Q\n\n\nKhi đó điểm biểu diễn của số phức w là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Điểm N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Điểm Q",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điểm P",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Điểm M",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Biết rằng tập hợp điểm biểu diễn các số phức z thỏa mãn |(1+i)z+5-i| =1 là đường tròn tâm I(a;b). Tính a + b.",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cho số phức z thỏa mãn |z+i|=1. Biết rằng tập hợp các điểm biểu diễn số phức w=3+4iz+2+i là một đường tròn tâm I, điểm I có tọa độ là I(a;b), tính a − b",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Trong mặt phẳng tọa độ, tập hợp các điểm M biểu diễn của số phức z thỏa mãn z+1+3i=z−2−i là phương trình đường thẳng có dạng ax+by+c=0. Khi đó tỉ số ab bằng:",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho hai số phức z1,z2 thỏa mãn z1=6,z2=2. Gọi M,N lần lượt là các điểm biểu diễn của số phức z1 và số phức iz2. Biết MON^=60∘. Tính T=z12+9z22",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T=362",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T=363",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. T=243",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T=18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

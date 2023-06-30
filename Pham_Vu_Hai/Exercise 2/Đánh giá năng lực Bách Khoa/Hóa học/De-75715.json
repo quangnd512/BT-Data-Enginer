@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/thiet-lap-cong-thuc-phan-tu-cua-hop-chat-huu-co/75715/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đốt một lượng hidrocacbon X thu được hỗn hợp sản phẩm trong đó CO2 có khối lượng chiếm 66,165%. Chất X có công thức là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C6H6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C4H10",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C8H10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C5H12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Giả sử sau phản ứng thu được 100 gam hỗn hợp gồm CO2 và H2O.+ mCO2 = 66,165 gam =>nCO2 = 1,50375 mol =>nC = nCO2 = 1,50375 mol+ mH2O = 100 – 66,165 = 33,835 gam =>nH2O = 1,87972 mol =>nH = 2nH2O = 3,75944 molTa có: C : H = 1,50375 : 3,75944 ≈ 0,4Quan sát các đáp án thấy B thỏa mãnĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hidrocacbon X chứa 80% cacbon về khối lượng. Công thức phân tử của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H6.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C3H8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C4H10.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Đặt công thức của hidrocacbon X là CxHy\\[\\% {m_C} = \\frac{{12x}}{{12x + y}}.100\\%  = 80\\% \\]=>12x = 0,8(12x + y) =>2,4x = 0,8y =>x : y = 1 : 3=>Công thức phân tử của chất có dạng là CnH3nMặt khác trong hợp chất hữu cơ ta luôn có: H ≤ 2C + 2=>3n ≤ 2n + 2 =>n ≤ 2Mà số H chẵn nên ta suy ra n = 2=>CTPT C2H6Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một chất hữu cơ A có 51,3% C ; 9,4% H ; 12% N ; 27,3% O. Tỉ khối hơi của A so với không khí là 4,034. CTPT của A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C5H11O2N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C10H22O4N2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C6H13O2N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C5H9O2N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời: Bước 1: Tính tỉ lệ nC: nH: nO: nN- Ta có \\[{n_C}:{n_H}:{n_O}:{n_N} = \\frac{{51,3}}{{12}}:\\frac{{9,4}}{1}:\\frac{{27,3}}{{16}}:\\frac{{12}}{{14}}\\]\\[ \\Rightarrow {n_C}:{n_H}:{n_O}:{n_N} = 4,275:9,4:1,706:0,857\\]\\[ \\Rightarrow {n_C}:{n_H}:{n_O}:{n_N} = 5:11:2:1\\]Bước 2: Xác định CTĐGN của A- Ta có công thức đơn giản nhất của A là C5H11O2NBước 3: Xác định CTPT của A- Đặt công thức phân tử của A là (C5H11O2N)n- Theo giả thiết ta có :(12.5 + 11 + 16.2 + 14).n = 4,034.29=>n = 1Vậy công thức phân tử của A là C5H11O2N.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chất hữu cơ A chứa 7,86% H ; 15,73% N về khối lượng. Đốt cháy hoàn toàn 2,225 gam A thu được CO2, hơi nước và khí nitơ, trong đó thể tích khí CO2 là 1,68 lít (đktc). CTPT của A là (biết MA < 100) :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C6H14O2N.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H7O2N.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C3H7ON.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C3H7ON2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có :\\[{n_C} = {n_{C{O_2}}} = \\frac{{1,68}}{{22,4}} = 0,075mol \\Rightarrow {m_C} = 0,9gam\\]Do đó : %O = (100 – 40,45  – 15,73 – 7,86)% = 35,96%.          \\[{n_C}:{n_H}:{n_O}:{n_N} = \\frac{{40,45}}{{12}}:\\frac{{7,86}}{1}:\\frac{{35,96}}{{16}}:\\frac{{15,73}}{{14}}\\]\\[ \\Rightarrow {n_C}:{n_H}:{n_O}:{n_N} = 3,37:7,86:2,2475:1,124\\]\\[ \\Rightarrow {n_C}:{n_H}:{n_O}:{n_N} = 3:7:2:1\\]Công thức đơn giản nhất của A là C3H7O2N. Đặt công thức phân tử của A là (C3H7O2N)n. Theo giả thiết ta có :(12.3 + 7 + 16.2 + 14).n < 100 =>n < 1,12 =>  n =1Vậy công thức phân tử của A là C3H7O2N.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Oxi hóa hoàn toàn 4,02 gam một hợp chất hữu cơ X chỉ thu được 3,18 gam Na2CO3 và 0,672 lít khí CO2 (đktc). CTĐGN của X là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CO2Na.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CO2Na2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C3O2Na.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2O2Na.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:nNa2CO3 = 0,03 mol; nCO2 = 0,03 molVì đốt cháy X thu được CO2 và Na2CO3 =>trong X chứa C, Na và OBảo toàn nguyên tố Na:\\[{n_{Na\\left( {trong\\,X} \\right)}} = 2.{n_{N{a_2}C{O_3}}} = 0,06mol\\]Bảo toàn nguyên tố C:\\[{n_{C\\left( {trong\\,X} \\right)}} = {n_{C{O_2}}} + {n_{N{a_2}C{O_3}}} = 0,03 + 0,03 = 0,06mol\\]\\[ \\Rightarrow {n_{O\\left( {trong\\,X} \\right)}} = \\frac{{4,02 - 0,06.23 - 0,06.12}}{{16}} = 0,12mol\\]nC: nNa: nO= 0,06 : 0,06 : 0,12 = 1:1:2Vậy CTĐGN của X là : CNaO2.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 1,47 gam chất hữu cơ X (chỉ chứa C, H, O) bằng 1,0976 lít khí O2 (ở đktc) lượng dùng vừa đủ thì sau thí nghiệm thu được H2O, 2,156 gam CO2. Tìm CTPT của X, biết tỉ khối hơi của X so với không khí nằm trong khoảng 3< dX < 4.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C3H4O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H6O3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C3H8O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đáp án khác.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nÁp dụng định luật bảo toàn khối lượng:\n\\[{m_X} + {m_{C{O_2}}} = {m_{C{O_2}}} + {m_{{H_2}O}} \\Rightarrow {m_{{H_2}O}} = 0,882gam\\]\nBảo toàn nguyên tố C: \n\\[{n_C} = {n_{C{O_2}}} = \\frac{{2,156}}{{44}} = 0,049mol\\]\nBảo toàn nguyên tố H: \n\\[{n_H} = 2.{n_{{H_2}O}} = 2.\\frac{{0,882}}{{18}} = 0,098mol\\]\n\\[ \\Rightarrow {n_O} = \\frac{{1,47 - 0,049.12 - 0,098}}{{16}} = 0,049mol\\]\n\\[{n_C}:{n_H}:{n_O} = 0,049:0,098:0,049 = 1:2:1\\]\nCTĐGN của X là : CH2O\nĐặt công thức phân tử của X là (CH2O)n.\nTheo giả thiết ta có :\n3.29 < 30n < 4.29 suy ra 2,9 < n < 3,87  nên n =3\nVậy CTPT của X là C3H6O3\nĐáp án cần chọn là: B\n</>"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 1,88 gam chất hữu cơ A (chứa C, H, O) cần 1,904 lít O2 (đktc) thu được CO2 và hơi nước theo tỉ lệ thể tích 4 : 3. Biết tỉ khối của A so với không khí nhỏ hơn 7. Công thức phân tử của A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C8H12O5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C4H8O2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C8H12O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C6H12O6.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Đốt cháy hoàn toàn một hiđrocacbon X ở thể khí. Sản phẩm cháy thu được cho hấp thụ hết vào dung dịch Ca(OH)2 thấy có 10 gam kết tủa xuất hiện và khối lượng bình đựng dung dịch Ca(OH)2 tăng 16,8 gam. Lọc bỏ kết tủa, cho nước lọc tác dụng với dung dịch Ba(OH)2 dư lại thu được kết tủa, tổng khối lượng hai lần kết tủa là 39,7 gam. CTPT của X là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C3H8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C3H4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C2H4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Đốt cháy hoàn toàn một hợp chất hữu cơ X cần 6,72 lít O2 (đktc). Sản phẩm cháy hấp thụ hết vào bình đựng dung dịch Ba(OH)2 thấy có 19,7 gam kết tủa xuất hiện và khối lượng dung dịch giảm 5,5 gam. Lọc bỏ kết tủa, đun nóng nước lọc lại thu được 9,85 gam kết tủa nữa. CTPT của X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H6O.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H6O2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không thể xác định.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Chất hữu cơ X chứa 6,67% H ; 18,67% N về khối lượng. Đốt cháy hoàn toàn 1,875 gam X thu được CO2, hơi nước và khí nitơ, trong đó thể tích khí CO2 là 1,12 lít (đktc). CTPT của X là (biết MX < 100)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5NO2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C3H7NO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H5N2O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C3H7N2O",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Khi đốt cháy hoàn toàn một amin đơn chức X, thu được 0,44 gam CO2 ; 0,224 lít N2 (các thể tích đo ở đktc) và 0,45 gam H2O. CTPT của X là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH5N2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C2H5N2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H5N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH6N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 1,605 gam hợp chất hữu cơ A thu được 4,62 gam CO2; 1,215 gam H2O và 168 ml N2 (đktc). Tỷ khối hơi của A so với không khí không vượt quá 4. Công thức phân tử của A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C5H5N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C6H9N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C7H9N",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C6H7N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 1,605 gam hợp chất hữu cơ A thu được 4,62 gam CO2; 1,215 gam H2O và 168 ml N2 (đktc). Tỷ khối hơi của A so với không khí không vượt quá 4. Công thức phân tử của A là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C5H5N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C6H9N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C7H9N",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C6H7N",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đốt cháy hoàn toàn một hợp chất hữu cơ X (C, H, N) bằng lượng không khí vừa đủ (gồm 1/5 thể tích O2, còn lại là N2) thu được 8,8 gam khí CO2; 6,3 gam H2O và 34,72 lít khí N2 ở đktc. Biết tỷ khối của X so với khí O2 nhỏ hơn 2. Công thức phân tử của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H7N",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C2H8N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H7N2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H4N2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 3 gam hợp chất hữu cơ X thu được 4,4 gam CO2 và 1,8 gam H2O. Biết tỉ khối của X so với He là 7,5. Công thức phân tử của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH2O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H4O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH2O",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 0,1 lít chất hữu cơ A bằng 0,6 lít khí O2 lấy dư, thu được hỗn hợp khí và hợp có thể tích 0,85 lít. Cho hỗn hợp khí và hơi thu được qua bình chứa dung dịch H2SO4 đậm đặc, dư, còn lại 0,45 lít hỗn hợp khí Z. Cho hỗn hợp Z qua bình chứa KOH dư, còn lại 0,05 lít. Tìm công thức phân tử của hợp chất hữu cơ A, biết các thể tích khí đo ở cùng một điều kiện",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C3H6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H6O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C4H8O",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C4H8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Thí nghiệm xác định định tính nguyên tố cacbon và hiđro trong phân tử saccarozơ được tiến hành theo các bước sau:Bước 1: Trộn đều khoảng 0,2 gam saccarozơ với 1 đến 2 gam đồng(II) oxit, sau đó cho hỗn hợp vào ống nghiệm khô (ống số 1) rồi thêm tiếp khoảng 1 gam đồng(II) oxit để phủ kín hỗn hợp. Nhồi một nhúm bông có rắc bột CuSO4, khan vào phần trên ống số 1 rồi nút bằng nút cao su có ống dẫn khí.Bước 2: Lắp ống số 1 lên giá thí nghiệm rồi nhúng ống dẫn khí vào dung dịch Ca(OH) đựng trong ống nghiệm (ống số 2).Bước 3: Dùng đèn cồn đun nóng ống số 1 (lúc đầu đun nhẹ, sau đó đun tập trung vào phần có hỗn hợp phản ứng).Cho các phát biểu sau:(a) CuSO4 khan được dùng để nhận biết H2O sinh ra trong thí nghiệm.(b) Thí nghiệm trên, trong ống số 2 có xuất hiện kết tủa trắng.(c) Ở bước 2, lắp ống số 1 sao cho miệng ống hướng lên.(d) Thí nghiệm trên còn được dùng để xác định định tính nguyên tố oxi trong phân tử saccarozơ.(e) Kết thúc thí nghiệm: tắt đèn cồn, để ống số 1 nguội hẳn rồi mới đưa ống dẫn khí ra khỏi dung dịch trong ống số 2.Số phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 20 ml hợp chất hữu cơ M bằng vừa đủ 105 ml khí oxi, sản phẩm cháy thu được gồm 80 ml khí CO2, 90 ml hơi H2O, 10 ml N2. Biết các thể tích đo ở cùng điều kiện nhiệt độ, áp suất, nhiệt độ. Công thức phân tử của M là (cho nguyên tử khối của các nguyên tố C = 12; H=1; O = 16; N = 14)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C4H10O2N2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H7O2N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C4H7O2N",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C4H9O2N",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Một hợp chất hữu cơ A có tỉ khối so với H2 bằng bằng 29. Đốt cháy hoàn toàn A bằng khí O2 thu được CO2 và H2O. Có bao nhiêu công thức phân tử phù hợp với A ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 0,6 gam hợp chất hữu cơ X rồi cho sản phẩm cháy qua bình đựng dung dịch Ca(OH)2 dư thấy có 2 gam kết tủa và khối lượng bình tăng thêm 1,24 gam. Tỷ khối của X so với H2 bằng 15. Công thức phân tử của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H6O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH2O",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H4O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH2O2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Đốt cháy hết 2,3 gam hợp chất hữu cơ X cần V lít O2 (đktc). Sản phẩm cháy cho hấp thụ hết vào bình đựng dung dịch nước vôi trong dư thấy có 10 gam kết tủa xuất hiện và khối lượng bình đựng dung dịch nước vôi tăng 7,1 gam. Giá trị của V là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,92 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3,36 lít",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4,48 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. kết quả khác",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

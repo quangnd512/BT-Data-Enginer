@@ -1,0 +1,373 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/nitrogen/75852/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Thứ tự tăng dần tính oxi hóa của các đơn chất O2, F2, N2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. O2 < F2< N2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. O2 < N2< F2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. N2 < O2< F2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. N2 < F2 < O2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nThứ tự tăng dần tính oxi hóa của các đơn chất O2, F2, N2 là:  N2 < O2< F2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Nitơ thể hiện tính khử khi phản ứng với",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. O2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Li.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Mg.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nNitơ thể hiện tính khử khi phản ứng với chất có tính oxi hóa =>O2\nN2+O2⇄t°,xt2NO\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Nhận xét nào đúng về tính oxi hóa khử của N2 ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không có tính khử và oxi hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chỉ có tính khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chỉ có tính oxi hóa.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Vừa có tính khử, vừa có tính oxi hóa.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:N2 thể hiện tính khử khi tác dụng với O2 và thể hiện tính oxi hóa khi tác dụng với kim loại (Mg, Li)Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Điểm giống nhau giữa N2 và CO2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đều tan tốt trong nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đều có tính oxi hóa và tính khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đều không duy trì sự cháy và sự sống.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tất cả đều đúng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Điểm giống nhau giữa N2 và CO2 là: đều không duy trì sự cháy và sự sống.A sai vì N2 ít tan trong nướcB sai vì CO2 chỉ có tính oxi hóa, không có tính khử vì C có số oxi hóa +4 là số oxi hóa cao nhất, còn O có số oxi hóa -2 nhưng không có phản ứng nào để O tạo thành O2 nên O không có tính khử.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Mệnh đề nào dưới đây không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nguyên tử của các nguyên tố thuộc nhóm VA có 5 electron ở lớp ngoài cùng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Nitơ là nguyên tố có chu kì nhỏ nhất trong nhóm VA.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tính phi kim của các nguyên tố nhóm VA tăng theo chiều tăng của điện tích hạt nhân.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cấu hình electron lớp ngoài cùng của các nguyên tử các nguyên tố nhóm VA đều là ns2np3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Mệnh đề không đúng là: Tính phi kim của các nguyên tố nhóm VA tăng theo chiều tăng của điện tích hạt nhân.Vì trong cùng một nhóm, theo chiều tăng của điện tích hạt nhân thì độ âm điện giảm =>tính phi kim giảm.A đúng vì các nguyên tử của các nguyên tố thuộc nhóm VA có cấu hình e lớp ngoài là ns2np3B đúng vì nitơ có số hiệu nguyên tử nhỏ nhấtD đúng.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Mệnh đề nào dưới đây là không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nguyên tử các nguyên tố nhóm VA có 5 electron lớp ngoài cùng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. So với các nguyên tố cùng nhóm VA, nitơ có bán kính nguyên tử nhỏ nhất.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. So với các nguyên tố cùng nhóm VA, nitơ có tính kim loại mạnh nhất.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Do phân tử N2 có liên kết ba rất bền nên nitơ trơ ở nhiệt độ thường.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Mệnh đề không đúng là: So với các nguyên tố cùng nhóm VA, nitơ có tính kim loại mạnh nhất.Vì nitơ có độ âm điện lớn nhất trong nhóm VA =>nitơ có tính phi kim mạnh nhất.A đúngB đúng vì độ âm điện của nitơ mạnh nhất =>khả năng hút e mạnh nhất =>bán kính nhỏ nhấtD đúngĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Mệnh đề nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nitơ không duy trì sự hô hấp vì nitơ là một khí độc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vì có liên kết ba nên phân tử nitơ rất bền, ở nhiệt độ thường khá trơ về mặt hóa học.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Khi tác dụng với kim loại hoạt động, nitơ thể hiện tính khử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Số oxi hóa của nitơ trong các hợp chất và ion AlN, N2O4, NH4+, NO3-, NO2- lần lượt là: -3; -4; -3; +5; +3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong các hợp chất, nitơ có cộng hóa trị tối đa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong các hợp chất, nitơ có thể có các số oxi hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. chỉ có số oxi hóa -3 và +5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. chỉ có số oxi hóa +3 và +5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. có số oxi hóa từ -4 đến +5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. có thể có các số oxi hóa là: -3; +1; +2; +3; +4; +5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ở điều kiện thường, nitơ phản ứng được với",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. K",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Li",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. F2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hỗn hợp khí X gồm N2, Cl2, SO2, CO2, H2 qua dung dịch NaOH dư, người ta thu được các khí thoát ra gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. N2, Cl2, O2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cl2, SO2, CO2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. N2, Cl2, H2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. N2, H2.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong phòng thí nghiệm, người ta thu khí nitơ bằng phương pháp dời nước vì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. N2 nhẹ hơn không khí.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N2 rất ít tan trong nước.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. N2 không duy trì sự sống, sự cháy.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. N2 hóa lỏng, hóa rắn ở nhiệt độ rất thấp",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Nitơ có nhiều trong khoáng vật diêm tiêu, diêm tiêu có thành phần chính là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NaNO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. NH4NO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaNO3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. NH4NO2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Dãy nào dưới đây gồm các chất mà nguyên tố nitơ có khả năng vừa thể hiện tính khử vừa thể hiện tính oxi hóa khi tham gia phản ứng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NH3, N2O5, N2, NO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N2, NO, N2O, N2O5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NH3, NO, HNO3, N2O5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NO2, N2, NO, N2O3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cây không sử dụng được nitơ phân tử N2 trong không khí vì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. phân tử N2 có liên kết ba bền vững cần phải đủ điều kiện mới bẻ gãy được.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. lượng N2 tự do bay lơ lửng trong không khí không hòa vào đất nên cây không hấp thụ được.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lượng N2 trong không khí quá thấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. do lượng N2 có sẵn trong đất từ các nguồn khác quá lớn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Khối lượng NaNO2 cần dùng trong phòng thí nghiệm để thu được 6,72 lít N2 (đktc) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 19,2 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20,1 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 27,0 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 20,7 gam",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

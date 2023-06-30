@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/su-nhieu-xa-giao-thoa-anh-sang/98708/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hiện tượng giao thoa sóng ánh sáng chỉ quan sát được khi hai nguồn ánh sáng là hai nguồn:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đơn sắc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Cùng màu sắc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Kết hợp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Cùng cường độ sáng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHiện tượng giao thoa sóng ánh sáng chỉ quan sát được khi hai nguồn ánh sáng là hai nguồn kết hợp.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ứng dụng của hiện tượng giao thoa ánh sáng để đo:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Vận tốc của ánh sáng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Bước sóng của ánh sáng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Chiết suất của một môi trường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tần số ánh sáng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nỨng dụng của hiện tượng giao thoa ánh sáng để đo bước sóng ánh sáng\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa ánh sáng, nếu thay ánh sáng đơn sắc màu lam bằng ánh sáng đơn sắc màu vàng và giữ nguyên các điều kiện khác thì trên màn quan sát",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Khoảng vân tăng lên.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Khoảng vân giảm xuống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Vị trí vân trung tâm thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Khoảng vân không thay đổi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhoảng vân:i=λDa\nKhi thay ánh sáng lam bằng ánh sáng vàng:  λvàng > λlam i tăng\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong một thí nghiệm Y-âng về giao thoa ánh sáng, bước sóng ánh sáng đơn sắc là 600nm, khoảng cách giữa hai khe hẹp là 1mm. Khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2m. Khoảng vân quan sát trên mà có giá trị bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,9mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,3mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,5mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,2mm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:i=λDa=600.10−9.210−3=1,2.10−3m=1,2mm\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Khoảng cách từ vân sáng bậc 5 đến vân sáng bậc 9 ở cùng phía với nhau so với vân sáng trung tâm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4i.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.5i.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.14i.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.13i.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n=> Khoảng cách từ vân sáng bậc 5 đến vân sáng 9 là: 4i\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa với ánh sáng đơn sắc khoảng cách giữa hai khe là 1 (mm), khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 1,5(m). Tại điểm M trên màn quan sát cách vân trung tâm 9(mm) có vân sáng bậc 10. Bước sóng của ánh sáng dùng trong thí nghiệm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.480 (nm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.640 (nm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.540 (nm)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.600 (nm)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nTại M - vân sáng bậc 10 => xM = 10i\n→xM=10i=10λDa→λ=axM10.D=10−3.9.10−310.1,5=6.10−7=600.10−9m\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Khoảng cách từ vân sáng bậc 4 bên này đến vân sáng bậc 5 bên kia so với vân sáng trung tâm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.7i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.8i",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9i",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.10i",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trong thí nghiệm I-âng về giao thoa ánh sáng khoảng cách giữa hai khe là a = 2 mm, khoảng cách từ hai khe đến màn là D = 1 m, ánh sáng đơn sắc có bước sóngλ = 0,5 μm. Khoảng cách giữa vân sáng bậc 3 và vân sáng bậc 5 ở hai bên so với vân sáng trung tâm là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,25 mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2 mm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.0,5 mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,75 mm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa của ánh sáng đơn sắc, hai khe hẹp cách nhau 1mm, mặt phẳng chứa hai khe cách màn quan sát 1,5m. Khoảng cách giữa 5 vân sáng liên tiếp là 3,6mm. Bước sóng của ánh sáng dùng trong thí nghiệm này bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,40μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,48μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.  0,76μm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,60μm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Thực hiện thí nghiệm Y-âng trong không khí, thu được khoảng vân trên màn ℓà i = 0,6mm. Lặp ℓại thí nghiệm như trên nhưng trong nước chiết suất 4/3 thì đo được khoảng vân trên màn ℓà",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,48mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,55mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,45mm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0,62mm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa ánh sáng, trên màn quan sát thu được khoảng cách giữa 9 vân sáng liên tiếp là L. Tịnh tiến màn 36 cm theo phương vuông góc với màn tới vị trí mới thì khoảng cách giữa 11 vân sáng liên tiếp cũng là L. Khoảng cách giữa màn và mặt phẳng chứa hai khe lúc đầu là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,8m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1,5m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2,5m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe sáng là 0,3mm, khoảng cách từ hai khe sáng đến màn ảnh là 1m, khoảng vân đo được là 2mm. Bước sóng ánh sáng này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,5.10−7m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3.10−7m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6.10−7m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 7.10−7m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Trong thí nghiệm Y-âng về giao thoa ánh sáng đơn sắc, khoảng cách giữa 4 vân sáng liên tiếp trên màn quan sát là 2,4 mm. Khoảng vân trên màn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,60 mm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,6 mm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,2 mm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,8 mm.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/chromium-va-hop-chat-cua-chromium/75883/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dãy bao gồm các ion sắp xếp theo chiều giảm dần tính oxi hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ag+, Cu2+, Fe3+, Fe2+.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe3+, Cu2+, Ag+, Fe2+.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ag+, Fe3+, Cu2+, Fe2+.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Fe3+, Ag+, Cu2+, Fe2+.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy các ion sắp xếp theo chiều giảm dần tính oxi hóa là Ag+, Fe3+, Cu2+, Fe2+.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Có thể đựng axit nào sau đây trong bình sắt ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HCl loãng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. H2SO4 loãng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HNO3 đặc nguội.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. HNO3 đặc nóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Bình sắt có thể đựng được axit HNO3 đặc nguội vì sắt bị thụ động trong HNO3 đặc nguộiĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Đốt một lượng dư sắt trong khí clo thu được hỗn hợp gồm 2 chất rắn. Thành phần chất rắn đó gồm",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. FeCl2 và FeCl3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. FeCl3 và Fe.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. FeCl2 và Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. đáp án khác.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Fe dư =>chất rắn sau phản ứng chứa Fe dư và muối Fe(III)Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Kim loại Fe không phản ứng với chất nào sau đây trong dung dịch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. FeCl3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CuSO4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. AgNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. MgCl2.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Kim loại Fe không đẩy được Mg ra khỏi muối MgCl2Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Kim loại sắt tác dụng với dung dịch nào sau đây tạo muối sắt (II)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HNO3 đặc, nóng, dư.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CuSO4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. H2SO4 đặc, nóng, dư",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. MgSO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Fe tác dụng với HNO3 và H2SO4 đặc nóng dư đều thu được muối sắt (III)Fe + CuSO4 → FeSO4 + CuĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Để bảo quản dung dịch FeSO4 trong phòng thí nghiệm, người ta cần thêm vào bình chất nào dưới đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một đinh Fe sạch.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Dung dịch H2SO4 loãng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Một dây Cu sạch.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Dung dịch H2SO4 đặc.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Người ta dùng đinh Fe sạch để sắt khử muối sắt(III) thành muối sắt(II): Fe + Fe2(SO4)3 → 3FeSO4Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho từ từ đến dư kim loại Na vào dung dịch có chứa muối FeCl3. Số phản ứng xảy ra là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ngâm thanh Cu (dư) vào dung dịch AgNO3 thu được dung dịch X. Sau đó ngâm thanh Fe (dư) vào dung dịch X thu được dung dịch Y. Biết các phản ứng xảy ra hoàn toàn. Dung dịch Y có chứa chất tan là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe(NO3)3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe(NO3)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Fe(NO3)2, Cu(NO3)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe(NO3)3, Fe(NO3)2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hỗn hợp X gồm Fe, Cu vào dung dịch HNO3 loãng, nóng thu được khí NO là sản phẩm khử duy nhất, dung dịch Y và còn lại chất rắn chưa tan Z. Cho Z tác dụng với dung dịch H2SO4 loãng thấy có khí thoát ra. Thành phần chất tan trong dung dịch Y là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe(NO3)3 và Cu(NO3)2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe(NO3)2 và Cu(NO3)2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fe(NO3)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Fe(NO3)3 và Fe(NO3)2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Có 4 dung dịch đựng riêng biệt: (a) HCl; (b) CuCl2; (c) FeCl2; (d) HCl có lẫn CuCl2. Nhúng vào mỗi dung dịch một thanh sắt nguyên chất. Số trường hợp xảy ra ăn mòn điện hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Để điều chế Fe trong công nghiệp, người ta có thể dùng phương pháp nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg + FeCl2 →",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe2O3 + Al \\[\\mathop  \\to \\limits^{t^\\circ } \\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Điện phân dung dịch FeCl2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe2O3 + CO →",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Phản ứng của Fe với O2 như hình vẽCho các phát biểu sau đây:(a) Vai trò của mẩu than để làm mồi cung cấp nhiệt cho phản ứng.(b) Phản ứng tỏa nhiều nhiệt làm đầu dây sắt nóng chảy có thể thành cục tròn.(c) Vai trò của lớp nước ở đáy bình là để tránh vỡ bình.(d) Phản ứng cháy sáng, có các tia lửa bắn ra từ dây sắt.Số phát biểu sai là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Những nhận định sau về kim loại sắt:(1) Kim loại sắt có tính khử trung bình.(2) Ion Fe2+ bền hơn Fe3+.(3) Fe bị thụ động trong H2SO4 đặc nguội.(4) Quặng manhetit là quặng có hàm lượng sắt cao nhất.(5) Trái đất tự quay và sắt là nguyên nhân làm Trái Đất có từ tính.(6) Kim loại sắt có thể khử được ion Fe3+.Số nhận định đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Kim loại sắt phản ứng với lượng dư dung dịch chất nào sau đây tạo ra muối sắt(II)?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2SO4 đặc, nóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HNO3 loãng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. H2SO4 loãng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. HNO3 đặc nóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Dung dịch X có chứa FeSO4, dung dịch Y có chứa Fe2(SO4)3. Thuốc thử nào sau đây có thể sử dụng để phân biệt X và Y là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dung dịch NH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.dung dịch KMnO4 trong H2SO4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. kim loại Cu",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tất cả các đáp án trên.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Phát biểu nào sau đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Kim loại Fe phản ứng với dung dịch HCl tạo ra muối sắt (II).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Dung dịch FeCl3 phản ứng được với kim loại Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Kim loại Fe không tan trong dung dịch H2SO4 đặc nguội.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Trong các phản ứng hóa học, ion Fe2+ chỉ thể hiện tính khử.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Hòa tan chất rắn X vào dung dịch H2SO4 loãng dư thu được dung dịch Y. Dung dịch Y hòa tan được Cu và làm mất màu dung dịch KMnO4. X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe3O4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. FeO.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fe.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe2O3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Hợp chất mà sắt vừa có tính oxi hóa, vừa có tính khử là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Fe(OH)3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe2O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. FeCl2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. FeCl3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho các phản ứng sau:1) dung dịch FeCl2 + dung dịch AgNO32) dung dịch FeSO4 dư + Zn3) dung dịch FeSO4 + dung dịch KMnO4 + H2SO44) dung dịch FeSO4 + khí Cl2Số phản ứng mà ion Fe2+ bị oxi hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các sơ đồ phản ứng hoá học sau đây, có bao nhiêu sơ đồ sai ?(1) Fe3O4 + HCl → FeCl2 + FeCl3 + H2O(2) Fe(OH)3 + H2SO4 đặc nóng → Fe2(SO4)3 + SO2 + H2O(3) FeO + HNO3 → Fe(NO3)3 + NO + H2O(4)  FeCl2 + HNO3 → Fe(NO3)3 + HCl + NO + H2O(5) Al + HNO3 → Al(NO3)3 + H2(6) FeO + H2SO4 đặc nguội → Fe2(SO4)3 + SO2 + H2O",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Chất nào sau đây tác dụng hoàn toàn với dung dịch HCl dư chỉ thu được muối Fe3+?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. FeCO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Fe2O3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Fe3O4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe(OH)2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Thực hiện các thí nghiệm sau:(a) Cho bột Mg dư vào dung dịch FeCl3.(b) Đốt Fe trong khí Cl2 dư.(c) Cho bột Fe3O4 vào dung dịch H2SO4 đặc, nóng, dư.(d) Cho bột Fe vào dung dịch AgNO3 dư.(e) Cho bột Fe dư vào dung dịch HNO3 loãng.(g) Cho bột FeO vào dung dịch KHSO4.Sau khi các phản ứng xảy ra hoàn toàn, số thí nghiệm thu được muối sắt (II) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Trong quá trình bảo quản, một chiếc đinh sắt nguyên chất đã bị oxi hóa bởi oxi không khí tạo thành hỗn hợp X gồm Fe, Fe2O3, Fe3O4 và FeO. Hỗn hợp X không bị hòa tan hoàn toàn trong lượng dư dung dịch chất nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AgNO3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. HCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. HNO3 đặc, nóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. H2SO4 đặc, nóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Một mol hợp chất nào sau đây khi phản ứng với dung dịch HNO3 đặc nóng, dư tạo nhiều mol khí nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. FeO.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. FeS.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. FeCO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe3O4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Hòa tan hoàn toàn x mol Fe vào dung dịch chứa y mol FeCl3 và z mol HCl, thu được dung dịch chỉ chứa một chất tan duy nhất. Biểu thức liên hệ giữa x, y và z là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y = 2x.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2x = y + z.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2x = y + 2z.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x = y – 2z.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho các phản ứng chuyển hóa sau: NaOH + dung dịch X → Fe(OH)2;  Fe(OH)2 + dung dịch Y → Fe2(SO4)3;  Fe2(SO4)3 + dung dịch Z → BaSO4. Các dung dịch X, Y, Z lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. FeCl3, H2SO4 đặc nóng, Ba(NO3)2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. FeCl3, H2SO4 đặc nóng, BaCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. FeCl2, H2SO4 đặc nóng, BaCl2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. FeCl2, H2SO4 loãng, Ba(NO3)2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Để điều chế Fe(OH)2 trong phòng thí nghiệm, người ta tiến hành như sau: Đun sôi dung dịch NaOH sau đó cho nhanh dung dịch FeCl2 vào dung dịch NaOH này. Mục đích chính của việc đun sôi dung dịch NaOH là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân hủy hết muối cacbonat, tránh việc tạo kết tủa FeCO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đẩy hết oxi hòa tan, tránh việc oxi hòa tan oxi hóa Fe(II) lên Fe(III).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Để nước khử Fe(III) thành Fe(II).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đẩy nhanh tốc độ phản ứng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho sơ đồ chuyển hóa sau:\n\\[Fe{\\left( {N{O_3}} \\right)_2}\\mathop \\to \\limits^{t^\\circ } X\\mathop \\to \\limits^{ + HCl} Y\\mathop \\to \\limits^{ + Z} T\\mathop \\to \\limits^{t^\\circ } X\\]\nCho các chất: NaCl, KOH, AgNO3, Cu(OH)2. Có bao nhiêu chất có thể thỏa mãn Z trong sơ đồ trên?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Có bao nhiêu chất thỏa mãn sơ đồ: X + HNO3 → Fe(NO3)3 + NO + H2O ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Bằng phương pháp hóa học. Hãy chọn một hóa chất thích hợp để nhận biết các chất rắn (dạng bột) sau: Fe, FeO, Fe3O4, CuO.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dung dịch HCl",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. dung dịch HNO3 đặc, nóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dung dịch AgNO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. dung dịch NaOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Nhận biết lọ đựng Fe và Fe2O3 bằng phương pháp hóa học trong 3 lọ hóa chất đựng hỗn hợp các chất rắn sau Fe và FeO; Fe và Fe2O3; FeO và Fe2O3 chỉ cần dùng loại thuốc thử nào dưới đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. dd HCl",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. dd H2SO4 loãng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. dd HNO3 đặc nguội",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tất cả các phương án đều đúng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

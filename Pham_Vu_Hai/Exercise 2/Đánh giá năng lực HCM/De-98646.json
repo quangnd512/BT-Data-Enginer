@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-dinh-luat-om-cho-toan-mach/98646/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Một nguồn điện có điện trở trong 0,1 (Ω) được mắc với điện trở 4,8 (Ω) thành mạch kín. Khi đó hiệu điện thế giữa hai cực của nguồn điện là 12 (V). Suất điện động E của nguồn điện là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.E = 14,50 (V)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.E = 12,00 (V)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.E = 12,25 (V)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.E = 11,75 (V)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCường độ dòng điện của mạch kín là:\nI=UR=124,8=2,5A\nÁp dụng định luật Ôm cho toàn mạch ta có:\nI=ER+r⇒E=I.R+r=2,5.4,8+0,1=12,25V\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một nguồn điện được mắc với điện trở 4,8Ω thành mạch kín. Khi đó hiệu điện thế giữa hai cực của nguồn điện là 12(V). Cường độ dòng điện trong mạch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I=120  A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=12  A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=2,5  A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I=25  A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHiệu điện thế giữa hai cực nguồn điện là:\nU=I.R⇒I=UR=124,8=2,5  A\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Mạch điện kín một chiều gồm mạch ngoài có biến trở R và nguồn có suất điện động và điện trở trong là E,r. Khảo sát cường độ dòng điện theo R người ta thu được đồ thị như hình. Giá trị của E và r gần giá trị nào nhất sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12V;2Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6V;1Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10V;1Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 20V;2Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCường độ dòng điện trong toàn mạch:I=ER+r\nTừ đồ thị, ta có:\n+ KhiR=0Ω⇒I=10A=Er    1\n+ KhiR=3Ω⇒I=2,5A=ER+r=E3+r   2\nTừ (1) và (2) ta suy ra:E=10Vr=1Ω\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho mạch điện như hình vẽ. Biểu thức nào sau đây đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.I=E3R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.I2 = 2I3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2I2 = I3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.I2 = I1 + I3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Tổng trở mạch ngoài: Rng=R.2RR+2R=23R\n+ I=E23R+r\n+ U2=U3↔I2.R=I3.2R↔I2=2I3\n+ I = I2 + I3\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một nguồn điện với suất điện động E, điện trở trong r, mắc với một điện trở ngoài R = r thì cường độ dòng điện chạy trong mạch là I. Nếu thay nguồn điện đó bằng 3 nguồn điện giống hệt nó mắc song song thì cường độ dòng điện trong mạch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.vẫn bằng I",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.bằng 1,5I",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.bằng I/3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.bằng 0,5I",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Khi mắc với một điện trở ngoài R = r\nCường độ dòng điện\nI=ER+r=Er+r=E2r\n- Khi thay nguồn bằng 3 nguồn điện giống hệt mắc song song: Eb = E\nrb=rn=r3\nCường độ dòng điện khi này:\nI'=EbR+rn=Er+r3=3E4r\nI'I=32→I'=1,5I\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho mạch điện có sơ đồ như hình vẽ:\nξ =6V,r =1Ω,R1 =0,8Ω, R2 =2Ω,R3=3Ω.\nCường  độ dòng điện chạy qua mạch chính là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1,2 A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,8A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1A",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Mạch ngoài gồm: R1 nt (R2 // R3)\n1R23=1R2+1R3→R23=R2R3R2+R3=2.32+3=1,2Ω\n- Điện trở tương đương mạch ngoài: Rtđ = R1 + R23 = 0,8 + 1,2 = 2Ω.\n+ Cường độ dòng điện qua mạch chính I:\nI=ERtd+r=62+1=2A.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho mạch điện có sơ đồ như hình vẽ:\nBiết:E=1,5 V,r=1Ω,R=6Ω. Cường độ dòng điện qua mạch chính là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1,5V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0,75A",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4,8V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một pin có suất điện động 1,5V và điện trở trong là 0,5Ω. Mắc một bóng đèn có điện trở 2,5Ω vào hai cực của pin này thành mạch điện kín. Cường độ dòng điện chạy qua đèn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,5A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,5A",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho mạch điện như hình bên. Biết  ξ1=3V;r1=1Ω;ξ2=6V;r2=1Ω;R=2,5Ω. Bỏ qua điện trở của ampe kế và dây nối. Số chỉ của ampe kế là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,67A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,0A.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2,57A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4,5A.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một mạch điện kín gồm nguồn điện E=12V;r=1Ω. Mạch ngoài gồm bóng đèn có ghi (6V−6W) mắc nối tiếp với một biến trở. Để đèn sáng bình thường, biến trở có giá trị bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4  Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6  Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5  Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 8  Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một điện trở R1 được mắc vào hai cực của một nguồn điện có điện trở trong r=4Ω  thì dòng điện chạy trong mạch có cường độ là I1=1,2A. Nếu mắc thêm một điện trở R2=2Ω  nối tiếp với điện trở R1 thì dòng điện chạy trong mạch có cường độ là I2=1A. Trị số của điện trở R1 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.8Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 6Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 3Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Xét mạch điện gồm điện trở  được mắc vào hai đầu một bộ pin có điện trở trong  như hình vẽ. Khi đó, cường độ dòng điện chạy trong mạch là 0,5 A. Suất điện động của bộ pin là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1 V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.4 V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5 V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.6 V",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một mạch điện kín gồm một biến trở thuần R, nguồn điện không đổi có suất điện động E, điện trở trong r=8Ω. Đồ thị biểu diễn sự phụ thuộc của công suất tiêu thụ trên biến trở theo R như hình vẽ bên. Giá trị của R1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5Ω",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một mạch điện kín gồm bộ nguồn có hai pin giống nhau mắc nối tiếp, mỗi pin có suất điện động 3V, điện trở trong bằng 1Ω và mạch ngoài là một điện trởR=2Ω. Hiệu điện thế giữa hai cực của mỗi pin là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1,5V.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.4V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

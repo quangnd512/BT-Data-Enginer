@@ -1,0 +1,557 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/hoc-thuyet-tien-hoa/74141/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Theo quan niệm của Đacuyn, nguồn nguyên liệu chủ yếu của quá trình tiến hóa là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến cấu trúc NST",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Biến dị cá thể",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Đột biến gen",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến số lượng NST",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo quan niệm của Đacuyn, nguồn nguyên liệu chủ yếu của quá trình tiến hóa là: Biến dị cá thểĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Đacuyn quan niệm biến dị cá thể là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Những biến đổi trên cơ thể sinh vật dưới tác động của ngoại cảnh và tập quán hoạt động",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Những biến đổi trên cơ thể sinh vật dưới tác động của ngoại cảnh và tập quán hoạt động nhưng di truyền được",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự phát sinh những sai khác giữa các cá thể trong loài qua quá trình sinh sản",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Những đột biến phát sinh do ảnh hưởng của ngoại cảnh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo quan niệm của Đacuyn biến dị cá thể là những đột biến phát sinh ra những sai khác giữa các cá thể trong loài qua quá trình sinh sảnĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Theo Đacuyn, biến dị cá thể ở sinh vật phải thông qua quá trình nào sau đây để di truyền lại cho các thế hệ sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tương tác giữa cá thể với môi trường sống.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sinh sản.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chọn lọc tự nhiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chọn lọc nhân tạo.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo Đacuyn, loại biến dị cá thể ở sinh vật phải thông qua quá trình sinh sản, được di truyền cho thế hệ sauĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Theo quan điểm của Đacuyn, tác động của CLTN là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tích lũy các đặc tính thu được trong đời cá thể dưới tác dụng của ngoại cảnh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tích lũy các biến dị có lợi, đào thải các biến dị có hại cho bản thân sinh vật.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tích lũy các biến dị có lợi, đào thải các biến dị có hại cho con người",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đào thải các cá thể mang kiểu gen quy định kiểu hình kém thích nghi, tích lũy các cá thể mang kiểu gen quy định kiểu hình thích nghi, khả năng sinh sản tốt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo quan điểm của Đacuyn, tác động của CLTN là tích lũy các biến dị có lợi, đào thải các biến dị có hại cho bản thân sinh vậtĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Theo quan điểm của Đacuyn, đối tượng của chọn lọc tự nhiên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cá thể, quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cá thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tất cả các cấp tổ chức sống.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo quan điểm của Đacuyn, đối tượng của chọn lọc tự nhiên là cá thể.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Theo quan niệm của Đacuyn, sự hình thành nhiều nòi (thứ) vật nuôi, cây trồng trong mỗi loài xuất phát từ một hoặc vài dạng tổ tiên hoang dại là kết quả của quá trình:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân li tính trạng trong chọn lọc nhân tạo",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Tích lũy những biến dị có lợi, đào thải những biến dị có hại đối với sinh vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phân li tính trạng trong chọn lọc tự nhiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phát sinh các biến dị cá thể",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTheo quan niệm của Đacuyn, sự hình thành này ở vật nuôi, cây trồng là kết quả của hiện tượng phân li tính trạng trong chọn lọc nhân tạoĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Câu nói nào dưới đây là không đúng khi nói về kết quả của chọn lọc nhân tạo:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tích luỹ các biến đổi nhỏ, riêng lẻ ở từng cá thể thành các biến đổi sâu sắc, phổ biến chung cho giống nòi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đào thải các biến dị không có lợi cho con người và tích luỹ các biến dị có lợi, không quan tâm đến sinh vật.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Tạo ra các loài cây trồng, vật nuôi trong phạm vi từng giống tạo nên sự đa dạng cho vật nuôi cây trồng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tạo các giống cây trồng, vật nuôi đáp ứng nhu cầu của con người rất phức tạp và không ngừng thay đổi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Theo Đacuyn, nhân tố chính quy định chiều hướng và tốc độ biến đổi của các giống vật nuôi cây trồng  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chọn lọc tự nhiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đấu tranh sinh tồn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phân ly tính trạng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chọn lọc nhân tạo",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nhận định nào sau đây thể hiện quan điểm tiến hóa của Đacuyn ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biến dị tổ hợp là nguồn nguyên liệu thứ cấp của quá trình tiến hóa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sinh vật biến đổi dưới tác động trực tiếp của điều kiện ngoại cảnh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sự hình thành các giống vật nuôi cây trồng là kết quả của quá trình chọn lọc tự nhiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các loài mới được hình thành từ một loài ban đầu dưới tác động của chọn lọc tự nhiên",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Dacuyn không đưa ra khái niệm nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Chọn lọc tự nhiên.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phân ly tính trạng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Biến dị cá thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Theo Đacuyn, cơ chế chủ yếu của quá trình tiến hoá là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các biến dị nhỏ, riêng rẽ tích luỹ thành những sai khác lớn và phổ biến dưới tác dụng của chọn lọc tự nhiên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Các đặc tính thu được trong đời cá thể dưới tác dụng của ngoại cảnh hay tập quán hoạt động của sinh vật đều di truyền",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sinh vật biến đổi dưới tác dụng trực tiếp hoặc gián tiếp của điều kiện ngoại cảnh.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự củng cố ngẫu nhiên các đột biến trung tính không liên quan đến chọn lọc tự nhiên.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Charles Darwin đã đề xuất vấn đề nào trong công trình nghiên cứu về tiến hóa của mình?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Thuật ngữ: “Tiến hóa”",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Lý thuyết tiến hóa bằng chọn lọc tự nhiên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. DNA là vật liệu di truyền.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Sự phân chia độc lập các NST",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Theo thuyết tiến hoá tổng hợp thì tiến hoá nhỏ là quá trình",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hình thành các nhóm phân loại trên loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Duy trì ổn định thành phần kiểu gen của quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Biến đổi thành phần kiểu gen của quần thể dẫn đến sự hình thành loài mới.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Củng cố ngẫu nhiên những alen trung tính trong quần thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Kết thúc quá trình tiến hoá nhỏ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hình thành loài mới",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hình thành các kiểu gen thích nghi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hình thành các nhóm phân loại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hình thành các đặc điểm thích nghi",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Theo quan điểm của thuyết tiến hóa hiện đại, nguồn biến dị di truyền của quần thể là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biến dị đột biến, biến dị tổ hợp, di nhập gen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đột biến gen, đột biến nhiễm sắc thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Biến dị tổ hợp, đột biến nhiễm sắc thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đột biến gen và di nhập gen.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Theo quan điểm hiện đại, loại biến dị nào sau đây được xem là nguồn nguyên liệu thứ cấp của tiến hóa?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biến dị tổ hợp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đột biến gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến nhiễm sắc thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Thường biến.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Theo quan điểm tiến hóa hiện đại, khi nói về chọn lọc tự nhiên, phát biểu nào sau đây sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chọn lọc tự nhiên không thể loại bỏ hoàn toàn một alen lặn gây chết ra khỏi quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Chọn lọc tự nhiên chống lại alen trội có thể nhanh chóng làm thay đổi tần số alen của quần thể.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chọn lọc tự nhiên tác động trực tiếp lên kiểu hình và gián tiếp làm biến đổi tần số kiểu gen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chọn lọc tự nhiên làm xuất hiện các alen mới và các kiểu gen mới trong quần thể.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Theo tiến hóa hiện đại, chọn lọc tự nhiên đóng vai trò:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tạo ra các kiểu gen thích nghi từ đó tạo ra các cá thể có kiểu gen quy định tính trạng thích nghi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sàng lọc và giữ lại những cá thể có kiểu gen quy định kiểu hình thích nghi mà không tạo ra các kiểu gen thích nghi",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Vừa giữ lại những cá thể có kiểu gen quy định kiểu hình thích nghi vừa tạo ra các kiểu gen thích nghi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tạo ra các kiểu gen thích nghi mà không đóng vai trò sàng lọc và giữ lạinhững cá thể có kiểu gen quy định các kiểu hình thích nghi.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Theo thuyết tiến hóa hiện đại, đơn vị tiến hóa cơ sở ở những loài giao phối là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Quần thể.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Loài.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Quần xã.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cá thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Thuyết Kimura đề cập tới nguyên lí cơ bản của sự tiến hóa cấp độ",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nguyên tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phân tử",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Cơ thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Quần thể",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Theo quan điểm của Kimura, đa số các đột biến ở cấp độ phân tử là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đột biến là có lợi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đột biến là có hại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến là trung tính",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cả A, B và C đều đúng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Kimura đã đề xuất quan niệm đại đa số các đột biến ở cấp độ phân tử là trung tính dựa trên những nghiên cứu về những biến đổi trong cấu trúc của:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tử Hêmôglôbin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Axit nuclêic",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phân tử ADN",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Cả A, B và C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Theo Kimura, sự tiến hoá diễn ra bằng sự củng cố ngẫu nhiên các:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biến dị có lợi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đặc điểm thích nghi",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đột biến trung tính",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Đột biến có hại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Đóng góp chủ yếu của thuyết tiến hóa của Kimura là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nêu lên vai trò của sự củng cố ngẫu nhiên những đột biến trung tính trong tiến hóa độc lập với tác dụng của chọn lọc tự nhiên",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Phủ nhận vai trò của chọn lọc tự nhiên đào thải các biến dị có hại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Công nhận vai trò của chọn lọc tự nhiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Giải thích trạng thái cân bằng di truyền của quần thể giao phối",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

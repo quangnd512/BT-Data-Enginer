@@ -1,0 +1,603 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ham-so-co-so-mu/96864/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Hàm số y=ax(0<a≠1) đồng biến khi nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a > 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0 < a < 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a≥1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a > 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHàm số mũ y=ax(0<a≠1) đồng biến khi a > 1.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tập xác định của hàm số y=2x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (0;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R*",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTập xác định của hàm số y=2x  là R.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Chọn khẳng định đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồ thị hàm số y=ax(0<a≠1) đi qua điểm (0;0)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đồ thị hàm số y=ax(0<a≠1) có tiệm cận đứng x=0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đồ thị hàm số y=ax(0<a≠1) cắt trục hoành tại duy nhất 1 điểm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đồ thị hàm số y=ax(0<a≠1) nằm hoàn toàn phía trên trục hoành.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐồ thị hàm số y=ax(0<a≠1) nằm hoàn toàn phía trên trục hoành.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hàm số y=a-x(0<a≠1) đồng biến nếu a > 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hàm số y=a-x(0<a≠1) nghịch biến nếu 0 < a < 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hàm số y=a-x(0<a≠1) đồng biến nếu 0 < a < 1.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hàm số y=a-x(0<a≠1) luôn nghịch biến trên R.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nHàm số y=a−x nghịch biến khi a>1 nên các đáp án B, D đều sai.\ny=a−x=1ax=1ax(0<a≠1) nên hàm số đồng biến nếu 1a>1⇔0<a<1\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Đồ thị hàm số y=2x trùng với đồ thị hàm số y=12−x",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Đồ thị hàm số y=2x trùng với đồ thị hàm số y=2-x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đồ thị hàm số y=2x đối xứng với đồ thị hàm số y=12−xqua trục hoành",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Đồ thị hàm số y=2x đối xứng với đồ thị hàm số y=12−x qua trục tung.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: y=12−x=112x=112x=2x nên hai hàm số y=2x và y=12−x là một. Do đó chúng có chung đồ thị.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đồ thị sau là đồ thị hàm số nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=13x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=3x3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=13-x",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nDáng đồ thị là của hàm số y=ax với a > 1 nên loại A và C.\nĐồ thị hàm số đi qua điểm (1;3) nên chỉ có D thỏa mãn.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Đồ thị hàm số dưới đây là của hàm số nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=2−x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=-2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=−12x",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. y=12-x",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho các đồ thị hàm số y=ax,y=bx,y=cx(0<a,b,c≠1) chọn khẳng định đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. c > a > b",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. c > b > a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a > c > b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. b > a > c",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hai hàm số y=ax,y=bx với 1≠a,b>0 lần lượt có đồ thị là (C1),(C2) như hình bên. Mệnh đề nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0 < a < b < 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0 < b < 1 < a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0 < a < 1 < b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0 < b < a < 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tìm tập xác định D của hàm số y=1−3x2−5x+6.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. D = [2;3]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. D=(−∞;2]∪[3;+∞)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. D = [1;6]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (2;3)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tính đạo hàm của hàm số y=fx=xπ.πx tại điểm x=1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. f'1=π.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. f'1=π2+lnπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. f'1=π2+πlnπ.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. f'(1) = 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tập tất cả các giá trị của tham số a để hàm số y=a−2xnghịch biến trên R là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3;+∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −∞;3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2;3)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. −∞;1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Hàm số nào sau đây nghịch biến trên −∞;+∞?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=3π−x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=1,5x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=2ex",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. y=3+1x",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Tính đạo hàm của hàm số y=6x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y'=6xln6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y'=6xln6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y'=x.6x−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y'=6x",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hàm số y=e2x−x. Chọn khẳng định đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hàm số đồng biến trên khoảng −ln2;+∞",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Hàm số đồng biến trên khoảng −∞;−ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hàm số đồng biến trên khoảng −∞;−ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Hàm số đồng biến trên khoảng −ln2;+∞",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hàm số y=2lnx+x2 có đạo hàm là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1x+2x2lnx+x2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1x+2x2lnx+x2.ln2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2lnx+x2ln2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1x+2x2lnx+x2ln2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hàm số y=3x+ln3. Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y'=yln3−ln23",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y'.ln3=y+ln3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y'=y−ln23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y'=y−ln3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho giới hạn I=limx→0e3x−e2xx, chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. I2+3I=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I3+I2−2=0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. I−1I+1=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3I−2=2I2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hàm số fx=2x.7x2. Khẳng định nào sau đây là khẳng định sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. fx<1⇔x+x2log27<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. fx<1⇔xln2+x2ln7<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. fx<1⇔xlog72+x2<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. fx<1⇔1+xlog27<0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho các số thực dương a,b khác 1. Biết rằng đường thẳng y = 2 cắt đồ thị các hàm số y=ax;y=bx  và trục tung lần lượt tại A,B,C sao cho C nằm giữa A và B, và AC = 2BC. Khẳng định nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. b=a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. b=2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. b=a−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. b=a2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Gọi m là GTLN của hàm số f(x)=ex3−3x+3 trên đoạn [0;2]. Chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m = e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m = e2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m = e3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m = e5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Gọi m,M lần lượt là GTNN, GTLN của hàm số y=e2−3xtrên đoạn [0;2]. Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m + M = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. M - m = e",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. M.m=1e2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Mm=e2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hai số thực dương x,y thỏa mãn 2x+2y=4. Tìm giá trị lớn nhất Pmax của biểu thức P=(2x2+y)(2y2+x)+9xy.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 272",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho hàm số fx=13+2x+13+2−x. Trong các khẳng định, có bao nhiêu khẳng định đúng?\n1) f'(x)≠0,∀x∈R\n2) f1+f2+...+f2017=2017\n3) f(x2)=13+4x+13+4−x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hàm số f(x)=(3−2)x3−3−2−x2. Xét các khẳng định sau:\nKhẳng định 1: f(x)>0⇔x3+x2>0\nKhẳng định 2: f(x)>0⇔x>−1\nKhẳng định 3: f(x)<3−2⇔(3−2)x3−1<1+3+27x2+1\nKhẳng định 4: f(x)<3+2⇔(3−2)x3+1<(3−2)1−x2+7\nTrong các khẳng định trên, có bao nhiêu khẳng định đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Gọi I(t) là số ca bị nhiễm bệnh Covid-19 ở quốc gia X sau t ngày khảo sát. Khi đó ta có công thức I(t)=A.er0(t−1) với A là số ca bị nhiễm trong ngày khảo sát đầu tiên, r0 là hệ số lây nhiễm. Biết rằng ngày đầu tiên khảo sát có 500 ca bị nhiễm bệnh và ngày thứ 10 khảo sát có 1000 ca bị nhiễm bệnh. Hỏi ngày thứ 20 số ca nhiễm bệnh gần nhất với số nào dưới đây, biết rằng trong suốt quá trình khảo sát hệ số lây nhiễm là không đổi?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2160",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2340",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2520",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

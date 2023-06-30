@@ -1,0 +1,761 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ancol/75732/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho các chất sau: (1) ancol etylic, (2) metan, (3) đimetyl ete, (4) propanol. Dãy sắp xếp theo chiều giảm dần nhiệt độ sôi là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1) >(3) >(4) >(2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (2) >(4) >(3) >(1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (4) >(1) >(2) >(3)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (4) >(1) >(3) >(2)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ancol có nhiệt độ sôi lớn nhất và tăng theo phân tử khối =>(4) >(1)Ankan có nhiệt độ sôi thấp nhất =>(2) thấp nhất=>thứ tự đúng là (4) >(1) >(3) >(2)Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Dãy các chất nào sau đây không tan trong nước?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Metanol, etan, clorofom, butan",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Etan, but-1-en, clorofom, propan",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Propanol, but-1-en, etyl clorua, propan",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Propanol, butan, metylic, etyl clorua",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:- Ancol tan tốt trong nước =>metanol và propanol tan tốt trong nước=>loại A, C và DĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong phòng thí nghiệm, khí Y được điều chế và thu vào ống nghiệm theo hình vẽ bên.Khí Y được tạo ra từ phản ứng hóa học nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COONa + NaOH  \\[\\mathop  \\to \\limits^{CaO,t^\\circ } \\]CH4↑+ Na2CO3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3NH3Cl + NaOH \\[\\mathop  \\to \\limits^{t^\\circ } \\]CH3NH2↑ + NaCl + H2O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CaC2 + 2H2O → Ca(OH)2 + C2H2↑",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H5OH \\[\\mathop  \\to \\limits^{{H_2}S{O_4}dac,t^\\circ } \\]C2H4↑ + H2O",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Từ hình vẽ ta thấy:Khí Y không tan hoặc ít tan trong nước và không có phản ứng với nướcMà khí Y lại được điều chế từ dd X → dd X là C2H5OH và khí Y là C2H4Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Để nhận biết được 2 chất lỏng không màu là: propan-1,2-điol và propan-1,3-điol ta có thể dùng hóa chất nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Na",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cu(OH)2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.nước brom",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaOH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Propan-1,2-điol là ancol có 2 nhóm OH liền kề; propan-1,3-điol không có nhóm OH liền kề=>dùng Cu(OH)2 nhận biết : Propan-1,2-điol hòa tan Cu(OH)2 tạo phức còn propan-1,3-điol không phản ứngĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho các chất có CTCT như sau: HOCH2-CH2OH (X); HOCH2-CH2-CH2-OH (Y); HOCH2-CH(OH)-CH2OH (Z); CH3-CH2-O-CH2-CH3 (R); CH3-CH(OH)-CH2OH (T). Những chất tác dụng được với Cu(OH)2 tạo thành dung dịch màu xanh lam là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. X, Y, R, T.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. X, Z, T.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Z, R, T.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. X, Y, Z, T.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Những chất tấc dụng với dd Cu(OH)2 tạo thành dung dịch màu xanh lam là những ancol có nhóm –OH liền kềHOCH2-CH2OH (X); HOCH2-CH(OH)-CH2OH (Z); CH3-CH(OH)-CH2OH (T)Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho 9,2 gam hỗn hợp ancol propylic và ancol đơn chức B tác dụng với Na dư sau phản ứng thu được 2,24 lít H2 (đktc). Công thức của B là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3OH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C2H5OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3CH(OH)CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH2 = CH – CH2OH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Gọi công thức chung của 2 ancol \\[\\overline R OH\\]\\[\\overline R OH + Na \\to \\overline R ONa + \\frac{1}{2}{H_2}\\]0,2 mol                        0,1 mol\\[ \\Rightarrow {\\overline M _{ancol}} = \\frac{{9,2}}{{0,2}} = 46\\]\\[ \\to \\overline R  = 46 - 17 = 29\\]Mà có 1 ancol là C3H7OH nên  ancol còn lại phải là CH3OHĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho 11,95 gam hỗn hợp ancol etylic và etylen glicol tác dụng hoàn toàn với Na dư thu được 3,64 lít khí H2 (đktc). Phần trăm khối lượng mỗi chất trong hỗn hợp lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 51, 88%; 48,12%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 55,56%; 44,44%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.48,12%; 51,88%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 44,44%; 55,56%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho Na tác dụng vừa đủ với 1,24 gam hỗn hợp 3 ancol, thu được 336 ml khí H2 (đktc). Khối lượng muối natri thu được là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,5 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,56 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,9 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4,2 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho biết X mạch hở. Đốt cháy a mol X thu được 4a mol CO2 và 4a mol H2O. Nếu cho a mol X tác dụng hết với Na thu được a mol H2. Số CTCT thỏa mãn của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Hỗn hợp X gồm metanol, etanol, propan -1-ol, và H2O. Cho m gam X tác dụng với Na dư thu được 15,68 lít khí H2 (đktc). Mặt khác đốt cháy hoàn toàn X thu được V lít CO2 (đktc) và 46,8 gam H2O. Giá trị của m và V lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 61,2 và 26,88.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 19,6 và 26,88",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 42 và 42,56",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 42 và 26,88.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Oxi hoá ancol đơn chức X bằng CuO (đun nóng), sinh ra một sản phẩm hữu cơ duy nhất là xeton Y (có tỉ khối so với khí hiđro bằng 29). CTCT của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3 – CHOH – CH3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. CH3 – CH2 – CH2OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3 – CH2 – CHOH – CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3 – CO – CH3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Oxi hóa 6 gam ancol đơn chức X bằng CuO (t0, lấy dư) thu được 5,8 gam một anđehit. Vậy X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3CH2OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3CH(OH)CH3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.CH3CH2CH2OH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3CH2CH2CH2OH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho m gam ancol A mạch hở, đơn chức bậc 1 qua bình đựng CuO (dư, t0). Phản ứng hoàn toàn, thu được hỗn hợp gồm khí và hơi có tỉ khối so với H2 bằng 19. Ancol A là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C3H5OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C3H7OH",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho m gam một ancol no, đơn chức X qua bình CuO dư đun nóng. Sau khi phản ứng hoàn toàn, khối lượng chất rắn trong bình giảm 0,32 gam. Hỗn hợp hơi thu được có tỉ khối với hiđro là 15,5. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,92",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0,32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,64",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,46",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Oxi hoá 4 gam ancol mạch hở, đơn chức A bằng oxi (xt, t0) thu được 5,6 gam hỗn hợp gồm xeton, ancol dư và nước. Phần trăm ancol A bị oxi hóa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 80%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 72%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 75%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 90%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho 20,7 gam một ancol đơn chức X tác dụng với CuO dư, nung nóng thu được hỗn hợp Y gồm anđehit, nước và ancol dư. Cho Y tác dụng với Na dư thu được 5,04 lít khí H2 (đktc). Biết H = 88,89%. Ancol X và khối lượng anđehit trong Y là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H6O và 17,6 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C3H6O và 17,6 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H4O và 19,8 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C3H6O và 19,8 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho sơ đồ chuyển hóa sau (mỗi mũi tên là một phương trình phản ứng):Tinh bột → X → Y → Z → metyl axetat.Các chất Y, Z trong sơ đồ trên lần lượt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3COOH, CH3OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H4, CH3COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C2H5OH, CH3COOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CH3COOH, C2H5OH",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trong công nghiệp, glixerin được sản xuất theo sơ đồ nào sau đây:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Propan  → propanol  →  glixerin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Propen  →  allylclorua →  1,3 – điclopropan-2-ol  → glixerin",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Butan  → axit butylic   →   glixerin",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Metan  →   etan   →   propan  →  glixerin",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho sơ đồ chuyển hoá: Glucozơ → X → Y → CH3COOH. Hai chất X, Y lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3CH2OH và CH2=CH2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3CH2OH và CH3CHO",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CH3CHO và CH3CH2OH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3CH(OH)COOH và CH3CHO",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Thể tích ancol etylic 92o cần dùng là bao nhiêu để điều chế được 2,24 lít C2H4 (đktc). Cho biết hiệu suất phản ứng đạt 62,5% và d = 0,8 g/ml.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.8,0 ml",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.10,0 ml",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12,5 ml",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3,9 ml",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Đi từ 150 gam tinh bột sẽ điều chế được bao nhiêu ml ancol etylic 46o bằng phương pháp lên men ancol? Cho biết hiệu suất phản ứng đạt 81% và d = 0,8 g/ml.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.46,8750 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 93,7500 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 21,5625 ml.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 187,5000 ml.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Lên men m gam glucozơ với hiệu suất 90%, lượng khí CO2 sinh ra hấp thụ hết vào dung dịch nước vôi trong, thu được 10 gam kết tủa. Khối lượng dung dịch sau phản ứng giảm 3,4 gam so với khối lượng dung dịch nước vôi trong ban đầu. Giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 20,0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 30,0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.13,5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 15,0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho m gam tinh bột lên men thành ancol etylic với hiệu suất 81%. Toàn bộ lượng CO2 sinh ra được hấp thụ hoàn toàn vào dung dịch Ca(OH)2 thu được 550 gam kết tủa và dung dịch X. Đun kĩ dung dịch X thu thêm được 100 gam kết tủa. Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 750",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 550",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 810",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 650",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Lên men m gam tinh bột thành ancol etylic. Toàn bộ khí CO2 sinh ra trong quá trình này được hấp thụ hoàn toàn vào dung dịch Ca(OH)2, tạo ra 330 gam kết tủa và dung dịch X. Khối lượng dung dịch X giảm đi so với khối lượng nước vôi trong ban đầu là 132 g. Nếu hiệu suất quá trình lên men tạo thành ancol etylic là 90% thì giá trị của m là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 486",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 297",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 405",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 324",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Có 1 ancol đơn chức, mạch hở Y. Khi đốt cháy Y ta thu được CO2 và H2O với số mol như nhau và số mol O2 dùng cho phản ứng gấp 4 lần số mol của Y. CTPT của Y là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C4H8O",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C3H6O",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.C3H8O2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H4O",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Đốt cháy a mol ancol X cần 2,5a mol oxi. Biết X không làm mất màu dung dịch brom. CTPT của ancol là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H4(OH)2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C3H6(OH)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.C3H5(OH)3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C2H6O",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Đốt cháy hoàn toàn 7,8 gam hỗn hợp A gồm 2 ancol no, mạch hở, đơn chức liên tiếp thì thu được 6,72 lít CO2 (đktc). CTPT và % thể tích của chất có khối lượng phân tử lớn hơn trong hỗn hợp A là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH4O; 50%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H6O; 50%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C2H6; 50%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C3H8O; 40%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hh A gồm 1 rượu no, đơn chức và 1 rượu no 2 chức tác dụng với Na dư thu được 0,616 lít H2 (đktc). Nếu đốt cháy hoàn toàn 1 lượng gấp đôi hh A thì thu được 7,92 gam CO2 và 4,5 gam H2O. CTPT của mỗi rượu là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5OH và C3H6(OH)2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. C2H4(OH)2 và C3H7OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. C3H5OH và C2H4(OH)2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3OH và C3H6(OH)2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho hỗn hợp X gồm 6,4 gam ancol metylic và b (mol) 2 ancol A và B no, đơn chức liên tiếp. Chia X thành 2 phần bằng nhau.Phần 1: Tác dụng hết với Na thu được 4,48 lít H2 (đktc).Phần 2: Đốt cháy hoàn toàn rồi cho sản phẩm cháy lần lượt qua bình 1 đựng P2O5, bình 2 đựng Ba(OH)2 dư thấy khối lượng bình 1 tăng a gam, bình 2 tăng (a + 22,7) gam. CTPT của 2 ancol A và B là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5OH và C3H7OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5OH và C4H9OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.C3H7OH và C4H9OH.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C3H5OH và C4H8OH.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho hỗn hợp X gồm 3 ancol đơn chức A, B, C trong đó A và B là 2 ancol no có khối lượng phân tử hơn kém nhau 28 đvC, C là ancol không no có 1 nối đôi. Cho m (g) X tác dụng với Na dư thu được 1,12 lít H2 (00C, 2atm). Nếu đốt cháy hoàn toàn m/4 g X thì thu được 3,52 gam CO2 và 2,16 gam H2O. CTPT mỗi ancol là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C2H5OH ; C3H7OH và C3H6O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C2H5OH ; C4H9OH và C3H6O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CH3OH ; C3H7OH và C4H8O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3OH ; C3H7OH và C3H6O.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Hỗn hợp A gồm rượu đơn chức no X và H2O. Cho 21 gam A tác dụng Na được 7,84 lít H2 (đktc). Mặt khác, đốt cháy hoàn toàn 21 gam A và cho sản phẩm hấp thụ hết vào dung dịch Ca(OH)2 dư. Khối lượng kết tủa tạo ra trong bình chứa Ca(OH)2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.45 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 75 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Đốt cháy hoàn toàn x gam ancol X rồi cho các sản phầm cháy vào bình đựng dung dịch Ca(OH)2  dư thấy khối lượn bình tăng y gam và tạo z gam kết tủa. Biết 100y = 71z; 102z = 100(x + y). Có các nhận xét sau:Số phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "a. X có nhiệt độ sôi cao hơn ancol etylic",
+                    "is_correct": false
+                },
+                {
+                    "answer": "b. Từ etilen phải ít nhất qua 2 phản ứng mới tạo được X",
+                    "is_correct": false
+                },
+                {
+                    "answer": "c. X tham gia được phản ứng trùng ngưng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "d. Ta không thể phân biệt được X với C3H5(OH)3 chỉ bằng thuốc thử Cu(OH)2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "e. Đốt cháy hoàn toàn X thu được số mol nước lớn hơn số mol CO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

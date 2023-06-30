@@ -1,0 +1,235 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/truyen-tai-dien-nang-may-bien-ap/75923/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong việc truyền tải diện năng đi xa, để giảm công suất hao phí trên đường dây n lần thì điện áp hai đầu đường dây phải",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. giảm n lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tăng n lần.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tăng \\[\\sqrt n \\]lần.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. giảm \\[\\sqrt n \\]lần.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Từ công thức:\\[{P_{hp}} = \\frac{{{P^2}.R}}{{{U^2}}}\\]\\[ \\to {P_{hp}} \\sim \\frac{1}{{{U^2}}}\\]→ để giảm công suất hao phí trên đường dây n lần thì U phải tăng \\[\\sqrt n \\] hoặc P giảm \\[\\sqrt n \\].Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Công dụng nào sau đây không phải của máy biến áp:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tăng cường độ của dòng điện không đổi",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Giảm điện áp của dòng điện xoay chiều.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Giảm hao phí trong truyền tải điện năng đi xa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tăng điện áp của dòng điện xoay chiều.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Việc tăng cường độ của dòng điện không đổi không phải là công dụng của máy biến ápĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một máy tăng áp có cuộn thứ cấp mắc với điện trở thuần, cuộn sơ cấp mắc với nguồn điện xoay chiều. Tần số dòng điện trong cuộn thứ cấp",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. có thể nhỏ hơn hoặc lớn hơn tần số trong cuộn sơ cấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.bằng tần số dòng điện trong cuộn sơ cấp.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.luôn nhỏ hơn tần số dòng điện trong cuộn sơ cấp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. luôn lớn hơn tần số dòng điện trong cuộn sơ cấp.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Máy biến thế là những thiết bị có khả năng biến đổi điện áp (xoay chiều) và không làm thay đổi tần số của nó.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Một máy tăng thế có số vòng của hai cuộn dây là 1000 vòng và 500 vòng. Mắc cuộn sơ cấp vào mạng điện 110V – 50Hz. Điện áp giữa hai đầu cuộn thứ cấp có giá trị hiệu dụng và tần số là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 220V – 100Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 55V – 25Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 220V – 50Hz",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 55V – 50Hz",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:+ \\[\\frac{{{U_1}}}{{{U_2}}} = \\frac{{{N_1}}}{{{N_2}}}\\]\\[ \\leftrightarrow \\frac{{110}}{{{U_2}}} = \\frac{{500}}{{1000}}\\]\\[ \\to {U_2} = 220V\\]+ Máy biến thế không làm thay đổi tần số=>Điện áp giữa hai đầu cuộn thứ cấp có giá trị hiệu dụng và tần số là: 220V – 50HzĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một máy biến áp có số vòng dây cuộn sơ cấp là 2000 vòng được mắc vào mạng điện xoay chiều có tần số 50Hz. Cường độ dòng điện hiệu dụng cuộn sơ cấp là 2A và cuộn thứ cấp là 10A. Số vòng dây cuộn thức cấp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10000 vòng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4000 vòng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 400 vòng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 200 vòng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Ta có:\\[\\frac{{{I_2}}}{{{I_1}}} = \\frac{{{N_1}}}{{{N_2}}}\\]\\[ \\Leftrightarrow \\frac{{10}}{2} = \\frac{{2000}}{{{N_2}}} = 10\\]\\[ \\to {N_2} = 400\\]=>Số vòng dây ở cuộn thứ cấp là 400 vòngĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong quá trình truyền tải điện năng đi xa người ta thường dùng cách nào sau đây để giảm hao phí:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giảm điện trở của dây dẫn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tăng điện áp truyền tải.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Giảm công suất truyền tải.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tăng tiết diện của dây dẫn.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong quá trình truyền tải điện năng đi xa người ta thường dùng cách tăng điện áp truyền tải để giảm hao phíĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Muốn giảm công suất hao phí trên đường dây 100 lần thì tỉ số của số vòng dây N2 của cuộn thứ cấp và N1 của cuộn sơ cấp ở máy biến áp nơi phát là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\frac{{{N_2}}}{{{N_1}}} = 0,1\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[\\frac{{{N_2}}}{{{N_1}}} = 10\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[\\frac{{{N_2}}}{{{N_1}}} = 100\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[\\frac{{{N_2}}}{{{N_1}}} = 0,01\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Máy biến áp lý tưởng có cuộn sơ cấp gồm 2000 vòng, cuộn thứ cấp gồm 100 vòng; điện áp và cường độ dòng điện ở mạch sơ cấp là 120 V và 0,8 A. Điện áp và công suất ở cuộn thứ cấp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6 V; 96 W.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 240 V; 96 W.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6 V; 4,8 W.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120 V; 4,8 W.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cuộn sơ cấp của một máy biến áp lí tưởng có N1 vòng dây. Khi đặt một điện áp xoay chiều có giá trị hiệu dụng 120 V vào hai đầu cuộn sơ cấp thì điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở đo được là 100 V. Nếu tăng thêm 150 vòng dây cho cuộn sơ cấp và giảm 150 vòng dây ở cuộn thứ cấp thì khi đặt vào hai đầu cuộn sơ cấp một điện áp hiệu dụng 160 V thì điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở vẫn là 100 V. Kết luận nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. N1= 825vòng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. N1= 1320vòng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. N1= 1170vòng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. N1 = 975vòng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một máy bơm sử dụng cho đài phun nước được nối bởi dây dẫn cách nguồn điện 18 m. Nguồn điện có hiệu điện thế hiệu dụng 230 V. Máy bơm hoạt động bình thường với điện áp hiệu dụng thấp nhất là 218 V và cường độ dòng điện 0,83 A. Điện trở lớn nhất trên mỗi mét chiều dài dây dẫn là bao nhiêu để máy bơm hoạt động bình thường?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,4Ω/m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,8Ω/m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,3Ω/m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,4Ω/m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

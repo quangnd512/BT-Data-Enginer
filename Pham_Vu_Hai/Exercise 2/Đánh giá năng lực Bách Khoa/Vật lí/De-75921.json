@@ -1,0 +1,396 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-dai-luong-dac-trung-cua-song-co/75921/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Chọn câu trả lời đúng. Để phân loại sóng ngang hay sóng dọc người ta dựa vào:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tốc độ truyền sóng và bước sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phương truyền sóng và tần số sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Phương truyền sóng và tốc độ truyền sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Phương dao động và phương truyền sóng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Sóng dọc: là sóng trong đó các phần tử của môi trường dao động theo phương trùng với phương truyền sóng.Sóng ngang: là sóng trong đó các phần tử của môi trường dao động theo phương vuông góc với phương truyền sóng.=>Để phân biệt sóng ngang hay sóng dọc người ta dựa vào phương dao động và phương truyền sóng.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Khi nói về sóng cơ, phát biểu nào dưới đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Sóng dọc là sóng mà phương dao động của các phần tử vật chất nơi sóng truyền qua trùng với phương truyền sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Sóng cơ không truyền được trong chân không.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Sóng ngang là sóng mà phương dao động của các phần tử vật chất nơi sóng truyền qua vuông góc với phương truyền sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Khi sóng truyền đi, các phần tử vật chất nơi sóng truyền qua cùng truyền đi theo sóng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A, B, C - đúngD - sai vì: Khi sóng truyền qua, các phần tử của môi trường chỉ dao động quanh vị trí cân bằng của chúng mà không chuyển dời theo sóng, chỉ có pha dao động của chúng được truyền đi.Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tốc độ truyền sóng trong một môi trường:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phụ thuộc vào bản chất môi trường và tần số sóng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phụ thuộc vào bản chất môi trường và biên độ sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Chỉ phụ thuộc vào bản chất môi trường.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Tăng theo cường độ sóng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Tốc độ truyền sóng v : là tốc độ lan truyền  dao động trong môi trườngPhụ thuộc vào bản chất của môi trường truyền (tính đàn hồi và mật độ môi trường): vR>vL>vKĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chọn cụm từ thích hợp nhất điền vào chỗ trống. Khi sóng cơ truyền càng xa nguồn thì .... càng giảm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Biên độ sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Tần số sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Bước sóng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Biên độ và năng lượng sóng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi sóng cơ truyền càng xa nguồn thì biên độ và năng lượng sóng càng giảmĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Chọn câu trả lời sai. Năng lượng của sóng truyền từ một nguồn điểm sẽ:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Giảm tỉ lệ với bình phương quãng đường truyền sóng, khi truyền trong không gian.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Giảm tỉ lệ với quãng đường truyền sóng, khi môi trường truyền là một đường thẳng.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Giảm tỉ lệ với quãng đường truyền sóng, khi truyền trên mặt thoáng của chất lỏng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Luôn không đổi khi môi trường truyền sóng là một đường thẳng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B - sai vì: Năng lượng sóng luôn không đổi khi môi trường truyền sóng là 1 đường thẳngĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một nguồn dao động đặt tại điểm O trên mặt chất lỏng nằm ngang phát ra dao động điều hòa theo phương thẳng đứng với phương trình uO = Acosωt. Sóng do nguồn dao động này tạo ra truyền trên mặt chất lỏng có bước sóng λ tới điểm M cách O một khoảng x. Coi biên độ sóng và vận tốc sóng không đổi khi truyền đi thì phương trình dao động tại điểm M là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[{u_M} = A\\cos \\omega t\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[{u_M} = A\\cos \\left( {\\omega t - \\frac{{\\pi x}}{\\lambda }} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[{u_M} = A\\cos \\left( {\\omega t + \\frac{{\\pi x}}{\\lambda }} \\right)\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[{u_M} = A\\cos \\left( {\\omega t - \\frac{{2\\pi x}}{\\lambda }} \\right)\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nPhương trình sóng tại M cách O một khoảng x là: \n\\[{u_M} = A\\cos \\left( {t - \\frac{x}{v}} \\right) = A\\cos \\left( {\\omega t - \\frac{{2\\pi x}}{\\lambda }} \\right)\\]\nĐáp án ần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một người ngồi ở bờ biển quan sát thấy khoảng cách giữa năm ngọn sóng liên tiếp bằng 20m20m. Bước sóng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 4m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 16m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 40m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một người ngồi ở bờ biển đếm được 20 ngọn sóng đi qua trước mặt trong 76s. Chu kì dao động của nước biển là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3,6s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3,8s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4s",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một sóng hình sin truyền trên một sợi dây dài. Ở thời điểm t, hình dạng của một đoạn dây như hình vẽ. Các vị trí cân bằng của các phần tử trên dây cùng nằm trên trục Ox. Bước sóng của sóng này bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 48cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 18cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 36cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 24cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một sóng ngang truyền trên sợi dây đàn hồi rất dài với tần số 500Hz. Người ta thấy hai điểm A, B trên sợi dây cách nhau 200cm dao động cùng pha và trên đoạn dây AB có hai điểm khác dao động ngược pha với A. Tốc độ truyền sóng trên dây là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 500cm/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1000m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 500m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 250cm/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một sợi dây đàn hồi rất dài có đầu A dao động với  tần số f và theo phương vuông góc với sợi dây. Biên độ dao động là 4cm, vận tốc truyền sóng trên dây là 4(m/s). Xét một điểm M trên dây và cách A một đoạn 28cm, người ta thấy M luôn luôn dao động lệch pha với AA một góc \\[\\Delta \\varphi  = \\left( {2k + 1} \\right)\\frac{\\pi }{2}\\]với k = 0, ±1, ±2, ..... Tính bước sóng λ? Biết tần số f có giá trị trong khoảng từ 22Hz đến 26Hz.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 12cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 8cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 14cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 16cm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một sóng ngang có chu kì T = 0,2s truyền trong một môi trường đàn hồi có tốc độ 1m/s. Xét trên phương truyền sóng Ox, vào một thời điểm nào đó một điểm M nằm tại đỉnh sóng thì ở trước M theo chiều truyền sóng, cách M một khoảng từ 42cm đến 60cm có điểm N đang từ vị tri cân bằng đi lên đỉnh sóng . Khoảng cách MN là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 50cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 55cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 52cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 45cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một dây đàn hồi  dài có đầu A dao động theo phương vuông góc với sợi dây. Tốc độ truyền sóng trên dây là 4m/s. Xét một điểm M trên dây và cách A một đoạn 40cm, người ta thấy M luôn luôn dao động lệch pha so với A một góc Δφ = (k + 0,5)π với k là số nguyên. Tính tần số, biết tần số f có giá trị trong khoảng từ 8Hz đến 13Hz.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8,5Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12Hz",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12,5Hz",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Sóng cơ có tần số 80 Hz lan truyền trong một môi trường với vận tốc 4 m/s. Dao động của các phần tử vật chất tại hai điểm trên một phương truyền sóng cách nguồn sóng những đoạn lần lượt 31 cm và 33,5 cm, lệch pha nhau góc:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[\\frac{\\pi }{2}\\,rad\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. π rad.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2π rad.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[\\frac{\\pi }{2}\\,rad\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hai điểm M, N cùng nằm trên một hướng truyền sóng và cách nhau một phần ba bước sóng. Biên độ sóng không đổi trong quá trình truyền. Tại một thời điểm, khi li dộ dao động của phần tử tại M là 3cm thì li độ dao động của phần tử tại N là -3cm. Biên độ dao động sóng bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[2\\sqrt 3 \\,cm\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. \\[3\\sqrt 2 \\,cm\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một sóng bề mặt ở nơi xảy ra động đất có thể coi một cách gần đúng là một sóng ngang hình sin. Giả sử tần số của sóng là f = 0,5 Hz thì biên độ sóng cần thiết bằng bao nhiêu để các vật đặt trên bề mặt đất bắt đầu rời khỏi mặt đất (lấy gia tốc trọng trường g = π2 = 10m/s2)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,0 m.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,1 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,5 m.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,5 m.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong thí nghiệm đo tốc độ truyền sóng trên sợi dây đàn hồi dài. Tần số máy phát là f = 10,0 ± 0,1Hz. Đo khoảng cách giữa 2 nút sóng liên tiếp cho kết quả: d = 25 ± 1 cm. Vận tốc truyền sóng trên dây đàn hồi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. v = 5,0m/s ± 5%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. v = (2,5 ± 0,4)m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. v = 2,5m/s ± 3%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. v = (5,0 ± 0,2)m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

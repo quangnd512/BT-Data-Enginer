@@ -1,0 +1,235 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-tap-tinh-dien-tro-cua-day-dan-bien-tro/98644/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Đặt vào hai đầu AB của một đoạn dây dẫn đồng chất, tiết diện đều một hiệu điện thế U. Tỉ số các hiệu điện thế UAC và UCB là bao nhiêu? Biết điểm C chia đoạn AB theo tỉ lệ AC/AB = 4/5",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1,25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,25",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nBài toán tương đương với điện trở RAC nối tiếp với điện trở RCB nên IAC = ICB\nDo đó, ta có:\nUACUCB=IACRACICBRCB=RACRCB\nMặt khác, ta có: R=ρlS\nUACUCB=RACRCB=lAClCB=ACCB=ACAB−AC\nTheo đề bài, ta có:\nACAB=45→AB=1,25AC\n→UACUCB=ACAB−AC=AC1,25AC−AC=4Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Một dây nhôm dạng hình trụ tròn được quấn thành cuộn có khối lượng 0,81kg. Tiết diện thẳng của dây là 0,1mm2. Tìm điện trở của dây đó biết rằng nhôm có khối lượng riêng và điện trở suất lần lượt là 2,7g/cm3 và2,8.10−8Ωm?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.84Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 480Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 840Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 48Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n+ Thể tích của cuộn dây:\nV=mD=0,812,7.103=3.10−4m3\n+ Chiều dài của dây nhôm:\nl=VS=3.10−40,1.10−6=3000m\n+ Điện trở của cuộn dây nhôm:\nR=ρlS=2,8.10−830000,1.10−6=840Ω\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Một cuộn dây dẫn bằng đồng có khối lượng 1,068kg, dây dẫn có tiết diện 1mm2. Biết điện trở suất của đồng là1,7.10−8Ωm, khối lượng riêng của đồng là 8900kg/m3. Người ta dùng dây này để cuốn một biến trở hình trụ tròn đường kính 2cm. Số vòng dây quấn của biến trở là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1190 vòng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1910 vòng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.119 vòng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.9110 vòng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\n+ Thể tích của cuộn dây:\nV=mD=1,0688,9.103=1,2.10−4m3\n+ Chiều dài của dây đồng:\nl=VS=1,2.10−410−6=120m\n+ Chiều dài của một vòng quấn là:\nC=2πR=πd=π.0,02=0,0628m\n=> Số vòng dây quấn:\nn=lC=1200,0628=1909,9≈1910vòng\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Có 3 điện trở R mắc như hình vẽ\n\nĐiện trở của bộ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2R/3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2R",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,5R",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nR1ntR2//R3⇒Rb=R+R.R3R=2R23R=2R3\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho mạch điện như hình vẽ.\nBiến trở AB là dây đồng chất, dài l = 1,3m, tiết diện S = 0,1mm2, điện trở suất 10-6Wm, U- hiệu điện thế không đổi. Nhận thấy khi con chạy ở các vị trí cách đầu A hoặc đầu B những đoạn như nhau bằng 40cm thì công suất tỏa nhiệt trên biến trở là như nhau. Xác định R0 ứng với vị trí của C.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6Ω",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nGọi R1, R2 là điện trở của biến trở ứng với 2 vị trí trên của con chạyC; R là điện trở toàn phần của biến trở.\n+ Điện trở toàn phần của biến trở:\nR=ρlS=13Ω→R1=413R=4ΩR2=913R=9Ω\n+ Ta có:\nP1=P2↔UR0+R12R1=UR0+R22R2→R0=R1R2=6Ω\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho mạch điện như hình vẽ:\nĐ(24V - 0,8A), hiệu điện thế giữa hai điểm A và B được giữ không đổi U = 32V\nBiết đèn sáng bình thường, điện trở của biến trở khi đó là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.30Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 40Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 50Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVì đèn sáng bình thường nên dòng điện chạy trong mạch là: I = 0,8A\nTa có:\n+ Điện trở của bóng đèn:\nRD=UDID=240,8=30Ω\n+ Điện trở của mạch:\nRAB=UABI=320,8=40Ω\nMặt khác, ta có: Biến trở mắc nối tiếp với bóng đèn:\nRAB = RD + R => R = RAB - R­D = 40 - 30 = 10ΩΩ\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho mạch điện như hình vẽ:\nĐ(24V - 0,8A), hiệu điện thế giữa hai điểm A và B được giữ không đổi U = 32V\nDịch chuyển con chạy của biến trở sao cho điện trở của biến trởR’=20Ω. Cường độ bóng đèn như thế nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đèn sáng bình thường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Đèn sáng yếu hơn mức bình thường",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Đèn sáng mạnh hơn mức bình thường",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đèn cháy",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một biến trở con chạy có điện trở lớn nhất là 150Ω. Dây điện trở của biến trở là một hợp kim nicrom có tiết diện 0,11mm2 và được quấn đều xung quanh một lõi sứ tròn có đường kính 2,5cm. Biết điện trở suất của nicrom là 1,1.10−6Ωm, dòng điện lớn nhất mà dây có thể chịu được là 2A. Ta có thể đặt vào hai đầu dây này một hiệu điện thế lớn nhất là bao nhiêu để biến trở không bị hỏng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.150V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.200V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.300V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.100V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho mạch điện như hình vẽ:\nBiếtR1 =1Ω,UPQ =2V,RA =0,5Ω. Khi R4 = 6 thì IA = 0A. Tích R2.R3 là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.R2R3=16",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R2R3=13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R2R3 = 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.R2R3 = 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Để bóng đèn 120V – 60W sáng bình thường ở mạng điện có hiệu điện thế 220V người ta mắc nối tiếp nó với điện trở R, R có giá trị:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.240Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 200Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 120Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 180Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

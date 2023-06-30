@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/silic/75870/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Nguyên tố phổ biến thứ hai ở vỏ trái đất là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. oxi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cacbon.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. silic.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. sắt.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Nguyên tố phổ biến thứ hai ở vỏ trái đất là silicĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Số oxi hóa cao nhất của silic thể hiện ở hợp chất nào sau đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SiO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. SiF4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. SiH4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A, B đúng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Số oxi hóa cao nhất của Si trong hợp chất là +4 =>thể hiện trong SiO2 và SiF4Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Số oxi hóa thấp nhất của silic thể hiện ở hợp chất nào sau đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SiO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. SiO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Mg2Si",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. H2SiO3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Số oxi hóa cao thấp của Si trong hợp chất là – 2 =>thể hiện trong Mg2SiĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Trong phản ứng hóa học nào sau đây silic đóng vai trò là chất oxi hóa",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Si  +  2F2→ SiF4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Si  +  O2 \\[\\mathop  \\to \\limits^{t^\\circ } \\]SiO2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Si  + 2NaOH  +  H2O → Na2SiO3  + 2H2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2Mg  +  Si \\[\\mathop  \\to \\limits^{t^\\circ } \\]Mg2Si",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Si đóng vai trò là chất oxi hóa khi tác dụng với chất khử (kim loại), sau phản ứng số oxi hóa của Si giảm\\[2Mg + \\mathop {Si}\\limits^0 \\mathop  \\to \\limits^{t^\\circ } M{g_2}\\mathop {Si}\\limits^{ - 2} \\]Đáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong phòng thí nghiệm, người ta thường bảo quản dung dịch HF trong các bình làm bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. thủy tinh",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.nhựa",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.gốm sứ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. kim loại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Trong phòng thí nghiệm, người ta thường bảo quản dung dịch HF trong các bình làm bằng nhựaVì HF hòa tan được bình làm bằng thủy tinh và gốm sứ có thành phần SiO2HF là axit =>hòa tan được kim loạiĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho m gam silic tác dụng vừa đủ với dung dịch NaOH. Sau phản ứng thấy khối lượng dung dịch tăng 2,4 gam. Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,4 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2,58 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2,8 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2,4 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Giả sử nSi = x (mol)Si + 2NaOH + H2O → Na2SiO3 + 2H2x                      →                            2xmddtăng = mSi - mH2 = 2,4 =>28x – 4x = 2,4=>x = 0,1 mol =>m = 2,8 gamĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho 11 gam hỗn hợp 2 kim loại Al, Si tan hoàn toàn vào dung dịch NaOH thu được 15,68 lít H2 (đktc). Thành phần phần trăm khối lượng của Si trong hỗn hợp là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 50,00%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.51,19%.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50,91%.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 51,90%.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho nhận xét sau:1) Silic vừa thể hiện tính khử vừa thể hiện tính oxi hóa.2) Trong công nghiệp, silic được điều chế bằng cách đốt cháy hỗn hợp gồm bột Mg và cát nghiền mịn.3) SiO2 là một oxit axit, tan được trong nước tạo ra axit silixic.4) Silic siêu tinh khiết là chất bán dẫn trong kĩ thuật vô tuyến và điện tử.5) Axit silixic có tính axit yếu hơn axit cacbonic.Số nhận xét đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Chọn phát biểu đúng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Silic có tính oxi hóa mạnh hơn cacbon.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cacbon có tính oxi hóa mạnh hơn silic.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Silic có tính khử yếu hơn cacbon.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Silic và cacbon có tính oxi hóa bằng nhau.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Silic phản ứng được với tất cả các chất trong dãy chất nào dưới đây",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Mg, dung dịch HF, dung dịch NaOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. F2, Mg, dung dịch NaOH",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.  Fe, O2, dung dịch CH3COOH",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ca, SiO2, dung dịch H2SO4 loãng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Người ta có thể điều chế Si bằng cách",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Dùng than cốc khử SiO2 trong lò điện ở nhiệt độ cao",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Đốt cháy hỗn hợp bột Mg và cát nghiền mịn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Khai thác quặng silic trong tự nhiên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cả A, B đều đúng",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tại sao silic tinh thể được sử dụng để làm các chất bán dẫn trong các thiết bị điện tử, pin mặt trời?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Do Silic có tính khử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Do Silic có tính oxi hóa",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Do Silic có khối lượng nhẹ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Do Silic có tính bán dẫn",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Silic có những dạng thù hình nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Tinh thể",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Vô định hình",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Than chì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Tinh thể và vô định hình",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho sơ đồ sau:\n\\[Si\\mathop \\to \\limits^{\\left( 1 \\right)} Si{O_2}\\mathop \\to \\limits^{\\left( 2 \\right)} N{a_2}Si{O_3}\\mathop \\to \\limits^{\\left( 3 \\right)} {H_2}Si{O_3}\\]\nCác cần lấy trong phản ứng (1), (2), (3) là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. O2; Na2O; HCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. O2; Na2O; H2O.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. O2; NaOH; HCl.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. O2; NaOH; H2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

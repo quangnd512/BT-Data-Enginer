@@ -1,0 +1,879 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ham-so-co-logarit/96855/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Điều kiện để logab có nghĩa là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a < 0, b > 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0<a≠1,b<0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0<a≠1,b>0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0<a≠1,0<b≠1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện để logab có nghĩa là 0<a≠1,b>0.\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2logab=logab",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. logab=2logab",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. logab3=13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. logab3=−13logab",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: 2logab=2.logab12=2.12logab=logab nên A đúng.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Với điều kiện các logarit đều có nghĩa, chọn công thức biến đổi đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. logab.logbc=logac",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. logbc=logablogac",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. logab=logcb−logca",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. logab+logbc=logac",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ công thức logab.logbc=logac⇔logbc=logaclogab(0<a,b≠1;c>0) ta thấy chỉ có đáp án A đúng.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Chọn công thức đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. loganb=−nlogab",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. loganb=1nlogab",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. loganb=−1nlogab",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. loganb=nlogab",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ công thức loganb=1nlogab(0<a≠1;b>0;n≠0) ta thấy chỉ có đáp án B đúng.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Nếu a > 1 và b > c > 0 thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. logab>logac",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. logab<logac",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. logab<logbc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. logab>logbc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu a > 1 và b > c > 0 thì logab>logac.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Giá trị log3a âm khi nào?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0 < a < 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0 < a < 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a > 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a > 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nVì 3 > 1 nên để log3a<0 thì 0 < a < 1.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Với điều kiện các logarit đều có nghĩa, chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. logabc=logab+logbc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. logabc=logab+logac",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. logabc=logablogac",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. logabc=logab+logac",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. log216=log381",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. log39=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. log416=log28",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. log416=log28",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Chọn mệnh đề đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2log23=5log35",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2log23=5log53",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 5log53=log23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2log24=2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Giá trị log1381 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. -8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. -2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Với các số thực a,b>0 bất kì; rút gọn biểu thức P=2log2a−log12b2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P=log2ab2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=log22ab2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P=log22ab2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P=log2ab2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho số thực x thỏa mãn log2log8x=log8log2x.Tính giá trị của P=(log2x)2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P=33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P = 27",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P=33",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Đặt log23=a;log25=b. Hãy biểu diễn P=log3240 theo a và b.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P=2a+b+3a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=a+b+4a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. P=a+b+3a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P=a+2b+3a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Đặt a=log23,b=log53. Hãy biểu diễn log645  theo a và b:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. log645=2a2−2abab",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. log645=2a2−2abab+b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. log645=a+2abab+b",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. log645=a+2abab",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho 0<x<1;0<a;b;c≠1 và logcx>0>logbx>logax so sánh a;b;c ta được kết quả:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a > b > c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. c > a > b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. c > b > a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. b > a > c",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hai số thực a  và b , với 1<a<b . Khẳng định nào dưới đây là khẳng định đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. logab<1<logba",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1<logab<logba",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. logba<logab<1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. logba<1<logab",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Nếu log1218=a thì log23  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1−aa−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a−1a−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a−12a−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1−2aa−2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho log214=a. Tính llog4932 theo a.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10a−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 25(a−1)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 52a−2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 52a+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Đặt log260=a;log515=b. Tính P=log212 theo a và b.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P=ab+2a+2b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=ab−a+2b",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. P=ab+a−2b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P=ab−a−2b",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Đặt a=log25 và b=log26. Hãy biểu diễn log390 theo a và b?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. log390=a−2b+1b+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. log390=a+2b−1b−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. log390=2a−b+1a+1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. log390=2a+b−1a−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Nếu logab=p thì logaa2b4 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2p4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4p + 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 4p + 2a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. p4+2a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Đặt a=log34,b=log54. Hãy biểu diễn log1280 theo a và b",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. log1280=2a2−2abab+b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. log1280=a+2abab",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. log1280=a+2abab+b",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. log1280=2a2−2abab",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Nếu log126=a;log127=b thì:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. log27=a1−b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. log27=b1−a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. log27=a1+b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. log27=b1+a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Cho a,b là các số thực dương khác 1 và thỏa mãn loga2b+logb2a=1. Mệnh đề nào dưới đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a=1b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a = b",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a=1b2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a=b2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Gọi m là số chữ số cần dùng khi viết số 230 trong hệ thập phân và n là số chữ số cần dùng khi viết số 302 trong hệ nhị phân. Ta có tổng m+n bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 18",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 19",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 21",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho a>0; b>0 thỏa mãn a2+4b2=5ab. Khẳng định nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2loga+2b=5loga+logb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. loga+1+logb=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. loga+2b3=loga+logb2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 5loga+2b=loga−logb",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Biết log1520=a+2log32+blog35+c với a,b,c∈ℤ. Tính T=a+b+c",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T = -3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. T = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T = -1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T = 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Xét a và b là hai số thực dương tùy ý. Đặt x=ln(a2−ab+b2)1000, y=1000lna−ln1b1000. Khẳng định nào dưới đây là khẳng định đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x < y",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x > y",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x≤y",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x≥y",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho các phát biểu sau:\n(I). Nếu C=AB  thì 2lnC=lnA+lnB với A,B là các biểu thức luôn nhận giá trị dương.\n(II). (a−1)logax≥0⇔x≥1 với a>0,a≠1\n(III). mlogam=nlogan với m;n > 0 và a>0,a≠1       \n(IV).limx→+∞log12x=−∞\nSố phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho lnx = 2. Tính giá trị của biểu thức T=2lnex−lne2x+ln3.log3ex2 ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T = 7",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. T = 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T = 13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T = 21",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho logx=a và ln10=b . Tính log10ex theo a và b",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2ab1+b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ab1+b",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a1+b",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. b1+b",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Sự tăng trưởng của 1 loài vi khuẩn được tính theo công thức S=A.ert, trong đó A là số lượng vi khuẩn ban đầu, r là tỉ lệ tăng trưởng (r>0), tt là thời gian tăng trưởng. Biết rằng số lượng vi khuẩn ban đầu là 150 con và sau 5 giờ có 450 con, tìm số lượng vi khuẩn sau 10 giờ tăng trưởng.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 900",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1350",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1050",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1200",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Khi ánh sáng đi qua một môi trường ( chẳng hạn như không khí, nước , sương mù…), cường độ sẽ giảm dần theo quãng đường truyền x, theo công thức I(x)=I0e−μx, trong đó I0 là cường độ của ánh sáng khi bắt đầu truyền vào môi trường và μ là hệ số hấp thu của môi trường đó . Biết rằng nước biển có hệ số hấp thu μ=1, và người ta tính được rằng khi đi từ độ sâu 2m xuống đến độ sâu 20m thì cường độ ánh sáng giảm l.1010 lần. Số nguyên nào sau đây gần với l nhất ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 90",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Một điện thoại đang nạp pin, dung lượng pin nạp được tính theo công thức Qt=Q0.1−e−t2 với t là khoảng thời gian tính bằng giờ và Q0 là dung lượng nạp tối đa ( pin đầy ). Hãy tính thời gian nạp pin của điện thoại tính từ lúc cạn hết pin cho đến khi điện thoại đạt được 90% dung lượng pin tối đa ( kết quả được làm tròn đến hàng phần trăm).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. t≈1,65 giờ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. t≈1,61 giờ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. t≈1,63 giờ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. t≈1,50 giờ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho a,b là các số dương thỏa mãn a2+4b2=12ab. Chọn khẳng định đúng trong các khẳng định sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. lna+2b−2ln2=lna+lnb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. lna+2b=12(lna+lnb)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lna+2b−2ln2=12(lna+lnb)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. lna+2b+2ln2=12(lna+lnb)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho x;y là các số thực dương thỏa mãn lnx+lny≥ln(x2+y).Tìm giá trị nhỏ nhất của P=x+y.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. P = 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P=3+22",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. P=2+32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P=3+17",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Cho a>0,  b>0 và lna+b3=2lna+lnb3. Chọn mệnh đề đúng trong các mệnh đề sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3+b3=8a2b−ab2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a3+b3=38a2b+ab2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3+b3=3a2b−ab2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3+b3=38a2b−ab2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Một quần thể sinh vật tại thời điểm hiện tại có T (con), biết quần thể đó có tỉ lệ tăng trưởng r theo năm, hỏi số sinh vật trong quần thể từ 2 năm trước là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A=Te2r",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A=Te−2r",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. A=Te−2r",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A=2Te−r",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

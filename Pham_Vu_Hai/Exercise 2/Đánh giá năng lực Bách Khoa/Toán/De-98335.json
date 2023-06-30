@@ -1,0 +1,511 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/hai-duong-thang-vuong-goc-voi-nhau/98335/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong các mệnh đề sau, mệnh đề nào đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Góc giữa hai đường thẳng a và b bằng góc giữa hai véc tơ chỉ phương của chúng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Góc giữa hai đường thẳng a và b bằng góc giữa hai đường thẳng a và c thì b song song với c.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Góc giữa hai đường thẳng luôn là góc nhọn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Góc giữa hai đường thẳng luôn là góc nhọn hoặc vuông.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐáp án A sai vì nếu góc giữa hai véc tơ chỉ phương lớn hơn 900 thì góc giữa hai đường thẳng sẽ là góc bù với góc đó chứ không bằng.\nĐáp án B sai vì vẫn có thể xảy ra các trường hợp b và c chéo nhau, cắt nhau, trùng nhau.\nĐáp án C sai vì góc giữa hai đường thẳng có thể nhọn hoặc vuông.\nDo đó D đúng."
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho tứ diện đều ABCD. Số đo góc giữa hai đường thẳng AB và CD  bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 600.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 300.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 900.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 450.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Trong các mệnh đề sau đây, mệnh đề nào là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Nếu đường thẳng a vuông góc với đường thẳng b và đường thẳng b vuông góc với đường thẳng c thì a vuông góc với c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cho ba đường thẳng a,b,c vuông góc với nhau từng đôi một. Nếu có một đường thẳng d vuông góc với a thì d song song với b hoặc c",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Nếu đường thẳng a vuông góc với đường thẳng b và đường thẳng b song song với đường thẳng c thì a vuông góc với c",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Cho hai đường thẳng a và b song song với nhau. Một đường thẳng c vuông góc với a thì c vuông góc với mọi đường thẳng nằm trong mặt phẳng (a,b)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: a⊥bb//c⇒a⊥c nên đáp án C đúng.\n\nĐán án A: Ta thấy b cùng vuông góc với a và c nhưng hai đường thẳng a,c không vuông góc với nhau\n\n\nĐáp án B: AB và BC và BB' vuông góc với nhau từng đôi một. BD cũng vuông góc với BB' nhưng lại không vuông góc với AB và cũng không vuông góc với BC.\nĐáp án D: Ta thấy đường thẳng AD và BC song song, đường thẳng AB vuông góc với AD nhưng không vuông góc với mọi đường thẳng nằm trong mặt phẳng (ABCD)\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Mệnh đề nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Một đường thẳng vuông góc với một trong hai đường thẳng vuông góc thì song song với đường thẳng còn lại",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hai đường thẳng cùng vuông góc với một đường thẳng thì song song với nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hai đường thẳng cùng vuông góc với một đường thẳng thì vuông góc với nhau",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nMột đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB=AC=AD và BAC^=BAD^=600.Hãy xác định góc giữa cặp vectơ AB→ và CD→?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 60°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 120°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 90°",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho a→=3,b→=5, góc giữa a→ và b→ bằng 120°. Chọn khẳng định sai trong các khẳng định sau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a→+b→=19",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a→−b→=7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a→−2b→=139",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a→+2b→=9",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp S.ABC có SA=SB và CA=CB. Tính số đo của góc giữa hai đường thẳng chéo nhau SC và AB.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 90°",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB vuông góc với CD. Mặt phẳng (P) song song với AB và CD lần lượt cắt BC, DB, AD, AC tại M, N, P, Q. Tứ giác MNPQ là hình gì?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Hình thang",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Hình bình hành",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Hình chữ nhật",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Hình vuông",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh bằng a. Hình chiếu vuông góc của S trên mặt phẳng (ABCD) trùng với trung điểm H của cạnh AB. Biết tam giác SAB là tam giác đều. Số đo của góc giữa SA và CD là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 60°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 90°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 30°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB vuông góc với mặt phẳng (BCD). Biết tam giác BCD vuông tại C và các cạnh AB=a62,AC=a2,CD=a. Gọi E là trung điểm của AC. Góc giữa hai đường thẳng AB và DE bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 90°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 30°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 60°",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB=CD=a,IJ=a32 (I, J lần lượt là trung điểm của BC và AD). Số đo góc giữa hai đường thẳng AB và CD là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 30°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 60°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 90°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình hộp ABCD.A′B′C′D′. Giả sử tam giác AB′C và A′DC′ đều có 3 góc nhọn. Góc giữa hai đường thẳng AC và A′D là góc nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. BDB'^",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AB'C^",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. DB'B^",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. DA'C'^",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hình lập phương ABCD.EFGH Hãy xác định góc giữa cặp vectơ AB→ và DH→?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 90°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 120°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 60°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Trong không gian cho hai hình vuông ABCD và ABC′D′ có chung cạnh AB và nằm trong hai mặt phẳng khác nhau, lần lượt có tâm O và O′. Hãy xác định góc giữa cặp vectơ AB→ và OO'→?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 60°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 120°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 90°",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB=AC=AD và BAC^=BAD^=600. Gọi I và J lần lượt là trung điểm của AB và CD. Hãy xác định góc giữa cặp vectơ IJ→ và CD→?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 90°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 60°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho tứ diện ABCD có AC=32AD;CAB^=DAB^=600;CD=AD. Gọi φ là góc giữa AB và CD. Chọn khẳng định đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cos φ=34.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. φ=60∘.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. φ=30∘.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cos φ=14.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho tứ diện ABCD có trọng tâm G. Chọn khẳng định đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AB2+AC2+AD2+BC2+BD2+CD2=3GA2+GB2+GC2+GD2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. AB2+AC2+AD2+BC2+BD2+CD2=4GA2+GB2+GC2+GD2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. AB2+AC2+AD2+BC2+BD2+CD2=6GA2+GB2+GC2+GD2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. AB2+AC2+AD2+BC2+BD2+CD2=2GA2+GB2+GC2+GD2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình vuông ABCD cạnh bằng a và các cạnh bên đều bằng a. Gọi M và N lần lượt là trung điểm của AD và SD. Số đo của góc (MN,SC) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 30°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 90°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 60°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′. Chọn khẳng định sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Góc giữa AC và B′D′ bằng 90°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Góc giữa B′D′ và AA′ bằng 60∘",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Góc giữa AD và B′C bằng 45∘",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Góc giữa BD và A′C′ bằng 90°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hình lập phương ABCD.EFGH. Hãy xác định góc giữa cặp vectơ AF→ và EG→?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 90°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 60°",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 45°",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120°",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hình hộp ABCD.A′B′C′D′ có tất cả các cạnh đều bằng nhau. Trong các mệnh đề sau, mệnh đề nào có thể sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A'C'⊥BD",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. BB'⊥BD",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. A'B⊥DC'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. BC'⊥A'D",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho tứ diện ABCD có AB vuông góc với CD, AB=CD=6. M là điểm thuộc cạnh BC sao cho MC=x.BC(0<x<1) Mặt phẳng(P) song song với AB và CD lần lượt cắt BC,DB,AD,AC tại M,N,P,Q. Diện tích lớn nhất của tứ giác bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 8",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

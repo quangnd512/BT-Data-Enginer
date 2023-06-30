@@ -1,0 +1,701 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-cuc-tri-co-tham-so-doi-voi-mot-so-ham-so-co-ban-0/98513/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tìm tất cả các giá trị của m để hàm số y=mx33−mx2+x−1   có cực đại và cực tiểu.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0<m⩽1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m<0m>1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0<m<1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m<0.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTXĐ:  D=R\nTH1: m=0→y=x−1.\n\nHàm số không có cực trị.\nTH2:  m≠0\nTa có: y=mx33−mx2+x−1⇒y'=mx2−2mx+1. \n\n\nĐể hàm số cho có cực đại, cực tiểu thì phương trình  y'=0 phải có 2 nghiệm phân biệt\n⇒Δ'=m2−m>0⇔m<0m>1\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tìm tất cả các giá trị của m để đồ thị hàm số  y=−x4+2mx2 có 3 điểm cực trị ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m > 0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m⩾0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\ny=−x4+2mx2⇒y'=−4x3+4mx=−4xx2−m⇒y'=0⇔x=0x2=m\n\nĐể hàm số có ba điểm cực trị thì phương trình y'=0   có ba nghiệm phân biệt hay phương trình x2=m   có hai nghiệm phân biệt ≠0   hay m>0 \nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hàm số y=2x4−m+1x2−2. Tất cả các giá trị của m để hàm số có 1 điểm cực trị là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m > −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m < −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m⩽−1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\ny'=8x3−2m+1x=2x4x2−m+1⇒y'=0⇔x=04x2=m+1 (1)\n\nTa có yêu cầu bài toán để hàm số có một điểm cực trị ⇔y'=0 có 1 nghiệm duy nhất ⇔(1) có 1 nghiệm x = 0 hoặc (1) vô nghiệm ⇔m+1⩽0⇔m⩽−1 \nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tìm tất cả các giá trị của m để hàm số y=−13x3+mx23+4  đạt cực đại tại x = 2?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.m = 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTXĐ  D=ℝ\ny'=−x2+23mx⇒y''=−2x+23m\n\nHàm số đã cho đạt cực đại tại x = 2\n⇔y'(2)=0y''(2)<0⇔−22+23m.2=0−2.2+23m.<0⇔−4+43m=0−4+23m<0⇔m=3m<6⇔m=3\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tìm tất cả các giá trị của tham số m để hàm số  y=x3−2mx2+m2x+2 đạt cực tiểu tại x = 1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=1∨m=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m = 1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTXĐ:  D=R\n\nTa có: y'=3x2−4mx+m2⇒y''=6x−4m\nĐể x = 1 là điểm cực tiểu của hàm số  thì:y'(1)=0y''(1)>0⇔m2−4m+3=06−4m>0⇔m=1;m=3m<32⇔m=1.\n\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Đồ thị hàm số y=x3−3m+1x2+m2+3m+2x+3 có điểm cực tiểu và điểm cực đại nằm về hai phía của trục tung khi:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1 < m < 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.−2 < m < −1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2 < m < 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−3 < m < −2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\ny=x3−3m+1x2+m2+3m+2x+3\ny'=3x2−6m+2x+m2+3m+2\n\nĐể cực tiểu và cực đại của đồ thị hàm số y nằm về hai phía của trục tung thì x1x2<0, với  x1,x2 là hai nghiệm của phương trình y'=0 .\n⇔3(m2+3m+2)<0⇔m2+3m+2<0⇔−2<m<−1\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hàm số y=13x3−mx2+(2m−4)x−3. . Tìm mm để hàm số có các điểm cực đại, cực tiểu x1;x2   thỏa mãn: x12+x22=x1.x2+10",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=1;m=12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.m=3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hàm số y=x3−3x2+3mx+1. . Tìm m để hàm số có 2 điểm cực trị nhỏ hơn 2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m<−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m>4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0<m<1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. .−1<m<2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tìm m để (Cm) :  y=x4−2mx2+2  có 3 điểm cực trị là 3 đỉnh của một tam giác vuông cân.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = −4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m = −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.m = 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hàm số y=x4+21−m2x2+m+1. Tất cả các giá trị của m để đồ thị hàm số có 3 điểm cực trị tạo thành tam giác có diện tích bằng 42 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. m=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=±3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. m=5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hàm số y=x4−2mx2+m2+m. . Tất cả các giá trị của m để đồ thị hàm số có 3 điểm cực trị tạo thành tam giác có một góc 120o là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=133",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=0; m=133",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=123",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hãy lập phương trình đường thẳng (d) đi qua các điểm cực đại và cực tiểu của đồ thị hàm số y=x3+3mx2−3x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=mx+3m−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=−2m2+1x+m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=2m3−2x",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=−2x+2m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hàm số y=2x3−3m+1x2+6mx. . Tìm m để đồ thị hàm số có hai điểm cực trị là A,B sao cho đường thẳng AB vuông góc với d:x−y−9=0",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m = −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = 0; m = 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.m = 1; m = 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hàm số y = f(x) liên tục trên R và có đồ thị như hình vẽ bên, một hàm số g(x) xác định theo f(x) có đạo hàm g'(x)=f(x)+m . Tìm tất cả các giá trị thực của tham số mm để hàm số g(x) có duy nhất một cực trị.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−4 < m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.  m⩾0 hoặc m⩽−4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.m > 0 hoặc m < −4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. −4⩽m⩽0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hàm số y=x3+6x2+3m+2x−m−6  với mm là tham số thực. Tìm tất cả các giá trị của m để hàm số có hai điểm cực trị x1,x2  thỏa mãn x1<−1<x2",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m > 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m < 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.m > −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m < −1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Cho hàm số  y=2x3+mx2−12x−13 với m là tham số thực. Tìm giá trị của mm để đồ thị hàm số có hai điểm cực trị thỏa mãn khoảng cách từ chúng đến trục tung bằng nhau.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m = −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m = 0",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Cho hàm số y=x3−3mx2+4m2−2  với m là tham số thực. Tìm giá trị của mm để đồ thị hàm số có hai điểm cực trị A,B sao cho I(1;0) là trung điểm của đoạn thẳng AB.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.m = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m = −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.m = 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.m = 2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Gọi m0 là giá trị của mm thỏa mãn đồ thị hàm số y=x2+mx−5x2+1 có hai điểm cực trị A,B  sao cho đường thẳng A,B đi qua điểm I(1;−3). Khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0<m0≤3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. −5<m0≤−3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. −3<m0≤0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3<m0≤5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Hàm số fx=xx2+1−m  (với m là tham số thực) có nhiều nhất bao nhiêu điểm cực trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Có bao nhiêu giá trị nguyên của tham số m để đồ thị hàm số y=mx3−2m−1x2+2mx−m−1  có hai điểm cực trị nằm về hai phía của trục hoành.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số fx=13x3+mx2+m2−4x+1. Có bao nhiêu giá trị nguyên của tham số mm để hàm số y=f(|x|)   có đúng 3 điểm cực trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Gọi k là số giá trị nguyên của tham số m để hàm số y=13x3−x2+(m2−8m+16)x−31   có cực trị. Tìm k.",
+            "Danh sách đáp án": [],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Cho hàm số y=x4−2mx2+3m+2. Tất cả các giá trị của m để đồ thị hàm số có 3 điểm cực trị tạo thành tam giác đều là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=33",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=−33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Có tất cả bao nhiêu giá trị nguyên dương của tham số m để hàm số y=∣3x4−4x3−12x2+m∣  có 5 điểm cực trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.26.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.27.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.16.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.28.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Gọi S là tập hợp tất cả các giá trị thực của tham số m để đồ thị hàm số y=x2+mx+2mx+1  có hai điểm cực trị A,B và tam giác OAB vuông tại O. Tổng tất cả các phần tử của S là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.9.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hàm sốy=x33−ax2−3ax+4. Để hàm số đạt cực trị tại x1,x2  thỏa mãn x12+2ax2+9aa2+a2x22+2ax1+9a=2   thì a thuộc khoảng nào ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a∈−3; −52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a∈−5; −72",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a∈−2; −1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a∈−72; −3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Tìm tập hợp S tất cả các giá trị của tham số thực m để đồ thị hàm số y=x4−2m2x2+m4+3  có ba điểm cực trị đồng thời ba điểm cực trị đó cùng với gốc tọa độ O tạo thành một tứ giác nội tiếp.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. S=−13;0;13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. S=−1;1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. S=−13;13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. S=−12;12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hàm số  y=x−m3−3x+m2 có đồ thị là (Cm) với m là tham số thực. Biết điểm M(a;b) là điểm cực đại của (Cm) ứng với một giá trị m thích hợp, đồng thời là điểm cực tiểu của (Cm) ứng với một giá trị khác của m. Tổng  S=2018a+2020b bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.504.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.−504.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12504.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.5004.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Tìm tất cả các giá trị của tham số m để đồ thị hàm số y=x4−2mx2+m−1   có ba điểm cực trị. Đồng thời ba điểm cực trị đó là ba đỉnh của một tam giác có bán kính đường tròn ngoại tiếp bằng 1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m=1m=−1+52",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. m =1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. m=1m=±−1+52",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. m=±−1+52",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Có bao nhiêu giá trị nguyên của tham số m để hàm số y=x8+(m−2)x5−(m2−4)x4+1  đạt cực tiểu tại x = 0?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Vô số.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho hàm số f(x)=x3+ax2+bx−2 thỏa mãn a+b>13+2a+b<0 . Số điểm cực trị của hàm số y=f(x)   bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

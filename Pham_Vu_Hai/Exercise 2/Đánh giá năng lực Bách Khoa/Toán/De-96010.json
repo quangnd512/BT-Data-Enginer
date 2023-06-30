@@ -1,0 +1,994 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-dem/96010/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Công việc A có k phương án A1,...,Ak để thực hiện. Biết có n1 cách thực hiện A1,…,nk cách thực hiện Ak. Số cách thực hiện công việc A là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. n1.n2.....nk cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. n1 – n2−...−nk cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n1 + n2 + ... + nk cách",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. n12+n22+...+nk2 cách",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nÁp dụng quy tắc cộng ta có số cách thực hiện công việc là n1 + n2 +...+nk cách cách.Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Công việc A có k công đoạn A1, A2,...,Ak với số cách thực hiện lần lượt là n1, n2,...,nk. Khi đó số cách thực hiện công việc A là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. n1+n2+...+nk cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. n1.n2.....nk cách",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. n12+n22+...+nk2 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n1.n2+n2.n3+...+nk−1.nk cách",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố cách thực hiện công việc A là: n1.n2.....nk cách.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Số các hoán vị khác nhau của n phần tử là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Pn=n!",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Pn=n",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Pn=n−1!",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Pn=n2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố các hoán vị khác nhau của n phần tử là Pn = n!Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Số chỉnh hợp chập kk của nn phần tử là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ank=n!n−k!",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Ank=n!k!",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ank=n−k!n!",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ank=k!n!",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố chỉnh hợp chập k của n phần tử là:\nAnk=n!n−k!=nn−1n−2...n−k+1\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Số tổ hợp chập k của n phần tử là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Ank",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Akn",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cnk",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Ckn",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nSố tổ hợp chập k của n phần tử là Cnk\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Có bao nhiêu cách xếp 5 học sinh thành một hàng dọc?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 25.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nMỗi cách xếp cho ta một hoán vị của 5 học sinh và ngược lại.Vậy số cách xếp là P5 = 5! = 120 (cách).\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho đa giác đều n đỉnh, n∈N và n ≥ 3. Tìm n biết rằng đa giác đã cho có 135 đường chéo",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. n = 15.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. n = 27.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n = 8.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n = 18.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Mỗi cách lấy ra k trong số n phần tử được gọi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tổ hợp chập k của n phần tử",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. chỉnh hợp chập k của n phần tử",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Cnk",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ank",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Một lớp có 8 học sinh được bầu chọn vào 3 chức vụ khác nhau: lớp trưởng, lớp phó và bí thư (không được kiêm nhiệm). Số cách lựa chọn khác nhau sẽ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 336",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 56",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 31",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 40320",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho k, n(k < n) là các số nguyên dương. Mệnh đề nào sau đây SAI?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Cnk=Cnn−k",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Cnk=n!k!.n−k!",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ank=k!.Cnk",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ank=n!.Cnk",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Trong một lớp có 17 bạn nam và 11 bạn nữ. Hỏi có bao nhiêu cách chọn ra một bạn làm lớp trưởng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 17",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 28",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Muốn đi từ A đến B thì bắt buộc phải đi qua C. Có 3 con đường đi từ A tới C và 2 con đường từ C đến B. Số con đường đi từ A đến B là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Có bao nhiêu số có 3 chữ số được lập thành từ các chữ số 3,2,1?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 27",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một đội văn nghệ chuẩn bị được 2 vở kịch, 3 điệu múa và 6 bài hát. Tại hội diễn, mỗi đội chỉ được trình bày 1 vở kịch, 1 điệu múa và 1 bài hát. Hỏi đội văn nghệ trên có bao nhiêu cách chọn chương trình diễn, biết chất lượng các vở kịch, các điệu múa, các bài hát là như nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 36",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 18",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một đội văn nghệ đã chuẩn bị 3 bài múa, 4 bài hát và 2 vở kịch. Thầy giáo yêu cầu đội chọn biểu diễn một vở kịch hoặc một bài hát. Số cách chọn bài biểu diễn của đội là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 7",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Từ các chữ số 1, 2, 3, 4, 5, 6, 7 lập được bao nhiêu số tự nhiên gồm 4 chữ số khác nhau và là số chẵn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 360",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 343",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 523",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 347",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Có bao nhiêu cách sắp xếp 8 viên bi đỏ khác nhau và 8 viên bi đen khác nhau thành một dãy sao cho hai viên bi cùng màu không được ở cạnh nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3251404800",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 1625702400",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 72",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 36",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Biển đăng kí xe ô tô có 6 chữ số và hai chữ cái trog 26 chữ cái (không dùng các chữ I và O ). Chữ số đầu tiên khác 0. Hỏi số ô tô được đăng kí nhiều nhất có thể là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5184.102",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 576.106",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 33384960",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4968.105",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Trên giá sách có 10 quyển Văn khác nhau, 8 quyển sách Toán khác nhau và 6 quyển sách Tiếng Anh khác nhau. Hỏi có bao nhiêu cách chọn hai quyển sách khác môn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 230400",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 60",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 48",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 188",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Một nhóm 9 người gồm 3 đàn ông, 4 phụ nữ và 2 đứa trẻ đi xem phim. Hỏi có bao nhiêu cách xếp họ ngồi trên một hàng ghế sao cho mỗi đứa trẻ ngồi giữa hai người phụ nữ và không có hai người đàn ông nào ngồi cạnh nhau.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 288",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 864",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 24",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 576",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Với các chữ số 0, 1, 2, 3, 4, 5 có thể lập được bao nhiêu số gồm 8 chữ số, trong đó chữ số 1 có mặt 3 lần, mỗi chữ số khác có mặt đúng 1 lần.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 35280 số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 40320 số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 5880 số",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 840 số",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho 8 bạn học sinh A, B, C, D, E, F, G, H. Hỏi có bao nhiêu cách xếp 8 bạn đó ngồi xung quanh một bàn tròn có 8 ghế.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 40320 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5040 cách",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 720 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 40319 cách",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Có bao nhiêu số tự nhiên có 5 chữ số trong đó các chữ số cách đều chữ số đứng giữa thì giống nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 900",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 9000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 90000",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 27216",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Trong mặt phẳng có 2010 điểm phân biệt sao cho có ba điểm bất kì không thẳng hàng. Hỏi có bao nhiêu véc tơ mà có điểm đầu và điểm cuối phân biệt thuộc 2010 điểm đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4040100 véc tơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 4038090 véc tơ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 2021055 véc tơ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2019045 véc tơ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Một chồng sách gồm 4 quyển sách Toán, 3 quyển sách Vật lý, 5 quyển sách Hóa học. Hỏi có bao nhiêu cách xếp các quyển sách trên thành một hàng ngang sao cho 4 quyển sách Toán đứng cạnh nhau, 3 quyển Vật lý đứng cạnh nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1 cách.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5040 cách.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 725760 cách.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 144 cách.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Có 5 viên bi đỏ và 5 viên bi trắng kích thước đôi một khác nhau. Hỏi có bao nhiêu cách xếp các viên bi này thành một hàng dài sao cho hai bi cùng màu không được nằm kề nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 28800 cách",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 86400 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 14400 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 720 cách",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Một dãy ghế dài có 10 ghế. Xếp một cặp vợ chồng ngồi vào 2 trong 10 ghế sao cho người vợ ngồi bên phải người chồng (không bắt buộc ngồi gần nhau). Số cách xếp là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 45",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 50",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 55",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 362880",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho dãy số 1, 2, 3, 4, 5, 6, 7. Từ dãy số này lập được bao nhiêu số có 5 chữ số đôi một khác nhau nhỏ hơn 30000.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 360",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 720",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1080",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 920",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Từ các chữ số 0; 1; 2; 3; 4; 5 có thể lập được bao nhiêu số chẵn có bốn chữ số mà các chữ số đôi một khác nhau.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 156",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 240",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 180",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 106",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Số các số có 4 chữ số đôi một khác nhau được tạo thành từ các chữ số 2, 4, 6, 7, 8, 9 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. A46",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. C64",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. A64",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. C46",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Một lớp có 40 học sinh. Số cách chọn ra 5 bạn để làm trực nhật là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C405",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. A405",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. P40",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Cho tập A = {1; 2; 4; 6; 7; 9}. Hỏi có thể lập được từ tập A bao nhiêu số tự nhiên có 4 chữ số đôi một khác nhau, trong đó không có mặt chữ số 7.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 36",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 60",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 72",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Có bao nhiêu số tự nhiên có các chữ số đôi một khác nhau nhỏ hơn 1000 được lập từ năm chữ số 0, 1, 2, 3, 4?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 48",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 68",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 69",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 125",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Một nhóm 4 đường thẳng song song cắt một nhóm 5 đường thẳng song song khác. Hỏi có bao nhiêu hình bình hành được tạo thành?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 20",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 60",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 126",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Từ 5 bông hoa hồng vàng, 3 bông hoa hồng trắng và 4 bông hoa hồng đỏ (các bông hoa xem như đôi một khác nhau), người ta muốn chọn một bó hồng gồm 7 bông, hỏi có bao nhiêu cách chọn bó hoa trong đó có ít nhất 3 bông hoa hồng vàng và ít nhất 3 bông hoa hồng đỏ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 10 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 120 cách",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 150 cách",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho tập A = {2; 5}. Hỏi có thể lập được bao nhiêu số có 10 chữ số, các chữ số lấy từ tập A sao cho không có chữ số 2 nào đứng cạnh nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 144 số",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 143 số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1024 số",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 512 số",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 37:",
+            "Câu hỏi": "Trong một tổ học sinh có 5 em gái và 10 em trai. Thùy là 1 trong 5 em gái và Thiện là 1 trong 10 em trai. Thầy chủ nhiệm chọn ra 1 nhóm 5 bạn tham gia buổi văn nghệ tới. Hỏi thầy chủ nhiệm có bao nhiêu cách chọn mà trong đó có ít nhất một trong hai em Thùy và Thiện không được chọn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 286",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3003",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2717",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1287",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 38:",
+            "Câu hỏi": "Số tam giác xác định bởi các đỉnh của một đa giác đều 10 cạnh là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 35.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 120.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 240.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 720.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 39:",
+            "Câu hỏi": "Một nhóm đoàn viên thanh niên tình nguyện về sinh hoạt tại một xã nông thôn gồm có 21 đoàn viên nam và 15 đoàn viên nữ. Hỏi có bao nhiêu cách phân chia 3 nhóm về 3 ấp để hoạt động sao cho mỗi ấp có 7 đoàn viên nam và 5 đoàn viên nữ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3C3612",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2C3612",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3C217C155",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C217.C155.C147.C105",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 40:",
+            "Câu hỏi": "Có bao nhiêu số tự nhiên có 4 chữ số mà tổng tất cả các chữ số của số đó bằng 7.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 165",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1296",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 343",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 84",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 41:",
+            "Câu hỏi": "Có bao nhiêu số tự nhiên có 8 chữ số đôi một khác nhau được thành lập từ tập A = {1; 2; 3; 4; 5; 6; 7; 8} sao cho số đó chia hết cho 1111?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 384",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 345",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3840",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1920",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 42:",
+            "Câu hỏi": "Một lớp học có n học sinh (n > 3). Thầy chủ nhiệm cần chọn ra một nhóm và cần cử ra 1 học sinh trong nhóm đó làm nhóm trưởng. Số học sinh trong mỗi nhóm phải lớn hơn 1 và nhỏ hơn n. Gọi T là số cách chọn. Lúc này:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. T=∑k=2n−1kCnk",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. T=n2n−1−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. T=n.2n−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. T=∑k=1nkCnk",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 43:",
+            "Câu hỏi": "Cho các chữ số 0, 1, 2, 4, 5, 7, 8, 9; có thể lập được bao nhiêu số tự nhiên chia hết cho 15, gồm 4 chữ số đôi một khác nhau?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 124",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 132",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 136",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 120",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

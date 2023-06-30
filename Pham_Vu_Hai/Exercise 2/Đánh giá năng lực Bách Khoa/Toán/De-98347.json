@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/goc-giua-hai-mat-phang-trong-khong-gian/98347/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC. là tam giác vuông tại B, BC=a. Cạnh bên SA=a vuông góc với mặt phẳng đáy. Góc giữa hai mặt phẳng (SBC) và (ABC) bằng 45°. Độ dài AC bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh aa. Cạnh bên SA=a3 và vuông góc với mặt đáy (ABC). Gọi φ là góc giữa hai mặt phẳng (SBC) và (ABC). Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. φ=300.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. sinφ=55.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. φ=600.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. sinφ=255.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, cạnh a. Đường thẳng SO vuông góc với mặt phẳng đáy (ABCD) và SO=a32. Tính góc giữa hai mặt phẳng (SBC) và (ABCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 300.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 450.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 600.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 900.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thoi cạnh a, các cạnh SA=SB=a, SD=a2. Góc giữa hai mặt phẳng (SBD) và (ABCD) bằng 90°. Độ dài đoạn thẳng BD",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại A,ABC^=600, tam giác SBC là tam giác đều có bằng cạnh 2a và nằm trong mặt phẳng vuông với đáy. Gọi φ là góc giữa hai mặt phẳng (SAC) và (ABC). Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. φ=600.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tanφ=23.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. tanφ=36.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tanφ=12.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình lăng trụ tứ giác đều ABCD.A′B′C′D′ có đáy cạnh bằng a, góc giữa hai mặt phẳng (ABCD) và (ABC′) có số đo bằng 600. Độ dài cạnh bên của hình lăng trụ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3a.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình chóp đều S.ABCD có tất cả các cạnh bằng aa. Gọi M là trung điểm SC. Tính góc φ giữa hai mặt phẳng (MBD) và  (ABCD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. φ=900.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. φ=600.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. φ=450.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. φ=300.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy ABCD là hình thoi tâm I, cạnh a, góc BAD^=600,SA=SB=SD=a32. Gọi φ là góc giữa hai mặt phẳng (SBD) và (ABCD). Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tanφ=5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. tanφ=55.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tanφ=32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. φ=450.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Trong không gian cho tam giác đều SAB và hình vuông ABCD cạnh a nằm trên hai mặt phẳng vuông góc. Gọi H, K lần lượt là trung điểm của AB, CD. Gọi φ là góc giữa hai mặt phẳng (SAB) và (SCD). Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tanφ=23.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tanφ=233.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. tanφ=33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tanφ=32.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại B, cạnh bên SA vuông góc với đáy. Gọi E,F lần lượt là trung điểm của cạnh AB và AC. Góc giữa hai mặt phẳng (SEF) và (SBC) là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CSF^.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. BSF^.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. BSE^.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. CSE^.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình chóp đều S.ABCD có tất cả các cạnh đều bằng a. Gọi φ là góc giữa hai mặt phẳng (SBD) và (SCD). Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tanφ=6.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. tanφ=22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tanφ=32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tanφ=2.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình chóp đều S.ABC có cạnh đáy bằng a, góc giữa mặt bên và mặt đáy bằng 600. Tính độ dài đường cao SH của khối chóp.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. SH=a32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. SH=a23.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. SH=a2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. SH=a32.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có đáy là hình thang vuông ABCD vuông tại A và D, AB=2a, AD=CD=a. Cạnh bên SA=a và vuông góc với mặt phẳng (ABCD). Gọi φ là góc giữa hai mặt phẳng (SBC) và (ABCD) . Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tanφ=22.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. φ=450.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. φ=600.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. φ=300.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho hình lăng trụ đứng ABC.A′B′C′, đáy ABC là tam giác đều a. Gọi I là trung điểm của BC. Góc giữa hai mặt phẳng (C′AI) và (ABC) bằng 600. Độ dài AA′ bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a23.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a23.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại A, AB=AC=a. Hình chiếu vuông góc HH của SS trên mặt đáy (ABC) trùng với tâm đường tròn ngoại tiếp tam giác ABC và SH=a62. Gọi φ là góc giữa hai đường thẳng SB và AC. Mệnh đề nào sau đây đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cotφ=24.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cotφ=7.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cotφ=77.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. cotφ=144.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Trong mặt phẳng (P) cho nửa đường tròn đường kính AB=2R và điểm C thuộc nửa đường tròn đó sao cho AC=R. Trên đường thẳng vuông góc với (P) tại A lấy điểm S sao cho góc giữa hai mặt phẳng (SAB) và (SBC) bằng 600. Gọi H,K lần lượt là hình chiếu của A lên SB,SC.  Độ dài cạnh SA tính theo R là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. R2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. R22.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Trong mặt phẳng (P) cho tam giác đều ABC cạnh a. Trên các đường thẳng vuông góc với mặt phẳng (P) tại B và C lấy điểm D,E cùng phía so với (P) sao cho BD=a32 và CE=a3.Tính góc giữa hai mặt phẳng (ADE) và (ABC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 300.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 450.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 600.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 900.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hai tam giác ACD và BCD nằm trên hai mặt phẳng vuông góc với nhau và AC=AD=BC=BD=a,CD=2x. Với giá trị nào của x thì hai mặt phẳng (ABC) và (ABD) vuông góc.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a33.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho hình chóp S . ABCD có đáy là hình chữ nhật, biết AB=2a,AD= a,SA=3a,  và SA vuông góc với mặt phẳng đáy. Gọi M là trung điểm cạnh CD điểm E∈SA  sao cho SE=a,cosin  của góc giữa hai mặt phẳng (SAC) và (BME) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3215",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 115",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1415",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 14315",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho hình chóp S.ABC có đáy ABC là tam giác vuông cân tại C. Gọi H là trung điểm AB. Biết rằng SH vuông góc với mặt phẳng (ABC) và AB=SH=a. Tính cosin của góc α tọa bởi hai mặt phẳng (SAB) và (SAC).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. cosα=13.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. cosα=23.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. cosα=33.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. cosα=23.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dien-nang-va-cong-suat-dien/98639/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Trong đoạn mạch chỉ có điện trở thuần, với thời gian như nhau, nếu cường độ dòng điện giảm 2 lần thì nhiệt lượng tỏa ra trên mạch",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.tăng 4 lần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.tăng 2 lần",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.giảm 4 lần",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.giảm 2 lần",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có:\nQ=I2RtQ'=I22Rt⇒QQ'=4⇔Q'=Q4\n=> Nhiệt lượng giảm 4 lần\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hai bóng đèn sợi đốt 12 V – 0,6 A và 12 V – 0,3 A mắc đồng thời vào mạch điện một chiều thấy chúng sáng bình thường. Trong 30 phút, điện năng hai bóng đèn tiêu thụ là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Q=9720J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Q=19440J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Q=324J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Q=648J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có hai đèn sáng bình thường\n⇒ Điện năng hai bóng đèn tiêu thụ trong 30 phút:\nQ=U1I1+U2I2t=12.0,6+12.0,3.30.60=19440J\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Có hai điện trở R1 và R2 (R1=2R2) mắc nối tiếp với nhau vào hai đầu một đoạn mạch có hiệu điện thế không đổi. Công suất tỏa nhiệt trên điện trở R1 là P1, công suất tỏa nhiệt trên R2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.P2=P1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. P2=2P1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. P2=12P1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. P2=4P1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nHai điện trở mắc nối tiếp, công suất tỏa nhiệt trên mỗi điện trở là:\nP1=I12R1P2=I22R2I1=I2=I⇒P2P1=I2R2I2R1=R2R1=12⇒P2=12P1\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Để loại bóng đèn 120 V – 60 W sáng bình thường ở mạng điện có hiệu điện thế 220 V, người ta mắc nối tiếp với nó điện trở có giá trị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.200 Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 100 Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 50 Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 150 Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCường độ dòng điện định mức của bóng đèn là:\nIdm=PdmUdm=60120=0,5  A=Im\nHiệu điện thế trong mạch là:\nUm=Ud+UR⇒220=120+UR⇒UR=100  V\n⇒R=URIm=1000,5=200  Ω\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Một nguồn điện có suất điện động 12V. Khi mắc nguồn điện này thành mạch điện kín thì nó cung cấp một dòng điện có cường độ 0,8A. Tính công của nguồn điện này sản ra trong thời gian 15 phút và tính công suất của nguồn điện khi đó.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Ang =9,6J; Png =8640W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ang =8640J; Png =9,6W",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ang =144J; Png =9,6W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Ang =9,6J; Png =144W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có: E = 12;  I = 0,8A\nCông của nguồn điện sinh ra trong 15 phút:\nAng = E.I.t = 12.0,8.15.60 = 8640J\nCông suất của nguồn điện khi này:\nPng = E.I = 12.0,8 = 9,6W\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trên nhãn của một ấm điện có ghi 220V - 1000W. Sử ấm điện với hiệu điện thế 220V để đun sôi 2 lít nước từ nhiệt độ 250C. Tính thời gian đun nước, biết hiệu suất của ấm nước là 90% và nhiệt dung riêng của nước là 4190J/kg.K",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.825,3s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.9 phút 15 giây",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.698,3s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.698,3 phút",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNhiệt lượng cần thiết để làm sôi 2l nước:\nQ=m.c.Δt=2.4190.100−25=628500J\nHiệu suất của ấm nước là 90% :H=QA.100%=90%\n→ Điện năng thực tế mà ấm đã tiêu thụ: \nA=QH=P.t⇒t=QH.P=6285000,9.1000≈698,3s\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một bóng đèn trên vỏ có ghi 220V – 50W. Điện trở định mức của đèn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.44,5Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 11,4Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 484Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 968Ω",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Một bóng đèn có ghi D(3V−3W). Khi đèn sáng bình thường, điện trở có giá trị là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3 Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 12  Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9  Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6  Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho 4 đồ thị sau. Đồ thị biểu diễn đúng sự phụ thuộc của công suất tỏa nhiệt trên một vật dẫn kim loại vào hiệu điện thế ở hai đầu vật dẫn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đồ thị 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Đồ thị 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Đồ thị 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đồ thị 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một bếp điện gồm hai dây điện trở R1 và R2. Nếu chỉ dùng R1 thì thời gian đun sôi nước là 30 phút, nếu chỉ dùng R2 thì thời gian đun sôi nước  là 60 phút. Hỏi khi dùng R1 song song R2 thì thời gian đun sôi nước là bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.22,5 phút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.90 phút",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.20 phút",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.10 phút",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một nguồn điện có suất điện động 3V khi mắc với một bóng đèn thành một mạch kín thì cho một dòng điện chạy trong mạch có cường độ là 0,3A. Khi đó, công suất của nguồn điện này là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.30W",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,9W",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.0,1W",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hai dây dẫn đồng chất có cùng chiều dài nhưng khác tiết diện (S2 = 2S1) được mắc nối tiếp vào một mạch điện. Trong cùng một thời gian thì nhiệt lượng tỏa ra trên hai dây liên hệ với nhau qua biểu thức",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Q1 = 2Q2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Q1 = Q2/4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Q1 = 4Q2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Q1 = Q2 /2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho mạch điện như hình vẽ (a), R1=R2=40Ω;R3=20Ω. Đặt vào hai điểm AB hiệu điện thế U thì hiệu điện thế giữa hai đầu điện trở R3 là U3 = 60 V. Công suất tỏa nhiệt trên điện trở R1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.32,4 W.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.60,0 W.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.360,0 W.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.90,0 W",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Biết rằng điện trở mạch ngoài của một nguồn điện tăng từ R1=3Ω  đến R2=10,5Ω  thì hiệu suất của nguồn tăng gấp 2 lần. Điện trở trong của nguồn bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.7  Ω",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 9  Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 8  Ω",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6  Ω",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

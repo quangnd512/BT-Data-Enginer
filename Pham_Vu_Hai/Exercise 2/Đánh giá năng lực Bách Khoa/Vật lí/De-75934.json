@@ -1,0 +1,419 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/mat/75934/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cấu tạo quang học của mắt từ ngoài vào trong gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. giác mạc, thủy dịch, thể thủy tinh, lòng đen (con ngươi), dịch thủy tinh, võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. thủy dịch, giác mạc, thể thủy tinh, lòng đen (con ngươi), dịch thủy tinh, võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. giác mạc, thủy dịch, lòng đen (con ngươi), thể thủy tinh, dịch thủy tinh, võng mạc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. lòng đen (con ngươi), giác mạc, thủy dịch, võng mạc, thể thủy tinh, dịch thủy tinh",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Cấu tạo quang học của mắt từ ngoài vào trong gồm: giác mạc, thủy dịch, lòng đen (con ngươi), thể thủy tinh, dịch thủy tinh, võng mạcĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Để quan sát rõ các vật thì mắt phải điều tiết sao cho",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. độ tụ của mắt luôn giảm xuống",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. ảnh của vật luôn nằm trên võng mạc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. độ tụ của mắt luôn tăng lên",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. ảnh của vật nằm giữa thuỷ tinh thể và võng mạc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Để quan sát rõ các vật thì mắt phải điều tiết sao cho ảnh của vật luôn nằm trên võng mạc.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Xét về phương diện quang hình, mắt có tác dụng tương đương với hệ quang học nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. hệ lăng kính",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. hệ thấu kính hội tụ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. thấu kính phân kì",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hệ gương cầu",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Mắt tương tự như một máy ảnh, trong đó:+ Thấu kính mắt ↔ vật kính+ Võng mạc ↔ phim=>Xét về phương diện quang hình, mắt có tác dụng tương đương với hệ thấu kính hội tụ.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Khi nói về các cách sửa tật của mắt, phát biểu nào sau đây là sai?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Muốn sửa tật cận thị ta phải đeo vào mắt một thấu kính phân kì có độ tụ phù hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Muốn sửa tật viễn thị ta phải đeo vào mắt một thấu kính hội tụ có độ tụ phù hợp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Muốn sửa tật lão thị ta phải đeo vào mắt một thấu kính hai tròng gồm nửa trên là kính hội tụ, nửa dưới là kính phân kì",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Muốn sửa tật lão thị ta phải đeo vào mắt một thấu kính hai tròng gồm nửa trên là kính phân kì, nửa dưới là kính hội tụ",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A, B, D - đúngC - sai vì: Muốn sửa tật lão thị ta phải đeo vào mắt một thấu kính hai tròng gồm nửa trên là kính phân kì, nửa dưới là kính hội tụĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Để khắc phục tật cận thị của mắt khi quan sát các vật ở vô cực mà mắt không điều tiết thì phải ghép thêm vào mắt một thấu kính",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. phân kì có độ tụ nhỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. phân kì có độ tụ thích hợp",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.hội tụ có độ tụ nhỏ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. hội tụ có độ tụ thích hợp",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Để khắc phục tật cận thị của mắt khi quan sát các vật ở vô cực mà mắt không điều tiết thì phải ghép thêm vào mắt một thấu kính phân kì có độ tụ thích hợp.Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Khi nhìn thấy vật, bộ phận của mắt có vai trò như phim trong máy ảnh là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. võng mạc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. giác mạc.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. lòng đen.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. thủy tinh thể.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Khi nhìn thấy vật, bộ phận của mắt có vai trò như phim trong máy ảnh là võng mạc.Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Khi nhìn vật trên trục của mắt, khoảng cách từ vật thay đổi mà mắt vẫn nhìn được vật là do:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. tiêu cự của mắt thay đổi do điều tiết, khoảng cách từ quang tâm thấu kính mắt đến võng mạc không thay đổi.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. tiêu cự của mắt không thay đổi nhưng do điều tiết nên khoảng cách từ quang tâm thấu kính mắt đến võng mạc thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. tiêu cự của mắt thay đổi do điều tiết, đồng thời khoảng cách từ quang tâm thấu kính mắt đến võng mạc cũng thay đổi.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. tiêu cự của mắt không thay đổi, nhưng do điều tiết làm cho khoảng cách từ quang tâm thấu kính mắt đến vật thay đổi tương ứng.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Mắt tốt thì không có biểu hiện",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. nhìn được vật ở vô cực mà mắt không phải điều tiết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. khoảng cực cận của mắt khoảng 25 cm trở lại.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. nhìn được vật ở vô cực nhưng mắt phải điều tiết.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. khi không điều tiết, tiêu điểm của mắt ở võng mạc.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Người có mắt bị cận thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. không thể nhìn được vật trong khoảng nhìn rõ của mắt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. nhìn được vật ở vô cực nếu đeo kính hội tụ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. có khoảng cực cận lớn hơn ở mắt tốt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. có khoảng cực viễn hữu hạn.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Ý kiến nào sau đây không đúng về mắt viễn?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Không nhìn được vật ở vô cực nếu mắt không điều tiết.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Khoảng cực cận lớn hơn so với mắt tốt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Để nhìn được các vật nhỏ ở gần mắt như mắt tốt thì phải đeo thấu kính hội tụ có độ tụ thích hợp.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Nhìn được vật ở vô cực mà mắt không phải điều tiết.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Điểm cực viễn ( Cv) của mắt là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. khi mắt không điều tiết, điểm gần nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. khi mắt điều tiết tối đa, điểm xa nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. khi mắt điều tiết tối đa, điểm gần nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. khi mắt không điều tiết, điểm xa nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Điểm cực cận ( Cc) của mắt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. khi mắt không điều tiết, điểm gần nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. khi mắt điều tiết tối đa, điểm gần nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. khi mắt điều tiết tối đa, điểm xa nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. khi mắt không điều tiết, điểm xa nhất trên trục của mắt cho ảnh trên võng mạc",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Một người cận thị phải đeo sát mắt kính cận số 0,5. Nếu xem ti vi mà không muốn đeo kính thì người đó phải cách màn hình xa nhất một đoạn",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,5m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1.5 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2 m",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Một người cận thị về già, khi đọc sách cách mắt gần nhất 25cm phải đeo sát mắt kính số 2. Điểm cực cận của người đó nằm trên trục của mắt và cách mắt",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 25 cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 50 cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 1 m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2 m",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Một người viễn thị có điểm cực cận cách mắt gần nhất 40cm. Để nhìn rõ vật đặt cách mắt gần nhất 25cm, người này cần đeo kính ( đeo sát mắt) có độ tụ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. -2.5dp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2.5dp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. -1.5dp",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1.5dp",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Một người cận thị có khoảng nhìn rõ từ 12,5cm đến 50cm. Khi đeo kính ( đeo sát mắt) có độ tụ -1dp. Khoảng nhìn rõ của người này khi đeo kính là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. từ 13,3cm đến 75cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. từ 14,3cm đến 75cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. từ 14,3cm đến 100cm",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. từ 13,3cm đến 100cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Mắt một người cận thị có khoảng nhìn rõ từ 12cm đến 51cm. Người đó sửa tật bằng cách đeo kính phân kì cách mắt 1cm. Biết năng suất phân li của mắt là 1’. Khoảng cách nhỏ nhất giữa hai điểm trên vật mà mắt còn có thể phân biệt được là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,033mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,043mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,067mm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,044mm",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Trên một tờ giấy vẽ hai vạch cách nhau 1mm. Đưa tờ giấy xa mắt dần cho đến khi thấy hai vạch đó gần như nằm trên một đường thẳng. Xác định gần đúng khoảng cách từ mắt đến tờ giấy. Biết năng suất phân li của mắt người này là αmin = 3.10-4rad.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,33m",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3,33cm",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4,5m",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4,5cm",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

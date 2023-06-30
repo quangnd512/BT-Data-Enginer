@@ -1,0 +1,465 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/ly-thuyet-amine/75822/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho các amin sau : CH3NH2, (C2H5)2NH, C3H7NH2, C2H5NH2, (C6H5)3N, (CH3)2NH, C6H5NH2. Số amin bậc I là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Bậc của amin được tính bằng số nguyên tử H trong phân tử NH3 được thay thế bằng gốc hiđro cacbon-->4 chất : CH3NH2, C3H7NH2, C2H5NH2, C6H5NH2Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Ancol và amin nào sau đây cùng bậc ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (CH3)3COH và (CH3)2NH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3CH(NH2)CH3 và CH3CH(OH)CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (CH3)2NH và CH3OH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (CH3)2CHOH và (CH3)2CHNHCH3.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Bậc của ancol là bậc của C mà có nhóm -OH đính vàoBậc của amin được tính bằng số nguyên tử H trong phân tử NH3 được thay thế bằng gốc hiđro cacbonA có ancol bậc III và amin bậc IIB có ancol bậc II và amin bậc IC có ancol bậc I và amin bậc IID có ancol bậc II và amin bậc IIĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Dãy gồm tất cả các amin bậc 2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NH2, C2H5NH2, C6H5CH2NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3NHCH3, C2H5NHCH3, C6H5NHCH3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. C6H5NH2, C6H5NHCH3, C6H5CH2NH2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (CH3)2CHNH2, C2H5NH2, C2H5NHCH3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A sai vì tất cả amin đều bậc IB đúng vì tất cả amin đều bậc IIC sai vì C6H5NH2 và C6H5CH2NH2 bậc ID sai vì C2H5NH2 bậc IĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Dãy chất không có amin bậc 1 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. CH3NHCH3, (CH3)2NCH2CH3, CH3CH(NH2)CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CH3CH2NHCH3, CH3NHCH3, (CH3)2NCH2CH3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. CH3NH2, CH3NHCH3, CH3CH(NH2)CH3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. CH3NHCH3, CH3CH2NH2, (CH3)3N.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:A sai vì có amin bậc I là CH3CH(NH2)CH3B đúng vì CH3CH2NHCH3, CH3NHCH3 là amin bậc II, (CH3)2NCH2CH3 là amin bậc IIIC sai vì CH3NH2 và CH3CH(NH2)CH3 là amin bậc ID sai vì CH3CH2NH2 là amin bậc IĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Sắp xếp các amin theo thứ tự bậc amin giảm dần : đimetylamin (1); trimetylamin (2); isopropylamin (3).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (2), (3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (2), (1),(3).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. (3), (1), (2).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (3), (2), (1).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:(1) Đimetylamin : CH3NHCH3(amin bậc II)(2)trimetylamin :  N(CH3)3(amin bậc III)(3) Isopropylamin : (CH3|)2CHNH2 (amin bậc I)→ thứ tự bậc amin giảm dần là (2), (1), (3)Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong các amin sau :\n(A) CH3CH(CH3)NH2 ; \n(B) H2NCH2CH2NH2 ;\n(D) CH3CH2CH2NHCH3\nChọn các amin bậc 1 và gọi tên của chúng :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Chỉ có A : propylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. A và B ; A : isopropylamin ; B : 1,2-etanđiamin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Chỉ có D : metyl-n-propylamin.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Chỉ có B : 1,2- điaminopropan",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nA, B đều là các amin bậc 1\nC là amin bậc 2\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Phát biểu nào sau đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Amin được cấu thành bằng cách thay thế H của NH3 bằng một hay nhiều gốc hiđrocacbon.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Bậc của amin là bậc của nguyên tử cacbon liên kết với nhóm amin.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Tùy thuộc cấu trúc của gốc hiđrocacbon, có thể phân biệt thành amin no, chưa no và thơm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Amin có từ 2 nguyên tử cacbon trong phân tử, bắt đầu xuất hiện hiện tượng đồng phân.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Phát biểu nào dưới đây về tính chất vật lý của amin không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Metyl- , etyl- , dimetyl- , trimetyl- là chất khí, dễ tan trong nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Anilin là chất lỏng, khó tan trong nước, màu đen.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Độ tan của amin giảm dần khi số nguyên tử cacbon tăng.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Các amin khí có mùi tương tự amoniac.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Phát biểu nào sau đây là đúng khi nói về amin ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Anilin là chất rắn ở nhiệt độ thường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Ở nhiệt độ thường, tất cả các amin đều tan nhiều trong nước.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Metylamin là chất khí ở nhiệt độ thường.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Isopropylamin là amin bậc hai.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho các phát biểu sau : (1) Trong các phân tử amin, nhất thiết phải chứa nguyên tố nitơ. (2) Các amin chứa từ 1C đến 4C đều là chất khí ở điều kiện thường. (3) Trong phân tử trimetylamin có chứa nguyên tử C bậc III. (4) Đimetylamin và etylmetylamin là hai amin bậc II. (5) Dung dịch anilin là dung dịch không màu, chuyển màu nâu đen khi để lâu trong không khí.Những phát biểu đúng là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (3), (5).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (1), (2), (3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2), (4), (5).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (1), (4), (5).",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho các phát biểu sau:1. Amin có từ 3 nguyên tử cacbon trong phân tử, bắt đầu xuất hiện hiện tượng đồng phân2. Amin được cấu thành bằng cách thay thế H của NH3 bằng một hay nhiều gốc cacbonyl3. Tùy thuộc cấu trúc của gốc hiđrocacbon, có thể phân biệt thành amin no, chưa no và thơm.4. Bậc của amin là bậc của nguyên tử cacbon liên kết với nhóm aminSố phát biểu nào sau đây không đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Phát biểu nào sau đây là không đúng khi nói về amin?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Isopropylamin là amin bậc một.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Metylamin là chất khí ở nhiệt độ thường.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Ở nhiệt độ thường, tất cả các amin đều tan nhiều trong nước.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. Anilin không làm đổi màu quỳ.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Phát biểu nào dưới đây về tính chất vật lý của amin là đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Các amin khí không có mùi tương tự amoniac",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Độ tan của amin giảm dần khi số nguyên tử cacbon tăng",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Anilin là chất lỏng, khó tan trong nước, màu đen..",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Metyl- , etyl- , đietyl- , trimetyl- là chất khí, dễ tan trong nước..",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Phát biểu nào sau đây về tính chất vật lý của amin là không đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Độ tan trong nước của amin giảm dần khi số nguyên tử các bon trong phân tử tăng",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Anilin là chất lỏng khó tan trong nước, màu đen",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Các amin khí có mùi tương tự amoniac, độc",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Metyl amin, đimetyl amin, etyl amin là chất khí, dễ tan trong nước",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Thành phần % khối lượng của nitơ trong hợp chất hữu cơ CxHyN là 31,11%. Số đồng phân amin thỏa mãn các dữ kiện trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Thành phần % khối lượng của nitơ trong hợp chất hữu cơ CxHyN là 23,73%. Số đồng phân amin bậc một thỏa mãn các dữ kiện trên là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Amin đơn chức X có % khối lượng của N là 23,73%. Số CTCT của X là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 4",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho các phát biểu sau: (1) Trong các phân tử amin, không nhất thiết phải chứa nguyên tố nitơ. (2) Đimetylamin và etylmetylamin là hai amin bậc II (3) Trong phân tử trimetylamin là amin bậc III. (4) Các amin chứa từ 1C đến 4C đều là chất khí ở điều kiện thường. (5) Dung dịch anilin là dung dịch không màu, chuyển màu nâu khi để lâu trong không khí chuyển thành màu đen.Những phát biểu sai là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (4)",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (1), (2)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (1), (5)",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (2), (4)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Cho các amin sau: metyl amin, etyl amin, dimetyl amin, trietyl amin, phenyl amin, metyletyl amin. Hãy cho biết trong dãy chất trên có chứa bao nhiêu amin bậc 1?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Đều khẳng định nào sau đây luôn luôn đúng ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Phân tử khối của một amin đơn chức luôn là số lẻ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Phân tử khối của một amin đơn chức luôn là số chẵn.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Đốt cháy hết a mol amin bất kì luôn thu được tối thiểu a/2 mol N2 (phản ứng cháy chỉ cho N2).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. A và C đúng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

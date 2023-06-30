@@ -1,0 +1,833 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cuc-tri-cua-ham-so-0/97954/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hàm số y=fx có đạo hàm trên (a;b). Nếu f'(x) đổi dấu từ âm sang dương qua điểm x0 thuộc (a;b) thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x0  là điểm cực đại của hàm số.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x0  là điểm cực tiểu của hàm số",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. x0  là điểm cực đại của đồ thị hàm số.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x0  là điểm cực tiểu của đồ thị hàm số.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu f'(x)   đổi dấu từ âm sang dương qua điểm x0 thì  x0 là điểm cực tiểu của hàm số.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Giả sử y=f(x)   có đạo hàm cấp hai trên (a;b). Nếu f'x0=0f''x0>0thì",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x0 là điểm cực tiểu của hàm số.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. x0  là điểm cực đại của hàm số.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x0  là điểm nằm bên trái trục tung.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x0  là điểm nằm bên phải trục tung.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nNếu f'x0=0f''x0>0 thì x0 là một điểm cực tiểu của hàm số.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Điều kiện để hàm số bậc ba không có cực trị là phương trình y'=0  có:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.nghiệm kép.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.vô nghiệm.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.hai nghiệm phân biệt.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Cả A và B đúng.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐiều kiện để hàm số bậc ba không có cực trị là phương trình y'=0   vô nghiệm hoặc có nghiệm kép.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho các phát biểu sau:\n\n1. Hàm số y=fx  đạt cực đại tại x0  khi và chỉ khi đạo hàm đổi dấu từ dương sang âm qua.\n\n2. Hàm số y=fx   đạt cực trị tại x0 khi và chỉ khi x0 là nghiệm của đạo hàm.\n\n3. Nếu f'(x0)=0   và f''(x0)=0  thì x0 không phải là cực trị của hàm số   đã cho.\n\n4. Nếu f'x0=0   và f''(xo)>0   thì hàm số đạt cực đại tại x0 .\n\nCác phát biểu đúng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1; 3; 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1; 2; 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Tất cả đều đúng",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n+) Ta có định lí: Nếu f'(x)   đổi dấu từ dương sang âm khi x qua điểm xo  (theo chiều tăng) thì hàm số đạt cực đại tại điểm   ⇒ 1 đúng.\n\n+) Điều kiện cần để xo  là điểm cực trị của hàm số là: xo  là nghiệm của phương trình f'(x)=0⇒   2 sai.\n\n+) Nếu f'(xo)=0   và f(x) có đạo hàm cấp hai khác 0 tại điểm xo thì:\n\n-) Nếu f''xo<0  thì hàm số f(x) đạt cực đại tại điểm xo .\n\n-) Nếu f''xo>0  thì hàm số f(x) đạt cực tiểu tại điểm xo .\n\n+) Nếu f'xo=0  và f''xo=0  thì ta không kết luận gì chứ không phải hàm số không đạt cực trị tại xo .\nKhi f'(x0)=0f''(x0)=0 thì ta không kết luận gì vì có thể xảy ra cả hai trường hợp là hàm số đạt cực trị hoặc không đạt cực trị tại xo .\n\n Ví dụ:\n\n\n\n +) TH1: Xét hàm fx=x4  có f'x=4x3=0⇔x=0 \nf''x=12x2 và f''0=0\n\n\nTrong TH này hàm số có f''0=0 nhưng vẫn đạt cực tiểu tại x = 0 vì đạo hàm f'(x)   đổi dấu từ âm sang dương qua x=0.\n\n+) TH2: Xét hàm gx=x3 có f'x=3x2=0⇔x=0  \nf''x=6x⇒f''0=0\n\nTrong TH này hàm số có f''0=0  nhưng không đạt cực trị tại x = 0 vì đạo hàm f'x=3x2 không đổi dấu của x = 0.\n\n⇒ 3 và 4 sai.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hàm số y=fx  có bảng biến thiên trên khoảng (0;2) như sau:\n\n\nKhẳng định nào sau đây là khẳng định đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Trên (0;2), hàm số không có cực trị",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Hàm số đạt cực đại tại x = 1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Hàm số đạt cực tiểu tại x = 1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hàm số đạt cực tiểu tại x = 0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nA sai vì trên đoạn (0;2) vẫn có cực trị tại x = 1.\n\nHàm số đạt cực đại tại x = 1 nên B đúng.\nC sai vì hàm số đạt cực đại tại x = 1 không phải cực tiểu\nD sai vì đạo hàm không đổi dấu qua x = 0 \nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hàm số y=fx   có bảng biến thiên như sau:\n\n\nKhẳng định nào sau đây là khẳng định sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hàm số đạt cực tiểu tại  x=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Hàm số đạt cực đại tại  x=3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.Hàm số đạt cực tiểu tại x=−2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hàm số đạt cực đại tại x=0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTừ bảng biến thiên ta thấy:\n- Đạo hàm đổi dấu từ âm sang dương qua x=−2   nên x=−2  là điểm cực tiểu của hàm số (C đúng).\n\n- Đạo hàm đổi dấu từ âm sang dương qua x=2   nên x=2  là điểm cực tiểu của hàm số (A đúng).\n\n- Đạo hàm đổi dấu từ dương sang âm qua x=0  nên x=0  là điểm cực đại của hàm số (D đúng).\n\n- Qua điểm x=3  thì đạo hàm không đổi dấu nên x=3  không là điểm cực trị của hàm số (B sai).\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hàm số y=fx   có bảng biến thiên như sau. Khẳng định nào dưới đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Giá trị cực tiểu của hàm số là  y=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Giá trị cực đại của hàm số là y=2 .",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Giá trị cực tiểu của hàm số là y=−∞",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Hàm số không có cực trị.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hàm số y=fx   có bảng biến thiên như hình bên dưới, chọn khẳng định sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Hàm số đạt cực đại tại  x=2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Giá trị cực đại của hàm số là  y=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=−2  là điểm cực tiểu của hàm số.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Điểm (2;3) là điểm cực đại của đồ thị hàm số.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hàm số y=fx  có đồ thị như hình vẽ bên.\n\n\nTrên đoạn −3;3,  hàm số đã cho có mấy điểm cực trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hàm số y=fx   có đồ thị f'(x)  như hình vẽ. Số điểm cực trị của hàm số y=fx  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hàm số y=fx  liên tục trên ℝ  và có bảng xét dấu f'(x)   như sau :\n\n\nHàm số y=fx   có bao nhiêu điểm cực trị ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Hình vẽ dưới đây mô tả số người nhiễm Covid-19 đang được điều trị ở Việt Nam tính từ ngày 23/01/2020 đến ngày 13/02/2021.\n\n\nHỏi từ ngày 16/06/2020 đến ngày 27/01/2021, ngày nào Việt Nam có số người được điều trị Covid-19 nhiều nhất?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 16/11/2020.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 17/08/2020.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 23/07/2020",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 13/02/2021",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Số điểm cực trị của đồ thị hàm số y=x−12−x  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Phương trình đường thẳng đi qua hai điểm cực trị của đồ thị hàm số y=x3−3x2+1là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=−2x+1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y=2x−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=−2x−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=2x+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Hàm số nào sau đây không có cực trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=x3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. y=x3+3x2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. y=x4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=x4+1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Hàm số fx=2sin2x−3  đạt cực tiểu tại:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=π4+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=π4+kπ2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=π2+kπ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x=π4+2k+1π2",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Đồ thị hàm số nào sau đây có 3 điểm cực trị?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. y=x4+2x2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. y=x4−2x2−1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. y=2x4+4x2−4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. y=−x4−2x2−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hàm số y=fx có đạo hàm f'(x)=(x−1)(x2−2)(x4−4) Số điểm cực trị của hàm số y=fx là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Đồ thị hàm số y=x3−3x+2  có 2 điểm cực trị A,B. Diện tích tam giác OAB với O(0;0) là gốc tọa độ bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Hàm số y=x3−3x2+4  đạt cực tiểu tại:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.x = 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.x = 2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.x = 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.x = 0 và x = 2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Cho hàm số y=−x2+3x+6x+2 , chọn kết luận đúng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Đồ thị hàm số có điểm cực tiểu (−4;11) và điểm cực đại (0;3).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Hàm số có điểm cực tiểu (−4;11) và điểm cực đại (0;3).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Đồ thị hàm số có điểm cực tiểu (0;3) và điểm cực đại (−4;11).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Đồ thị hàm số không có điểm cực trị.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Cho hàm số bậc hai y=fx có đồ thị như hình vẽ bên, một hàm số g(x) xác định theo f(x) có đạo hàm g'(x)=f(x)+m . Tìm tất cả các giá trị thực của tham số m để hàm số g(x) không có cực trị.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. m⩽1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.m⩾1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.m > 1 hoặc m < 0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.m > 1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Điểm thuộc đường thẳng d:x−y−1=0  cách đều hai điểm cực trị của đồ thị hàm số y=x3−3x2+2  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(2;1).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. (0;−1).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(1;0).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.(-1;2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Điểm thuộc đường thẳng d:x−y−1=0 cách đều hai điểm cực trị của đồ thị hàm số y=x3−3x2+2  là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.(2;1).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.(0;−1).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(1;0).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.(−1;2)",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hàm số fx=ax3+bx2+cx+d (với a,b,c,d∈ℝ và a≠0) có đồ thị như hình vẽ. Số điểm cực trị của hàm số g(x)=f(−2x2+4x)   là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Cho hàm số f(x) có bảng biến thiên như sau:\n\n\n\nSố điểm cực trị của hàm số f(x2−2x)   là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Số điểm cực trị của hàm số y=x2−3x+2 là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Cho hàm số f(x) có đạo hàm  f'x=x2x+2x−3.  Điểm cực đại của hàm số gx=f(x2−2x)   là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x=3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. x=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x=1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. x=−1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Cho hàm số y=f(x) liên tục trên R đồng thời hàm số y=fx có đồ thị như hình vẽ bên, xác định số điểm cực trị của đồ thị hàm số y=f|x|.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 30:",
+            "Câu hỏi": "Cho hàm số y=fx   có đạo hàm liên tục trên ℝ  và đồ thị hàm số y=fx  như hình vẽ bên. Tìm số điểm cực trị của hàm số y=2019f(f(x)−1)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.11",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.12",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 31:",
+            "Câu hỏi": "Cho hàm số y=fx  liên tục trên ℝ  và có đồ thị f′(x) như hình vẽ bên. Số điểm cực đại của hàm số g(x)=f(−x2+x)   là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 32:",
+            "Câu hỏi": "Số điểm cực đại của hàm số y=x−1x−2x−3...x−100 bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.45",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.49",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.44",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.100",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 33:",
+            "Câu hỏi": "Cho hai hàm số bậc bốn  y=f(x)  và y=g(x)  có các đồ thị như hình dưới đây (2 đồ thị có đúng 3 điểm chung).\n\n\nSố điểm cực trị của hàm số h(x)=f2(x)+g2(x)−2f(x).g(x)  là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 34:",
+            "Câu hỏi": "Cho hàm số y=fx có đạo hàm f′(x) có đồ thị như hình dưới đây\n\nSố điểm cực trị của hàm số g(x)=8f(x3−3x+3) −(2x6−12x4+16x3+18x2−48x+1)   là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.8",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.9",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 35:",
+            "Câu hỏi": "Cho hàm số y=fx=ax4+bx2+c  biết a>0, c>2017  và a+b+c<2017 . Số điểm cực trị của hàm số y=fx−2017   là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.7",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 36:",
+            "Câu hỏi": "Cho hàm số y=f'x  có đồ thị như hình vẽ dưới đây:\n\n\nTìm số điểm cực trị của hàm số  y=e2f(x)+1+5f(x)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

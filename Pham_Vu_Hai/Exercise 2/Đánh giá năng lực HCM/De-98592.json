@@ -1,0 +1,327 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/dong-dien-khong-doi-nguon-dien/98592/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tác dụng đặc trưng nhất của dòng điện là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Tác dụng nhiệt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Tác dụng hóa học",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Tác dụng từ",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Tác dụng cơ học",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTác dụng đặc trưng nhất của dòng điện là tác dụng từ\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cường độ dòng điện được xác định bởi biểu thức nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Δq=IΔt",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. I=ΔtΔq",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. I=ΔqΔt",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. I=ΔqΔt",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCường độ dòng điện được xác định bằng biểu thức:I=ΔqΔt\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Suất điện động của nguồn điện định nghĩa là đại lượng đo bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.công của lực lạ tác dụng lên điện tích q dương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.thương số giữa công và lực lạ tác dụng lên điện tích q dương",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.thương số của lực lạ tác dụng lên điện tích q dương và độ lớn điện tích ấy",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.thương số công của lực lạ dịch chuyển điện tích q dương trong nguồn từ cực âm đến cực dương với điện tích đó",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSuất điện động nguồn điện: Là đại lượng đặc trưng cho khả năng thực hiện công của nguồn điện.\nCông thức:E=Aq\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Số electron chuyển qua tiết diện trong thời gian t là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.n=I.te.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. n=It.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. n=qet",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. n=Iet.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nSố electron chuyển qua tiết diện trong thời gian t:n=I.te.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Trong thời gian 30 giây có một điện lượng 60C chuyển qua tiết diện của dây. Số electron chuyển qua tiết điện trong thời gian 2 giây là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4.1019 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,5.1019 electron",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1,6.1019 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1,25.1019 electron",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Cường độ dòng điện:\nI=ΔqΔt=2A.\n- Điện lượng chuyển qua tiết diện trong thời gian 2 giây:\nΔq =I.t=2.2= 4C\n- Số elcetron chuyển qua dây dẫn là: \nn=I.t|e|=2,5.1019electron.\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cường độ dòng điện không đổi chạy qua dây tóc của bóng đèn là 0,64A0,64A. Điện lượng  và số electron dịch chuyển qua tiết diện thẳng của dây tóc trong thời gian 11 phút.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,64C và 4.1018 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.120C và 24.1019 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.38,4C và 24.1019 electron",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.64C và 12.1019 electron",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n- Điện lượng chạy qua tiết diện dây trong 11 phút:q=It=0,64.60=38,4C\n- Số elcetron chuyển qua tiết diện thẳng của dây tóc là : \nn=I.te=qe=38,41,6.10−19=24.1019electron\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Dòng điện chạy qua bóng đèn hình của một ti vi thường dùng có cường độ60μA. Số electron tới đập vào màn hình của tivi trong mỗi giây là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3,75.1014",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 7,35.1014",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2, 66.10-14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,266.10-4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Công của lực lạ làm di chuyển điện tích 4C từ cực âm đến cực dương bên trong nguồn điện là 24J. Suất điện động của nguồn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,166V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.96V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,6V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Suất điện động của một nguồn điện là 12 V. Tính công của lực lạ khi dịch chuyển một lượng điện tích là 0,5 C bên trong nguồn điện từ cực âm đến cực dương của nó ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.24J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Một bộ acquy có suất điện động 6 V, sản ra một công là 360 J khi acquy này phát điện.  Lượng điện tích dịch chuyển trong acquy.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.60C",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.30C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.24C",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Một bộ acquy có thể cung cấp dòng điện 4 A liên tục trong 2 giờ thì phải nạp lại. Cường độ dòng điện mà acquy này có thể cung cấp liên tục trong 40 giờ thì phải nạp lại.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.12A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2A",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,2A",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một bộ acquy có thể cung cấp dòng điện 4 A liên tục trong 2 giờ thì phải nạp lại. Suất điện động của acquy này nếu trong thời gian hoạt động trên đây nó sản sinh ra một công là 172,8 kJ là ?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.6V",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.3V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.1,2V",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.2,4V",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Qua một nguồn điện có suất điện động không đổi, để chuyển một điện lượng 10 C thì lực lạ phải sinh một công là 20 mJ. Để chuyển một điện lượng 15 C qua nguồn thì lực lạ phải sinh một công là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.10 mJ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.15 mJ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.20 mJ.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.30 mJ.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Pin Lơclăngsê sản ra một công là 270 J khi dịch chuyển lượng điện tích là 180C giữa hai cực bên trong pin. Tính công mà pin sản ra khi dịch chuyển một lượng điện tích 40 (C) giữa hai cực bên trong pin.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.1215J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1215mJ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.60mJ",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.60J",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

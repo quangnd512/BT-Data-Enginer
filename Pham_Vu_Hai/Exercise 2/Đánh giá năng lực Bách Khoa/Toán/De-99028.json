@@ -1,0 +1,304 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/khoang-cach-tu-giua-duong-thang-mat-phang-song-song/99028/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho hình chóp S.ABCD có SA⊥(ABCD), đáy ABCD là hình thang vuông tại A,B có AB=a. Gọi II và JJ lần lượt là trung điểm của AB và CD. Tính khoảng cách giữa đường thẳng IJ và (SAD).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác ABC.A′B′C′ có cạnh bên bằng a. Các cạnh bên của lăng trụ tạo với mặt đáy góc 60o. Hình chiếu vuông góc của A′ lên mặt phẳng (ABC) là trung điểm của BC. Khoảng cách giữa hai mặt đáy của lăng trụ bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình thang vuông ABCD vuông ở A và D, D=2a. Trên đường thẳng vuông góc với (ABCD) tại D  lấy điểm S vớiSD=a2. Tính khỏang cách giữa đường thẳng DC và (SAB).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình lăng trụ tứ giác đều ABCD.A′B′C′D′ có cạnh đáy bằng aa. Gọi M, N, P lần lượt là trung điểm của AB, BC, A′B′. Tính khoảng cách giữa hai mặt phẳng (MNP) và (ACC′).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a24",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác ABC.A′B′C′ có các cạnh bên hợp với đáy những góc bằng 600, đáy ABC là tam giác đều cạnh aa và A′ cách đều A, B, C. Tính khoảng cách giữa hai đáy của hình lăng trụ.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2a3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Cho hình thang vuông ABCD vuông ở A và D, AD=2a. Trên đường thẳng vuông góc với (ABCD) tại D  lấy điểm S với SD=a2. Tính khỏang cách giữa đường thẳng DC và (SAB).",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Cho hình lăng trụ ABC.A′B′C′ có tất cả các cạnh đều bằng a. Hình chiếu H của A trên mặt phẳng (A'B'C') thuộc cạnh B′C′. Biết khoảng cách giữa hai mặt phẳng đáy là a2. Tìm vị trí của H trên B′C′.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. HB'=12HC'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. HB'=12B'C'",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. HC'=12HB'",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. HB'=C'B'",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ có cạnh bằng a. Khoảng cách giữa hai mặt phẳng (ACD′) và (BA′C′) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. khoảng cách từ điểm D′ đến đường thẳng A′C′.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. khoảng cách giữa hai điểm B và D′.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. khoảng cách giữa hai đường thẳng AC và A′C′.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. khoảng cách giữa trọng tâm của hai tam giác ACD′ và BA′C′.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho hình chóp O.ABC có đường cao OH=2a3. Gọi M và N lần lượt là trung điểm của OA và OB. Khoảng cách giữa đường thẳng MN và (ABC) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Cho hình chóp tứ giác đều S.ABCD có AB=SA=2a.Khoảng cách từ đường thẳng AB đến (SCD) bằng bao nhiêu?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a62.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a63.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. a2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′ cạnh a. Khoảng cách giữa (AB′C) và (A′DC′) bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a33",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Cho hình hộp chữ nhật ABCD.A′B′C′D′ có AB=4,AD=3.Mặt phẳng (ACD′) tạo với mặt đáy một góc 600. Tính khoảng cách giữa hai mặt đáy của hình hộp.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 635",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1235",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 435",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 533",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Cho hình lập phương ABCD.A′B′C′D′có cạnh bằng a. Khi đó, khoảng cách giữa đường thẳng BD và mặt phẳng (CB′D′) bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. a22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. a33",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. a63",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

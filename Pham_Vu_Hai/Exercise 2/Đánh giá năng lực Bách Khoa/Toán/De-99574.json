@@ -1,0 +1,212 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/bai-toan-tong-hop-ve-khoi-da-dien-khoi-tron-xoay/99574/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Cho một khối trụ có chiều cao bằng 8cm, bán kính đường tròn đáy bằng 6cm. Cắt khối trụ bởi một mặt phẳng song song với trục và cách trục 4cm. Diện tích của thiết diện được tạo thành là :",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 323cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 163cm2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 325cm2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 165cm2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nTa có mặt phẳng A'AB//O'O\nKẻ A'B'//AB ⇒ thiết diện tạo thành là hình chữ nhật ABB′A′\nKẻ OH⊥AB,OH⊥A'A⇒OH⊥A'AB\n⇒dO'O,A'AB=dO,A'ABB'=OH=4\nMà AH=OA2−OH2=25⇒AB=45⇒SABB'A'=325Đáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Cho hình lăng trụ đứng có đáy là tam giác với độ dài cạnh đáy lần lượt 5cm,13cm,12cm. Một hình trụ có chiều cao bằng 8cm  ngoại tiếp lăng trụ đã cho có thể tích bằng",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=338πcm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. V=386πcm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. V=507πcm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=338cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐáy là tam giác với độ dài cạnh đáy lần lượt là 5cm;12cm;13cm nên đáy là tam giác vuông với độ dài cạnh huyền là 13cm. Suy ra hình trụ ngoại tiếp hình lăng trụ đứng có đáy là đường tròn bán kính là 132cm\nVậy thể tích hình trụ đó là V=π1322.8=338π(cm3)\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Cho hình lăng trụ tam giác đều ABC.A′B′C′ có độ dài cạnh đáy bằng a và chiều cao bằng h. Tính thể tích V của khối trụ ngoại tiếp lăng trụ đã cho.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. V=πa2h9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. V=πa2h3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. V=3πa2h",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. V=πa2h27",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nKhối trụ ngoại tiếp lăng trụ tam giác đều có hình tròn đáy là hình tròn ngoại tiếp tam giác đáy của lăng trụ, và chiều cao bằng chiều cao lăng trụ.\nTam giác đều cạnh a có bán kính đường tròn ngoại tiếp bằng 3a3\n Vậy thể tích của khối trụ cần tìm là V=h.S=h.π.3a32=πa2h3 (đvtt).\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho hình hộp chữ nhật ABCD.A'B'C'D'  có AB=a, AD=2a và AA'=2a. Tính bán kính R của mặt cầu ngoại tiếp tứ diện ABB′C′.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. R=3a",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. R=3a4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. R=3a2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. R=2a",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nMặt cầu ngoại tiếp tứ diện ABB′C′ cũng là mặt cầu ngoại tiếp hình hộp chữ nhật ABCD.A′B′C′D′\nDo đó bán kính là R=12a2+2a2+2a2=3a2\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Cho hình chóp S.ABC có SA⊥(ABC); SA=a  đáy ABC là tam giác vuông tại B, BAC^=600 và AB=a2. Gọi (S) là mặt cầu ngoại tiếp hình chóp S.ABC. Tìm mệnh đề sai.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Diện tích của (S) là 2πa23.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.Tâm của (S) là trung điểm SC.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.(S) có bán kính a22.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.Thể tích khối cầu là 2πa33",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\nGọi N,M lần lượt là trung điểm của AC;SC.\nABC là tam giác vuông tạiB,BAC^=60o và AB=a2  nên NA=NB=NC\nAC=a⇒SC=a2⇒MC=a22\nNM là đường trung bình của tam giác SAC nên\nNM//SA⇒NM⊥ABC ⇒  MS=MC=MA=MB\n⇒M là tâm của (S) có bán kính MC=a22\n⇒VS=43πa223=2πa33\nDiện tích của S: S=4πr2=4πa222=2πa2.\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một hình nón có thiết diện qua trục là tam giác đều cạnh a. Tính bán kính mặt cầu ngoại tiếp hình nón theo a.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2a3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2a33",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. a3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nTa có đường cao hình nón h=a32⇒R=23h=a33\n\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Một cái cột có hình dạng như hình bên (gồm một khối nón và một khối trụ ghép lại). Chiều cao đo được ghi trên hình, chu vi đáy là 203πcm. Thể tích của cột bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 13 000π  cm3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5000π  cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 15 000π  cm3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 52000π  cm3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Ca (Canxi) có cấu trúc lập phương tâm diện, mỗi nguyên tử Ca có dạng hình cầu bán kính R. Một ô cơ sở của mạng tinh thể Ca là một hình lập phương có cạnh bằng a, mỗi mặt của hình lập phương chứa 12 nguyên tử Ca và mỗi góc chứa 18 nguyên tử Ca khác (Hình a, b)",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.68%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.74%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.72%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.54%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho khối trụ có hai đáy là hình tròn (O;R) và (O′;R), OO'=4R. Trên đường tròn tâm O lấy (O) lấy hai điểm A,B sao cho AB=R3. Mặt phẳng (P) đi qua A,B cắt OO′ và tạo với đáy một góc bằng 600. (P) cắt khối trụ theo thiết diện là một phần của elip. Diện tích thiết diện đó bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4π3−32R2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2π3+34R2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 4π3+32R2",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 2π3−34R2",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

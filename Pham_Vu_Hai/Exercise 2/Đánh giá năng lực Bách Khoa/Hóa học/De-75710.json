@@ -1,0 +1,672 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/phan-ung-trao-doi-ion-trong-dung-dich-1/75710/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Dãy gồm các chất có thể cùng tồn tại trong một dung dịch:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. H2SO4, Na2CO3, BaCl2, Na2SO4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.H2SO4, HCl, NaCl, NaNO3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. Ba(OH)2, NaNO3, Na2CO3, BaCl2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaOH, NaNO3, Na2CO3, HCl",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy gồm các chất có thể cùng tồn tại trong 1 dung dịch là các chất không phản ứng được với nhauA sai vì BaCl2 có thể tác dụng với Na2SO4; Na2CO3 có thể tác dụng với H2SO4C sai vì Na2CO3 có thể tác dụng với BaCl2D sai vì HCl có thể tác dụng với NaOH và Na2CO3Đáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Trong một dung dịch có thể cùng tồn tại các ion sau:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[NH_4^ + ,N{a^ + },C{l^ - },SO_4^{2 - }\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. \\[NH_4^ + ,N{a^ + },C{l^ - },O{H^ - }\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. \\[NO_3^ - ,F{e^{2 + }},C{l^ - },{H^ + }\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[B{a^{2 + }},N{a^ + },C{l^ - },SO_4^{2 - }\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Các ion có thể cùng tồn tại với nhau trong dung dịch thì không phản ứng với nhauB sai vì:  NH4+ + OH- → NH3 + H2OC sai vì:  3Fe2+ + NO3- + 4H+ → 3Fe3+ + NO + 2H2OD sai vì Ba2+ + SO42- → BaSO4Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Dãy gồm các ion không thể cùng tồn tại trong một dung dịch là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. \\[N{a^ + },M{g^{2 + }},NO_3^ - ,SO_4^{2 - }\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. \\[N{a^ + },{K^ + },HSO_4^ - ,O{H^ - }\\]",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. \\[B{a^{2 + }},A{l^{3 + }},NO_3^ - ,C{l^ - }\\]",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. \\[F{e^{3 + }},C{u^ + },SO_4^{2 - },C{l^ - }\\]",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:Dãy gồm các ion không thể cùng tồn tại trong một dung dịch là:\\[N{a^ + },{K^ + },HSO_4^ - ,O{H^ - }\\]Vì: HSO4- + OH- → SO42- + H2OĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Cho các phản ứng hoá học sau:(1) (NH4)2SO4 + BaCl2                 (2) CuSO4 + Ba(NO3)2 (3) Na2SO4 + BaCl2                            (4) H2SO4 + BaSO3(5) (NH4)2SO4 + Ba(OH)2                   (6) Fe2(SO4)3 + Ba(NO3)2 Các phản ứng đều có cùng phương trình ion rút gọn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. (1), (2), (3), (6).",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. (1), (3), (5), (6).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. (2), (3), (4), (6).",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. (3), (4), (5), (6).",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:(1) SO42- + Ba2+ → BaSO4                              (2) SO42- + Ba2+ → BaSO4                              (3) SO42- + Ba2+ → BaSO4     (4) 2H+ + SO42- + BaSO3 → BaSO4 + SO2 + H2O (5) 2NH4+ + SO42- + Ba2+ + OH- → BaSO4 + NH3 + H2O                      (6) SO42- + Ba2+ → BaSO4     =>Các phản ứng có cùng phương trình ion rút gọn là: (1), (2), (3), (6).Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Ion \\[CO_3^{2 - }\\]cùng tồn tại với các ion sau trong một dung dịch:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. NH4+, Na+, K+.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Cu2+, Mg2+, Al3+.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Fe2+, Zn2+, Al3+ .",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Fe3+, HSO4-",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:\nĐáp án B:\n\n\nĐáp án C:\n\n\n\nĐáp án D:\n\n\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong các cặp chất cho dưới đây, cặp chất nào có thể cùng tồn tại trong một dung dịch?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. AlCl3 và CuSO4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. NH3 và AgNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Na2ZnO2 và HCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. NaHSO4 và NaHCO3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nTrả lời:B. AgNO3 + H2O + 3NH3 → NH4NO3 + (Ag(NH3)2)OHC. Na2ZnO2 + 2HCl → 2NaCl + Zn(OH)2Nếu HCl dư : Zn(OH)2 + 2HCl → ZnCl2 + 2H2OD. NaHCO3 + NaHSO4 → H2O + Na2SO4 + CO2Đáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Trong các dung dịch: HNO3, NaCl, Na2SO4, Ca(OH)2, KHSO4, Mg(NO3)2, có bao nhiêu chất tác dụng được với dung dịch Ba(HCO3)2?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Trộn các cặp dung dịch các chất sau với nhau:1) NaHSO4 + NaHSO3                                   2) Na3PO4 + K2SO4  3) AgNO3 + Fe(NO3)2                                   4) C6H5ONa + H2O    5) CuS + HNO3                                            6) BaHPO4 + H3PO4    7) NH4Cl + NaNO2 (đun nóng)                       8) Ca(HCO3)2 + NaOH 9) NaOH + Al(OH)3                                      10) MgSO4 + HCl.  Số phản ứng xảy ra là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 8",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Cho dãy các chất: H2SO4,KOH, Ca(NO3)2, SO3, NaHSO4, Na2SO3, K2SO4. Số chất trong dãy tạo thành kết tủa khi phản ứng với dung dịch BaCl2 là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 5",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Phương trình phân tử: BaHPO4 + H2SO4 →BaSO4 ↓+ H3PO4 tương ứng với phương trình ion thu gọn nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Dung dịch nào sau đây không tác dụng với dung dịch HCl loãng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. KNO3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. AgNO3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Na2CO3.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Một dung dịch chứa x mol Na+, y mol Ca2+, z mol HCO3-, t mol Cl-. Hệ thức quan hệ giữa x, y , z, t được xác định là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. x + 2z = y + 2t.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. z + 2x = y + t.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. x + 2y = z + 2t.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. x + 2y = z + t.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Thể tích (ml) của dung dịch NaOH 0,3M cần để trung hòa 3 lít dung dịch HCl 0,01M là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.10",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 100",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cặp chất nào sau đây tác dụng với nhau tạo ra sản phẩm đều là chất khí?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. C và CuO",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. CO2 và NaOH.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. CO và Fe2O3.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. C và H2O.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Cho dung dịch KOH 1 M tới dư vào dung dịch X sau phản ứng thu được kết tủa. Dung dịch X có thể chứa đồng thời các chất",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. Al2(SO4)3 và ZnSO4.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. Al2(SO4)3 và NaCl.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. Al2(SO4)3 và CuSO4.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. ZnSO4 và Na2SO4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Thực hiện các thí nghiệm sau:(a) Cho dung dịch Ba(HCO3)2 vào dung dịch NaHSO4.(b) Cho Na vào dung dịch FeCl2 dư.(c) Cho dung dịch (NH4)2SO4 vào dung dịch Ba(OH)2.(d) Sục khí CO2 dư vào dung dịch hỗn hợp NaOH và Ba(OH)2.(e) Cho dung dịch AgNO3 vào dung dịch Fe(NO3)2.Sau khi các phản ứng kết thúc, số thí nghiệm thu được cả kết tủa và khí là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 3.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Các dung dịch riêng biệt: Na2CO3, BaCl2, MgCl2, H2SO4, NaOH được đánh số ngẫu nhiên (1), (2), (3), (4), (5). Tiến hành một số thí nghiệm, kết quả được ghi lại trong bảng sau:Các dung dịch (1), (3), (5) lần lượt là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.  H2SO4, NaOH, MgCl2.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. Na2CO3, NaOH, BaCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.  H2SO4, MgCl2, BaCl2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Na2CO3, BaCl2, BaCl2.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Hỗn hợp X gồm Na và Ba có tỉ lệ mol 1 : 1. Hòa tan một lượng X vào nước được 3,36 lít H2 (đktc) và dung dịch Y. Cho 4,48 lít CO2 hấp thụ hết vào dung dịch Y thì thu được m gam kết tủa. Giá trị của m là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,97 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 39,4 gam.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 19,7 gam.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 3,94 gam.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Nhỏ từ từ 0,125 lít dung dịch Ba(OH)2 1M vào dung dịch gồm 0,024 mol FeCl3; 0,016 mol Al2(SO4)3 và 0,04 mol H2SO4 thu được m gam kết tủa. Tính giá trị m?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 5,064",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 20,504",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 25,412",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 4,908",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Cho 7,65 gam hỗn hợp Al và Mg tan hoàn toàn trong 500 ml dung dịch HCl 1,04M và H2SO4 0,28M, thu được dung dịch X và khí H2. Cho 850 ml dung dịch NaOH 1M vào X, sau khi các phản ứng xảy ra hoàn toàn thu được 16,5 gam kết tủa gồm 2 chất. Mặt khác cho từ từ dung dịch hỗn hợp KOH 0,8M và Ba(OH)2 0,1M vào X đến khi thu được lượng kết tủa lớn nhất, lọc kết tủa đem nung đến khối lượng không đổi, thu được m gam chất rắn. Giá trị của m gần nhất với giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 32,3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 38,6",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 46,3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 27,4",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Dung dịch X gồm 0,25 mol Ba2+; 1,3 mol Na+; a mol OH- và b mol Cl-. Cho 400 ml dung dịch Y gồm H2SO4 0,25M; HCl 0,25M và ZnSO4 1M vào dung dịch X. Sau khi các phản ứng kết thúc, thu được kết tủa G. Nung toàn bộ G đến khối lượng không đổi thu được 69,59 gam chất rắn H. Giá trị của b là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,58 hoặc 1,62",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,52 hoặc 0,48",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,18 hoặc 0,58",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,18 hoặc 1,22",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 22:",
+            "Câu hỏi": "Dung dịch X gồm NaOH 0,2M và Ba(OH)2 0,05M. Dung dịch Y gồm Al2(SO4)3 0,4M và H2SO4 xM. Trộn 0,1 lít dung dịch Y với 1 lít dung dịch X thu được 16,33 gam kết tủa. Giá trị của x là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,2M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,2M; 0,6M",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C. 0,2M, 0,4M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,2M, 0,5M",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 23:",
+            "Câu hỏi": "Dung dịch X chứa các cation gồm Mg2+, Ba2+, Ca2+ và các anion gồm Cl- và NO3-. Thêm từ từ 250 ml dung dịch Na2CO3 1M vào dung dịch X thì thu được lượng kết tủa lớn nhất. Tổng số mol các anion có trong dung dịch X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,25.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,75.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,5.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 24:",
+            "Câu hỏi": "Dung dịch X được tạo ra từ 2 muối chứa đồng thời các ion: Al3+, Fe2+, Cl-, SO42-. Cho dung dịch BaCl2 dư vào dung dịch chứa 200 ml dung dịch X thu được 13,98 gam kết tủa. Mặt khác, cho dung dịch Ba(OH)2 đến dư vào 200 ml dung dịch X thu được 21,18 gam kết tủa. Nồng độ mol/l của Cl- là?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,16M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,4M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,12M",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,8M",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 25:",
+            "Câu hỏi": "Cho hỗn hợp X gồm x mol FeS2 và 0,025 mol Cu2S tác dụng vừa đủ với HNO3 loãng, đun nóng thu được dung dịch chỉ chứa muối sunfat của các kim loại và giải phóng khí NO duy nhất. Giá trị của x là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,045",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 0,075",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,050",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 0,025",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 26:",
+            "Câu hỏi": "Chia hỗn hợp X gồm 2 kim loại có hóa trị không đổi thành 2 phần bằng nhau.Phần 1: Hòa tan hoàn toàn bằng dung dịch HCl dư thu được 1,792 lít H2 (đktc).Phần 2: Nung trong không khí dư, thu được 2,84 gam hỗn hợp rắn chỉ gồm các oxit.Khối lượng hỗn hợp X là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,56 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 2,40 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,80 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 3,12 gam",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 27:",
+            "Câu hỏi": "Hoà tan hoàn toàn 16 gam hỗn hợp X gồm Mg và Fe bằng dung dịch HCl 3M. Kết thúc thí nghiệm thu được dung dịch Y và  8,96 lít khí H2 (đktc). Để kết tủa phản ứng hoàn toàn với dung dịch Y cần vừa đủ 300 ml NaOH 2M. Thể tích dung dịch HCl đã dùng là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 0,20 lít",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 0,24 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 0,30 lít",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 0,40 lít",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 28:",
+            "Câu hỏi": "Trộn dung dịch chứa Ba2+ ; OH− 0,06 mol và Na+ 0,02 mol với dung dịch HCO3− 0,04 mol; CO32− 0,03 mol và Na+. Khối lượng kết tủa thu được sau khi trộn là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 3,94 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 5,91 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 7,88 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 1,71 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 29:",
+            "Câu hỏi": "Dung dịch X chứa 0,025 mol CO32-; 0,1 mol Na+ ; 0,25 mol NH4+ và  0,3 mol Cl−. Cho 270 ml dung dịch Ba(OH)2 0,2 M vào và đun nhẹ (giả sử H2O  bay hơi không đáng kể).Tổng khối lượng dung dịch X và dung dịch Ba(OH)2 sau quá trình phản ứng giảm đi là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 4,215 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 5,296 gam",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 6,761 gam",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 7,015 gam",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

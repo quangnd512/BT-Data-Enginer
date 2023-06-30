@@ -1,0 +1,488 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/cac-dang-vo-dinh/95151/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Tính limx→−1x2−x+7 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.7",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→−1x2−x+7=(−1)2−(−1)+7=9.\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Tính limx→−23x2−3x−8 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.5",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.9",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.10",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→−23x2−3x−8=3.(−2)2−3.(−2)−8=12+6−8=10.\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Tính limx→2x4+3x−12x2−1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.3",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.-3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→2x4+3x−12x2−1=24+3.2−12.22−1=16+6−18−1=3.\n\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Tính limx→−∞3x2−2x−1x2+1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-3",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.-2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.2",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→−∞3x2−2x−1x2+1=limx→−∞3−2x−1x21+1x2=31=3.\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Tính limx→3+x−33x−9 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.13",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.Không tồn tại",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→3+x−33x−9=limx→3+x−33x−9=limx→3+13=13.\n\nĐáp án cần chọn là: C"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Trong các mệnh đề sau đâu là mệnh đề đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.limx→−1x2+3x+2x+1=−1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.limx→−1x2+3x+2x+1=0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.limx→−1x2+3x+2x+1=1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. Không tồn tại limx→−1x2+3x+2x+1",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nlimx→−1+x2+3x+2x+1=limx→−1+(x+1)(x+2)x+1limx→−1+(x+2)=−1+2=1\nlimx→−1−x2+3x+2x+1=limx→−1−(x+1)(x+2)−(x+1)=limx→−1−[−(x+2)]=−(−1+2)=−1\nlimx→−1+x2+3x+2x+1≠limx→−1−x2+3x+2x+1\n\nSuy ra, không tồn tại limx→−1x2+3x+2x+1.\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Tính limx→3x2−4x+3x2−9 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.15",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.25",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.13",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Tính limx→−1x2+6x+5x3+2x2−1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.4",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.6",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.-4",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.-6",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Tính limx→2x3−6x2+11x−6x2−4 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.-14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.-13",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 10:",
+            "Câu hỏi": "Tính limx→3x+1−23x−3 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.23",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 11:",
+            "Câu hỏi": "Tính limx→2x−x+24x+1−3 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.98",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.34",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 12:",
+            "Câu hỏi": "Tính limx→01−x+133x bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.13",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−19",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 13:",
+            "Câu hỏi": "Giới hạn  limx→−∞x2+3x+54x−1.",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.14",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.-14",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 14:",
+            "Câu hỏi": "Cho a,b là các số nguyên và limx→1ax2+bx−5x−1=20. Tính P=a2+b2−a−b",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.400",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.225",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.320",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.325",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 15:",
+            "Câu hỏi": "Tính limx→−∞(x−1)x22x4+x2+1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−22",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.22",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−12",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 16:",
+            "Câu hỏi": "Tính limx→+∞x2+x+3−x bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 17:",
+            "Câu hỏi": "Tính limx→−∞x2+1+x−1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-1",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.1",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 18:",
+            "Câu hỏi": "Cho hàm số f(x)=x2+2x+4−x2−2x+4. Khẳng định nào sau đây là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Giới hạn của f(x) khi x→+∞ là 0.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Giới hạn của f(x) khi x→−∞ là 2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.Giới hạn của f(x) khi x→+∞ là −2.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.limx→+∞f(x)=−limx→−∞f(x)",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 19:",
+            "Câu hỏi": "Tính limx→−∞x3+13+x−1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.-1",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.0",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.12",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.−∞",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 20:",
+            "Câu hỏi": "Tính limx→−∞x3x+22x3+x2−1 bằng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.−32.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.32.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.-32",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 21:",
+            "Câu hỏi": "Tính limx→01+2x.1+3x3.1+4x4−1x",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.232",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.24",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.32",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.3",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}

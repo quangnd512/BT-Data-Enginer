@@ -1,0 +1,212 @@
+{
+    "url": "https://khoahoc.vietjack.com/thi-online/tinh-chat-va-cau-tao-hat-nhan1/98674/thi",
+    "questions": [
+        {
+            "Câu số": "Câu 1:",
+            "Câu hỏi": "Kí hiệu của một nguyên tử là ZAX phát biểu nào sau đây sai:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.Z bằng số electron có trong nguyên tử.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.Z là số proton có trong hạt nhân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.A là số nuclon có trong hạt nhân.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.A là số khối bằng tổng số proton và electron.",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCTCT nguyên tử X: ZAX\n\nX: tên nguyên tử\nZ: số hiệu nguyên tử (là vị trí của hạt nhân trong bảng tuần hoàn hóa học)\nSố hạt proton = số hạt electron = số Z\nA: số khối = số proton + số nơtron\n\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 2:",
+            "Câu hỏi": "Hạt nhân nguyên tử chì có 82 prôtôn và 125 nơtrôn. Hạt nhân nguyên tử này có kí hiệu là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 82207Pb",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 82125Pb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 12582Pb",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 20782Pb",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nCTCT nguyên tử X: ZAX\nTa có: Z=82,N=125\n⇒A=Z+N=207\n=> X là 82207Pb\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 3:",
+            "Câu hỏi": "Hạt nhân 2760Co có cấu tạo gồm:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.33 proton và 27 nơtron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.27 proton và 33 nơtron",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.27 proton, 33 nơtron và 27 electron",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.27 proton, 33 nơtron và 33 electron",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\nZAX\n\nSố hạt proton = số hạt electron = số Z =27\nA = số proton + số nơtron = Z + N =  60 => N = 60 - 27 = 33\n\n=> Co có cấu tạo gồm 27 proton, 33 nơtron và 27 electron\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 4:",
+            "Câu hỏi": "Biết  NA = 6,02.1023 mol-1. Trong 59,50 g 92238U  có số nơtron xấp xỉ là:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.2,38.1023",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.2,20.1025",
+                    "is_correct": true
+                },
+                {
+                    "answer": "C.1,19.1025",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.9,21.1024",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n1 nguyên tử U có: 238 – 92 = 146 notron\nSố nguyên tử  trong 59,50g U là: N = m.NA/A = 59,50.6,02.1023/238 = 1,505.1023\n Số notron trong 59,50g U là: 146N = 2,20.1025\nĐáp án cần chọn là: B"
+        },
+        {
+            "Câu số": "Câu 5:",
+            "Câu hỏi": "Định nghĩa nào sau đây là về đơn vị khối lượng nguyên tử u là đúng?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.u bằng khối lượng của một nguyên tử 11H",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B.u bằng khối lượng của hạt nhân nguyên tử cacbon 612C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.u bằng 1/12 khối lượng của hạt nhân nguyên tử cacbon 612C",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.u bằng 1/12 khối lượng một nguyên tử 612C",
+                    "is_correct": true
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nĐơn vị của khối lượng hạt nhân: u\nĐơn vị u có giá trị bằng 112  khối lượng nguyên tử của đồng vị 612C; cụ thể\n1u=112mC=1,66055.10−27kg\nĐáp án cần chọn là: D"
+        },
+        {
+            "Câu số": "Câu 6:",
+            "Câu hỏi": "Một vật có khối lượng nghỉ 5kg chuyển động với tốc độ v=0,6c  ( với c=3.108m/s là tốc độ ánh sáng trong chân không). Theo thuyết tương đối, động năng của vật bằng:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 1,125.1017J",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B. 12,7.1017J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 9.1016J",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D. 2,25.1017J",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\nKhối lượng tương đối tính của vật là\nm=m01−v2c2=51−0,6cc2=6,25kg\nĐộng năng của vật là\nWd=E−E0=m−m0c2=1,25.3.1082=1,125.1017J\nĐáp án cần chọn là: A"
+        },
+        {
+            "Câu số": "Câu 7:",
+            "Câu hỏi": "Hạt electron có khối lượng 5,486.10−4u. Biết 1uc2=931,5MeV. Để electron có năng lượng toàn phần 0,591MeV thì electron phải chuyển động với tốc độ gần nhất giá trị nào sau đây?",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A. 2,4.108m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "B. 1,2.108m/s",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C. 1,5.108m/s",
+                    "is_correct": true
+                },
+                {
+                    "answer": "D. 1,8.108m/s",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 8:",
+            "Câu hỏi": "Số prôtôn có trong hạt nhân 86222Rn là",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.86.",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.308.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.222.",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.136.",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        },
+        {
+            "Câu số": "Câu 9:",
+            "Câu hỏi": "Nitơ tự nhiên có  khối lượng nguyên tử là 14,0067u gồm 2 đồng vị  N14 và N15 có khối lượng nguyên tử lần lượt là 14,00307u và 15,00011u. Phần trăm của N15 trong nito tự nhiên:",
+            "Danh sách đáp án": [
+                {
+                    "answer": "A.0,36%",
+                    "is_correct": true
+                },
+                {
+                    "answer": "B.0,59%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "C.0,43%",
+                    "is_correct": false
+                },
+                {
+                    "answer": "D.0,68%",
+                    "is_correct": false
+                }
+            ],
+            "Giải thích": "Giải Thích\n\n\n\n\n                                                Bạn cần phải đăng ký gói VIP (giá chỉ 200k/1 năm học) để được làm tất cả câu hỏi hay nhất, xem không giới hạn lời giải thích chi tiết.\n                                            \n\nNâng cấp VIP"
+        }
+    ]
+}
